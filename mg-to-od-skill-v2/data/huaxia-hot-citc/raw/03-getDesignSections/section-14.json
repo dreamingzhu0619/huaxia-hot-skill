@@ -1,0 +1,58 @@
+{
+  "sectionIndex": 14,
+  "section": {
+    "id": "0:177",
+    "name": "资料来源：华泰研究。",
+    "type": "TEXT"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:675": {
+        "value": {
+          "family": "MiSans-Regular",
+          "size": 26,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "26",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "400"
+        }
+      },
+      "paint_0:677": {
+        "value": [
+          "#AA785D"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:177",
+        "name": "资料来源：华泰研究。",
+        "layoutStyle": {
+          "width": 265,
+          "height": 26,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "资料来源：华泰研究。",
+            "font": "font_0:675"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 10,
+            "color": "paint_0:677"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

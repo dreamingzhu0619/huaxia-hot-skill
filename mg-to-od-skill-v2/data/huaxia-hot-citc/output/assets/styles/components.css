@@ -1,0 +1,311 @@
+/* ========================================
+   共享内容样式（role → class）
+   ======================================== */
+.content-frame-title {
+  white-space: nowrap;  /* 来源模块: hero, productCard, recommendations */
+}
+.content-section-title {
+  font-family: "MiSans-Bold", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 19px;
+  line-height: 19px;
+  font-weight: 700;
+  color: #FFFFFF;
+  text-align: center;
+  white-space: nowrap;  /* 来源模块: recommendations */
+}
+.content-body {
+  white-space: nowrap;
+  font-family: "MiSans-Regular", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;  /* 来源模块: hotspotExpress, recommendations, riskDisclosure */
+}
+.content-source {
+  font-size: 9px;
+  white-space: nowrap;
+  line-height: 9px;
+  font-family: "MiSans-Regular", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  letter-spacing: 1.8%;
+  color: #AA785D;  /* 来源模块: hotspotExpress, recommendations */
+}
+.content-generic {
+  text-align: center;
+  font-size: 11px;
+  white-space: nowrap;
+  line-height: 10px;
+  font-family: "MiSans-Regular", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  letter-spacing: 3.6%;
+  color: #AC703F;
+}
+
+/* ========================================
+   模块专属样式（壳 + 固定组件）
+   ======================================== */
+/* 背景图 */
+.background__颜色填充-1 {
+  background: #FFDFAC;
+}
+/* 营销头图 */
+.hero .module-content {
+  padding-top: 72px;
+  padding-bottom: 172px;
+  padding-left: 18px;
+  padding-right: 77px;
+}
+.hero__图层-745 {
+  background: url("https://image-resource.mastergo.com/158384864891941/158384864891947/2de80d3ff7b1244b6c373ce91bb5e7dc.png");
+}
+.hero__图层-586 {
+  background: url("https://image-resource.mastergo.com/158384864891941/158384864891947/7a8ec3998fc026012693d6b0a856e90e.png");
+}
+
+.hero .content-frame-title {
+  font-family: "MiSans-Bold", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 29px;
+  line-height: 28px;
+  letter-spacing: -2.2%;
+  font-weight: 700;
+  color: #DFD3B1;
+  white-space: nowrap;
+}
+/* 热点速递 */
+.hotspot-express .module-content {
+  padding-top: 8px;
+  padding-bottom: 13px;
+  padding-left: 16px;
+  padding-right: 20px;
+}
+.hotspot-express__矩形-153-拷贝 {
+  background: linear-gradient(90deg, #FCCC89 -25%, #FCCC89 -23%, #EB8F2C 125%);
+  border-radius: 8px;
+}
+.hotspot-express__矩形-153-拷贝-3 {
+  background: linear-gradient(6deg, #FFFFFF -13%, #FFFFFF 91%, #F9DFC1 100%, #F3BF83 113%);
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.3412);
+}
+.hotspot-express__形状-5 {
+  background: #FFFDFA;
+  opacity: 0.8299999833106995;
+}
+.hotspot-express__热点速递-标签 {
+  background: linear-gradient(268deg, #FF371D -24%, #FF371D -22%, #FF7A2A 47%, #FFBC37 95%, #FFBC37 124%);
+  box-shadow: 0.0px 1.67px 3.0px 0.0px rgba(255, 72, 72, 0.251);
+  opacity: 0.3199999928474426;
+}
+.hotspot-express__热点速递-标签__text {
+  font-family: "MiSans-Semibold", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 15px;
+  line-height: 15px;
+  font-weight: 600;
+  color: #FFFFFF;
+  white-space: nowrap;
+}
+
+.hotspot-express .content-body {
+  font-family: "MiSans-Regular", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 13px;
+  line-height: 19px;
+  letter-spacing: 5.0%;
+  color: #6D2807;
+  white-space: nowrap;
+}
+.hotspot-express .content-source {
+  font-family: "MiSans-Regular", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 9px;
+  line-height: 9px;
+  letter-spacing: 1.8%;
+  color: #AA785D;
+  white-space: nowrap;
+}
+/* 产品卡 */
+.product-card .module-content {
+  padding-top: 24px;
+  padding-bottom: 95px;
+  padding-left: 21px;
+  padding-right: 22px;
+}
+.product-card__矩形-23-拷贝-14 {
+  background: linear-gradient(90deg, #FCCC89 -25%, #FCCC89 -23%, #EB8F2C 125%);
+  border-radius: 11px;
+}
+.product-card__矩形-23-拷贝-15 {
+  background: linear-gradient(180deg, #FFF9F3 -25%, #FFF9F3 -24%, #FFFCF9 -5%, #FFFFFF 17%, #FFFFFF 58%, #FFFFFF 125%);
+  border-radius: 11px;
+  border: 1px solid #E4973D;
+}
+.product-card__按钮 {
+  background: linear-gradient(0deg, #FF0100 -25%, #FF0100 -23%, #FF2C27 47%, #FF564E 95%, #FF564E 125%);
+  border-radius: 18px;
+}
+.product-card__按钮__text {
+  font-family: "AlibabaPuHuiTi_2_95_ExtraBold", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 19px;
+  line-height: 19px;
+  letter-spacing: -2.2%;
+  font-weight: 800;
+  color: #FFFFFF;
+  text-align: center;
+  white-space: nowrap;
+}
+.product-card__代码 {
+  background: #FFEEDB;
+  border-radius: 2px;
+  border: 1px solid #DFB38E;
+}
+.product-card__风险等级 {
+  background: #FFEEDB;
+  border-radius: 2px;
+  border: 1px solid #E3BC9B;
+}
+.product-card__近一年涨跌幅__text {
+  font-family: "SourceHanSansCN-Revision", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 10px;
+  color: #3D3D3D;
+  white-space: nowrap;
+}
+
+.product-card .content-frame-title {
+  font-family: "MiSans-Semibold", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 19px;
+  line-height: 19px;
+  font-weight: 600;
+  color: #6D2807;
+  text-align: center;
+  white-space: nowrap;
+}
+.product-card .content-generic {
+  text-align: center;
+  font-size: 11px;
+  white-space: nowrap;
+  line-height: 10px;
+  font-family: "MiSans-Regular", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  letter-spacing: 3.6%;
+  color: #AC703F;
+}
+/* 产品推荐理由 */
+.recommendations .module-content {
+  padding-top: 14px;
+  padding-bottom: 18px;
+  padding-left: 15px;
+  padding-right: 16px;
+}
+.recommendations__矩形-1000 {
+  background: linear-gradient(90deg, #FF4E3C -25%, #FF4E3C -23%, #FF1818 125%);
+  border-radius: 17px;
+  border: 1px solid #FFFFFF;
+}
+.recommendations__矩形-1000-拷贝-2 {
+  background: linear-gradient(90deg, #FCCC89 -25%, #FCCC89 -23%, #EB8F2C 125%);
+  border-radius: 17px;
+  border: 1px solid #FFFFFF;
+}
+.recommendations__矩形-1000-拷贝 {
+  background: #FFFFFF;
+  border-radius: 17px;
+  box-shadow: inset 1.27px 5.52px 3.33px 0.0px #FFE0E0;
+  border: 1px solid #FFFFFF;
+}
+
+.recommendations .content-frame-title {
+  font-family: "MiSans-Bold", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 19px;
+  line-height: 19px;
+  font-weight: 700;
+  color: #FFFFFF;
+  text-align: center;
+  white-space: nowrap;
+}
+.recommendations .content-section-title {
+  font-family: "MiSans-Bold", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 19px;
+  line-height: 19px;
+  font-weight: 700;
+  color: #FFFFFF;
+  text-align: center;
+  white-space: nowrap;
+}
+.recommendations .content-body {
+  font-family: "MiSans-Regular", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 13px;
+  line-height: 17px;
+  color: #6D2807;
+  white-space: nowrap;
+}
+.recommendations .content-source {
+  font-family: "MiSans-Regular", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 9px;
+  line-height: 9px;
+  letter-spacing: 1.8%;
+  color: #AA785D;
+  white-space: nowrap;
+}
+/* 风险警告 */
+.risk-disclosure__风险提示-基金非存款__text {
+  font-family: "MiSans-Regular", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 10px;
+  letter-spacing: -1.8%;
+  color: #A9582C;
+  white-space: nowrap;
+}
+.risk-disclosure__组-21 {
+  border: 1px solid #AF6E64;
+  background: #D8D8D8;
+}
+.risk-disclosure__组-2 {
+  border: 1px solid #AF6E64;
+  background: #D8D8D8;
+}
+.risk-disclosure__组-4 {
+  background: #AF6E64;
+  border: 1px solid #AF6E64;
+}
+.risk-disclosure__组-23 {
+  background: #AF6E64;
+  border: 1px solid #AF6E64;
+}
+.risk-disclosure__直线-2 {
+  background: #AF6E64;
+  border: 1px solid #A9582C;
+}
+.risk-disclosure__费用类别__text {
+  font-family: "MiSans-Regular", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 10px;
+  line-height: 9px;
+  color: #AA785D;
+  white-space: nowrap;
+}
+.risk-disclosure__收费方式-年费率__text {
+  font-family: "MiSans-Regular", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 10px;
+  line-height: 9px;
+  color: #AA785D;
+  white-space: nowrap;
+}
+.risk-disclosure__管理费__text {
+  font-family: "MiSans-Regular", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 10px;
+  line-height: 9px;
+  color: #AA785D;
+  white-space: nowrap;
+}
+.risk-disclosure__托管费__text {
+  font-family: "MiSans-Regular", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 10px;
+  line-height: 9px;
+  color: #AA785D;
+  white-space: nowrap;
+}
+.risk-disclosure__销售服务费__text {
+  font-family: "MiSans-Regular", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 10px;
+  line-height: 9px;
+  color: #AA785D;
+  white-space: nowrap;
+}
+
+.risk-disclosure .content-body {
+  font-size: 10px;
+  white-space: nowrap;
+  line-height: 9px;
+  font-family: "MiSans-Regular", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  color: #AA785D;
+}
+/* 银行结束语 */

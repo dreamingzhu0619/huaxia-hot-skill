@@ -1,0 +1,40 @@
+{
+  "sectionIndex": 72,
+  "section": {
+    "id": "0:1255",
+    "name": "路径 12备份",
+    "type": "PATH"
+  },
+  "dsl": {
+    "styles": {
+      "paint_0:634": {
+        "value": [
+          "#7A4210"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "PATH",
+        "id": "0:1255",
+        "name": "路径 12备份",
+        "layoutStyle": {
+          "width": 0.3333333432674408,
+          "height": 15.999326705932617,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "opacity": 0.6016772985458374,
+        "path": [
+          {
+            "fill": "#7A4210",
+            "data": ""
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1,
+  "svgNodeCount": 1
+}

@@ -1,0 +1,12 @@
+# Local settings
+.claude/
+
+# Sensitive config
+config/local.secret.json
+
+# Assets (images are fetched at runtime)
+huaxia-hot-cmb/assets/images/
+
+# Python
+__pycache__/
+*.pyc

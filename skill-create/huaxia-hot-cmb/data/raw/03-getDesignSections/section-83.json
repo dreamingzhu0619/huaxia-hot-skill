@@ -1,0 +1,685 @@
+{
+  "sectionIndex": 83,
+  "section": {
+    "id": "0:1368",
+    "name": "产品卡",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:747": {
+        "value": [
+          "box-shadow: inset 0px 1px 0px 0px #FFFFFF;"
+        ]
+      },
+      "effect_0:758": {
+        "value": [
+          "box-shadow: 0px 1px 0px 0px #FF800F;"
+        ]
+      },
+      "effect_0:765": {
+        "value": [
+          "filter: blur(26.73px);"
+        ]
+      },
+      "effect_0:770": {
+        "value": [
+          "filter: blur(6.64px);"
+        ]
+      },
+      "effect_0:783": {
+        "value": []
+      },
+      "effect_0:787": {
+        "value": [
+          "box-shadow: 0px 1px 2px 0px #FF4F02;"
+        ]
+      },
+      "effect_0:801": {
+        "value": [
+          "box-shadow: inset 1px -2px 5px 0px #F9C9AD;",
+          "box-shadow: inset 1px 1px 1px 0px rgba(255, 255, 255, 0.8036);",
+          "box-shadow: 1px 2px 4px 0px rgba(255, 125, 9, 0.5);"
+        ]
+      },
+      "effect_0:811": {
+        "value": [
+          "filter: blur(0.42px);"
+        ]
+      },
+      "font_0:789": {
+        "value": {
+          "family": "FZLTZHJW--GB1",
+          "size": 14,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "font_0:869": {
+        "value": {
+          "family": "FZLTZHJW--GB1",
+          "size": 17,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "font_0:883": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 10,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "paint_0:11": {
+        "value": []
+      },
+      "paint_0:121": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:738": {
+        "value": [
+          "linear-gradient(0deg, #FFFCF4 0%, #FFFAEF 100%)",
+          "linear-gradient(359deg, #FFFFFF 1%, #F0F8FF 98%)"
+        ]
+      },
+      "paint_0:743": {
+        "value": [
+          "#C7E5FF",
+          "linear-gradient(180deg, #BDE3FF 0%, rgba(255, 255, 255, 0) 100%)"
+        ]
+      },
+      "paint_0:753": {
+        "value": [
+          "linear-gradient(90deg, #FF5B00 17%, #F13816 85%)"
+        ]
+      },
+      "paint_0:755": {
+        "value": [
+          "linear-gradient(103deg, #FFFCF6 19%, #FFF0CF 81%)"
+        ]
+      },
+      "paint_0:763": {
+        "value": [
+          "#FF8F4F"
+        ]
+      },
+      "paint_0:768": {
+        "value": [
+          "#FFB297"
+        ]
+      },
+      "paint_0:773": {
+        "value": [
+          "linear-gradient(215deg, rgba(255, 255, 255, 0.7) 0%, rgba(255, 255, 255, 0) 69%)"
+        ]
+      },
+      "paint_0:776": {
+        "value": [
+          "linear-gradient(210deg, rgba(255, 255, 255, 0.8) -10%, rgba(255, 255, 255, 0) 73%)"
+        ]
+      },
+      "paint_0:779": {
+        "value": [
+          "linear-gradient(180deg, #FFFFFF -10%, rgba(255, 255, 255, 0) 56%)"
+        ]
+      },
+      "paint_0:794": {
+        "value": [
+          "rgba(255, 255, 255, 0.2979)"
+        ]
+      },
+      "paint_0:799": {
+        "value": [
+          "linear-gradient(123deg, #FEFBF5 11%, #FEECE4 59%, #FFE0CE 87%)"
+        ]
+      },
+      "paint_0:806": {
+        "value": [
+          "radial-gradient(72% 17% at 50% 50%, rgba(255, 189, 180, NaN) NaN%, rgba(255, 232, 221, NaN) 100%)"
+        ]
+      },
+      "paint_0:809": {
+        "value": [
+          "radial-gradient(65% 21% at 50% 50%, rgba(254, 189, 180, NaN) NaN%, rgba(255, 189, 180, NaN) 100%)"
+        ]
+      },
+      "paint_0:814": {
+        "value": [
+          "radial-gradient(54% 20% at 34% 50%, rgba(255, 226, 213, NaN) NaN%, rgba(255, 223, 219, NaN) 100%)"
+        ]
+      },
+      "paint_0:871": {
+        "value": [
+          "#343434"
+        ]
+      },
+      "paint_0:878": {
+        "value": [
+          "#F1F8FF"
+        ]
+      },
+      "paint_0:880": {
+        "value": [
+          "#0976FF"
+        ]
+      },
+      "paint_0:885": {
+        "value": [
+          "#2C96FF"
+        ]
+      },
+      "paint_0:888": {
+        "value": [
+          "#F1F8FF"
+        ]
+      },
+      "paint_0:891": {
+        "value": [
+          "#0976FF"
+        ]
+      },
+      "paint_0:895": {
+        "value": [
+          "#2C96FF"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1368",
+        "name": "产品卡",
+        "layoutStyle": {
+          "width": 321,
+          "height": 171,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "PATH",
+            "id": "0:1369",
+            "name": "矩形",
+            "layoutStyle": {
+              "width": 321,
+              "height": 171,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "effect": "effect_0:747",
+            "path": [
+              {
+                "fill": "linear-gradient(0deg, #FFFCF4 0%, #FFFAEF 100%)",
+                "data": ""
+              },
+              {
+                "fill": "#C7E5FF",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "FRAME",
+            "id": "0:1370",
+            "name": "大产品卡",
+            "layoutStyle": {
+              "width": 310,
+              "height": 151.9238739013672,
+              "relativeX": 6,
+              "relativeY": 18
+            },
+            "children": [
+              {
+                "type": "FRAME",
+                "id": "0:1371",
+                "name": "按钮2备份",
+                "layoutStyle": {
+                  "width": 249.42581176757812,
+                  "height": 51.92387771606445,
+                  "relativeX": 35,
+                  "relativeY": 100
+                },
+                "children": [
+                  {
+                    "type": "FRAME",
+                    "id": "0:1372",
+                    "name": "矩形 + 矩形蒙版",
+                    "layoutStyle": {
+                      "width": 241,
+                      "height": 35,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "children": [
+                      {
+                        "type": "PATH",
+                        "id": "0:1373",
+                        "name": "蒙版",
+                        "layoutStyle": {
+                          "width": 241,
+                          "height": 35,
+                          "relativeX": 0,
+                          "relativeY": 0
+                        },
+                        "mask": "outline",
+                        "effect": "effect_0:758",
+                        "path": [
+                          {
+                            "fill": "linear-gradient(90deg, #FF5B00 17%, #F13816 85%)",
+                            "data": ""
+                          },
+                          {
+                            "fill": "linear-gradient(103deg, #FFFCF6 19%, #FFF0CF 81%)",
+                            "data": ""
+                          }
+                        ]
+                      },
+                      {
+                        "type": "PATH",
+                        "id": "0:1374",
+                        "name": "椭圆形备份 3",
+                        "layoutStyle": {
+                          "width": 32.198822021484375,
+                          "height": 30.13888931274414,
+                          "relativeX": 92.07275390625,
+                          "relativeY": -10.208333015441895
+                        },
+                        "effect": "effect_0:765",
+                        "path": [
+                          {
+                            "fill": "#FF8F4F",
+                            "data": ""
+                          }
+                        ]
+                      },
+                      {
+                        "type": "PATH",
+                        "id": "0:1375",
+                        "name": "矩形备份 9",
+                        "layoutStyle": {
+                          "width": 225.29400634765625,
+                          "height": 5.460384368896484,
+                          "relativeX": 8.661771774291992,
+                          "relativeY": 1.5393518209457397
+                        },
+                        "effect": "effect_0:770",
+                        "path": [
+                          {
+                            "fill": "#FFB297",
+                            "data": ""
+                          }
+                        ]
+                      },
+                      {
+                        "type": "PATH",
+                        "id": "0:1376",
+                        "name": "矩形",
+                        "layoutStyle": {
+                          "width": 37.813961029052734,
+                          "height": 54.44444274902344,
+                          "relativeX": 178.4263458251953,
+                          "relativeY": -6.80555534362793
+                        },
+                        "opacity": 0.3089337944984436,
+                        "path": [
+                          {
+                            "fill": "linear-gradient(215deg, rgba(255, 255, 255, 0.7) 0%, rgba(255, 255, 255, 0) 69%)",
+                            "data": ""
+                          }
+                        ]
+                      },
+                      {
+                        "type": "PATH",
+                        "id": "0:1377",
+                        "name": "矩形",
+                        "layoutStyle": {
+                          "width": 42.6541862487793,
+                          "height": 54.44444274902344,
+                          "relativeX": 164.8837432861328,
+                          "relativeY": -8.75
+                        },
+                        "opacity": 0.3983379602432251,
+                        "path": [
+                          {
+                            "fill": "linear-gradient(210deg, rgba(255, 255, 255, 0.8) -10%, rgba(255, 255, 255, 0) 73%)",
+                            "data": ""
+                          }
+                        ]
+                      },
+                      {
+                        "type": "PATH",
+                        "id": "0:1378",
+                        "name": "矩形",
+                        "layoutStyle": {
+                          "width": 241,
+                          "height": 35,
+                          "relativeX": 0,
+                          "relativeY": 0
+                        },
+                        "opacity": 0.4853566586971283,
+                        "effect": "effect_0:783",
+                        "path": [
+                          {
+                            "fill": "linear-gradient(180deg, #FFFFFF -10%, rgba(255, 255, 255, 0) 56%)",
+                            "data": ""
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "TEXT",
+                    "id": "0:1379",
+                    "name": "小试一笔",
+                    "layoutStyle": {
+                      "width": 56,
+                      "height": 20,
+                      "relativeX": 92,
+                      "relativeY": 9
+                    },
+                    "effect": "effect_0:787",
+                    "text": [
+                      {
+                        "text": "小试一笔",
+                        "font": "font_0:789"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 4,
+                        "color": "paint_0:121"
+                      }
+                    ],
+                    "textAlign": "center",
+                    "textMode": "single-line"
+                  },
+                  {
+                    "type": "FRAME",
+                    "id": "0:1380",
+                    "name": "手",
+                    "layoutStyle": {
+                      "width": 39.00302505493164,
+                      "height": 32.99578857421875,
+                      "relativeX": 207.21,
+                      "relativeY": 14.96,
+                      "rotate": 13
+                    },
+                    "children": [
+                      {
+                        "type": "SVG_ELLIPSE",
+                        "id": "0:1382",
+                        "name": "椭圆形",
+                        "layoutStyle": {
+                          "width": 19.21735382080078,
+                          "height": 19.316431045532227,
+                          "relativeX": 0,
+                          "relativeY": -4.547473508864641e-13
+                        },
+                        "fill": "paint_0:794",
+                        "strokeColor": "paint_0:11",
+                        "strokeType": "solid",
+                        "strokeAlign": "inside",
+                        "strokeWidth": "0.8100000023841858px"
+                      },
+                      {
+                        "type": "SVG_ELLIPSE",
+                        "id": "0:1383",
+                        "name": "椭圆形",
+                        "layoutStyle": {
+                          "width": 12.010845184326172,
+                          "height": 12.072769165039062,
+                          "relativeX": 3.6032536029815674,
+                          "relativeY": 3.621830701828003
+                        },
+                        "fill": "paint_0:794",
+                        "strokeColor": "paint_0:11",
+                        "strokeType": "solid",
+                        "strokeAlign": "inside",
+                        "strokeWidth": "0.8100000023841858px"
+                      },
+                      {
+                        "type": "FRAME",
+                        "id": "0:1384",
+                        "name": "手",
+                        "layoutStyle": {
+                          "width": 31.228199005126953,
+                          "height": 22.53583526611328,
+                          "relativeX": 7.21,
+                          "relativeY": 9.66,
+                          "rotate": 3
+                        },
+                        "children": [
+                          {
+                            "type": "PATH",
+                            "id": "0:1385",
+                            "name": "蒙版",
+                            "layoutStyle": {
+                              "width": 31.228199005126953,
+                              "height": 22.53583526611328,
+                              "relativeX": 0,
+                              "relativeY": 0
+                            },
+                            "mask": "outline",
+                            "effect": "effect_0:801",
+                            "path": [
+                              {
+                                "fill": "linear-gradient(123deg, #FEFBF5 11%, #FEECE4 59%, #FFE0CE 87%)",
+                                "data": ""
+                              }
+                            ]
+                          },
+                          {
+                            "type": "PATH",
+                            "id": "0:1386",
+                            "name": "路径 5",
+                            "layoutStyle": {
+                              "width": 6.268691539764404,
+                              "height": 5.466902732849121,
+                              "relativeX": 13.80687427520752,
+                              "relativeY": 25.118141174316406
+                            },
+                            "path": [
+                              {
+                                "fill": "radial-gradient(72% 17% at 50% 50%, rgba(255, 189, 180, NaN) NaN%, rgba(255, 232, 221, NaN) 100%)",
+                                "data": ""
+                              }
+                            ]
+                          },
+                          {
+                            "type": "PATH",
+                            "id": "0:1387",
+                            "name": "路径 5备份",
+                            "layoutStyle": {
+                              "width": 4.635568141937256,
+                              "height": 4.2562689781188965,
+                              "relativeX": 17.80272674560547,
+                              "relativeY": 23.85841178894043
+                            },
+                            "effect": "effect_0:811",
+                            "path": [
+                              {
+                                "fill": "radial-gradient(65% 21% at 50% 50%, rgba(254, 189, 180, NaN) NaN%, rgba(255, 189, 180, NaN) 100%)",
+                                "data": ""
+                              }
+                            ]
+                          },
+                          {
+                            "type": "PATH",
+                            "id": "0:1388",
+                            "name": "路径 5备份 2",
+                            "layoutStyle": {
+                              "width": 3.921325206756592,
+                              "height": 3.240797281265259,
+                              "relativeX": 22.719297409057617,
+                              "relativeY": 22.724153518676758
+                            },
+                            "effect": "effect_0:811",
+                            "path": [
+                              {
+                                "fill": "radial-gradient(54% 20% at 34% 50%, rgba(255, 226, 213, NaN) NaN%, rgba(255, 223, 219, NaN) 100%)",
+                                "data": ""
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "TEXT",
+                "id": "0:1425",
+                "name": "华夏中证电网设备主题ETF发起式联接C",
+                "layoutStyle": {
+                  "width": 294,
+                  "height": 25,
+                  "relativeX": 8,
+                  "relativeY": 0
+                },
+                "text": [
+                  {
+                    "text": "华夏中证电网设备主题ETF发起式联接C ",
+                    "font": "font_0:869"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 20,
+                    "color": "paint_0:871"
+                  }
+                ],
+                "textAlign": "center",
+                "textMode": "single-line"
+              },
+              {
+                "type": "FRAME",
+                "id": "0:1427",
+                "name": "标签",
+                "layoutStyle": {
+                  "width": 101,
+                  "height": 15,
+                  "relativeX": 104,
+                  "relativeY": 24
+                },
+                "children": [
+                  {
+                    "type": "PATH",
+                    "id": "0:1428",
+                    "name": "矩形",
+                    "layoutStyle": {
+                      "width": 44.88971710205078,
+                      "height": 15,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "path": [
+                      {
+                        "fill": "#F1F8FF",
+                        "data": ""
+                      },
+                      {
+                        "fill": "#0976FF",
+                        "data": ""
+                      }
+                    ]
+                  },
+                  {
+                    "type": "TEXT",
+                    "id": "0:1429",
+                    "name": "025857",
+                    "layoutStyle": {
+                      "width": 35,
+                      "height": 14,
+                      "relativeX": 4,
+                      "relativeY": 2
+                    },
+                    "text": [
+                      {
+                        "text": "025857",
+                        "font": "font_0:883"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 6,
+                        "color": "paint_0:885"
+                      }
+                    ],
+                    "textAlign": "left",
+                    "textMode": "single-line"
+                  },
+                  {
+                    "type": "PATH",
+                    "id": "0:1430",
+                    "name": "矩形",
+                    "layoutStyle": {
+                      "width": 51,
+                      "height": 15,
+                      "relativeX": 50,
+                      "relativeY": 0
+                    },
+                    "path": [
+                      {
+                        "fill": "#F1F8FF",
+                        "data": ""
+                      },
+                      {
+                        "fill": "#0976FF",
+                        "data": ""
+                      }
+                    ]
+                  },
+                  {
+                    "type": "TEXT",
+                    "id": "0:1431",
+                    "name": "R5高风险",
+                    "layoutStyle": {
+                      "width": 42,
+                      "height": 14,
+                      "relativeX": 53,
+                      "relativeY": 2
+                    },
+                    "text": [
+                      {
+                        "text": "R5高风险",
+                        "font": "font_0:883"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 5,
+                        "color": "paint_0:895"
+                      }
+                    ],
+                    "textAlign": "left",
+                    "textMode": "single-line"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 26,
+  "svgNodeCount": 4
+}

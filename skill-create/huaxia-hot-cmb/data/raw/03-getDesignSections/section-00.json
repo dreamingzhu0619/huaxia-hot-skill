@@ -1,0 +1,553 @@
+{
+  "sectionIndex": 0,
+  "section": {
+    "id": "2:796",
+    "name": "头图banner",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:116": {
+        "value": []
+      },
+      "effect_0:34": {
+        "value": [
+          "box-shadow: inset 0px 0px 1px 0px rgba(255, 255, 255, 0.3256);"
+        ]
+      },
+      "effect_0:47": {
+        "value": [
+          "box-shadow: inset 0px 0px 0px 0px rgba(255, 254, 254, 0.5945);"
+        ]
+      },
+      "effect_0:53": {
+        "value": [
+          "box-shadow: 1px -1px 0px 0px #7DBDE7;",
+          "filter: blur(2.18px);"
+        ]
+      },
+      "effect_0:78": {
+        "value": [
+          "box-shadow: 0px 1px 0px 0px #FFFFFF;"
+        ]
+      },
+      "font_0:119": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 15,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "font_0:41": {
+        "value": {
+          "family": "FZZDHJW--GB1",
+          "size": 16.559999465942383,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "font_0:80": {
+        "value": {
+          "family": "FZZDHJW--GB1",
+          "size": 30.95400047302246,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "-1.4739999771118164px"
+        }
+      },
+      "paint_0:11": {
+        "value": []
+      },
+      "paint_0:112": {
+        "value": [
+          "linear-gradient(180deg, #8DC4FF 4%, #0162FF 122%)"
+        ]
+      },
+      "paint_0:121": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:27": {
+        "value": [
+          "#0C81FF"
+        ]
+      },
+      "paint_0:37": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:44": {
+        "value": [
+          "linear-gradient(17deg, #FF8C4B 3%, #FF2B2A 78%, #FF2B2A 95%)"
+        ]
+      },
+      "paint_0:60": {
+        "value": [
+          "#EBF5FD"
+        ]
+      },
+      "paint_0:74": {
+        "value": [
+          "linear-gradient(274deg, #005FFF 1%, #1593FF 95%)"
+        ]
+      },
+      "paint_0:83": {
+        "value": [
+          "linear-gradient(180deg, #F75901 0%, #F37D4C 79%)"
+        ]
+      },
+      "paint_1:3889": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/3c0b6a3b91c10c2ff54ab21bbc5bb773.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:3895": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/f97d1bc6236501a0e76bbae11c7b983a.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:4193": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/51428ebb7a4cc7a75133fdf2340889fb.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:4203": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/cea2cb28450e54c6934ae56e1ef95594.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:4209": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/b11c316edea11e4625682ccf99d54956.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:4215": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/18ea88b1755b3f8eb7fc7af5eb3eb541.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:4231": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/ef2c8fc827ea4e0a4eba2050d2f1bf8b.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:4241": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/a0f83ca3db34eab75aa2763e82f1ad2b.png",
+            "filters": ""
+          }
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "2:796",
+        "name": "头图banner",
+        "layoutStyle": {
+          "width": 352.5882263183594,
+          "height": 88.89999389648438,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "FRAME",
+            "id": "0:919",
+            "name": "编组 7",
+            "layoutStyle": {
+              "width": 528.8004760742188,
+              "height": 311.1181945800781,
+              "relativeX": -96,
+              "relativeY": -121.11820983886719
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:921",
+                "name": "光",
+                "layoutStyle": {
+                  "width": 402,
+                  "height": 301.29779052734375,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "fill": "paint_1:4231"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:922",
+                "name": "光",
+                "layoutStyle": {
+                  "width": 402,
+                  "height": 301.29779052734375,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "fill": "paint_1:4231"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:923",
+                "name": "点点",
+                "layoutStyle": {
+                  "width": 399.5697021484375,
+                  "height": 253,
+                  "relativeX": 129.23077392578125,
+                  "relativeY": 58.11820983886719
+                },
+                "fill": "paint_1:4203"
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "id": "0:936",
+            "name": "投资落地+出口激增",
+            "layoutStyle": {
+              "width": 325.6000061035156,
+              "height": 45,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "effect": "effect_0:78",
+            "text": [
+              {
+                "text": "投资落地+出口激增",
+                "font": "font_0:80"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 9,
+                "color": "paint_0:74"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "auto-height"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:937",
+            "name": "电网进入高景气周期",
+            "layoutStyle": {
+              "width": 325.6000061035156,
+              "height": 45,
+              "relativeX": 0,
+              "relativeY": 40
+            },
+            "effect": "effect_0:78",
+            "text": [
+              {
+                "text": "电网进入高景气周期",
+                "font": "font_0:80"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 9,
+                "color": "paint_0:83"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "auto-height"
+          },
+          {
+            "type": "FRAME",
+            "id": "0:947",
+            "name": "分享",
+            "layoutStyle": {
+              "width": 24.58823585510254,
+              "height": 44,
+              "relativeX": 328,
+              "relativeY": 39.04016876220703
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:948",
+                "name": "矩形",
+                "layoutStyle": {
+                  "width": 22.727272033691406,
+                  "height": 44,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "borderRadius": "4.539150238037109px 0px 0px 4.539150238037109px",
+                "fill": "paint_0:112",
+                "strokeColor": "paint_0:11",
+                "strokeType": "solid",
+                "strokeAlign": "inside",
+                "strokeWidth": "1.5130499601364136px",
+                "effect": "effect_0:116"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:949",
+                "name": "分享",
+                "layoutStyle": {
+                  "width": 20.58823585510254,
+                  "height": 44,
+                  "relativeX": 4,
+                  "relativeY": 5.859832286834717
+                },
+                "text": [
+                  {
+                    "text": "分享",
+                    "font": "font_0:119"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 2,
+                    "color": "paint_0:121"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "auto-height"
+              }
+            ]
+          },
+          {
+            "type": "LAYER",
+            "id": "0:935",
+            "name": "位图六",
+            "layoutStyle": {
+              "width": 32.20779037475586,
+              "height": 23.846153259277344,
+              "relativeX": 300,
+              "relativeY": -36.63,
+              "rotate": -18
+            },
+            "opacity": 0.499630868434906,
+            "fill": "paint_1:4209"
+          },
+          {
+            "type": "LAYER",
+            "id": "0:934",
+            "name": "位图五",
+            "layoutStyle": {
+              "width": 33.230770111083984,
+              "height": 30,
+              "relativeX": -16.169921875,
+              "relativeY": 47.36517333984375
+            },
+            "opacity": 0.5958135724067688,
+            "fill": "paint_1:3889"
+          },
+          {
+            "type": "LAYER",
+            "id": "0:933",
+            "name": "位图四",
+            "layoutStyle": {
+              "width": 273.8424072265625,
+              "height": 123,
+              "relativeX": -37.421875,
+              "relativeY": -69
+            },
+            "fill": "paint_1:4215"
+          },
+          {
+            "type": "GROUP",
+            "id": "0:930",
+            "name": "位图",
+            "layoutStyle": {
+              "width": 249.0328826904297,
+              "height": 92.34310913085938,
+              "relativeX": 103.966796875,
+              "relativeY": -52.58665466308594
+            },
+            "opacity": 0.3043612539768219,
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:929",
+                "name": "位图三",
+                "layoutStyle": {
+                  "width": 249.0328826904297,
+                  "height": 92.34310913085938,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "opacity": 0.3043612539768219,
+                "fill": "paint_1:4193",
+                "effect": "effect_0:53"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:932",
+                "name": "位图",
+                "layoutStyle": {
+                  "width": 249.0328826904297,
+                  "height": 92.34310913085938,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "mask": "alpha",
+                "opacity": 0.3043612539768219,
+                "fill": "paint_1:4193",
+                "effect": "effect_0:53"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:931",
+                "name": "位图",
+                "layoutStyle": {
+                  "width": 249.0328826904297,
+                  "height": 92.34310913085938,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "opacity": 0.3043612539768219,
+                "fill": "paint_0:60",
+                "effect": "effect_0:53"
+              }
+            ]
+          },
+          {
+            "type": "LAYER",
+            "id": "0:924",
+            "name": "位图二",
+            "layoutStyle": {
+              "width": 161,
+              "height": 228.51173400878906,
+              "relativeX": -32,
+              "relativeY": -131.9598388671875
+            },
+            "opacity": 0.4954216480255127,
+            "fill": "paint_1:3895"
+          },
+          {
+            "type": "FRAME",
+            "id": "0:925",
+            "name": "热点速递",
+            "layoutStyle": {
+              "width": 90,
+              "height": 28,
+              "relativeX": -27.244140625,
+              "relativeY": -53.11820983886719
+            },
+            "children": [
+              {
+                "type": "PATH",
+                "id": "0:926",
+                "name": "矩形",
+                "layoutStyle": {
+                  "width": 90,
+                  "height": 28,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "opacity": 0.9316580891609192,
+                "effect": "effect_0:34",
+                "path": [
+                  {
+                    "fill": "#0C81FF",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "TEXT",
+                "id": "0:927",
+                "name": "热点速递",
+                "layoutStyle": {
+                  "width": 70.65599822998047,
+                  "height": 24,
+                  "relativeX": 8.472000122070312,
+                  "relativeY": 5.858948707580566
+                },
+                "text": [
+                  {
+                    "text": "热点速递",
+                    "font": "font_0:41"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:37"
+                  }
+                ],
+                "textAlign": "center",
+                "textMode": "auto-height"
+              },
+              {
+                "type": "PATH",
+                "id": "0:928",
+                "name": "路径 10",
+                "layoutStyle": {
+                  "width": 4.360042095184326,
+                  "height": 12.93193531036377,
+                  "relativeX": 17.272701263427734,
+                  "relativeY": 5.13521146774292
+                },
+                "effect": "effect_0:47",
+                "path": [
+                  {
+                    "fill": "linear-gradient(17deg, #FF8C4B 3%, #FF2B2A 78%, #FF2B2A 95%)",
+                    "data": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "LAYER",
+            "id": "0:1317",
+            "name": "位图一",
+            "layoutStyle": {
+              "width": 90,
+              "height": 293,
+              "relativeX": 174.5,
+              "relativeY": -119.65,
+              "rotate": 90,
+              "rotateX": 180
+            },
+            "fill": "paint_1:4241"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 23,
+  "svgNodeCount": 1
+}

@@ -1,0 +1,38 @@
+{
+  "sectionIndex": 64,
+  "section": {
+    "id": "0:1207",
+    "name": "路径 13备份",
+    "type": "PATH"
+  },
+  "dsl": {
+    "styles": {
+      "paint_0:468": {
+        "value": [
+          "#FFD386"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "PATH",
+        "id": "0:1207",
+        "name": "路径 13备份",
+        "layoutStyle": {
+          "width": 45.5,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "path": [
+          {
+            "fill": "#FFD386",
+            "data": ""
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1,
+  "svgNodeCount": 1
+}

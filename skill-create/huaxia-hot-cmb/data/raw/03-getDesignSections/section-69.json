@@ -1,0 +1,143 @@
+{
+  "sectionIndex": 69,
+  "section": {
+    "id": "0:1252",
+    "name": "费率低 品类全 策略优 服务好",
+    "type": "TEXT"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:624": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 17,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "paint_0:626": {
+        "value": [
+          "#732207"
+        ]
+      },
+      "paint_0:628": {
+        "value": [
+          "#EE0815"
+        ]
+      },
+      "paint_0:630": {
+        "value": [
+          "#F94633"
+        ]
+      },
+      "paint_0:632": {
+        "value": [
+          "#7F260B"
+        ]
+      },
+      "paint_0:634": {
+        "value": [
+          "#7A4210"
+        ]
+      },
+      "paint_0:636": {
+        "value": [
+          "#732207"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:1252",
+        "name": "费率低 品类全 策略优 服务好",
+        "layoutStyle": {
+          "width": 273,
+          "height": 25,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "费率低      品类全      策略优      服务好",
+            "font": "font_0:624"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 2,
+            "color": "paint_0:626"
+          },
+          {
+            "start": 2,
+            "end": 3,
+            "color": "paint_0:628"
+          },
+          {
+            "start": 3,
+            "end": 4,
+            "color": "paint_0:630"
+          },
+          {
+            "start": 4,
+            "end": 8,
+            "color": "paint_0:632"
+          },
+          {
+            "start": 8,
+            "end": 9,
+            "color": "paint_0:634"
+          },
+          {
+            "start": 9,
+            "end": 11,
+            "color": "paint_0:626"
+          },
+          {
+            "start": 11,
+            "end": 12,
+            "color": "paint_0:628"
+          },
+          {
+            "start": 12,
+            "end": 18,
+            "color": "paint_0:632"
+          },
+          {
+            "start": 18,
+            "end": 20,
+            "color": "paint_0:626"
+          },
+          {
+            "start": 20,
+            "end": 21,
+            "color": "paint_0:628"
+          },
+          {
+            "start": 21,
+            "end": 27,
+            "color": "paint_0:632"
+          },
+          {
+            "start": 27,
+            "end": 29,
+            "color": "paint_0:636"
+          },
+          {
+            "start": 29,
+            "end": 30,
+            "color": "paint_0:628"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

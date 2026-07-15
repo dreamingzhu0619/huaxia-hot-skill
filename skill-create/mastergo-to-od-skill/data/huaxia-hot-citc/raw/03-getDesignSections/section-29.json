@@ -1,0 +1,259 @@
+{
+  "sectionIndex": 29,
+  "section": {
+    "id": "13:328",
+    "name": "营销头图",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:456": {
+        "value": []
+      },
+      "font_0:459": {
+        "value": {
+          "family": "MiSans-Bold",
+          "size": 84.96540832519531,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "84.96540832519531",
+          "letterSpacing": "-2.25%",
+          "weight": "700"
+        }
+      },
+      "paint_0:450": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158384864891941/158384864891947/2de80d3ff7b1244b6c373ce91bb5e7dc.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:452": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158384864891941/158384864891947/7a8ec3998fc026012693d6b0a856e90e.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:461": {
+        "value": [
+          "#DFD3B1"
+        ]
+      },
+      "paint_0:462": {
+        "value": [
+          "linear-gradient(0deg, #6A290D -15%, rgba(166, 99, 69, 0.9961) 115%, rgba(157, 74, 23, 0.9961) 115%, rgba(110, 204, 254, 0.9961) 115%, rgba(0, 149, 235, 0.9961) 115%, rgba(0, 149, 235, 0.9961) 115%)"
+        ]
+      },
+      "paint_0:898": {
+        "value": [
+          "linear-gradient(0deg, #E30B06 -15%, rgba(240, 30, 30, 0.9961) 115%, rgba(240, 166, 61, 0.9961) 115%, rgba(0, 149, 235, 0.9961) 115%, rgba(244, 198, 125, 0.9961) 115%, rgba(0, 149, 235, 0.9961) 115%, rgba(107, 145, 254, 0.9961) 115%, rgba(5, 152, 236, 0.9961) 115%, rgba(21, 160, 239, 0.9961) 115%, rgba(6, 153, 236, 0.9961) 115%, rgba(108, 203, 254, 0.9961) 115%, rgba(110, 204, 254, 0.9961) 115%, rgba(8, 154, 236, 0.9961) 115%, rgba(110, 204, 254, 0.9961) 115%, rgba(8, 154, 236, 0.9961) 115%, rgba(110, 204, 254, 0.9961) 115%)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "13:328",
+        "name": "营销头图",
+        "layoutStyle": {
+          "width": 1125,
+          "height": 939,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "GROUP",
+            "id": "4:0648",
+            "name": "营销头图",
+            "layoutStyle": {
+              "width": 994.21533203125,
+              "height": 204.22206115722656,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:6",
+                "name": "图层 745",
+                "layoutStyle": {
+                  "width": 1125,
+                  "height": 939,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "fill": "paint_0:450"
+              },
+              {
+                "type": "GROUP",
+                "id": "0:9",
+                "name": "市场开启震荡模式",
+                "layoutStyle": {
+                  "width": 0,
+                  "height": 84.96540832519531,
+                  "relativeX": 229.3990020751953,
+                  "relativeY": 215.25399780273438
+                },
+                "children": [
+                  {
+                    "type": "TEXT",
+                    "id": "0:10",
+                    "name": "市场开启震荡模式",
+                    "layoutStyle": {
+                      "width": 667,
+                      "height": 85,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "effect": "effect_0:456",
+                    "text": [
+                      {
+                        "text": "市场开启震荡模式",
+                        "font": "font_0:459"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 8,
+                        "color": "paint_0:461"
+                      }
+                    ],
+                    "textAlign": "left",
+                    "textMode": "single-line"
+                  },
+                  {
+                    "type": "PATH",
+                    "id": "0:11",
+                    "name": "Gradient Overlay",
+                    "layoutStyle": {
+                      "width": 0,
+                      "height": 84.96540832519531,
+                      "relativeX": 5.182891845703125,
+                      "relativeY": 1.504913330078125
+                    },
+                    "path": [
+                      {
+                        "fill": "linear-gradient(0deg, #6A290D -15%, rgba(166, 99, 69, 0.9961) 115%, rgba(157, 74, 23, 0.9961) 115%, rgba(110, 204, 254, 0.9961) 115%, rgba(0, 149, 235, 0.9961) 115%, rgba(0, 149, 235, 0.9961) 115%)",
+                        "data": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "GROUP",
+                "id": "0:13",
+                "name": "“反脆弱”红利低波",
+                "layoutStyle": {
+                  "width": 0,
+                  "height": 84.96540832519531,
+                  "relativeX": 53.13746643066406,
+                  "relativeY": 338.6739501953125
+                },
+                "children": [
+                  {
+                    "type": "PATH",
+                    "id": "0:14",
+                    "name": "Gradient Overlay",
+                    "layoutStyle": {
+                      "width": 0,
+                      "height": 84.96540832519531,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "path": [
+                      {
+                        "fill": "linear-gradient(0deg, #6A290D -15%, rgba(166, 99, 69, 0.9961) 115%, rgba(157, 74, 23, 0.9961) 115%, rgba(110, 204, 254, 0.9961) 115%, rgba(0, 149, 235, 0.9961) 115%, rgba(0, 149, 235, 0.9961) 115%)",
+                        "data": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "GROUP",
+                "id": "0:16",
+                "name": "“反脆弱”价值凸显",
+                "layoutStyle": {
+                  "width": 0,
+                  "height": 84.96540832519531,
+                  "relativeX": 718.02685546875,
+                  "relativeY": 339.69354248046875
+                },
+                "children": [
+                  {
+                    "type": "PATH",
+                    "id": "0:17",
+                    "name": "Gradient Overlay",
+                    "layoutStyle": {
+                      "width": 0,
+                      "height": 84.96540832519531,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "path": [
+                      {
+                        "fill": "linear-gradient(0deg, #6A290D -15%, rgba(166, 99, 69, 0.9961) 115%, rgba(157, 74, 23, 0.9961) 115%, rgba(110, 204, 254, 0.9961) 115%, rgba(0, 149, 235, 0.9961) 115%, rgba(0, 149, 235, 0.9961) 115%)",
+                        "data": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "PATH",
+                "id": "0:312",
+                "name": "Gradient Overlay",
+                "layoutStyle": {
+                  "width": 0,
+                  "height": 84.96540832519531,
+                  "relativeX": 389.57550048828125,
+                  "relativeY": 333.2683410644531
+                },
+                "path": [
+                  {
+                    "fill": "linear-gradient(0deg, #E30B06 -15%, rgba(240, 30, 30, 0.9961) 115%, rgba(240, 166, 61, 0.9961) 115%, rgba(0, 149, 235, 0.9961) 115%, rgba(244, 198, 125, 0.9961) 115%, rgba(0, 149, 235, 0.9961) 115%, rgba(107, 145, 254, 0.9961) 115%, rgba(5, 152, 236, 0.9961) 115%, rgba(21, 160, 239, 0.9961) 115%, rgba(6, 153, 236, 0.9961) 115%, rgba(108, 203, 254, 0.9961) 115%, rgba(110, 204, 254, 0.9961) 115%, rgba(8, 154, 236, 0.9961) 115%, rgba(110, 204, 254, 0.9961) 115%, rgba(8, 154, 236, 0.9961) 115%, rgba(110, 204, 254, 0.9961) 115%)",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "GROUP",
+                "id": "0:7",
+                "name": "图层 586",
+                "layoutStyle": {
+                  "width": 301,
+                  "height": 82,
+                  "relativeX": 38,
+                  "relativeY": 48
+                },
+                "children": [
+                  {
+                    "type": "LAYER",
+                    "id": "13:327",
+                    "name": "图层 587",
+                    "layoutStyle": {
+                      "width": 301,
+                      "height": 82,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "fill": "paint_0:452"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 13,
+  "svgNodeCount": 4
+}

@@ -1,0 +1,289 @@
+{
+  "sectionIndex": 82,
+  "section": {
+    "id": "0:1342",
+    "name": "按钮2备份",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:1347": {
+        "value": [
+          "filter: blur(9.57px);"
+        ]
+      },
+      "effect_0:1351": {
+        "value": [
+          "box-shadow: 0px 1px 0px 0px #FF800F;"
+        ]
+      },
+      "effect_0:1356": {
+        "value": [
+          "filter: blur(25.22px);"
+        ]
+      },
+      "effect_0:1359": {
+        "value": [
+          "filter: blur(6.26px);"
+        ]
+      },
+      "effect_0:1364": {
+        "value": []
+      },
+      "effect_0:787": {
+        "value": [
+          "box-shadow: 0px 1px 2px 0px #FF4F02;"
+        ]
+      },
+      "font_0:789": {
+        "value": {
+          "family": "FZLTZHJW--GB1",
+          "size": 14,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "paint_0:121": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:753": {
+        "value": [
+          "linear-gradient(90deg, #FF5B00 17%, #F13816 85%)"
+        ]
+      },
+      "paint_0:755": {
+        "value": [
+          "linear-gradient(121deg, #FFFCF6 17%, #FFF0CF 84%)"
+        ]
+      },
+      "paint_0:763": {
+        "value": [
+          "#FF8F4F"
+        ]
+      },
+      "paint_0:768": {
+        "value": [
+          "#FFB297"
+        ]
+      },
+      "paint_0:773": {
+        "value": [
+          "linear-gradient(215deg, rgba(255, 255, 255, 0.7) 4%, rgba(255, 255, 255, 0) 69%)"
+        ]
+      },
+      "paint_0:776": {
+        "value": [
+          "linear-gradient(214deg, rgba(255, 255, 255, 0.8) -9%, rgba(255, 255, 255, 0) 73%)"
+        ]
+      },
+      "paint_0:779": {
+        "value": [
+          "linear-gradient(180deg, #FFFFFF -10%, rgba(255, 255, 255, 0) 56%)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1342",
+        "name": "按钮2备份",
+        "layoutStyle": {
+          "width": 87,
+          "height": 32.67226791381836,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "FRAME",
+            "id": "0:1343",
+            "name": "编组 3",
+            "layoutStyle": {
+              "width": 87,
+              "height": 32.67226791381836,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "PATH",
+                "id": "0:1344",
+                "name": "矩形",
+                "layoutStyle": {
+                  "width": 59.415374755859375,
+                  "height": 7.045454502105713,
+                  "relativeX": 13.438663482666016,
+                  "relativeY": 22.95013427734375
+                },
+                "effect": "effect_0:1347",
+                "path": []
+              },
+              {
+                "type": "FRAME",
+                "id": "0:1349",
+                "name": "矩形 + 矩形蒙版",
+                "layoutStyle": {
+                  "width": 87,
+                  "height": 32.67226791381836,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "PATH",
+                    "id": "0:1350",
+                    "name": "蒙版",
+                    "layoutStyle": {
+                      "width": 87,
+                      "height": 32.67226791381836,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "mask": "outline",
+                    "effect": "effect_0:1351",
+                    "path": [
+                      {
+                        "fill": "linear-gradient(90deg, #FF5B00 17%, #F13816 85%)",
+                        "data": ""
+                      },
+                      {
+                        "fill": "linear-gradient(121deg, #FFFCF6 17%, #FFF0CF 84%)",
+                        "data": ""
+                      }
+                    ]
+                  },
+                  {
+                    "type": "PATH",
+                    "id": "0:1355",
+                    "name": "椭圆形备份 3",
+                    "layoutStyle": {
+                      "width": 30.326799392700195,
+                      "height": 28.13445472717285,
+                      "relativeX": 8.196432113647461,
+                      "relativeY": -9.529411315917969
+                    },
+                    "effect": "effect_0:1356",
+                    "path": [
+                      {
+                        "fill": "#FF8F4F",
+                        "data": ""
+                      }
+                    ]
+                  },
+                  {
+                    "type": "PATH",
+                    "id": "0:1358",
+                    "name": "矩形备份 9",
+                    "layoutStyle": {
+                      "width": 72.20714569091797,
+                      "height": 5.097232818603516,
+                      "relativeX": 8.158181190490723,
+                      "relativeY": 1.4369747638702393
+                    },
+                    "effect": "effect_0:1359",
+                    "path": [
+                      {
+                        "fill": "#FFB297",
+                        "data": ""
+                      }
+                    ]
+                  },
+                  {
+                    "type": "PATH",
+                    "id": "0:1361",
+                    "name": "矩形",
+                    "layoutStyle": {
+                      "width": 35.615474700927734,
+                      "height": 50.82352828979492,
+                      "relativeX": 46.01784133911133,
+                      "relativeY": -6.352941036224365
+                    },
+                    "opacity": 0.3089337944984436,
+                    "path": [
+                      {
+                        "fill": "linear-gradient(215deg, rgba(255, 255, 255, 0.7) 4%, rgba(255, 255, 255, 0) 69%)",
+                        "data": ""
+                      }
+                    ]
+                  },
+                  {
+                    "type": "PATH",
+                    "id": "0:1362",
+                    "name": "矩形",
+                    "layoutStyle": {
+                      "width": 45.82545471191406,
+                      "height": 50.82352828979492,
+                      "relativeX": 27.61142921447754,
+                      "relativeY": -8.16806697845459
+                    },
+                    "opacity": 0.3983379602432251,
+                    "path": [
+                      {
+                        "fill": "linear-gradient(214deg, rgba(255, 255, 255, 0.8) -9%, rgba(255, 255, 255, 0) 73%)",
+                        "data": ""
+                      }
+                    ]
+                  },
+                  {
+                    "type": "PATH",
+                    "id": "0:1363",
+                    "name": "矩形",
+                    "layoutStyle": {
+                      "width": 87,
+                      "height": 32.67226791381836,
+                      "relativeX": 2.2737367544323206e-13,
+                      "relativeY": 0
+                    },
+                    "opacity": 0.4853566586971283,
+                    "effect": "effect_0:1364",
+                    "path": [
+                      {
+                        "fill": "linear-gradient(180deg, #FFFFFF -10%, rgba(255, 255, 255, 0) 56%)",
+                        "data": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1367",
+            "name": "小试一笔",
+            "layoutStyle": {
+              "width": 56,
+              "height": 20,
+              "relativeX": 16,
+              "relativeY": 8
+            },
+            "effect": "effect_0:787",
+            "text": [
+              {
+                "text": "小试一笔",
+                "font": "font_0:789"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 4,
+                "color": "paint_0:121"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 11,
+  "svgNodeCount": 1
+}

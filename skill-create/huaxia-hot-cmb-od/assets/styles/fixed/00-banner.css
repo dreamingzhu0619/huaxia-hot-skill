@@ -1,0 +1,340 @@
+/* 00-banner.json  头图banner
+   由 getDsl 生成；mix-blend-mode/overflow/object-fit 取自 d2cCss。
+   根 .m-00-banner，其余节点 .n-{id}。共 23 条规则。
+   ★ 本文件已与 css_core 根治后的管线产物同步，勿手改（改 css_core 重生成即可）。
+   [混合] MasterGo 图层混合(滤色/柔光)= 与下层混合，浏览器用 mix-blend-mode（d2cCss 已给）。
+     background-blend-mode 无基色时空转，不可替代。位图一/四/光层带 screen/soft-light。
+   [z-index] 编组7(0:919)是纯结构组，若发 z-index 会形成层叠上下文，隔离内部"光"层的
+     mix-blend-mode:screen（混不到页面蓝→发黑）→ css_core 已对"结构组+子树含blend"不发 z-index。
+   [定位] 位图一(0:1317)/位图六(0:935)带真旋转，用 d2c 的 left/top(%)+transform(无多余rotateX)，
+     补偿了旋转位移；勿用裸 relativeX/Y。 */
+/* 2:796 头图banner [FRAME] */
+.m-00-banner {
+  position: relative;
+  width: 352.59px;
+  height: 88.9px;
+}
+
+/* 0:919 编组 7 [FRAME] */
+.n-0-919 {
+  position: absolute;
+  left: -96px;
+  top: -121.12px;
+  width: 528.8px;
+  height: 311.12px;
+}
+
+/* 0:921 光 [LAYER]  img=https://image-resource.mastergo.com/158383838066578/194424914768480/ef2c8fc827ea4e0a4eba2050d2f1bf8b.png */
+.n-0-921 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 402px;
+  height: 301.3px;
+  mix-blend-mode: screen;
+  background-image: url(https://image-resource.mastergo.com/158383838066578/194424914768480/ef2c8fc827ea4e0a4eba2050d2f1bf8b.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+
+/* 0:922 光 [LAYER]  img=https://image-resource.mastergo.com/158383838066578/194424914768480/ef2c8fc827ea4e0a4eba2050d2f1bf8b.png */
+.n-0-922 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+  width: 402px;
+  height: 301.3px;
+  mix-blend-mode: screen;
+  background-image: url(https://image-resource.mastergo.com/158383838066578/194424914768480/ef2c8fc827ea4e0a4eba2050d2f1bf8b.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+
+/* 0:923 点点 [LAYER]  img=https://image-resource.mastergo.com/158383838066578/194424914768480/cea2cb28450e54c6934ae56e1ef95594.png */
+.n-0-923 {
+  position: absolute;
+  left: 129.23px;
+  top: 58.12px;
+  z-index: 2;
+  width: 399.57px;
+  height: 253px;
+  background-image: url(https://image-resource.mastergo.com/158383838066578/194424914768480/cea2cb28450e54c6934ae56e1ef95594.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+
+/* 0:936 投资落地+出口激增 [TEXT] */
+.n-0-936 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+  width: 325.6px;
+  height: 45px;
+  background-image: linear-gradient(274deg, #005FFF 1%, #1593FF 95%);
+  font-family: FZZDHJW--GB1;
+  font-size: 30.95px;
+  line-height: normal;
+  letter-spacing: -1.47px;
+  text-align: center;
+  white-space: nowrap;
+  text-shadow: 0px 1px 0px #FFFFFF;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+}
+
+/* 0:937 电网进入高景气周期 [TEXT] */
+.n-0-937 {
+  position: absolute;
+  left: 0px;
+  top: 40px;
+  z-index: 2;
+  width: 325.6px;
+  height: 45px;
+  background-image: linear-gradient(180deg, #F75901 0%, #F37D4C 79%);
+  font-family: FZZDHJW--GB1;
+  font-size: 30.95px;
+  line-height: normal;
+  letter-spacing: -1.47px;
+  text-align: center;
+  white-space: nowrap;
+  text-shadow: 0px 1px 0px #FFFFFF;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+}
+
+/* 0:947 分享 [FRAME] */
+.n-0-947 {
+  position: absolute;
+  left: 328px;
+  top: 39.04px;
+  z-index: 3;
+  width: 24.59px;
+  height: 44px;
+}
+
+/* 0:948 矩形 [LAYER] */
+.n-0-948 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 22.73px;
+  height: 44px;
+  background-image: linear-gradient(180deg, #8DC4FF 4%, #0162FF 122%);
+  border-radius: 4.54px 0px 0px 4.54px;
+}
+
+/* 0:949 分享 [TEXT] */
+.n-0-949 {
+  position: absolute;
+  left: 4px;
+  top: 5.86px;
+  z-index: 1;
+  width: 20.59px;
+  height: 44px;
+  font-family: FZLTHJW--GB1;
+  font-size: 15px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+/* 0:935 位图六 [LAYER]  img=https://image-resource.mastergo.com/158383838066578/194424914768480/b11c316edea11e4625682ccf99d54956.png */
+.n-0-935 {
+  position: absolute;
+  left: 84.26%;
+  top: -34.95%;
+  z-index: 4;
+  width: 32.21px;
+  height: 23.85px;
+  transform: rotate(-18deg);
+  transform-origin: 0 0;
+  opacity: 0.5;
+  background-image: url(https://image-resource.mastergo.com/158383838066578/194424914768480/b11c316edea11e4625682ccf99d54956.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+
+/* 0:934 位图五 [LAYER]  img=https://image-resource.mastergo.com/158383838066578/194424914768480/3c0b6a3b91c10c2ff54ab21bbc5bb773.png */
+.n-0-934 {
+  position: absolute;
+  left: -16.17px;
+  top: 47.37px;
+  z-index: 5;
+  width: 33.23px;
+  height: 30px;
+  opacity: 0.596;
+  background-image: url(https://image-resource.mastergo.com/158383838066578/194424914768480/3c0b6a3b91c10c2ff54ab21bbc5bb773.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+
+/* 0:933 位图四 [LAYER]  img=https://image-resource.mastergo.com/158383838066578/194424914768480/18ea88b1755b3f8eb7fc7af5eb3eb541.png */
+.n-0-933 {
+  position: absolute;
+  left: -37.42px;
+  top: -69px;
+  z-index: 6;
+  width: 273.84px;
+  height: 123px;
+  mix-blend-mode: soft-light;
+  background-image: url(https://image-resource.mastergo.com/158383838066578/194424914768480/18ea88b1755b3f8eb7fc7af5eb3eb541.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+
+/* 0:930 位图 [GROUP] */
+.n-0-930 {
+  position: absolute;
+  left: 103.97px;
+  top: -52.59px;
+  z-index: 7;
+  width: 249.03px;
+  height: 92.34px;
+  opacity: 0.304;
+}
+
+/* 0:929 位图三 [LAYER]  img=https://image-resource.mastergo.com/158383838066578/194424914768480/51428ebb7a4cc7a75133fdf2340889fb.png */
+.n-0-929 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 249.03px;
+  height: 92.34px;
+  opacity: 0.304;
+  background-image: url(https://image-resource.mastergo.com/158383838066578/194424914768480/51428ebb7a4cc7a75133fdf2340889fb.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  box-shadow: 1px -1px 0px 0px #7DBDE7;
+  filter: blur(2.18px);
+}
+
+/* 0:932 位图 [LAYER]  img=https://image-resource.mastergo.com/158383838066578/194424914768480/51428ebb7a4cc7a75133fdf2340889fb.png  mask=alpha */
+.n-0-932 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+  width: 249.03px;
+  height: 92.34px;
+  opacity: 0.304;
+  background-image: url(https://image-resource.mastergo.com/158383838066578/194424914768480/51428ebb7a4cc7a75133fdf2340889fb.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 1px -1px 0px 0px #7DBDE7;
+  filter: blur(2.18px);
+}
+
+/* 0:931 位图 [LAYER] */
+.n-0-931 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 2;
+  width: 249.03px;
+  height: 92.34px;
+  opacity: 0.304;
+  background-color: #EBF5FD;
+  box-shadow: 1px -1px 0px 0px #7DBDE7;
+  filter: blur(2.18px);
+}
+
+/* 0:924 位图二 [LAYER]  img=https://image-resource.mastergo.com/158383838066578/194424914768480/f97d1bc6236501a0e76bbae11c7b983a.png */
+.n-0-924 {
+  position: absolute;
+  left: -32px;
+  top: -131.96px;
+  z-index: 8;
+  width: 161px;
+  height: 228.51px;
+  opacity: 0.495;
+  background-image: url(https://image-resource.mastergo.com/158383838066578/194424914768480/f97d1bc6236501a0e76bbae11c7b983a.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+
+/* 0:925 热点速递 [FRAME]  svg=assets.svgs[0:925] */
+.n-0-925 {
+  position: absolute;
+  left: -27.24px;
+  top: -53.12px;
+  z-index: 9;
+  width: 90px;
+  height: 28px;
+}
+
+/* 0:926 矩形 [PATH]  PATH→内联SVG */
+.n-0-926 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 90px;
+  height: 28px;
+  opacity: 0.932;
+  background-color: #0C81FF;
+  box-shadow: inset 0px 0px 1px 0px rgba(255, 255, 255, 0.3256);
+}
+
+/* 0:927 热点速递 [TEXT] */
+.n-0-927 {
+  position: absolute;
+  left: 8.47px;
+  top: 5.86px;
+  z-index: 1;
+  width: 70.66px;
+  height: 24px;
+  font-family: FZZDHJW--GB1;
+  font-size: 16.56px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #FFFFFF;
+}
+
+/* 0:928 路径 10 [PATH]  PATH→内联SVG */
+.n-0-928 {
+  position: absolute;
+  left: 17.27px;
+  top: 5.14px;
+  z-index: 2;
+  width: 4.36px;
+  height: 12.93px;
+  background-image: linear-gradient(17deg, #FF8C4B 3%, #FF2B2A 78%, #FF2B2A 95%);
+  box-shadow: inset 0px 0px 0px 0px rgba(255, 254, 254, 0.5945);
+}
+
+/* 0:1317 位图一 [LAYER]  img=https://image-resource.mastergo.com/158383838066578/194424914768480/a0f83ca3db34eab75aa2763e82f1ad2b.png */
+.n-0-1317 {
+  position: absolute;
+  left: 103.8%;
+  top: -20.42%;
+  z-index: 10;
+  width: 90px;
+  height: 293px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  mix-blend-mode: screen;
+  background-image: url(https://image-resource.mastergo.com/158383838066578/194424914768480/a0f83ca3db34eab75aa2763e82f1ad2b.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}

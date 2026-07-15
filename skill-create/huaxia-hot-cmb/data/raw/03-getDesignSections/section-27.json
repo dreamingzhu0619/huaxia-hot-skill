@@ -1,0 +1,163 @@
+{
+  "sectionIndex": 27,
+  "section": {
+    "id": "0:1127",
+    "name": "编组 12",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "paint_0:474": {
+        "value": [
+          "#E1E1E1"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1127",
+        "name": "编组 12",
+        "layoutStyle": {
+          "width": 284.5479431152344,
+          "height": 149,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "PATH",
+            "id": "0:1128",
+            "name": "路径 11",
+            "layoutStyle": {
+              "width": 284.5479431152344,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "path": [
+              {
+                "fill": "#E1E1E1",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1129",
+            "name": "路径 11备份",
+            "layoutStyle": {
+              "width": 284.5479431152344,
+              "relativeX": 0,
+              "relativeY": 21.14285659790039
+            },
+            "path": [
+              {
+                "fill": "#E1E1E1",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1130",
+            "name": "路径 11备份 2",
+            "layoutStyle": {
+              "width": 284.5479431152344,
+              "relativeX": 0,
+              "relativeY": 42.28571319580078
+            },
+            "path": [
+              {
+                "fill": "#E1E1E1",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1131",
+            "name": "路径 11备份 3",
+            "layoutStyle": {
+              "width": 284.5479431152344,
+              "relativeX": 0,
+              "relativeY": 63.42856979370117
+            },
+            "path": [
+              {
+                "fill": "#E1E1E1",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1132",
+            "name": "路径 11备份 4",
+            "layoutStyle": {
+              "width": 284.5479431152344,
+              "relativeX": 0,
+              "relativeY": 84.57142639160156
+            },
+            "path": [
+              {
+                "fill": "#E1E1E1",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1133",
+            "name": "路径 11备份 5",
+            "layoutStyle": {
+              "width": 284.5479431152344,
+              "relativeX": 0,
+              "relativeY": 105.71428680419922
+            },
+            "path": [
+              {
+                "fill": "#E1E1E1",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1134",
+            "name": "路径 11备份 6",
+            "layoutStyle": {
+              "width": 284.5479431152344,
+              "relativeX": 0,
+              "relativeY": 126.85713958740234
+            },
+            "path": [
+              {
+                "fill": "#E1E1E1",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1135",
+            "name": "路径 11备份 7",
+            "layoutStyle": {
+              "width": 284.5479431152344,
+              "relativeX": 0,
+              "relativeY": 148
+            },
+            "path": [
+              {
+                "fill": "#E1E1E1",
+                "data": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 9,
+  "svgNodeCount": 1
+}

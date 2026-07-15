@@ -1,0 +1,58 @@
+{
+  "sectionIndex": 17,
+  "section": {
+    "id": "0:192",
+    "name": "数据来源：Wind，截至2026.5.22，行业选自申万一级行业。",
+    "type": "TEXT"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:675": {
+        "value": {
+          "family": "MiSans-Regular",
+          "size": 26,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "26",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "400"
+        }
+      },
+      "paint_0:699": {
+        "value": [
+          "#AA785D"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:192",
+        "name": "数据来源：Wind，截至2026.5.22，行业选自申万一级行业。",
+        "layoutStyle": {
+          "width": 717,
+          "height": 26,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "数据来源：Wind，截至2026.5.22，行业选自申万一级行业。",
+            "font": "font_0:675"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 33,
+            "color": "paint_0:699"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

@@ -1,0 +1,98 @@
+{
+  "sectionIndex": 7,
+  "section": {
+    "id": "0:150",
+    "name": "代码",
+    "type": "GROUP"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:651": {
+        "value": {
+          "family": "MiSans-Semibold",
+          "size": 40.01742172241211,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "40.01742172241211",
+          "letterSpacing": "3.5999999046325684%",
+          "weight": "600"
+        }
+      },
+      "paint_0:558": {
+        "value": [
+          "#FFEEDB"
+        ]
+      },
+      "paint_0:560": {
+        "value": [
+          "#DFB38E"
+        ]
+      },
+      "paint_0:653": {
+        "value": [
+          "#AC703F"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "GROUP",
+        "id": "0:150",
+        "name": "代码",
+        "layoutStyle": {
+          "width": 655,
+          "height": 2511.130126953125,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "LAYER",
+            "id": "0:151",
+            "name": "矩形 16",
+            "layoutStyle": {
+              "width": 184,
+              "height": 57.119998931884766,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "borderRadius": "7px",
+            "fill": "paint_0:558",
+            "strokeColor": "paint_0:560",
+            "strokeType": "solid",
+            "strokeAlign": "center",
+            "strokeWidth": "1px"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:152",
+            "name": "压舱石",
+            "layoutStyle": {
+              "width": 123,
+              "height": 41,
+              "relativeX": 30.86,
+              "relativeY": 9.1
+            },
+            "text": [
+              {
+                "text": "压舱石",
+                "font": "font_0:651"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 3,
+                "color": "paint_0:653"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 3
+}

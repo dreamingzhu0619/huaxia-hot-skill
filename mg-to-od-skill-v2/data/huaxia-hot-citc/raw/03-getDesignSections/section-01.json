@@ -1,0 +1,474 @@
+{
+  "sectionIndex": 1,
+  "section": {
+    "id": "13:390",
+    "name": "产品卡",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:456": {
+        "value": []
+      },
+      "effect_0:473": {
+        "value": []
+      },
+      "effect_0:542": {
+        "value": []
+      },
+      "font_0:546": {
+        "value": {
+          "family": "AlibabaPuHuiTi_2_95_ExtraBold",
+          "size": 55.85047149658203,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "55.85047149658203",
+          "letterSpacing": "-2.25%",
+          "weight": "800"
+        }
+      },
+      "font_0:551": {
+        "value": {
+          "family": "MiSans-Semibold",
+          "size": 56.941280364990234,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "56.941280364990234",
+          "letterSpacing": "auto",
+          "weight": "600"
+        }
+      },
+      "font_0:564": {
+        "value": {
+          "family": "MiSans-Regular",
+          "size": 31.349210739135742,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "31.349210739135742",
+          "letterSpacing": "3.5999999046325684%",
+          "weight": "400"
+        }
+      },
+      "font_4:0570": {
+        "value": {
+          "family": "SourceHanSansCN-Revision",
+          "size": 85,
+          "style": "{\"fontStyle\":\"Bold\",\"opsz\":\"auto\"}",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "auto",
+          "letterSpacing": "auto",
+          "weight": "700"
+        }
+      },
+      "font_4:0590": {
+        "value": {
+          "family": "SourceHanSansCN-Revision",
+          "size": 30,
+          "style": "{\"fontStyle\":\"Regular\",\"opsz\":\"auto\"}",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "auto",
+          "letterSpacing": "auto",
+          "weight": "400"
+        }
+      },
+      "paint_0:471": {
+        "value": [
+          "linear-gradient(90deg, #FCCC89 -25%, #FCCC89 -23%, #EB8F2C 125%)"
+        ]
+      },
+      "paint_0:538": {
+        "value": [
+          "linear-gradient(180deg, #FFF9F3 -25%, #FFF9F3 -24%, #FFFCF9 -5%, #FFFFFF 17%, #FFFFFF 58%, #FFFFFF 125%)"
+        ]
+      },
+      "paint_0:540": {
+        "value": [
+          "#E4973D"
+        ]
+      },
+      "paint_0:544": {
+        "value": [
+          "linear-gradient(0deg, #FF0100 -25%, #FF0100 -23%, #FF2C27 47%, #FF564E 95%, #FF564E 125%)"
+        ]
+      },
+      "paint_0:548": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:553": {
+        "value": [
+          "#6D2807"
+        ]
+      },
+      "paint_0:558": {
+        "value": [
+          "#FFEEDB"
+        ]
+      },
+      "paint_0:560": {
+        "value": [
+          "#DFB38E"
+        ]
+      },
+      "paint_0:566": {
+        "value": [
+          "#AC703F"
+        ]
+      },
+      "paint_0:567": {
+        "value": [
+          "#E3BC9B"
+        ]
+      },
+      "paint_0:570": {
+        "value": [
+          "#AC703F"
+        ]
+      },
+      "paint_4:273": {
+        "value": [
+          "#3D3D3D"
+        ]
+      },
+      "paint_4:464": {
+        "value": [
+          "#C91512"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "13:390",
+        "name": "产品卡",
+        "layoutStyle": {
+          "width": 1075.02001953125,
+          "height": 530.97998046875,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "GROUP",
+            "id": "0:50",
+            "name": "产品卡",
+            "layoutStyle": {
+              "width": 1100.010009765625,
+              "height": 1712.989990234375,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:51",
+                "name": "矩形 23 拷贝 14",
+                "layoutStyle": {
+                  "width": 1075.02001953125,
+                  "height": 530.97998046875,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "borderRadius": "33px",
+                "fill": "paint_0:471",
+                "effect": "effect_0:473"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:52",
+                "name": "矩形 23 拷贝 15",
+                "layoutStyle": {
+                  "width": 1073.02001953125,
+                  "height": 521.97998046875,
+                  "relativeX": 1,
+                  "relativeY": 0
+                },
+                "borderRadius": "33px",
+                "fill": "paint_0:538",
+                "strokeColor": "paint_0:540",
+                "strokeType": "solid",
+                "strokeAlign": "inside",
+                "strokeWidth": "1px",
+                "effect": "effect_0:542"
+              },
+              {
+                "type": "GROUP",
+                "id": "0:53",
+                "name": "按钮",
+                "layoutStyle": {
+                  "width": 620,
+                  "height": 108,
+                  "relativeX": 228,
+                  "relativeY": 374.989990234375
+                },
+                "children": [
+                  {
+                    "type": "LAYER",
+                    "id": "0:54",
+                    "name": "矩形 18",
+                    "layoutStyle": {
+                      "width": 620,
+                      "height": 108,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "borderRadius": "53.5px",
+                    "fill": "paint_0:544"
+                  },
+                  {
+                    "type": "TEXT",
+                    "id": "0:55",
+                    "name": "小试一笔",
+                    "layoutStyle": {
+                      "width": 217,
+                      "height": 56,
+                      "relativeX": 201.7889862060547,
+                      "relativeY": 26.4969482421875
+                    },
+                    "text": [
+                      {
+                        "text": "小试一笔",
+                        "font": "font_0:546"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 4,
+                        "color": "paint_0:548"
+                      }
+                    ],
+                    "textAlign": "center",
+                    "textMode": "single-line"
+                  }
+                ]
+              },
+              {
+                "type": "GROUP",
+                "id": "0:56",
+                "name": "华夏中证红利低波动ETF发起式联接C",
+                "layoutStyle": {
+                  "width": 943.9155883789062,
+                  "height": 56.941280364990234,
+                  "relativeX": 62.63597869873047,
+                  "relativeY": 70.2059326171875
+                },
+                "children": [
+                  {
+                    "type": "TEXT",
+                    "id": "0:57",
+                    "name": "华夏中证红利低波动ETF发起式联接C",
+                    "layoutStyle": {
+                      "width": 948,
+                      "height": 57,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "effect": "effect_0:456",
+                    "text": [
+                      {
+                        "text": "华夏中证红利低波动ETF发起式联接C",
+                        "font": "font_0:551"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 18,
+                        "color": "paint_0:553"
+                      }
+                    ],
+                    "textAlign": "center",
+                    "textMode": "single-line"
+                  }
+                ]
+              },
+              {
+                "type": "GROUP",
+                "id": "0:60",
+                "name": "标签",
+                "layoutStyle": {
+                  "width": 718.4099731445312,
+                  "height": 1379.489990234375,
+                  "relativeX": 357.6400146484375,
+                  "relativeY": 152.010009765625
+                },
+                "children": [
+                  {
+                    "type": "GROUP",
+                    "id": "0:61",
+                    "name": "代码",
+                    "layoutStyle": {
+                      "width": 539.3800048828125,
+                      "height": 1378.9500732421875,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "children": [
+                      {
+                        "type": "LAYER",
+                        "id": "0:62",
+                        "name": "矩形 16",
+                        "layoutStyle": {
+                          "width": 156.75,
+                          "height": 44.93000030517578,
+                          "relativeX": 0,
+                          "relativeY": 0
+                        },
+                        "borderRadius": "7px",
+                        "fill": "paint_0:558",
+                        "strokeColor": "paint_0:560",
+                        "strokeType": "solid",
+                        "strokeAlign": "center",
+                        "strokeWidth": "1px"
+                      },
+                      {
+                        "type": "TEXT",
+                        "id": "0:63",
+                        "name": "021483",
+                        "layoutStyle": {
+                          "width": 113,
+                          "height": 32,
+                          "relativeX": 22.47,
+                          "relativeY": 6.95
+                        },
+                        "text": [
+                          {
+                            "text": "021483",
+                            "font": "font_0:564"
+                          }
+                        ],
+                        "textColor": [
+                          {
+                            "start": 0,
+                            "end": 6,
+                            "color": "paint_0:566"
+                          }
+                        ],
+                        "textAlign": "center",
+                        "textMode": "single-line"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "GROUP",
+                    "id": "0:64",
+                    "name": "风险等级",
+                    "layoutStyle": {
+                      "width": 718.4099731445312,
+                      "height": 1379.489990234375,
+                      "relativeX": 173.969970703125,
+                      "relativeY": 0.469970703125
+                    },
+                    "children": [
+                      {
+                        "type": "LAYER",
+                        "id": "0:65",
+                        "name": "矩形 16 拷贝",
+                        "layoutStyle": {
+                          "width": 161.80999755859375,
+                          "height": 45,
+                          "relativeX": 0,
+                          "relativeY": 0
+                        },
+                        "borderRadius": "7px",
+                        "fill": "paint_0:558",
+                        "strokeColor": "paint_0:567",
+                        "strokeType": "solid",
+                        "strokeAlign": "center",
+                        "strokeWidth": "1px"
+                      },
+                      {
+                        "type": "TEXT",
+                        "id": "0:66",
+                        "name": "较高风险",
+                        "layoutStyle": {
+                          "width": 129,
+                          "height": 32,
+                          "relativeX": 17.5,
+                          "relativeY": 6.48
+                        },
+                        "text": [
+                          {
+                            "text": "较高风险",
+                            "font": "font_0:564"
+                          }
+                        ],
+                        "textColor": [
+                          {
+                            "start": 0,
+                            "end": 4,
+                            "color": "paint_0:570"
+                          }
+                        ],
+                        "textAlign": "center",
+                        "textMode": "single-line"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "TEXT",
+                "id": "4:0409",
+                "name": "输入文本",
+                "layoutStyle": {
+                  "width": 180,
+                  "height": 44,
+                  "relativeX": 435.010009765625,
+                  "relativeY": 299.989990234375
+                },
+                "text": [
+                  {
+                    "text": "近一年涨跌幅",
+                    "font": "font_4:0590"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 6,
+                    "color": "paint_4:273"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "4:269",
+                "name": "文字",
+                "layoutStyle": {
+                  "width": 408,
+                  "height": 55,
+                  "relativeX": 393.010009765625,
+                  "relativeY": 191.989990234375
+                },
+                "text": [
+                  {
+                    "text": "2.80%",
+                    "font": "font_4:0570"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 5,
+                    "color": "paint_4:464"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 18
+}

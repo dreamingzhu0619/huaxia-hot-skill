@@ -1,0 +1,1316 @@
+/* 04-recommendation-b.json  推荐理由B
+   由 getDsl 生成；mix-blend-mode/overflow/object-fit 取自 d2cCss。
+   根 .m-04-recommendation-b，其余节点 .n-{id}。共 105 条规则。 */
+/* 0:1103 推荐理由B [FRAME]  svg=assets.svgs[0:1103] */
+.m-04-recommendation-b {
+  position: relative;
+  width: 355px;
+  height: 408px;
+}
+
+/* 0:1104 雅下水电投资产业链梳理备份 [FRAME]  svg=assets.svgs[0:1104] */
+.n-0-1104 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 355px;
+  height: 408px;
+}
+
+/* 0:1105 蒙版 [PATH]  PATH→内联SVG */
+.n-0-1105 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 355px;
+  height: 408px;
+  background-image: linear-gradient(180deg, #E0EDFF 0%, #FFFFFF 11%);
+  box-shadow: 0px 1px 2px 2px #EAF5FF;
+}
+
+/* 0:1106 蒙版 [PATH]  PATH→内联SVG */
+.n-0-1106 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+  width: 355px;
+  height: 408px;
+  background-image: linear-gradient(180deg, #E0EDFF 0%, #FFFFFF 11%);
+  box-shadow: 0px 1px 2px 2px #EAF5FF;
+}
+
+/* 0:1107 02备份 2 [FRAME] */
+.n-0-1107 {
+  position: absolute;
+  left: 16.71px;
+  top: 370.85px;
+  z-index: 2;
+  width: 321px;
+  height: 12px;
+}
+
+/* 0:1108 资料来源：英大证券《电力能源行业周报》作 [TEXT] */
+.n-0-1108 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 321px;
+  height: 12px;
+  font-family: FZLTHJW--GB1;
+  font-size: 9px;
+  line-height: 12px;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1109 雅下水电投资产业链梳理 [GROUP] */
+.n-0-1109 {
+  position: absolute;
+  left: 7px;
+  top: 11px;
+  z-index: 3;
+  width: 341.45px;
+  height: 28px;
+}
+
+/* 0:1110 编组 19 [FRAME] */
+.n-0-1110 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 341.45px;
+  height: 28px;
+}
+
+/* 0:1111 算力需求激增，电力前景广阔 [TEXT] */
+.n-0-1111 {
+  position: absolute;
+  left: 30px;
+  top: 0px;
+  z-index: 0;
+  width: 281px;
+  height: 28px;
+  font-family: FZLTZHJW--GB1;
+  font-size: 17px;
+  line-height: 37.56px;
+  letter-spacing: -0.34px;
+  text-align: center;
+  white-space: nowrap;
+  color: #1570E9;
+}
+
+/* 0:1112 编组 8 [FRAME]  svg=assets.svgs[0:1112] */
+.n-0-1112 {
+  position: absolute;
+  left: 0px;
+  top: 12.24px;
+  z-index: 1;
+  width: 55.45px;
+  height: 9.9px;
+}
+
+/* 0:1113 矩形 [LAYER] */
+.n-0-1113 {
+  position: absolute;
+  left: 43px;
+  top: 1.45px;
+  z-index: 0;
+  width: 7px;
+  height: 7px;
+  box-sizing: border-box;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+  border: 0.7px solid #2577E8;
+}
+
+/* 0:1114 直线 [PATH]  PATH→内联SVG */
+.n-0-1114 {
+  position: absolute;
+  left: 0px;
+  top: 3.45px;
+  z-index: 1;
+  width: 42px;
+  height: 2px;
+  background-image: linear-gradient(271deg, #2979E8 0%, rgba(37, 119, 232, 0) 99%);
+}
+
+/* 0:1115 矩形 [LAYER] */
+.n-0-1115 {
+  position: absolute;
+  left: 47px;
+  top: 1.45px;
+  z-index: 2;
+  width: 7px;
+  height: 7px;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+  background-color: #2577E8;
+}
+
+/* 0:1116 编组 8 [FRAME]  svg=assets.svgs[0:1116] */
+.n-0-1116 {
+  position: absolute;
+  left: 286px;
+  top: 12.24px;
+  z-index: 2;
+  width: 55.45px;
+  height: 9.9px;
+  transform: rotate(180deg) rotateX(180deg);
+  transform-origin: center;
+}
+
+/* 0:1117 矩形 [LAYER] */
+.n-0-1117 {
+  position: absolute;
+  left: 43px;
+  top: 1.45px;
+  z-index: 0;
+  width: 7px;
+  height: 7px;
+  box-sizing: border-box;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+  border: 0.7px solid #2577E8;
+}
+
+/* 0:1118 直线 [PATH]  PATH→内联SVG */
+.n-0-1118 {
+  position: absolute;
+  left: 0px;
+  top: 3.45px;
+  z-index: 1;
+  width: 42px;
+  height: 2px;
+  background-image: linear-gradient(271deg, #2979E8 0%, rgba(37, 119, 232, 0) 99%);
+}
+
+/* 0:1119 矩形 [LAYER] */
+.n-0-1119 {
+  position: absolute;
+  left: 47px;
+  top: 1.45px;
+  z-index: 2;
+  width: 7px;
+  height: 7px;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+  background-color: #2577E8;
+}
+
+/* 0:1120 近年电网与电源投资双轮驱动，持续加码彰显 [TEXT] */
+.n-0-1120 {
+  position: absolute;
+  left: 17px;
+  top: 45px;
+  z-index: 1;
+  width: 321px;
+  height: 63px;
+  font-family: FZLTHJW--GB1;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: -0.1px;
+  text-align: left;
+  color: #333333;
+}
+
+/* 0:1121 电网投资及电源 投资情况(亿元) [TEXT] */
+.n-0-1121 {
+  position: absolute;
+  left: 138px;
+  top: 120px;
+  z-index: 2;
+  width: 99px;
+  height: 30px;
+  font-family: FZLTZHJW--GB1;
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: -0.09px;
+  text-align: center;
+  color: #884209;
+}
+
+/* 0:1122 编组 14 [FRAME] */
+.n-0-1122 {
+  position: absolute;
+  left: 82px;
+  top: 342px;
+  z-index: 3;
+  width: 191.64px;
+  height: 14px;
+}
+
+/* 0:1123 电网累计投资 [TEXT] */
+.n-0-1123 {
+  position: absolute;
+  left: 14px;
+  top: 0px;
+  z-index: 0;
+  width: 78.64px;
+  height: 17px;
+  font-family: FZLTHJW--GB1;
+  font-size: 12px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1124 电源累计投资 [TEXT] */
+.n-0-1124 {
+  position: absolute;
+  left: 113px;
+  top: 0px;
+  z-index: 1;
+  width: 78.64px;
+  height: 17px;
+  font-family: FZLTHJW--GB1;
+  font-size: 12px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1125 矩形 [LAYER] */
+.n-0-1125 {
+  position: absolute;
+  left: 0px;
+  top: 3px;
+  z-index: 2;
+  width: 9px;
+  height: 9px;
+  background-color: #FFD386;
+}
+
+/* 0:1126 矩形备份 19 [LAYER] */
+.n-0-1126 {
+  position: absolute;
+  left: 99px;
+  top: 3px;
+  z-index: 3;
+  width: 9px;
+  height: 9px;
+  background-color: #5BAEEA;
+}
+
+/* 0:1127 编组 12 [FRAME]  svg=assets.svgs[0:1127] */
+.n-0-1127 {
+  position: absolute;
+  left: 44.79px;
+  top: 161.72px;
+  z-index: 4;
+  width: 284.55px;
+  height: 149px;
+}
+
+/* 0:1128 路径 11 [PATH]  PATH→内联SVG */
+.n-0-1128 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 284.55px;
+  height: 0px;
+  background-color: #E1E1E1;
+}
+
+/* 0:1129 路径 11备份 [PATH]  PATH→内联SVG */
+.n-0-1129 {
+  position: absolute;
+  left: 0px;
+  top: 21.14px;
+  z-index: 1;
+  width: 284.55px;
+  height: 0px;
+  background-color: #E1E1E1;
+}
+
+/* 0:1130 路径 11备份 2 [PATH]  PATH→内联SVG */
+.n-0-1130 {
+  position: absolute;
+  left: 0px;
+  top: 42.29px;
+  z-index: 2;
+  width: 284.55px;
+  height: 0px;
+  background-color: #E1E1E1;
+}
+
+/* 0:1131 路径 11备份 3 [PATH]  PATH→内联SVG */
+.n-0-1131 {
+  position: absolute;
+  left: 0px;
+  top: 63.43px;
+  z-index: 3;
+  width: 284.55px;
+  height: 0px;
+  background-color: #E1E1E1;
+}
+
+/* 0:1132 路径 11备份 4 [PATH]  PATH→内联SVG */
+.n-0-1132 {
+  position: absolute;
+  left: 0px;
+  top: 84.57px;
+  z-index: 4;
+  width: 284.55px;
+  height: 0px;
+  background-color: #E1E1E1;
+}
+
+/* 0:1133 路径 11备份 5 [PATH]  PATH→内联SVG */
+.n-0-1133 {
+  position: absolute;
+  left: 0px;
+  top: 105.71px;
+  z-index: 5;
+  width: 284.55px;
+  height: 0px;
+  background-color: #E1E1E1;
+}
+
+/* 0:1134 路径 11备份 6 [PATH]  PATH→内联SVG */
+.n-0-1134 {
+  position: absolute;
+  left: 0px;
+  top: 126.86px;
+  z-index: 6;
+  width: 284.55px;
+  height: 0px;
+  background-color: #E1E1E1;
+}
+
+/* 0:1135 路径 11备份 7 [PATH]  PATH→内联SVG */
+.n-0-1135 {
+  position: absolute;
+  left: 0px;
+  top: 148px;
+  z-index: 7;
+  width: 284.55px;
+  height: 0px;
+  background-color: #E1E1E1;
+}
+
+/* 0:1136 编组 13 [FRAME] */
+.n-0-1136 {
+  position: absolute;
+  left: 48px;
+  top: 186px;
+  z-index: 5;
+  width: 278px;
+  height: 124px;
+}
+
+/* 0:1137 编组 11 [FRAME] */
+.n-0-1137 {
+  position: absolute;
+  left: 0px;
+  top: 83px;
+  z-index: 0;
+  width: 10px;
+  height: 41px;
+}
+
+/* 0:1138 矩形 [LAYER] */
+.n-0-1138 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 5px;
+  height: 41px;
+  background-color: #FFD386;
+}
+
+/* 0:1139 矩形备份 16 [LAYER] */
+.n-0-1139 {
+  position: absolute;
+  left: 5px;
+  top: 1px;
+  z-index: 1;
+  width: 5px;
+  height: 40px;
+  background-color: #5BAEEA;
+}
+
+/* 0:1140 编组 10 [FRAME] */
+.n-0-1140 {
+  position: absolute;
+  left: 16.75px;
+  top: 82px;
+  z-index: 1;
+  width: 10px;
+  height: 42px;
+}
+
+/* 0:1141 矩形备份 17 [LAYER] */
+.n-0-1141 {
+  position: absolute;
+  left: 0px;
+  top: 6px;
+  z-index: 0;
+  width: 5px;
+  height: 36px;
+  background-color: #FFD386;
+}
+
+/* 0:1142 矩形备份 18 [LAYER] */
+.n-0-1142 {
+  position: absolute;
+  left: 5px;
+  top: 0px;
+  z-index: 1;
+  width: 5px;
+  height: 42px;
+  background-color: #5BAEEA;
+}
+
+/* 0:1143 编组 10备份 [FRAME] */
+.n-0-1143 {
+  position: absolute;
+  left: 33.5px;
+  top: 84px;
+  z-index: 2;
+  width: 10px;
+  height: 40px;
+}
+
+/* 0:1144 矩形备份 17 [LAYER] */
+.n-0-1144 {
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  z-index: 0;
+  width: 5px;
+  height: 39px;
+  background-color: #FFD386;
+}
+
+/* 0:1145 矩形备份 18 [LAYER] */
+.n-0-1145 {
+  position: absolute;
+  left: 5px;
+  top: 0px;
+  z-index: 1;
+  width: 5px;
+  height: 40px;
+  background-color: #5BAEEA;
+}
+
+/* 0:1146 编组 10备份 2 [FRAME] */
+.n-0-1146 {
+  position: absolute;
+  left: 50.25px;
+  top: 84px;
+  z-index: 3;
+  width: 10px;
+  height: 40px;
+}
+
+/* 0:1147 矩形备份 17 [LAYER] */
+.n-0-1147 {
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  z-index: 0;
+  width: 5px;
+  height: 39px;
+  background-color: #FFD386;
+}
+
+/* 0:1148 矩形备份 18 [LAYER] */
+.n-0-1148 {
+  position: absolute;
+  left: 5px;
+  top: 0px;
+  z-index: 1;
+  width: 5px;
+  height: 40px;
+  background-color: #5BAEEA;
+}
+
+/* 0:1149 编组 10备份 3 [FRAME] */
+.n-0-1149 {
+  position: absolute;
+  left: 67px;
+  top: 83px;
+  z-index: 4;
+  width: 10px;
+  height: 41px;
+}
+
+/* 0:1150 矩形备份 17 [LAYER] */
+.n-0-1150 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 5px;
+  height: 41px;
+  background-color: #FFD386;
+}
+
+/* 0:1151 矩形备份 18 [LAYER] */
+.n-0-1151 {
+  position: absolute;
+  left: 5px;
+  top: 0px;
+  z-index: 1;
+  width: 5px;
+  height: 41px;
+  background-color: #5BAEEA;
+}
+
+/* 0:1152 编组 10备份 4 [FRAME] */
+.n-0-1152 {
+  position: absolute;
+  left: 83.75px;
+  top: 81px;
+  z-index: 5;
+  width: 10px;
+  height: 43px;
+}
+
+/* 0:1153 矩形备份 17 [LAYER] */
+.n-0-1153 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 5px;
+  height: 43px;
+  background-color: #FFD386;
+}
+
+/* 0:1154 矩形备份 18 [LAYER] */
+.n-0-1154 {
+  position: absolute;
+  left: 5px;
+  top: 4px;
+  z-index: 1;
+  width: 5px;
+  height: 39px;
+  background-color: #5BAEEA;
+}
+
+/* 0:1155 编组 10备份 5 [FRAME] */
+.n-0-1155 {
+  position: absolute;
+  left: 100.5px;
+  top: 75px;
+  z-index: 6;
+  width: 10px;
+  height: 49px;
+}
+
+/* 0:1156 矩形备份 17 [LAYER] */
+.n-0-1156 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 5px;
+  height: 49px;
+  background-color: #FFD386;
+}
+
+/* 0:1157 矩形备份 18 [LAYER] */
+.n-0-1157 {
+  position: absolute;
+  left: 5px;
+  top: 8px;
+  z-index: 1;
+  width: 5px;
+  height: 41px;
+  background-color: #5BAEEA;
+}
+
+/* 0:1158 编组 10备份 6 [FRAME] */
+.n-0-1158 {
+  position: absolute;
+  left: 117.25px;
+  top: 67px;
+  z-index: 7;
+  width: 10px;
+  height: 57px;
+}
+
+/* 0:1159 矩形备份 17 [LAYER] */
+.n-0-1159 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 5px;
+  height: 57px;
+  background-color: #FFD386;
+}
+
+/* 0:1160 矩形备份 18 [LAYER] */
+.n-0-1160 {
+  position: absolute;
+  left: 5px;
+  top: 21px;
+  z-index: 1;
+  width: 5px;
+  height: 36px;
+  background-color: #5BAEEA;
+}
+
+/* 0:1161 编组 10备份 7 [FRAME] */
+.n-0-1161 {
+  position: absolute;
+  left: 134px;
+  top: 68px;
+  z-index: 8;
+  width: 10px;
+  height: 56px;
+}
+
+/* 0:1162 矩形备份 17 [LAYER] */
+.n-0-1162 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 5px;
+  height: 56px;
+  background-color: #FFD386;
+}
+
+/* 0:1163 矩形备份 18 [LAYER] */
+.n-0-1163 {
+  position: absolute;
+  left: 5px;
+  top: 26px;
+  z-index: 1;
+  width: 5px;
+  height: 30px;
+  background-color: #5BAEEA;
+}
+
+/* 0:1164 编组 10备份 8 [FRAME] */
+.n-0-1164 {
+  position: absolute;
+  left: 150.75px;
+  top: 67px;
+  z-index: 9;
+  width: 10px;
+  height: 57px;
+}
+
+/* 0:1165 矩形备份 17 [LAYER] */
+.n-0-1165 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 5px;
+  height: 57px;
+  background-color: #FFD386;
+}
+
+/* 0:1166 矩形备份 18 [LAYER] */
+.n-0-1166 {
+  position: absolute;
+  left: 5px;
+  top: 28px;
+  z-index: 1;
+  width: 5px;
+  height: 29px;
+  background-color: #5BAEEA;
+}
+
+/* 0:1167 编组 10备份 9 [FRAME] */
+.n-0-1167 {
+  position: absolute;
+  left: 167.5px;
+  top: 71px;
+  z-index: 10;
+  width: 10px;
+  height: 53px;
+}
+
+/* 0:1168 矩形备份 17 [LAYER] */
+.n-0-1168 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 5px;
+  height: 53px;
+  background-color: #FFD386;
+}
+
+/* 0:1169 矩形备份 18 [LAYER] */
+.n-0-1169 {
+  position: absolute;
+  left: 5px;
+  top: 20px;
+  z-index: 1;
+  width: 5px;
+  height: 33px;
+  background-color: #5BAEEA;
+}
+
+/* 0:1170 编组 10备份 10 [FRAME] */
+.n-0-1170 {
+  position: absolute;
+  left: 184.25px;
+  top: 68px;
+  z-index: 11;
+  width: 10px;
+  height: 56px;
+}
+
+/* 0:1171 矩形备份 17 [LAYER] */
+.n-0-1171 {
+  position: absolute;
+  left: 0px;
+  top: 4px;
+  z-index: 0;
+  width: 5px;
+  height: 52px;
+  background-color: #FFD386;
+}
+
+/* 0:1172 矩形备份 18 [LAYER] */
+.n-0-1172 {
+  position: absolute;
+  left: 5px;
+  top: 0px;
+  z-index: 1;
+  width: 5px;
+  height: 56px;
+  background-color: #5BAEEA;
+}
+
+/* 0:1173 编组 10备份 11 [FRAME] */
+.n-0-1173 {
+  position: absolute;
+  left: 201px;
+  top: 66px;
+  z-index: 12;
+  width: 10px;
+  height: 58px;
+}
+
+/* 0:1174 矩形备份 17 [LAYER] */
+.n-0-1174 {
+  position: absolute;
+  left: 0px;
+  top: 6px;
+  z-index: 0;
+  width: 5px;
+  height: 52px;
+  background-color: #FFD386;
+}
+
+/* 0:1175 矩形备份 18 [LAYER] */
+.n-0-1175 {
+  position: absolute;
+  left: 5px;
+  top: 0px;
+  z-index: 1;
+  width: 5px;
+  height: 58px;
+  background-color: #5BAEEA;
+}
+
+/* 0:1176 编组 10备份 12 [FRAME] */
+.n-0-1176 {
+  position: absolute;
+  left: 217.75px;
+  top: 48px;
+  z-index: 13;
+  width: 10px;
+  height: 76px;
+}
+
+/* 0:1177 矩形备份 17 [LAYER] */
+.n-0-1177 {
+  position: absolute;
+  left: 0px;
+  top: 23px;
+  z-index: 0;
+  width: 5px;
+  height: 53px;
+  background-color: #FFD386;
+}
+
+/* 0:1178 矩形备份 18 [LAYER] */
+.n-0-1178 {
+  position: absolute;
+  left: 5px;
+  top: 0px;
+  z-index: 1;
+  width: 5px;
+  height: 76px;
+  background-color: #5BAEEA;
+}
+
+/* 0:1179 编组 10备份 13 [FRAME] */
+.n-0-1179 {
+  position: absolute;
+  left: 234.5px;
+  top: 22px;
+  z-index: 14;
+  width: 10px;
+  height: 102px;
+}
+
+/* 0:1180 矩形备份 17 [LAYER] */
+.n-0-1180 {
+  position: absolute;
+  left: 0px;
+  top: 47px;
+  z-index: 0;
+  width: 5px;
+  height: 55px;
+  background-color: #FFD386;
+}
+
+/* 0:1181 矩形备份 18 [LAYER] */
+.n-0-1181 {
+  position: absolute;
+  left: 5px;
+  top: 0px;
+  z-index: 1;
+  width: 5px;
+  height: 102px;
+  background-color: #5BAEEA;
+}
+
+/* 0:1182 编组 10备份 14 [FRAME] */
+.n-0-1182 {
+  position: absolute;
+  left: 251.25px;
+  top: 0px;
+  z-index: 15;
+  width: 10px;
+  height: 124px;
+}
+
+/* 0:1183 矩形备份 17 [LAYER] */
+.n-0-1183 {
+  position: absolute;
+  left: 0px;
+  top: 60px;
+  z-index: 0;
+  width: 5px;
+  height: 64px;
+  background-color: #FFD386;
+}
+
+/* 0:1184 矩形备份 18 [LAYER] */
+.n-0-1184 {
+  position: absolute;
+  left: 5px;
+  top: 0px;
+  z-index: 1;
+  width: 5px;
+  height: 124px;
+  background-color: #5BAEEA;
+}
+
+/* 0:1185 编组 10备份 15 [FRAME] */
+.n-0-1185 {
+  position: absolute;
+  left: 268px;
+  top: 8px;
+  z-index: 16;
+  width: 10px;
+  height: 116px;
+}
+
+/* 0:1186 矩形备份 17 [LAYER] */
+.n-0-1186 {
+  position: absolute;
+  left: 0px;
+  top: 49px;
+  z-index: 0;
+  width: 5px;
+  height: 67px;
+  background-color: #FFD386;
+}
+
+/* 0:1187 矩形备份 18 [LAYER] */
+.n-0-1187 {
+  position: absolute;
+  left: 5px;
+  top: 0px;
+  z-index: 1;
+  width: 5px;
+  height: 116px;
+  background-color: #5BAEEA;
+}
+
+/* 0:1188 14000 12000 10000 80 [TEXT] */
+.n-0-1188 {
+  position: absolute;
+  left: 17px;
+  top: 157px;
+  z-index: 6;
+  width: 23px;
+  height: 154px;
+  font-family: FZLTHJW--GB1;
+  font-size: 8px;
+  line-height: 10.5px;
+  letter-spacing: -0.16px;
+  text-align: right;
+  color: #959595;
+}
+
+/* 0:1189 2009 [TEXT] */
+.n-0-1189 {
+  position: absolute;
+  left: 38px;
+  top: 323.7px;
+  z-index: 7;
+  width: 18px;
+  height: 12px;
+  transform: rotate(-46deg);
+  transform-origin: 0 0;
+  font-family: FZLTHJW--GB1;
+  font-size: 8px;
+  line-height: normal;
+  letter-spacing: -0.16px;
+  text-align: right;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1190 2010 [TEXT] */
+.n-0-1190 {
+  position: absolute;
+  left: 54.56px;
+  top: 322.98px;
+  z-index: 8;
+  width: 18px;
+  height: 12px;
+  transform: rotate(-46deg);
+  transform-origin: 0 0;
+  font-family: FZLTHJW--GB1;
+  font-size: 8px;
+  line-height: normal;
+  letter-spacing: -0.16px;
+  text-align: right;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1191 2011 [TEXT] */
+.n-0-1191 {
+  position: absolute;
+  left: 71.13px;
+  top: 322.26px;
+  z-index: 9;
+  width: 18px;
+  height: 12px;
+  transform: rotate(-46deg);
+  transform-origin: 0 0;
+  font-family: FZLTHJW--GB1;
+  font-size: 8px;
+  line-height: normal;
+  letter-spacing: -0.16px;
+  text-align: right;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1192 2012 [TEXT] */
+.n-0-1192 {
+  position: absolute;
+  left: 88.31px;
+  top: 322.98px;
+  z-index: 10;
+  width: 18px;
+  height: 12px;
+  transform: rotate(-46deg);
+  transform-origin: 0 0;
+  font-family: FZLTHJW--GB1;
+  font-size: 8px;
+  line-height: normal;
+  letter-spacing: -0.16px;
+  text-align: right;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1193 2013 [TEXT] */
+.n-0-1193 {
+  position: absolute;
+  left: 105.19px;
+  top: 322.98px;
+  z-index: 11;
+  width: 18px;
+  height: 12px;
+  transform: rotate(-46deg);
+  transform-origin: 0 0;
+  font-family: FZLTHJW--GB1;
+  font-size: 8px;
+  line-height: normal;
+  letter-spacing: -0.16px;
+  text-align: right;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1194 2014 [TEXT] */
+.n-0-1194 {
+  position: absolute;
+  left: 122.06px;
+  top: 322.98px;
+  z-index: 12;
+  width: 18px;
+  height: 12px;
+  transform: rotate(-46deg);
+  transform-origin: 0 0;
+  font-family: FZLTHJW--GB1;
+  font-size: 8px;
+  line-height: normal;
+  letter-spacing: -0.16px;
+  text-align: right;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1195 2015 [TEXT] */
+.n-0-1195 {
+  position: absolute;
+  left: 138.94px;
+  top: 322.98px;
+  z-index: 13;
+  width: 18px;
+  height: 12px;
+  transform: rotate(-46deg);
+  transform-origin: 0 0;
+  font-family: FZLTHJW--GB1;
+  font-size: 8px;
+  line-height: normal;
+  letter-spacing: -0.16px;
+  text-align: right;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1196 2016 [TEXT] */
+.n-0-1196 {
+  position: absolute;
+  left: 155.81px;
+  top: 322.98px;
+  z-index: 14;
+  width: 18px;
+  height: 12px;
+  transform: rotate(-46deg);
+  transform-origin: 0 0;
+  font-family: FZLTHJW--GB1;
+  font-size: 8px;
+  line-height: normal;
+  letter-spacing: -0.16px;
+  text-align: right;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1197 2017 [TEXT] */
+.n-0-1197 {
+  position: absolute;
+  left: 172.69px;
+  top: 322.98px;
+  z-index: 15;
+  width: 18px;
+  height: 12px;
+  transform: rotate(-46deg);
+  transform-origin: 0 0;
+  font-family: FZLTHJW--GB1;
+  font-size: 8px;
+  line-height: normal;
+  letter-spacing: -0.16px;
+  text-align: right;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1198 2018 [TEXT] */
+.n-0-1198 {
+  position: absolute;
+  left: 189.56px;
+  top: 322.98px;
+  z-index: 16;
+  width: 18px;
+  height: 12px;
+  transform: rotate(-46deg);
+  transform-origin: 0 0;
+  font-family: FZLTHJW--GB1;
+  font-size: 8px;
+  line-height: normal;
+  letter-spacing: -0.16px;
+  text-align: right;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1199 2019 [TEXT] */
+.n-0-1199 {
+  position: absolute;
+  left: 206.44px;
+  top: 322.98px;
+  z-index: 17;
+  width: 18px;
+  height: 12px;
+  transform: rotate(-46deg);
+  transform-origin: 0 0;
+  font-family: FZLTHJW--GB1;
+  font-size: 8px;
+  line-height: normal;
+  letter-spacing: -0.16px;
+  text-align: right;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1200 2020 [TEXT] */
+.n-0-1200 {
+  position: absolute;
+  left: 223.62px;
+  top: 323.7px;
+  z-index: 18;
+  width: 18px;
+  height: 12px;
+  transform: rotate(-46deg);
+  transform-origin: 0 0;
+  font-family: FZLTHJW--GB1;
+  font-size: 8px;
+  line-height: normal;
+  letter-spacing: -0.16px;
+  text-align: right;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1201 2021 [TEXT] */
+.n-0-1201 {
+  position: absolute;
+  left: 240.19px;
+  top: 322.98px;
+  z-index: 19;
+  width: 18px;
+  height: 12px;
+  transform: rotate(-46deg);
+  transform-origin: 0 0;
+  font-family: FZLTHJW--GB1;
+  font-size: 8px;
+  line-height: normal;
+  letter-spacing: -0.16px;
+  text-align: right;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1202 2022 [TEXT] */
+.n-0-1202 {
+  position: absolute;
+  left: 257.37px;
+  top: 323.7px;
+  z-index: 20;
+  width: 18px;
+  height: 12px;
+  transform: rotate(-46deg);
+  transform-origin: 0 0;
+  font-family: FZLTHJW--GB1;
+  font-size: 8px;
+  line-height: normal;
+  letter-spacing: -0.16px;
+  text-align: right;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1203 2023 [TEXT] */
+.n-0-1203 {
+  position: absolute;
+  left: 274.25px;
+  top: 323.7px;
+  z-index: 21;
+  width: 18px;
+  height: 12px;
+  transform: rotate(-46deg);
+  transform-origin: 0 0;
+  font-family: FZLTHJW--GB1;
+  font-size: 8px;
+  line-height: normal;
+  letter-spacing: -0.16px;
+  text-align: right;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1204 2024 [TEXT] */
+.n-0-1204 {
+  position: absolute;
+  left: 291.12px;
+  top: 323.7px;
+  z-index: 22;
+  width: 18px;
+  height: 12px;
+  transform: rotate(-46deg);
+  transform-origin: 0 0;
+  font-family: FZLTHJW--GB1;
+  font-size: 8px;
+  line-height: normal;
+  letter-spacing: -0.16px;
+  text-align: right;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1205 2025 [TEXT] */
+.n-0-1205 {
+  position: absolute;
+  left: 308px;
+  top: 323.7px;
+  z-index: 23;
+  width: 18px;
+  height: 12px;
+  transform: rotate(-46deg);
+  transform-origin: 0 0;
+  font-family: FZLTHJW--GB1;
+  font-size: 8px;
+  line-height: normal;
+  letter-spacing: -0.16px;
+  text-align: right;
+  white-space: nowrap;
+  color: #959595;
+}
+
+/* 0:1206 路径 13 [PATH]  PATH→内联SVG */
+.n-0-1206 {
+  position: absolute;
+  left: 237px;
+  top: 134.5px;
+  z-index: 24;
+  width: 45.5px;
+  height: 0px;
+  background-color: #FFD386;
+}
+
+/* 0:1207 路径 13备份 [PATH]  PATH→内联SVG */
+.n-0-1207 {
+  position: absolute;
+  left: 91px;
+  top: 134.5px;
+  z-index: 25;
+  width: 45.5px;
+  height: 0px;
+  background-color: #FFD386;
+}

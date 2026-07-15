@@ -1,0 +1,78 @@
+{
+  "hotspotExpress": [
+    {
+      "title": "热点速递",
+      "items": [
+        { "label": "央行降准", "desc": "释放长期资金约1万亿元" },
+        { "label": "科创板改革", "desc": "八条措施全面落地" },
+        { "label": "北向资金", "desc": "连续5日净流入超300亿" }
+      ],
+      "banner": "assets/images/hotspot-banner.png"
+    }
+  ],
+
+  "productCards": [
+    {
+      "name": "华夏沪深300指数增强A",
+      "code": "021483",
+      "risk": "较高风险",
+      "metricLabel": "近一年涨跌幅",
+      "metricValue": "2.80%",
+      "cta": "小试一笔"
+    },
+    {
+      "name": "华夏科技创新混合C",
+      "code": "021484",
+      "risk": "高风险",
+      "metricLabel": "近一年涨跌幅",
+      "metricValue": "-5.32%",
+      "cta": "逢低布局"
+    },
+    {
+      "name": "华夏纯债债券A",
+      "code": "021485",
+      "risk": "较低风险",
+      "metricLabel": "近一年涨跌幅",
+      "metricValue": "4.15%",
+      "cta": "稳定配置"
+    }
+  ],
+
+  "recommendations": [
+    {
+      "title": "左手红利、右手低波，攻守兼备的组合底仓",
+      "body": "红利策略在震荡市中提供稳定的股息收益，低波策略在市场下行时有效控制回撤，两者结合兼顾收益与风险控制。",
+      "chart": "近一年净值走势对比折线图，红色为本策略，灰色为沪深300基准，蓝色为中证红利指数，横轴12个月",
+      "source": "数据来源：Wind，截至2024.12.31"
+    },
+    {
+      "title": "政策红利持续释放，科创板块迎布局窗口",
+      "body": "科创板八条措施落地后，硬科技企业融资环境显著改善，研发投入持续增加，板块整体估值处于历史低位。",
+      "charts": {
+        "layout": "上下堆叠排列，间距12px",
+        "charts": [
+          "assets/images/kcb-valuation-trend.png",
+          "近一月科创板日均成交额柱状图，蓝色柱体，横轴为日期"
+        ]
+      },
+      "images": {
+        "layout": "2行2列等分网格排列，间距8px",
+        "images": [
+          "assets/images/kcb-sector-1.png",
+          "assets/images/kcb-sector-2.png",
+          "assets/images/kcb-sector-3.png",
+          "assets/images/kcb-sector-4.png"
+        ]
+      },
+      "source": "数据来源：上交所，截至2024.12.31"
+    }
+  ],
+
+  "riskWarning": [
+    {
+      "products": "华夏沪深300指数增强A、华夏科技创新混合C、华夏纯债债券A",
+      "fee": "申购费率 0.15%~1.50%，赎回费率 0.00%~1.50%，管理费率 0.50%~1.50%/年",
+      "disclaimer": "本材料仅供参考，不构成投资建议。基金有风险，投资需谨慎。过往业绩不预示未来表现。"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "sectionIndex": 4,
+  "section": {
+    "id": "0:1000",
+    "name": "美国电网迎来史诗级扩建，750亿美元投资",
+    "type": "TEXT"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:169": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 14,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "20",
+          "letterSpacing": "-0.10000000149011612px"
+        }
+      },
+      "font_0:196": {
+        "value": {
+          "family": "FZLTZHJW--GB1",
+          "size": 14,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "20",
+          "letterSpacing": "-0.10000000149011612px"
+        }
+      },
+      "paint_0:171": {
+        "value": [
+          "#333333"
+        ]
+      },
+      "paint_0:306": {
+        "value": [
+          "#F81F02"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:1000",
+        "name": "美国电网迎来史诗级扩建，750亿美元投资",
+        "layoutStyle": {
+          "width": 321,
+          "height": 128,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "T4|0:1000",
+            "font": "font_0:196"
+          },
+          {
+            "text": "T4|0:1000",
+            "font": "font_0:169"
+          },
+          {
+            "text": "T4|0:1000",
+            "font": "font_0:196"
+          },
+          {
+            "text": "T4|0:1000",
+            "font": "font_0:169"
+          },
+          {
+            "text": "T4|0:1000",
+            "font": "font_0:196"
+          },
+          {
+            "text": "T4|0:1000",
+            "font": "font_0:169"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 11,
+            "color": "paint_0:306"
+          },
+          {
+            "start": 11,
+            "end": 40,
+            "color": "paint_0:171"
+          },
+          {
+            "start": 40,
+            "end": 55,
+            "color": "paint_0:306"
+          },
+          {
+            "start": 55,
+            "end": 56,
+            "color": "paint_0:171"
+          },
+          {
+            "start": 56,
+            "end": 86,
+            "color": "paint_0:306"
+          },
+          {
+            "start": 86,
+            "end": 124,
+            "color": "paint_0:171"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

@@ -1,0 +1,37 @@
+{
+  "sectionIndex": 6,
+  "section": {
+    "id": "0:149",
+    "name": "矩形 1006",
+    "type": "LAYER"
+  },
+  "dsl": {
+    "styles": {
+      "paint_0:649": {
+        "value": [
+          "#FE443E"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "LAYER",
+        "id": "0:149",
+        "name": "矩形 1006",
+        "layoutStyle": {
+          "width": 252.17999267578125,
+          "height": 362,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "borderRadius": "20px",
+        "strokeColor": "paint_0:649",
+        "strokeType": "dashed",
+        "strokeAlign": "center",
+        "strokeWidth": "1px"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

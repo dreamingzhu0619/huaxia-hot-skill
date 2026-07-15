@@ -1,0 +1,36 @@
+{
+  "sectionIndex": 93,
+  "section": {
+    "id": "0:440",
+    "name": "矩形 4",
+    "type": "LAYER"
+  },
+  "dsl": {
+    "styles": {
+      "paint_0:905": {
+        "value": [
+          "#A9582C"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "LAYER",
+        "id": "0:440",
+        "name": "矩形 4",
+        "layoutStyle": {
+          "width": 1057,
+          "height": 283,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "strokeColor": "paint_0:905",
+        "strokeType": "solid",
+        "strokeAlign": "center",
+        "strokeWidth": "1px"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

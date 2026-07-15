@@ -1,0 +1,97 @@
+{
+  "sectionIndex": 26,
+  "section": {
+    "id": "0:254",
+    "name": "从一季度持仓图谱看，险资坚定执行“哑铃型”配置策略，一端重仓高股息红利资产，一端布局硬科技赛道。这种兼顾防御与进攻的策略，引导市场资金从短期题材炒作，转向对长期基本面和产业逻辑的深度挖掘。 ",
+    "type": "TEXT"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:590": {
+        "value": {
+          "family": "MiSans-Regular",
+          "size": 38,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "auto",
+          "letterSpacing": "-4.5%",
+          "weight": "400"
+        }
+      },
+      "font_0:591": {
+        "value": {
+          "family": "MiSans-Demibold",
+          "size": 38,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "auto",
+          "letterSpacing": "-4.5%",
+          "weight": "600"
+        }
+      },
+      "paint_0:755": {
+        "value": [
+          "#6D2807"
+        ]
+      },
+      "paint_0:757": {
+        "value": [
+          "#E5372C"
+        ]
+      },
+      "paint_0:759": {
+        "value": [
+          "#6D2807"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:254",
+        "name": "从一季度持仓图谱看，险资坚定执行“哑铃型”配置策略，一端重仓高股息红利资产，一端布局硬科技赛道。这种兼顾防御与进攻的策略，引导市场资金从短期题材炒作，转向对长期基本面和产业逻辑的深度挖掘。 ",
+        "layoutStyle": {
+          "width": 987.4688110351562,
+          "height": 237.0980987548828,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "T26|0:254",
+            "font": "font_0:590"
+          },
+          {
+            "text": "T26|0:254",
+            "font": "font_0:591"
+          },
+          {
+            "text": "T26|0:254",
+            "font": "font_0:590"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 16,
+            "color": "paint_0:755"
+          },
+          {
+            "start": 16,
+            "end": 25,
+            "color": "paint_0:757"
+          },
+          {
+            "start": 25,
+            "end": 95,
+            "color": "paint_0:759"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

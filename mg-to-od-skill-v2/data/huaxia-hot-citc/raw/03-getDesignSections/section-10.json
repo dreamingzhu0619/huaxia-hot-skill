@@ -1,0 +1,75 @@
+{
+  "sectionIndex": 10,
+  "section": {
+    "id": "0:162",
+    "name": "红利低波组合",
+    "type": "GROUP"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:456": {
+        "value": []
+      },
+      "font_0:661": {
+        "value": {
+          "family": "MiSans-Semibold",
+          "size": 38,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "38",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "600"
+        }
+      },
+      "paint_0:663": {
+        "value": [
+          "#6D2807"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "GROUP",
+        "id": "0:162",
+        "name": "红利低波组合",
+        "layoutStyle": {
+          "width": 0,
+          "height": 38,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "TEXT",
+            "id": "0:163",
+            "name": "红利低波组合",
+            "layoutStyle": {
+              "width": 232,
+              "height": 38,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "effect": "effect_0:456",
+            "text": [
+              {
+                "text": "红利低波组合",
+                "font": "font_0:661"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 6,
+                "color": "paint_0:663"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 2
+}

@@ -1,0 +1,58 @@
+{
+  "sectionIndex": 85,
+  "section": {
+    "id": "0:409",
+    "name": "销售服务费",
+    "type": "TEXT"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:1014": {
+        "value": {
+          "family": "MiSans-Regular",
+          "size": 28.451799392700195,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "28.451799392700195",
+          "letterSpacing": "auto",
+          "weight": "400"
+        }
+      },
+      "paint_0:1028": {
+        "value": [
+          "#AA785D"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:409",
+        "name": "销售服务费",
+        "layoutStyle": {
+          "width": 143,
+          "height": 29,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "销售服务费",
+            "font": "font_0:1014"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 5,
+            "color": "paint_0:1028"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

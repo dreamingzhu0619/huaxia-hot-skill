@@ -1,0 +1,322 @@
+{
+  "sectionIndex": 77,
+  "section": {
+    "id": "2:838",
+    "name": "表格二",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:670": {
+        "value": []
+      },
+      "effect_0:678": {
+        "value": []
+      },
+      "font_0:654": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 9,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "font_0:680": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 10,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "0.07287000119686127px"
+        }
+      },
+      "paint_0:656": {
+        "value": [
+          "#81B8EB"
+        ]
+      },
+      "paint_0:666": {
+        "value": [
+          "rgba(255, 255, 255, 0.01)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "2:838",
+        "name": "表格二",
+        "layoutStyle": {
+          "width": 355.4305419921875,
+          "height": 88,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "TEXT",
+            "id": "0:1303",
+            "name": "费用类别",
+            "layoutStyle": {
+              "width": 36,
+              "height": 13,
+              "relativeX": 29.439453125,
+              "relativeY": 4.69775390625
+            },
+            "text": [
+              {
+                "text": "费用类别",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 4,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1304",
+            "name": "收费方式/年费率或金额",
+            "layoutStyle": {
+              "width": 94,
+              "height": 13,
+              "relativeX": 177.06640625,
+              "relativeY": 5
+            },
+            "text": [
+              {
+                "text": "收费方式/年费率或金额",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 11,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1305",
+            "name": "管理费",
+            "layoutStyle": {
+              "width": 27,
+              "height": 13,
+              "relativeX": 33.939453125,
+              "relativeY": 30.69775390625
+            },
+            "text": [
+              {
+                "text": "管理费",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 3,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1306",
+            "name": "托管费",
+            "layoutStyle": {
+              "width": 27,
+              "height": 13,
+              "relativeX": 34.939453125,
+              "relativeY": 66.994384765625
+            },
+            "text": [
+              {
+                "text": "托管费",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 3,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "PATH",
+            "id": "0:1307",
+            "name": "蒙版备份",
+            "layoutStyle": {
+              "width": 355,
+              "height": 88,
+              "relativeX": 0.06640625,
+              "relativeY": 0
+            },
+            "effect": "effect_0:670",
+            "path": [
+              {
+                "fill": "rgba(255, 255, 255, 0.01)",
+                "data": ""
+              },
+              {
+                "fill": "#81B8EB",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1308",
+            "name": "路径 12备份 7",
+            "layoutStyle": {
+              "width": 355.4305419921875,
+              "relativeX": 0,
+              "relativeY": 53.5
+            },
+            "path": [
+              {
+                "fill": "#81B8EB",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1309",
+            "name": "路径 12备份 8",
+            "layoutStyle": {
+              "width": 355.4305419921875,
+              "relativeX": 0,
+              "relativeY": 19.5
+            },
+            "path": [
+              {
+                "fill": "#81B8EB",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1311",
+            "name": "按前一日基金资产净值扣除基金资产中目标E",
+            "layoutStyle": {
+              "width": 229,
+              "height": 24,
+              "relativeX": 112.06640625,
+              "relativeY": 26
+            },
+            "text": [
+              {
+                "text": "按前一日基金资产净值扣除基金资产中目标ETF份额所对应资产净值后剩余部分的年费率计提。0.50%",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 48,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1312",
+            "name": "按前一日基金资产净值扣除基金资产中目标E",
+            "layoutStyle": {
+              "width": 229,
+              "height": 24,
+              "relativeX": 112.06640625,
+              "relativeY": 60
+            },
+            "text": [
+              {
+                "text": "按前一日基金资产净值扣除基金资产中目标ETF份额所对应资产净值后剩余部分的年费率计提。0.10%",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 48,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "PATH",
+            "id": "0:1310",
+            "name": "路径 12备份 9",
+            "layoutStyle": {
+              "width": 87.24046325683594,
+              "relativeX": null,
+              "relativeY": null
+            },
+            "path": [
+              {
+                "fill": "#81B8EB",
+                "data": "",
+                "transform": "matrix(6.123234262925839e-17,1,-1,6.123234262925839e-17,93.99951171875,-93.43017578125)"
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1299",
+            "name": "以下费用将从基金资产中扣除:",
+            "layoutStyle": {
+              "width": 289,
+              "height": 14,
+              "relativeX": -0.93359375,
+              "relativeY": -15
+            },
+            "effect": "effect_0:678",
+            "text": [
+              {
+                "text": "以下费用将从基金资产中扣除:",
+                "font": "font_0:680"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 14,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 12,
+  "svgNodeCount": 1
+}

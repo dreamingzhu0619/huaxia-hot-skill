@@ -1,0 +1,365 @@
+{
+  "sectionIndex": 3,
+  "section": {
+    "id": "0:985",
+    "name": "雅下水电投资产业链梳理",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:253": {
+        "value": [
+          "box-shadow: 0px 1px 2px 2px #EAF5FF;"
+        ]
+      },
+      "effect_0:257": {
+        "value": []
+      },
+      "font_0:260": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 9,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "12",
+          "letterSpacing": "auto"
+        }
+      },
+      "font_0:272": {
+        "value": {
+          "family": "FZLTZHJW--GB1",
+          "size": 17,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "37.5639533996582",
+          "letterSpacing": "-0.3400000035762787px"
+        }
+      },
+      "paint_0:11": {
+        "value": []
+      },
+      "paint_0:121": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:250": {
+        "value": [
+          "linear-gradient(180deg, #E0EDFF 0%, #FFFFFF 11%)"
+        ]
+      },
+      "paint_0:262": {
+        "value": [
+          "#959595"
+        ]
+      },
+      "paint_0:270": {
+        "value": []
+      },
+      "paint_0:274": {
+        "value": [
+          "#1570E9"
+        ]
+      },
+      "paint_0:278": {
+        "value": []
+      },
+      "paint_0:280": {
+        "value": [
+          "#2577E8"
+        ]
+      },
+      "paint_0:286": {
+        "value": [
+          "linear-gradient(271deg, #2979E8 0%, rgba(37, 119, 232, 0) 99%)"
+        ]
+      },
+      "paint_0:290": {
+        "value": [
+          "#2577E8"
+        ]
+      },
+      "paint_0:295": {
+        "value": []
+      },
+      "paint_0:298": {
+        "value": [
+          "linear-gradient(271deg, #2979E8 0%, rgba(37, 119, 232, 0) 99%)"
+        ]
+      },
+      "paint_0:302": {
+        "value": [
+          "#2577E8"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:985",
+        "name": "雅下水电投资产业链梳理",
+        "layoutStyle": {
+          "width": 355,
+          "height": 456.0768737792969,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "PATH",
+            "id": "0:986",
+            "name": "蒙版",
+            "layoutStyle": {
+              "width": 355,
+              "height": 456.0768737792969,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "effect": "effect_0:253",
+            "path": [
+              {
+                "fill": "linear-gradient(180deg, #E0EDFF 0%, #FFFFFF 11%)",
+                "data": ""
+              },
+              {
+                "fill": "#FFFFFF",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "FRAME",
+            "id": "0:987",
+            "name": "02备份 2",
+            "layoutStyle": {
+              "width": 321,
+              "height": 24,
+              "relativeX": 16.714630126953125,
+              "relativeY": 406.8475341796875
+            },
+            "children": [
+              {
+                "type": "TEXT",
+                "id": "0:988",
+                "name": "资料来源：长城证券《策略视角看电网设备的",
+                "layoutStyle": {
+                  "width": 321,
+                  "height": 24,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "text": [
+                  {
+                    "text": "T3|0:988",
+                    "font": "font_0:260"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 66,
+                    "color": "paint_0:262"
+                  }
+                ],
+                "textAlign": "center",
+                "textMode": "auto-height"
+              }
+            ],
+            "effect": "effect_0:257"
+          },
+          {
+            "type": "GROUP",
+            "id": "0:989",
+            "name": "雅下水电投资产业链梳理",
+            "layoutStyle": {
+              "width": 312.4497375488281,
+              "height": 28,
+              "relativeX": 21,
+              "relativeY": 11
+            },
+            "children": [
+              {
+                "type": "FRAME",
+                "id": "0:990",
+                "name": "编组 19",
+                "layoutStyle": {
+                  "width": 312.4497375488281,
+                  "height": 28,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "TEXT",
+                    "id": "0:991",
+                    "name": "电网设备：外部需求激增",
+                    "layoutStyle": {
+                      "width": 281,
+                      "height": 28,
+                      "relativeX": 16,
+                      "relativeY": 0
+                    },
+                    "strokeColor": "paint_0:270",
+                    "strokeType": "solid",
+                    "strokeAlign": "outside",
+                    "strokeWidth": "0.5366278886795044px",
+                    "text": [
+                      {
+                        "text": "电网设备：外部需求激增",
+                        "font": "font_0:272"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 11,
+                        "color": "paint_0:274"
+                      }
+                    ],
+                    "textAlign": "center",
+                    "textMode": "single-line"
+                  },
+                  {
+                    "type": "FRAME",
+                    "id": "0:992",
+                    "name": "编组 8",
+                    "layoutStyle": {
+                      "width": 55.44974899291992,
+                      "height": 9.899495124816895,
+                      "relativeX": 0,
+                      "relativeY": 12.235576629638672
+                    },
+                    "children": [
+                      {
+                        "type": "LAYER",
+                        "id": "0:993",
+                        "name": "矩形",
+                        "layoutStyle": {
+                          "width": 7,
+                          "height": 7,
+                          "relativeX": 43,
+                          "relativeY": 1.45,
+                          "rotate": 45
+                        },
+                        "fill": "paint_0:278",
+                        "strokeColor": "paint_0:280",
+                        "strokeType": "solid",
+                        "strokeAlign": "inside",
+                        "strokeWidth": "0.699999988079071px"
+                      },
+                      {
+                        "type": "PATH",
+                        "id": "0:994",
+                        "name": "直线",
+                        "layoutStyle": {
+                          "width": 42,
+                          "height": 2,
+                          "relativeX": 0,
+                          "relativeY": 3.4497475624084473
+                        },
+                        "path": [
+                          {
+                            "fill": "linear-gradient(271deg, #2979E8 0%, rgba(37, 119, 232, 0) 99%)",
+                            "data": ""
+                          }
+                        ]
+                      },
+                      {
+                        "type": "LAYER",
+                        "id": "0:995",
+                        "name": "矩形",
+                        "layoutStyle": {
+                          "width": 7,
+                          "height": 7,
+                          "relativeX": 47,
+                          "relativeY": 1.45,
+                          "rotate": 45
+                        },
+                        "fill": "paint_0:290",
+                        "strokeColor": "paint_0:11",
+                        "strokeType": "solid",
+                        "strokeAlign": "inside",
+                        "strokeWidth": "1px"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "FRAME",
+                    "id": "0:996",
+                    "name": "编组 8",
+                    "layoutStyle": {
+                      "width": 55.44974899291992,
+                      "height": 9.899495124816895,
+                      "relativeX": 257,
+                      "relativeY": 12.24,
+                      "rotate": 180,
+                      "rotateX": 180
+                    },
+                    "children": [
+                      {
+                        "type": "LAYER",
+                        "id": "0:997",
+                        "name": "矩形",
+                        "layoutStyle": {
+                          "width": 7,
+                          "height": 7,
+                          "relativeX": 43,
+                          "relativeY": 1.45,
+                          "rotate": 45
+                        },
+                        "fill": "paint_0:295",
+                        "strokeColor": "paint_0:280",
+                        "strokeType": "solid",
+                        "strokeAlign": "inside",
+                        "strokeWidth": "0.699999988079071px"
+                      },
+                      {
+                        "type": "PATH",
+                        "id": "0:998",
+                        "name": "直线",
+                        "layoutStyle": {
+                          "width": 42,
+                          "height": 2,
+                          "relativeX": 0,
+                          "relativeY": 3.4497475624084473
+                        },
+                        "path": [
+                          {
+                            "fill": "linear-gradient(271deg, #2979E8 0%, rgba(37, 119, 232, 0) 99%)",
+                            "data": ""
+                          }
+                        ]
+                      },
+                      {
+                        "type": "LAYER",
+                        "id": "0:999",
+                        "name": "矩形",
+                        "layoutStyle": {
+                          "width": 7,
+                          "height": 7,
+                          "relativeX": 47,
+                          "relativeY": 1.45,
+                          "rotate": 45
+                        },
+                        "fill": "paint_0:302",
+                        "strokeColor": "paint_0:11",
+                        "strokeType": "solid",
+                        "strokeAlign": "inside",
+                        "strokeWidth": "1px"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 15,
+  "svgNodeCount": 3
+}

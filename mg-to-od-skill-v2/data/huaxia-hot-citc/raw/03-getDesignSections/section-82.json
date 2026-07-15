@@ -1,0 +1,164 @@
+{
+  "sectionIndex": 82,
+  "section": {
+    "id": "0:402",
+    "name": "组 22",
+    "type": "GROUP"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:1014": {
+        "value": {
+          "family": "MiSans-Regular",
+          "size": 28.451799392700195,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "28.451799392700195",
+          "letterSpacing": "auto",
+          "weight": "400"
+        }
+      },
+      "paint_0:1016": {
+        "value": [
+          "#AA785D"
+        ]
+      },
+      "paint_0:1018": {
+        "value": [
+          "#AA785D"
+        ]
+      },
+      "paint_0:1020": {
+        "value": [
+          "#AA785D"
+        ]
+      },
+      "paint_0:1022": {
+        "value": [
+          "#AA785D"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "GROUP",
+        "id": "0:402",
+        "name": "组 22",
+        "layoutStyle": {
+          "width": 66,
+          "height": 239.45179748535156,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "TEXT",
+            "id": "0:403",
+            "name": "0.15%",
+            "layoutStyle": {
+              "width": 78,
+              "height": 29,
+              "relativeX": 66,
+              "relativeY": 71
+            },
+            "text": [
+              {
+                "text": "0.15%",
+                "font": "font_0:1014"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 5,
+                "color": "paint_0:1016"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:404",
+            "name": "收费方式/年费率",
+            "layoutStyle": {
+              "width": 211,
+              "height": 29,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "text": [
+              {
+                "text": "收费方式/年费率",
+                "font": "font_0:1014"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 8,
+                "color": "paint_0:1018"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:405",
+            "name": "0.20%",
+            "layoutStyle": {
+              "width": 83,
+              "height": 29,
+              "relativeX": 64,
+              "relativeY": 211
+            },
+            "text": [
+              {
+                "text": "0.20%",
+                "font": "font_0:1014"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 5,
+                "color": "paint_0:1020"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:406",
+            "name": "0.05%",
+            "layoutStyle": {
+              "width": 84,
+              "height": 29,
+              "relativeX": 63,
+              "relativeY": 144
+            },
+            "text": [
+              {
+                "text": "0.05%",
+                "font": "font_0:1014"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 5,
+                "color": "paint_0:1022"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 5
+}

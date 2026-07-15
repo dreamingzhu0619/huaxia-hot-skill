@@ -1,0 +1,58 @@
+{
+  "sectionIndex": 80,
+  "section": {
+    "id": "0:1332",
+    "name": "天弘中证电网设备主题指数C",
+    "type": "TEXT"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:1333": {
+        "value": {
+          "family": "FZLTZHJW--GB1",
+          "size": 15,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "paint_0:871": {
+        "value": [
+          "#343434"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:1332",
+        "name": "天弘中证电网设备主题指数C",
+        "layoutStyle": {
+          "width": 190,
+          "height": 22,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "天弘中证电网设备主题指数C",
+            "font": "font_0:1333"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 13,
+            "color": "paint_0:871"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

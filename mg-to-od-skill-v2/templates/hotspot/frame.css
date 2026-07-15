@@ -1,0 +1,108 @@
+/* ============================================
+   frame.css — 骨架层（固定不变的部分）
+   宽度、背景、装饰全部固定，高度随内容自适应
+   ============================================ */
+
+/* ---- 根容器 ---- */
+.card-hotspot {
+  position: relative;
+  width: 1082px;                       /* FRAME 13:386 */
+  min-height: 644px;                   /* 最小高度，内容多时自动撑开 */
+}
+
+/* ---- 金橙渐变外框 (矩形 153 拷贝) ---- */
+.card-hotspot__border {
+  position: absolute;
+  left: 6px;                           /* 5.72 */
+  top: 53px;                           /* 53.08 */
+  right: 2px;                          /* 1081.75 - 1074.01 - 5.72 */
+  bottom: 0;                           /* 撑满到底 */
+  background: linear-gradient(90deg, #FCCC89 0%, #FCCC89 1%, #EB8F2C 100%);
+  border-radius: 24px;                 /* 23.68 */
+}
+
+/* ---- 白色卡片 (矩形 153 拷贝 3) ---- */
+.card-hotspot__card {
+  position: absolute;
+  left: 6px;
+  top: 53px;
+  right: 2px;
+  bottom: 8px;                         /* 留 ~8px 金边露出 */
+  background: linear-gradient(
+    6deg,
+    #FFFFFF 0%,
+    #FFFFFF 83%,
+    #F9DFC1 90%,
+    #F3BF83 100%
+  );
+  border-radius: 24px;
+  border: 1px solid rgba(255, 255, 255, 0.34);
+}
+
+/* ---- 右上角装饰 (图层 738) ---- */
+.card-hotspot__decor-top {
+  position: absolute;
+  right: 44px;                         /* 1081.75 - 967.01 - 127 ≈ -12...   */
+  top: 0;                              /* 967.01 from left, top: -53 */
+  width: 127px;
+  height: 156px;
+  z-index: 2;
+}
+
+/* ---- 右上角装饰 (形状 5 / 图层 739) ---- */
+.card-hotspot__decor-corner {
+  position: absolute;
+  right: 0;                            /* 1000.73 from left → 81 from right */
+  top: 51px;
+  width: 81px;
+  height: 80px;
+  z-index: 2;
+}
+
+/* ---- 米色内容区 (矩形 751) ---- */
+.card-hotspot__body {
+  position: relative;                   /* 正常流，内容撑开高度 */
+  margin: 111px 54px 86px;            /* 上: 111.08, 左右: (1082-978)/2, 下: 644-558 */
+  min-height: 447px;                  /* 最小内容高度 */
+  padding: 18px 16px 40px;            /* 内边距 */
+  background: linear-gradient(
+    6deg,
+    #FFF5E6 0%,
+    #FFFAF3 48%,
+    #FFFFFF 81%,
+    #FFFFFF 100%
+  );
+  border-radius: 30px;
+}
+
+/* ---- 标题 badge (热点速递拷贝 / 组 23) ---- */
+.card-hotspot__badge {
+  position: absolute;
+  left: 0;
+  top: 0;                              /* 相对 FRAME 顶部 */
+  width: 342px;
+  height: 97px;
+  z-index: 3;
+}
+
+.card-hotspot__badge-bg {
+  position: absolute;
+  left: 30px;
+  top: 1px;
+  width: 312px;
+  height: 96px;
+}
+
+.card-hotspot__badge-text {
+  position: absolute;
+  left: 131px;
+  top: 21px;
+  color: #FFFFFF;
+  font-size: 44px;
+  font-family: "MiSans", sans-serif;
+  font-weight: 600;
+  line-height: 1;
+  text-shadow: 0 2px 5px rgba(221, 32, 29, 0.76);
+  transform: rotate(-3.95deg);
+  transform-origin: 0 0;
+}

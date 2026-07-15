@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>热点速递</title>
+  <link rel="stylesheet" href="frame.css" />
+  <link rel="stylesheet" href="content.css" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    body { padding: 0; margin: 0; }
+  </style>
+</head>
+<body>
+
+  <!-- ========== 骨架层：固定不变的背景、装饰、badge ========== -->
+  <div class="card-hotspot">
+
+    <!-- 金橙渐变外框 -->
+    <div class="card-hotspot__border"></div>
+
+    <!-- 白色卡片 -->
+    <div class="card-hotspot__card"></div>
+
+    <!-- 右上角装饰 -->
+    <div class="card-hotspot__decor-top">
+      <img src="./asset/images/c6b02ef55c9d138b3fccaa10087e9c49.png" alt="" />
+    </div>
+    <div class="card-hotspot__decor-corner">
+      <img src="./asset/icons/svg_61ced032.svg" alt="" />
+    </div>
+
+    <!-- 标题 badge -->
+    <div class="card-hotspot__badge">
+      <div class="card-hotspot__badge-bg">
+        <img src="./asset/icons/svg_ba1cc344.svg" alt="" />
+        <img src="./asset/images/294920335855012b6c7e4da6da20a934.png"
+             alt="" style="mix-blend-mode: screen" />
+      </div>
+      <span class="card-hotspot__badge-text">热点速递</span>
+    </div>
+
+    <!-- ========== 内容区：可变文字放这里 ========== -->
+    <div class="card-hotspot__body">
+
+      <!-- ⬇ 可变内容开始 -->
+      <p class="text-body">
+        随着AI科技板块加速上涨及估值大幅扩张，市场震荡可能性提升，部分投资者高低切换，流向相对低位抗跌的低位资产，万得数据显示，5月18日-22日，红利低波ETF华夏一周净流入1.61亿元，从资金流角度来看，近期红利类ETF重获市场青睐。国信证券认为，
+        <span class="text-highlight">红利低波策略所依赖的"稳收益+抗波动"市场环境正加速形成，配置价值有望持续凸显。</span>
+      </p>
+      <p class="text-source">数据来源：Wind，截至2026.5.22。</p>
+      <!-- ⬆ 可变内容结束 -->
+
+    </div>
+  </div>
+
+</body>
+</html>

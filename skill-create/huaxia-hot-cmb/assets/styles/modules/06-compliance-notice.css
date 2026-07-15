@@ -1,0 +1,878 @@
+/* 06-compliance-notice.json  合规提示
+   由 getDsl 生成；mix-blend-mode/overflow/object-fit 取自 d2cCss。
+   根 .m-06-compliance-notice，其余节点 .n-{id}。共 63 条规则。 */
+/* 2:800 合规提示 [FRAME] */
+.m-06-compliance-notice {
+  position: relative;
+  width: 357px;
+  height: 507px;
+}
+
+/* 2:836 风险提示 [FRAME] */
+.n-2-836 {
+  position: absolute;
+  left: 0px;
+  top: 386px;
+  z-index: 0;
+  width: 357px;
+  height: 121px;
+}
+
+/* 0:1256 风险提示 [TEXT] */
+.n-0-1256 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 357px;
+  height: 121px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 10px;
+  line-height: 15px;
+  letter-spacing: -0.2px;
+  text-align: left;
+  color: #81B8EB;
+}
+
+/* 2:849 表格三 [FRAME]  svg=assets.svgs[2:849] */
+.n-2-849 {
+  position: absolute;
+  left: 1px;
+  top: 191px;
+  z-index: 1;
+  width: 355px;
+  height: 70px;
+}
+
+/* 0:1276 蒙版备份 3 [PATH]  PATH→内联SVG */
+.n-0-1276 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 355px;
+  height: 70px;
+  background-color: rgba(255, 255, 255, 0.01);
+}
+
+/* 0:1300 天弘中证电网设备主题指数C 025833 [TEXT] */
+.n-0-1300 {
+  position: absolute;
+  left: -1px;
+  top: -31px;
+  z-index: 1;
+  width: 289px;
+  height: 28px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: 0.07px;
+  text-align: left;
+  color: #81B8EB;
+}
+
+/* 0:1272 申购费 [TEXT] */
+.n-0-1272 {
+  position: absolute;
+  left: 33.87px;
+  top: 22.99px;
+  z-index: 2;
+  width: 27px;
+  height: 13px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1271 赎回费 [TEXT] */
+.n-0-1271 {
+  position: absolute;
+  left: 33.87px;
+  top: 46.99px;
+  z-index: 3;
+  width: 27px;
+  height: 13px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1258 风险提示备份 2 [TEXT] */
+.n-0-1258 {
+  position: absolute;
+  left: -1px;
+  top: 76px;
+  z-index: 4;
+  width: 357px;
+  height: 15px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: -0.2px;
+  text-align: left;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1261 份额(S)或金额(M)/持有期限(N)备份 [TEXT] */
+.n-0-1261 {
+  position: absolute;
+  left: 111.95px;
+  top: 5.26px;
+  z-index: 5;
+  width: 121px;
+  height: 13px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1263 收费方式/费率备份 [TEXT] */
+.n-0-1263 {
+  position: absolute;
+  left: 273.54px;
+  top: 5.26px;
+  z-index: 6;
+  width: 58px;
+  height: 13px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1265 1.50% 0.00%备份 [TEXT] */
+.n-0-1265 {
+  position: absolute;
+  left: 289.54px;
+  top: 37.56px;
+  z-index: 7;
+  width: 26px;
+  height: 33px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: 16.2px;
+  letter-spacing: normal;
+  text-align: center;
+  color: #81B8EB;
+}
+
+/* 0:1267 N<7天 N≥7天备份 [TEXT] */
+.n-0-1267 {
+  position: absolute;
+  left: 157.45px;
+  top: 37.56px;
+  z-index: 8;
+  width: 30px;
+  height: 33px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: 16.2px;
+  letter-spacing: normal;
+  text-align: center;
+  color: #81B8EB;
+}
+
+/* 0:1269 费用类型备份 [TEXT] */
+.n-0-1269 {
+  position: absolute;
+  left: 29.37px;
+  top: 5.7px;
+  z-index: 9;
+  width: 36px;
+  height: 13px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1278 路径 12备份 4 [PATH]  PATH→内联SVG */
+.n-0-1278 {
+  position: absolute;
+  left: -0.07px;
+  top: 19.5px;
+  z-index: 10;
+  width: 355.43px;
+  height: 0px;
+  background-color: #81B8EB;
+}
+
+/* 0:1280 路径 12备份 10 [PATH]  PATH→内联SVG */
+.n-0-1280 {
+  position: absolute;
+  left: 93.15px;
+  top: 52.5px;
+  z-index: 11;
+  width: 262.22px;
+  height: 0px;
+  background-color: #81B8EB;
+}
+
+/* 0:1282 路径 12备份 13 [PATH]  PATH→内联SVG */
+.n-0-1282 {
+  position: absolute;
+  left: -0.07px;
+  top: 36px;
+  z-index: 12;
+  width: 355.43px;
+  height: 0px;
+  background-color: #81B8EB;
+}
+
+/* 0:1284 路径 12备份 14 [PATH]  PATH→内联SVG */
+.n-0-1284 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 13;
+  width: 70px;
+  height: 0px;
+  background-color: #81B8EB;
+}
+
+/* 0:1286 路径 12备份 15 [PATH]  PATH→内联SVG */
+.n-0-1286 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 14;
+  width: 70px;
+  height: 0px;
+  background-color: #81B8EB;
+}
+
+/* 0:1313 路径 15 [PATH]  PATH→内联SVG */
+.n-0-1313 {
+  position: absolute;
+  left: 167.19px;
+  top: 26.78px;
+  z-index: 15;
+  width: 10.58px;
+  height: 0px;
+  background-color: #81B8EB;
+}
+
+/* 0:1316 路径 15备份 [PATH]  PATH→内联SVG */
+.n-0-1316 {
+  position: absolute;
+  left: 295.19px;
+  top: 26.78px;
+  z-index: 16;
+  width: 10.58px;
+  height: 0px;
+  background-color: #81B8EB;
+}
+
+/* 2:850 表格四 [FRAME]  svg=assets.svgs[2:850] */
+.n-2-850 {
+  position: absolute;
+  left: 1px;
+  top: 307px;
+  z-index: 2;
+  width: 355px;
+  height: 70px;
+}
+
+/* 0:1277 蒙版备份 4 [PATH]  PATH→内联SVG */
+.n-0-1277 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 355px;
+  height: 70px;
+  background-color: rgba(255, 255, 255, 0.01);
+}
+
+/* 0:1273 管理费 [TEXT] */
+.n-0-1273 {
+  position: absolute;
+  left: 33.87px;
+  top: 22.99px;
+  z-index: 1;
+  width: 27px;
+  height: 13px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1274 托管费 [TEXT] */
+.n-0-1274 {
+  position: absolute;
+  left: 33.87px;
+  top: 40px;
+  z-index: 2;
+  width: 27px;
+  height: 13px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1275 销售服务费 [TEXT] */
+.n-0-1275 {
+  position: absolute;
+  left: 24.87px;
+  top: 57px;
+  z-index: 3;
+  width: 45px;
+  height: 13px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1270 费用类别 [TEXT] */
+.n-0-1270 {
+  position: absolute;
+  left: 29.37px;
+  top: 5.7px;
+  z-index: 4;
+  width: 36px;
+  height: 13px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1266 基金管理人和销售机构 基金托管人 销售机 [TEXT] */
+.n-0-1266 {
+  position: absolute;
+  left: 260px;
+  top: 21px;
+  z-index: 5;
+  width: 90px;
+  height: 49px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: 16.2px;
+  letter-spacing: normal;
+  text-align: center;
+  color: #81B8EB;
+}
+
+/* 0:1268 0.15% 0.05% 0.20% [TEXT] */
+.n-0-1268 {
+  position: absolute;
+  left: 159px;
+  top: 21px;
+  z-index: 6;
+  width: 26px;
+  height: 49px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: 16.2px;
+  letter-spacing: normal;
+  text-align: center;
+  color: #81B8EB;
+}
+
+/* 0:1264 收取方 [TEXT] */
+.n-0-1264 {
+  position: absolute;
+  left: 289.04px;
+  top: 5.26px;
+  z-index: 7;
+  width: 27px;
+  height: 13px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1262 收费方式/年费率或金额 [TEXT] */
+.n-0-1262 {
+  position: absolute;
+  left: 125.45px;
+  top: 5.26px;
+  z-index: 8;
+  width: 94px;
+  height: 13px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1279 路径 12备份 11 [PATH]  PATH→内联SVG */
+.n-0-1279 {
+  position: absolute;
+  left: -0.07px;
+  top: 19.5px;
+  z-index: 9;
+  width: 355.43px;
+  height: 0px;
+  background-color: #81B8EB;
+}
+
+/* 0:1281 路径 12备份 12 [PATH]  PATH→内联SVG */
+.n-0-1281 {
+  position: absolute;
+  left: -0.07px;
+  top: 52.5px;
+  z-index: 10;
+  width: 355.43px;
+  height: 0px;
+  background-color: #81B8EB;
+}
+
+/* 0:1283 路径 12备份 16 [PATH]  PATH→内联SVG */
+.n-0-1283 {
+  position: absolute;
+  left: -0.07px;
+  top: 36px;
+  z-index: 11;
+  width: 355.43px;
+  height: 0px;
+  background-color: #81B8EB;
+}
+
+/* 0:1285 路径 12备份 17 [PATH]  PATH→内联SVG */
+.n-0-1285 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 12;
+  width: 70px;
+  height: 0px;
+  background-color: #81B8EB;
+}
+
+/* 0:1287 路径 12备份 18 [PATH]  PATH→内联SVG */
+.n-0-1287 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 13;
+  width: 70px;
+  height: 0px;
+  background-color: #81B8EB;
+}
+
+/* 0:1301 以下费用将从基金资产中扣除: [TEXT] */
+.n-0-1301 {
+  position: absolute;
+  left: -1px;
+  top: -18px;
+  z-index: 14;
+  width: 289px;
+  height: 18px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: 0.07px;
+  text-align: left;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 2:846 表格一 [FRAME]  svg=assets.svgs[2:846] */
+.n-2-846 {
+  position: absolute;
+  left: 0px;
+  top: -89px;
+  z-index: 3;
+  width: 289px;
+  height: 28px;
+}
+
+/* 0:1302 华夏中证电网设备主题ETF发起式联接C [TEXT] */
+.n-0-1302 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 289px;
+  height: 28px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: 0.07px;
+  text-align: left;
+  color: #81B8EB;
+}
+
+/* 0:1298 路径 12备份 6 [PATH]  PATH→内联SVG */
+.n-0-1298 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+  width: 53.24px;
+  height: 0px;
+  background-color: #81B8EB;
+}
+
+/* 0:1297 路径 12备份 5 [PATH]  PATH→内联SVG */
+.n-0-1297 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 2;
+  width: 53.24px;
+  height: 0px;
+  background-color: #81B8EB;
+}
+
+/* 0:1296 路径 12备份 3 [PATH]  PATH→内联SVG */
+.n-0-1296 {
+  position: absolute;
+  left: 93.93px;
+  top: 67px;
+  z-index: 3;
+  width: 262.43px;
+  height: 0px;
+  background-color: #81B8EB;
+}
+
+/* 0:1295 路径 12备份 2 [PATH]  PATH→内联SVG */
+.n-0-1295 {
+  position: absolute;
+  left: 0.93px;
+  top: 50.5px;
+  z-index: 4;
+  width: 355.43px;
+  height: 0px;
+  background-color: #81B8EB;
+}
+
+/* 0:1294 蒙版 [PATH]  PATH→内联SVG */
+.n-0-1294 {
+  position: absolute;
+  left: 1px;
+  top: 31px;
+  z-index: 5;
+  width: 355px;
+  height: 53px;
+  background-color: rgba(255, 255, 255, 0.01);
+}
+
+/* 0:1293 赎回费 [TEXT] */
+.n-0-1293 {
+  position: absolute;
+  left: 34.87px;
+  top: 60.99px;
+  z-index: 6;
+  width: 27px;
+  height: 13px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1257 风险提示备份 [TEXT] */
+.n-0-1257 {
+  position: absolute;
+  left: 0px;
+  top: 89px;
+  z-index: 7;
+  width: 357px;
+  height: 35px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 10px;
+  line-height: 15px;
+  letter-spacing: -0.2px;
+  text-align: left;
+  color: #81B8EB;
+}
+
+/* 0:1292 费用类型 [TEXT] */
+.n-0-1292 {
+  position: absolute;
+  left: 30.37px;
+  top: 36.7px;
+  z-index: 8;
+  width: 36px;
+  height: 13px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1288 份额(S)或金额(M)/持有期限(N) [TEXT] */
+.n-0-1288 {
+  position: absolute;
+  left: 112.95px;
+  top: 36.26px;
+  z-index: 9;
+  width: 121px;
+  height: 13px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1289 收费方式/费率 [TEXT] */
+.n-0-1289 {
+  position: absolute;
+  left: 274.54px;
+  top: 36.26px;
+  z-index: 10;
+  width: 58px;
+  height: 13px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1290 1.50% 0.00% [TEXT] */
+.n-0-1290 {
+  position: absolute;
+  left: 290.54px;
+  top: 52.56px;
+  z-index: 11;
+  width: 26px;
+  height: 33px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: 16.2px;
+  letter-spacing: normal;
+  text-align: center;
+  color: #81B8EB;
+}
+
+/* 0:1291 N<7天 N≥7天 [TEXT] */
+.n-0-1291 {
+  position: absolute;
+  left: 158.45px;
+  top: 52.56px;
+  z-index: 12;
+  width: 30px;
+  height: 33px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: 16.2px;
+  letter-spacing: normal;
+  text-align: center;
+  color: #81B8EB;
+}
+
+/* 2:838 表格二 [FRAME]  svg=assets.svgs[2:838] */
+.n-2-838 {
+  position: absolute;
+  left: 0.93px;
+  top: 52px;
+  z-index: 4;
+  width: 355.43px;
+  height: 88px;
+}
+
+/* 0:1303 费用类别 [TEXT] */
+.n-0-1303 {
+  position: absolute;
+  left: 29.44px;
+  top: 4.7px;
+  z-index: 0;
+  width: 36px;
+  height: 13px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1304 收费方式/年费率或金额 [TEXT] */
+.n-0-1304 {
+  position: absolute;
+  left: 177.07px;
+  top: 5px;
+  z-index: 1;
+  width: 94px;
+  height: 13px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1305 管理费 [TEXT] */
+.n-0-1305 {
+  position: absolute;
+  left: 33.94px;
+  top: 30.7px;
+  z-index: 2;
+  width: 27px;
+  height: 13px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1306 托管费 [TEXT] */
+.n-0-1306 {
+  position: absolute;
+  left: 34.94px;
+  top: 66.99px;
+  z-index: 3;
+  width: 27px;
+  height: 13px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #81B8EB;
+}
+
+/* 0:1307 蒙版备份 [PATH]  PATH→内联SVG */
+.n-0-1307 {
+  position: absolute;
+  left: 0.07px;
+  top: 0px;
+  z-index: 4;
+  width: 355px;
+  height: 88px;
+  background-color: rgba(255, 255, 255, 0.01);
+}
+
+/* 0:1308 路径 12备份 7 [PATH]  PATH→内联SVG */
+.n-0-1308 {
+  position: absolute;
+  left: 0px;
+  top: 53.5px;
+  z-index: 5;
+  width: 355.43px;
+  height: 0px;
+  background-color: #81B8EB;
+}
+
+/* 0:1309 路径 12备份 8 [PATH]  PATH→内联SVG */
+.n-0-1309 {
+  position: absolute;
+  left: 0px;
+  top: 19.5px;
+  z-index: 6;
+  width: 355.43px;
+  height: 0px;
+  background-color: #81B8EB;
+}
+
+/* 0:1311 按前一日基金资产净值扣除基金资产中目标E [TEXT] */
+.n-0-1311 {
+  position: absolute;
+  left: 112.07px;
+  top: 26px;
+  z-index: 7;
+  width: 229px;
+  height: 24px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #81B8EB;
+}
+
+/* 0:1312 按前一日基金资产净值扣除基金资产中目标E [TEXT] */
+.n-0-1312 {
+  position: absolute;
+  left: 112.07px;
+  top: 60px;
+  z-index: 8;
+  width: 229px;
+  height: 24px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 9px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #81B8EB;
+}
+
+/* 0:1310 路径 12备份 9 [PATH]  PATH→内联SVG */
+.n-0-1310 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 9;
+  width: 87.24px;
+  height: 0px;
+  background-color: #81B8EB;
+}
+
+/* 0:1299 以下费用将从基金资产中扣除: [TEXT] */
+.n-0-1299 {
+  position: absolute;
+  left: -0.93px;
+  top: -15px;
+  z-index: 10;
+  width: 289px;
+  height: 14px;
+  font-family: FZLTDHJW--GB1;
+  font-size: 10px;
+  line-height: normal;
+  letter-spacing: 0.07px;
+  text-align: left;
+  white-space: nowrap;
+  color: #81B8EB;
+}

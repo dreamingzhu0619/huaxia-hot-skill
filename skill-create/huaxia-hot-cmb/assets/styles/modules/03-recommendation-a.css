@@ -1,0 +1,1416 @@
+/* 03-recommendation-a.json  推荐理由A
+   由 getDsl 生成；mix-blend-mode/overflow/object-fit 取自 d2cCss。
+   根 .m-03-recommendation-a，其余节点 .n-{id}。共 120 条规则。 */
+/* 2:792 推荐理由A [FRAME] */
+.m-03-recommendation-a {
+  position: relative;
+  width: 355px;
+  height: 456.08px;
+}
+
+/* 0:984 编组 16 [FRAME] */
+.n-0-984 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 355px;
+  height: 456.08px;
+}
+
+/* 0:985 雅下水电投资产业链梳理 [FRAME]  svg=assets.svgs[0:985] */
+.n-0-985 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 355px;
+  height: 456.08px;
+}
+
+/* 0:986 蒙版 [PATH]  PATH→内联SVG */
+.n-0-986 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 355px;
+  height: 456.08px;
+  background-image: linear-gradient(180deg, #E0EDFF 0%, #FFFFFF 11%);
+  box-shadow: 0px 1px 2px 2px #EAF5FF;
+}
+
+/* 0:987 02备份 2 [FRAME] */
+.n-0-987 {
+  position: absolute;
+  left: 16.71px;
+  top: 406.85px;
+  z-index: 1;
+  width: 321px;
+  height: 24px;
+}
+
+/* 0:988 资料来源：长城证券《策略视角看电网设备的 [TEXT] */
+.n-0-988 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 321px;
+  height: 24px;
+  font-family: FZLTHJW--GB1;
+  font-size: 9px;
+  line-height: 12px;
+  letter-spacing: normal;
+  text-align: center;
+  color: #959595;
+}
+
+/* 0:989 雅下水电投资产业链梳理 [GROUP] */
+.n-0-989 {
+  position: absolute;
+  left: 21px;
+  top: 11px;
+  z-index: 2;
+  width: 312.45px;
+  height: 28px;
+}
+
+/* 0:990 编组 19 [FRAME] */
+.n-0-990 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 312.45px;
+  height: 28px;
+}
+
+/* 0:991 电网设备：外部需求激增 [TEXT] */
+.n-0-991 {
+  position: absolute;
+  left: 16px;
+  top: 0px;
+  z-index: 0;
+  width: 281px;
+  height: 28px;
+  font-family: FZLTZHJW--GB1;
+  font-size: 17px;
+  line-height: 37.56px;
+  letter-spacing: -0.34px;
+  text-align: center;
+  white-space: nowrap;
+  color: #1570E9;
+}
+
+/* 0:992 编组 8 [FRAME]  svg=assets.svgs[0:992] */
+.n-0-992 {
+  position: absolute;
+  left: 0px;
+  top: 12.24px;
+  z-index: 1;
+  width: 55.45px;
+  height: 9.9px;
+}
+
+/* 0:993 矩形 [LAYER] */
+.n-0-993 {
+  position: absolute;
+  left: 43px;
+  top: 1.45px;
+  z-index: 0;
+  width: 7px;
+  height: 7px;
+  box-sizing: border-box;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+  border: 0.7px solid #2577E8;
+}
+
+/* 0:994 直线 [PATH]  PATH→内联SVG */
+.n-0-994 {
+  position: absolute;
+  left: 0px;
+  top: 3.45px;
+  z-index: 1;
+  width: 42px;
+  height: 2px;
+  background-image: linear-gradient(271deg, #2979E8 0%, rgba(37, 119, 232, 0) 99%);
+}
+
+/* 0:995 矩形 [LAYER] */
+.n-0-995 {
+  position: absolute;
+  left: 47px;
+  top: 1.45px;
+  z-index: 2;
+  width: 7px;
+  height: 7px;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+  background-color: #2577E8;
+}
+
+/* 0:996 编组 8 [FRAME]  svg=assets.svgs[0:996] */
+.n-0-996 {
+  position: absolute;
+  left: 257px;
+  top: 12.24px;
+  z-index: 2;
+  width: 55.45px;
+  height: 9.9px;
+  transform: rotate(180deg) rotateX(180deg);
+  transform-origin: center;
+}
+
+/* 0:997 矩形 [LAYER] */
+.n-0-997 {
+  position: absolute;
+  left: 43px;
+  top: 1.45px;
+  z-index: 0;
+  width: 7px;
+  height: 7px;
+  box-sizing: border-box;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+  border: 0.7px solid #2577E8;
+}
+
+/* 0:998 直线 [PATH]  PATH→内联SVG */
+.n-0-998 {
+  position: absolute;
+  left: 0px;
+  top: 3.45px;
+  z-index: 1;
+  width: 42px;
+  height: 2px;
+  background-image: linear-gradient(271deg, #2979E8 0%, rgba(37, 119, 232, 0) 99%);
+}
+
+/* 0:999 矩形 [LAYER] */
+.n-0-999 {
+  position: absolute;
+  left: 47px;
+  top: 1.45px;
+  z-index: 2;
+  width: 7px;
+  height: 7px;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+  background-color: #2577E8;
+}
+
+/* 0:1000 美国电网迎来史诗级扩建，750亿美元投资 [TEXT] */
+.n-0-1000 {
+  position: absolute;
+  left: 17px;
+  top: 45px;
+  z-index: 1;
+  width: 321px;
+  height: 128px;
+  font-family: FZLTZHJW--GB1;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: -0.1px;
+  text-align: left;
+  color: #F81F02;
+}
+
+/* 0:1001 矩形备份 [LAYER] */
+.n-0-1001 {
+  position: absolute;
+  left: 41px;
+  top: 184px;
+  z-index: 2;
+  width: 74px;
+  height: 205px;
+  box-sizing: border-box;
+  background-color: #ECF9FF;
+  border: 0.5px solid #B0C7E3;
+  border-radius: 3px;
+}
+
+/* 0:1002 2019 2020 2021 2022 [TEXT] */
+.n-0-1002 {
+  position: absolute;
+  left: 66px;
+  top: 206px;
+  z-index: 3;
+  width: 23px;
+  height: 183px;
+  font-family: FZLTHJW--GB1;
+  font-size: 10px;
+  line-height: 17.5px;
+  letter-spacing: -0.2px;
+  text-align: left;
+  color: #959595;
+}
+
+/* 0:1003 年份 [TEXT] */
+.n-0-1003 {
+  position: absolute;
+  left: 68px;
+  top: 188px;
+  z-index: 4;
+  width: 20px;
+  height: 14px;
+  font-family: FZLTZHJW--GB1;
+  font-size: 10px;
+  line-height: normal;
+  letter-spacing: -0.2px;
+  text-align: left;
+  white-space: nowrap;
+  color: #666666;
+}
+
+/* 0:1004 变压器出口金额（亿美元） [TEXT] */
+.n-0-1004 {
+  position: absolute;
+  left: 150px;
+  top: 187px;
+  z-index: 5;
+  width: 118px;
+  height: 14px;
+  font-family: FZLTCHJW--GB1;
+  font-size: 10px;
+  line-height: normal;
+  letter-spacing: -0.2px;
+  text-align: left;
+  white-space: nowrap;
+  color: #333333;
+}
+
+/* 0:1005 48.2 [TEXT] */
+.n-0-1005 {
+  position: absolute;
+  left: 163px;
+  top: 206px;
+  z-index: 6;
+  width: 24px;
+  height: 17px;
+  font-family: FZLTHJW--GB1;
+  font-size: 12px;
+  line-height: normal;
+  letter-spacing: -0.24px;
+  text-align: left;
+  white-space: nowrap;
+  color: #884209;
+}
+
+/* 0:1006 52.7 [TEXT] */
+.n-0-1006 {
+  position: absolute;
+  left: 177px;
+  top: 233.33px;
+  z-index: 7;
+  width: 24px;
+  height: 17px;
+  font-family: FZLTHJW--GB1;
+  font-size: 12px;
+  line-height: normal;
+  letter-spacing: -0.24px;
+  text-align: left;
+  white-space: nowrap;
+  color: #884209;
+}
+
+/* 0:1007 58.9 [TEXT] */
+.n-0-1007 {
+  position: absolute;
+  left: 189px;
+  top: 260.67px;
+  z-index: 8;
+  width: 24px;
+  height: 17px;
+  font-family: FZLTHJW--GB1;
+  font-size: 12px;
+  line-height: normal;
+  letter-spacing: -0.24px;
+  text-align: left;
+  white-space: nowrap;
+  color: #884209;
+}
+
+/* 0:1008 65.4 [TEXT] */
+.n-0-1008 {
+  position: absolute;
+  left: 209px;
+  top: 288px;
+  z-index: 9;
+  width: 24px;
+  height: 17px;
+  font-family: FZLTHJW--GB1;
+  font-size: 12px;
+  line-height: normal;
+  letter-spacing: -0.24px;
+  text-align: left;
+  white-space: nowrap;
+  color: #884209;
+}
+
+/* 0:1009 72.1 [TEXT] */
+.n-0-1009 {
+  position: absolute;
+  left: 252px;
+  top: 315.33px;
+  z-index: 10;
+  width: 24px;
+  height: 17px;
+  font-family: FZLTHJW--GB1;
+  font-size: 12px;
+  line-height: normal;
+  letter-spacing: -0.24px;
+  text-align: left;
+  white-space: nowrap;
+  color: #884209;
+}
+
+/* 0:1010 67.0 [TEXT] */
+.n-0-1010 {
+  position: absolute;
+  left: 226px;
+  top: 342.67px;
+  z-index: 11;
+  width: 24px;
+  height: 17px;
+  font-family: FZLTHJW--GB1;
+  font-size: 12px;
+  line-height: normal;
+  letter-spacing: -0.24px;
+  text-align: left;
+  white-space: nowrap;
+  color: #884209;
+}
+
+/* 0:1011 90.36 [TEXT] */
+.n-0-1011 {
+  position: absolute;
+  left: 288px;
+  top: 370px;
+  z-index: 12;
+  width: 30px;
+  height: 17px;
+  font-family: FZLTHJW--GB1;
+  font-size: 12px;
+  line-height: normal;
+  letter-spacing: -0.24px;
+  text-align: left;
+  white-space: nowrap;
+  color: #884209;
+}
+
+/* 0:1012 编组 4 [FRAME] */
+.n-0-1012 {
+  position: absolute;
+  left: 125px;
+  top: 370px;
+  z-index: 13;
+  width: 157px;
+  height: 16px;
+  overflow: hidden;
+}
+
+/* 0:1013 矩形备份 2 [LAYER]  mask=outline */
+.n-0-1013 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 157px;
+  height: 16px;
+  background-color: #FFD282;
+  border-radius: 8px;
+  box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5);
+}
+
+/* 0:1014 编组 2 [FRAME]  svg=assets.svgs[0:1014] */
+.n-0-1014 {
+  position: absolute;
+  left: 4.51px;
+  top: 0px;
+  z-index: 1;
+  width: 153.49px;
+  height: 16px;
+  opacity: 0.648;
+}
+
+/* 0:1015 矩形备份 3 [PATH]  PATH→内联SVG */
+.n-0-1015 {
+  position: absolute;
+  left: 45px;
+  top: 0px;
+  z-index: 0;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1016 矩形备份 10 [PATH]  PATH→内联SVG */
+.n-0-1016 {
+  position: absolute;
+  left: 105px;
+  top: 0px;
+  z-index: 1;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1017 矩形备份 14 [PATH]  PATH→内联SVG */
+.n-0-1017 {
+  position: absolute;
+  left: 135px;
+  top: 0px;
+  z-index: 2;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1018 矩形备份 4 [PATH]  PATH→内联SVG */
+.n-0-1018 {
+  position: absolute;
+  left: 30px;
+  top: 0px;
+  z-index: 3;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1019 矩形备份 11 [PATH]  PATH→内联SVG */
+.n-0-1019 {
+  position: absolute;
+  left: 90px;
+  top: 0px;
+  z-index: 4;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1020 矩形备份 15 [PATH]  PATH→内联SVG */
+.n-0-1020 {
+  position: absolute;
+  left: 120px;
+  top: 0px;
+  z-index: 5;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1021 矩形备份 5 [PATH]  PATH→内联SVG */
+.n-0-1021 {
+  position: absolute;
+  left: 15px;
+  top: 0px;
+  z-index: 6;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1022 矩形备份 12 [PATH]  PATH→内联SVG */
+.n-0-1022 {
+  position: absolute;
+  left: 75px;
+  top: 0px;
+  z-index: 7;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1023 矩形备份 6 [PATH]  PATH→内联SVG */
+.n-0-1023 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 8;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1024 矩形备份 13 [PATH]  PATH→内联SVG */
+.n-0-1024 {
+  position: absolute;
+  left: 60px;
+  top: 0px;
+  z-index: 9;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1025 编组 4备份 7 [FRAME] */
+.n-0-1025 {
+  position: absolute;
+  left: 125px;
+  top: 343px;
+  z-index: 14;
+  width: 97px;
+  height: 16px;
+  overflow: hidden;
+}
+
+/* 0:1026 矩形备份 2 [LAYER]  mask=outline */
+.n-0-1026 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 97px;
+  height: 16px;
+  background-color: #FFD282;
+  border-radius: 8px;
+  box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5);
+}
+
+/* 0:1027 编组 2 [FRAME]  svg=assets.svgs[0:1027] */
+.n-0-1027 {
+  position: absolute;
+  left: 4.51px;
+  top: 0px;
+  z-index: 1;
+  width: 153.49px;
+  height: 16px;
+  opacity: 0.648;
+}
+
+/* 0:1028 矩形备份 3 [PATH]  PATH→内联SVG */
+.n-0-1028 {
+  position: absolute;
+  left: 45px;
+  top: 0px;
+  z-index: 0;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1029 矩形备份 10 [PATH]  PATH→内联SVG */
+.n-0-1029 {
+  position: absolute;
+  left: 105px;
+  top: 0px;
+  z-index: 1;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1030 矩形备份 14 [PATH]  PATH→内联SVG */
+.n-0-1030 {
+  position: absolute;
+  left: 135px;
+  top: 0px;
+  z-index: 2;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1031 矩形备份 4 [PATH]  PATH→内联SVG */
+.n-0-1031 {
+  position: absolute;
+  left: 30px;
+  top: 0px;
+  z-index: 3;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1032 矩形备份 11 [PATH]  PATH→内联SVG */
+.n-0-1032 {
+  position: absolute;
+  left: 90px;
+  top: 0px;
+  z-index: 4;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1033 矩形备份 15 [PATH]  PATH→内联SVG */
+.n-0-1033 {
+  position: absolute;
+  left: 120px;
+  top: 0px;
+  z-index: 5;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1034 矩形备份 5 [PATH]  PATH→内联SVG */
+.n-0-1034 {
+  position: absolute;
+  left: 15px;
+  top: 0px;
+  z-index: 6;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1035 矩形备份 12 [PATH]  PATH→内联SVG */
+.n-0-1035 {
+  position: absolute;
+  left: 75px;
+  top: 0px;
+  z-index: 7;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1036 矩形备份 6 [PATH]  PATH→内联SVG */
+.n-0-1036 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 8;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1037 矩形备份 13 [PATH]  PATH→内联SVG */
+.n-0-1037 {
+  position: absolute;
+  left: 60px;
+  top: 0px;
+  z-index: 9;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1038 编组 4备份 8 [FRAME] */
+.n-0-1038 {
+  position: absolute;
+  left: 125px;
+  top: 315px;
+  z-index: 15;
+  width: 120px;
+  height: 16px;
+  overflow: hidden;
+}
+
+/* 0:1039 矩形备份 2 [LAYER]  mask=outline */
+.n-0-1039 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 120px;
+  height: 16px;
+  background-color: #FFD282;
+  border-radius: 8px;
+  box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5);
+}
+
+/* 0:1040 编组 2 [FRAME]  svg=assets.svgs[0:1040] */
+.n-0-1040 {
+  position: absolute;
+  left: 4.51px;
+  top: 0px;
+  z-index: 1;
+  width: 153.49px;
+  height: 16px;
+  opacity: 0.648;
+}
+
+/* 0:1041 矩形备份 3 [PATH]  PATH→内联SVG */
+.n-0-1041 {
+  position: absolute;
+  left: 45px;
+  top: 0px;
+  z-index: 0;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1042 矩形备份 10 [PATH]  PATH→内联SVG */
+.n-0-1042 {
+  position: absolute;
+  left: 105px;
+  top: 0px;
+  z-index: 1;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1043 矩形备份 14 [PATH]  PATH→内联SVG */
+.n-0-1043 {
+  position: absolute;
+  left: 135px;
+  top: 0px;
+  z-index: 2;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1044 矩形备份 4 [PATH]  PATH→内联SVG */
+.n-0-1044 {
+  position: absolute;
+  left: 30px;
+  top: 0px;
+  z-index: 3;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1045 矩形备份 11 [PATH]  PATH→内联SVG */
+.n-0-1045 {
+  position: absolute;
+  left: 90px;
+  top: 0px;
+  z-index: 4;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1046 矩形备份 15 [PATH]  PATH→内联SVG */
+.n-0-1046 {
+  position: absolute;
+  left: 120px;
+  top: 0px;
+  z-index: 5;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1047 矩形备份 5 [PATH]  PATH→内联SVG */
+.n-0-1047 {
+  position: absolute;
+  left: 15px;
+  top: 0px;
+  z-index: 6;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1048 矩形备份 12 [PATH]  PATH→内联SVG */
+.n-0-1048 {
+  position: absolute;
+  left: 75px;
+  top: 0px;
+  z-index: 7;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1049 矩形备份 6 [PATH]  PATH→内联SVG */
+.n-0-1049 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 8;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1050 矩形备份 13 [PATH]  PATH→内联SVG */
+.n-0-1050 {
+  position: absolute;
+  left: 60px;
+  top: 0px;
+  z-index: 9;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1051 编组 4备份 9 [FRAME] */
+.n-0-1051 {
+  position: absolute;
+  left: 125px;
+  top: 288px;
+  z-index: 16;
+  width: 78px;
+  height: 16px;
+  overflow: hidden;
+}
+
+/* 0:1052 矩形备份 2 [LAYER]  mask=outline */
+.n-0-1052 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 78px;
+  height: 16px;
+  background-color: #FFD282;
+  border-radius: 8px;
+  box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5);
+}
+
+/* 0:1053 编组 2 [FRAME]  svg=assets.svgs[0:1053] */
+.n-0-1053 {
+  position: absolute;
+  left: 4.51px;
+  top: 0px;
+  z-index: 1;
+  width: 153.49px;
+  height: 16px;
+  opacity: 0.648;
+}
+
+/* 0:1054 矩形备份 3 [PATH]  PATH→内联SVG */
+.n-0-1054 {
+  position: absolute;
+  left: 45px;
+  top: 0px;
+  z-index: 0;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1055 矩形备份 10 [PATH]  PATH→内联SVG */
+.n-0-1055 {
+  position: absolute;
+  left: 105px;
+  top: 0px;
+  z-index: 1;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1056 矩形备份 14 [PATH]  PATH→内联SVG */
+.n-0-1056 {
+  position: absolute;
+  left: 135px;
+  top: 0px;
+  z-index: 2;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1057 矩形备份 4 [PATH]  PATH→内联SVG */
+.n-0-1057 {
+  position: absolute;
+  left: 30px;
+  top: 0px;
+  z-index: 3;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1058 矩形备份 11 [PATH]  PATH→内联SVG */
+.n-0-1058 {
+  position: absolute;
+  left: 90px;
+  top: 0px;
+  z-index: 4;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1059 矩形备份 15 [PATH]  PATH→内联SVG */
+.n-0-1059 {
+  position: absolute;
+  left: 120px;
+  top: 0px;
+  z-index: 5;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1060 矩形备份 5 [PATH]  PATH→内联SVG */
+.n-0-1060 {
+  position: absolute;
+  left: 15px;
+  top: 0px;
+  z-index: 6;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1061 矩形备份 12 [PATH]  PATH→内联SVG */
+.n-0-1061 {
+  position: absolute;
+  left: 75px;
+  top: 0px;
+  z-index: 7;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1062 矩形备份 6 [PATH]  PATH→内联SVG */
+.n-0-1062 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 8;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1063 矩形备份 13 [PATH]  PATH→内联SVG */
+.n-0-1063 {
+  position: absolute;
+  left: 60px;
+  top: 0px;
+  z-index: 9;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1064 编组 4备份 10 [FRAME] */
+.n-0-1064 {
+  position: absolute;
+  left: 125px;
+  top: 261px;
+  z-index: 17;
+  width: 58px;
+  height: 16px;
+  overflow: hidden;
+}
+
+/* 0:1065 矩形备份 2 [LAYER]  mask=outline */
+.n-0-1065 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 58px;
+  height: 16px;
+  background-color: #FFD282;
+  border-radius: 8px;
+  box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5);
+}
+
+/* 0:1066 编组 2 [FRAME]  svg=assets.svgs[0:1066] */
+.n-0-1066 {
+  position: absolute;
+  left: 4.51px;
+  top: 0px;
+  z-index: 1;
+  width: 153.49px;
+  height: 16px;
+  opacity: 0.648;
+}
+
+/* 0:1067 矩形备份 3 [PATH]  PATH→内联SVG */
+.n-0-1067 {
+  position: absolute;
+  left: 45px;
+  top: 0px;
+  z-index: 0;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1068 矩形备份 10 [PATH]  PATH→内联SVG */
+.n-0-1068 {
+  position: absolute;
+  left: 105px;
+  top: 0px;
+  z-index: 1;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1069 矩形备份 14 [PATH]  PATH→内联SVG */
+.n-0-1069 {
+  position: absolute;
+  left: 135px;
+  top: 0px;
+  z-index: 2;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1070 矩形备份 4 [PATH]  PATH→内联SVG */
+.n-0-1070 {
+  position: absolute;
+  left: 30px;
+  top: 0px;
+  z-index: 3;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1071 矩形备份 11 [PATH]  PATH→内联SVG */
+.n-0-1071 {
+  position: absolute;
+  left: 90px;
+  top: 0px;
+  z-index: 4;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1072 矩形备份 15 [PATH]  PATH→内联SVG */
+.n-0-1072 {
+  position: absolute;
+  left: 120px;
+  top: 0px;
+  z-index: 5;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1073 矩形备份 5 [PATH]  PATH→内联SVG */
+.n-0-1073 {
+  position: absolute;
+  left: 15px;
+  top: 0px;
+  z-index: 6;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1074 矩形备份 12 [PATH]  PATH→内联SVG */
+.n-0-1074 {
+  position: absolute;
+  left: 75px;
+  top: 0px;
+  z-index: 7;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1075 矩形备份 6 [PATH]  PATH→内联SVG */
+.n-0-1075 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 8;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1076 矩形备份 13 [PATH]  PATH→内联SVG */
+.n-0-1076 {
+  position: absolute;
+  left: 60px;
+  top: 0px;
+  z-index: 9;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1077 编组 4备份 11 [FRAME] */
+.n-0-1077 {
+  position: absolute;
+  left: 125px;
+  top: 233px;
+  z-index: 18;
+  width: 45px;
+  height: 16px;
+  overflow: hidden;
+}
+
+/* 0:1078 矩形备份 2 [LAYER]  mask=outline */
+.n-0-1078 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 45px;
+  height: 16px;
+  background-color: #FFD282;
+  border-radius: 8px;
+  box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5);
+}
+
+/* 0:1079 编组 2 [FRAME]  svg=assets.svgs[0:1079] */
+.n-0-1079 {
+  position: absolute;
+  left: 4.51px;
+  top: 0px;
+  z-index: 1;
+  width: 153.49px;
+  height: 16px;
+  opacity: 0.648;
+}
+
+/* 0:1080 矩形备份 3 [PATH]  PATH→内联SVG */
+.n-0-1080 {
+  position: absolute;
+  left: 45px;
+  top: 0px;
+  z-index: 0;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1081 矩形备份 10 [PATH]  PATH→内联SVG */
+.n-0-1081 {
+  position: absolute;
+  left: 105px;
+  top: 0px;
+  z-index: 1;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1082 矩形备份 14 [PATH]  PATH→内联SVG */
+.n-0-1082 {
+  position: absolute;
+  left: 135px;
+  top: 0px;
+  z-index: 2;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1083 矩形备份 4 [PATH]  PATH→内联SVG */
+.n-0-1083 {
+  position: absolute;
+  left: 30px;
+  top: 0px;
+  z-index: 3;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1084 矩形备份 11 [PATH]  PATH→内联SVG */
+.n-0-1084 {
+  position: absolute;
+  left: 90px;
+  top: 0px;
+  z-index: 4;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1085 矩形备份 15 [PATH]  PATH→内联SVG */
+.n-0-1085 {
+  position: absolute;
+  left: 120px;
+  top: 0px;
+  z-index: 5;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1086 矩形备份 5 [PATH]  PATH→内联SVG */
+.n-0-1086 {
+  position: absolute;
+  left: 15px;
+  top: 0px;
+  z-index: 6;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1087 矩形备份 12 [PATH]  PATH→内联SVG */
+.n-0-1087 {
+  position: absolute;
+  left: 75px;
+  top: 0px;
+  z-index: 7;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1088 矩形备份 6 [PATH]  PATH→内联SVG */
+.n-0-1088 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 8;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1089 矩形备份 13 [PATH]  PATH→内联SVG */
+.n-0-1089 {
+  position: absolute;
+  left: 60px;
+  top: 0px;
+  z-index: 9;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1090 编组 4备份 12 [FRAME] */
+.n-0-1090 {
+  position: absolute;
+  left: 125px;
+  top: 206px;
+  z-index: 19;
+  width: 33px;
+  height: 16px;
+  overflow: hidden;
+}
+
+/* 0:1091 矩形备份 2 [LAYER]  mask=outline */
+.n-0-1091 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 33px;
+  height: 16px;
+  background-color: #FFD282;
+  border-radius: 8px;
+  box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5);
+}
+
+/* 0:1092 编组 2 [FRAME]  svg=assets.svgs[0:1092] */
+.n-0-1092 {
+  position: absolute;
+  left: 4.51px;
+  top: 0px;
+  z-index: 1;
+  width: 153.49px;
+  height: 16px;
+  opacity: 0.648;
+}
+
+/* 0:1093 矩形备份 3 [PATH]  PATH→内联SVG */
+.n-0-1093 {
+  position: absolute;
+  left: 45px;
+  top: 0px;
+  z-index: 0;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1094 矩形备份 10 [PATH]  PATH→内联SVG */
+.n-0-1094 {
+  position: absolute;
+  left: 105px;
+  top: 0px;
+  z-index: 1;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1095 矩形备份 14 [PATH]  PATH→内联SVG */
+.n-0-1095 {
+  position: absolute;
+  left: 135px;
+  top: 0px;
+  z-index: 2;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1096 矩形备份 4 [PATH]  PATH→内联SVG */
+.n-0-1096 {
+  position: absolute;
+  left: 30px;
+  top: 0px;
+  z-index: 3;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1097 矩形备份 11 [PATH]  PATH→内联SVG */
+.n-0-1097 {
+  position: absolute;
+  left: 90px;
+  top: 0px;
+  z-index: 4;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1098 矩形备份 15 [PATH]  PATH→内联SVG */
+.n-0-1098 {
+  position: absolute;
+  left: 120px;
+  top: 0px;
+  z-index: 5;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1099 矩形备份 5 [PATH]  PATH→内联SVG */
+.n-0-1099 {
+  position: absolute;
+  left: 15px;
+  top: 0px;
+  z-index: 6;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1100 矩形备份 12 [PATH]  PATH→内联SVG */
+.n-0-1100 {
+  position: absolute;
+  left: 75px;
+  top: 0px;
+  z-index: 7;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1101 矩形备份 6 [PATH]  PATH→内联SVG */
+.n-0-1101 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 8;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}
+
+/* 0:1102 矩形备份 13 [PATH]  PATH→内联SVG */
+.n-0-1102 {
+  position: absolute;
+  left: 60px;
+  top: 0px;
+  z-index: 9;
+  width: 18.49px;
+  height: 16px;
+  background-color: #FFE3B5;
+}

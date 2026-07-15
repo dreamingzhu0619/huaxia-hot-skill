@@ -1,0 +1,58 @@
+{
+  "sectionIndex": 15,
+  "section": {
+    "id": "0:1011",
+    "name": "90.36",
+    "type": "TEXT"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:327": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 12,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "-0.23999999463558197px"
+        }
+      },
+      "paint_0:329": {
+        "value": [
+          "#884209"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:1011",
+        "name": "90.36",
+        "layoutStyle": {
+          "width": 30,
+          "height": 17,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "90.36",
+            "font": "font_0:327"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 5,
+            "color": "paint_0:329"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

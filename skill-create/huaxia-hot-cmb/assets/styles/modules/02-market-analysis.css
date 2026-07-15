@@ -1,0 +1,266 @@
+/* 02-market-analysis.json  市场解读
+   由 getDsl 生成；mix-blend-mode/overflow/object-fit 取自 d2cCss。
+   根 .m-02-market-analysis，其余节点 .n-{id}。共 19 条规则。 */
+/* 0:959 市场解读 [FRAME]  svg=assets.svgs[0:959] */
+.m-02-market-analysis {
+  position: relative;
+  width: 355px;
+  height: 392.24px;
+}
+
+/* 0:960 矩形 [FRAME]  svg=assets.svgs[0:960] */
+.n-0-960 {
+  position: absolute;
+  left: 0px;
+  top: 2.24px;
+  z-index: 0;
+  width: 355px;
+  height: 390px;
+  overflow: hidden;
+  border-radius: 10.1px;
+}
+
+/* 0:961 蒙版 [PATH]  PATH→内联SVG  mask=outline */
+.n-0-961 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 355px;
+  height: 390px;
+  background-image: linear-gradient(180deg, #E0EDFF 0%, #FFFFFF 11%);
+  box-shadow: 0px 1px 2px 2px #EAF5FF;
+}
+
+/* 0:962 矩形备份 7 [PATH]  PATH→内联SVG */
+.n-0-962 {
+  position: absolute;
+  left: -31px;
+  top: -1px;
+  z-index: 1;
+  width: 153px;
+  height: 32px;
+  background-image: linear-gradient(0deg, #4F9CF0 18%, #75C3F8 100%);
+  box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5), 0px 1px 0px 0px #FFFFFF;
+  filter: blur(9.72px);
+}
+
+/* 0:963 矩形备份 8 [PATH]  PATH→内联SVG */
+.n-0-963 {
+  position: absolute;
+  left: -31px;
+  top: -1px;
+  z-index: 2;
+  width: 153px;
+  height: 32px;
+  background-image: linear-gradient(0deg, #4F9CF0 18%, #75C3F8 100%);
+  box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5), 0px 1px 0px 0px #FFFFFF;
+}
+
+/* 0:964 路径 5 [PATH]  PATH→内联SVG */
+.n-0-964 {
+  position: absolute;
+  left: 6px;
+  top: -9px;
+  z-index: 3;
+  width: 43px;
+  height: 50px;
+  opacity: 0.147;
+  background-image: linear-gradient(211deg, #FFFFFF 8%, rgba(255, 224, 177, 0) 58%);
+}
+
+/* 0:965 路径 5备份 [PATH]  PATH→内联SVG */
+.n-0-965 {
+  position: absolute;
+  left: 21px;
+  top: -9px;
+  z-index: 4;
+  width: 59px;
+  height: 50px;
+  opacity: 0.147;
+  background-image: linear-gradient(211deg, #FFFFFF 8%, rgba(255, 224, 177, 0) 58%);
+}
+
+/* 0:966 椭圆形 [SVG_ELLIPSE] */
+.n-0-966 {
+  position: absolute;
+  left: -21px;
+  top: -12px;
+  z-index: 5;
+  width: 71px;
+  height: 22px;
+  opacity: 0.645;
+  background-color: #6CE8FF;
+  border-radius: 50%;
+  filter: blur(24.48px);
+}
+
+/* 0:967 市场解读 [TEXT] */
+.n-0-967 {
+  position: absolute;
+  left: 1.01px;
+  top: 0px;
+  z-index: 1;
+  width: 102px;
+  height: 38px;
+  font-family: FZZDHJW--GB1;
+  font-size: 20px;
+  line-height: 37.56px;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  text-shadow: 0px 2px 3px #4F9EF1;
+  color: #FFFFFF;
+}
+
+/* 0:968 随着“十五五”规划落地、AI算力需求爆发 [TEXT] */
+.n-0-968 {
+  position: absolute;
+  left: 17px;
+  top: 70.24px;
+  z-index: 2;
+  width: 321px;
+  height: 59px;
+  font-family: FZLTHJW--GB1;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: -0.1px;
+  text-align: left;
+  color: #333333;
+}
+
+/* 0:969 形状结合 [PATH]  PATH→内联SVG */
+.n-0-969 {
+  position: absolute;
+  left: 17px;
+  top: 42.24px;
+  z-index: 3;
+  width: 128px;
+  height: 23px;
+  background-image: linear-gradient(180deg, #FFDA92 12%, #FFF1D4 99%);
+  box-shadow: inset 0px -1px 2px 0px rgba(255, 255, 255, 0.5);
+}
+
+/* 0:972 形状结合备份 [PATH]  PATH→内联SVG */
+.n-0-972 {
+  position: absolute;
+  left: 17px;
+  top: 140.24px;
+  z-index: 4;
+  width: 104px;
+  height: 23px;
+  background-image: linear-gradient(180deg, #FFDA92 12%, #FFF1D4 99%);
+  box-shadow: inset 0px -1px 2px 0px rgba(255, 255, 255, 0.5);
+}
+
+/* 0:975 形状结合备份 2 [PATH]  PATH→内联SVG */
+.n-0-975 {
+  position: absolute;
+  left: 17px;
+  top: 240.24px;
+  z-index: 5;
+  width: 142px;
+  height: 23px;
+  background-image: linear-gradient(180deg, #FFDA92 12%, #FFF1D4 99%);
+  box-shadow: inset 0px -1px 2px 0px rgba(255, 255, 255, 0.5);
+}
+
+/* 0:978 从国内看景气度看 [TEXT] */
+.n-0-978 {
+  position: absolute;
+  left: 25px;
+  top: 46.24px;
+  z-index: 6;
+  width: 112px;
+  height: 20px;
+  font-family: FZLTZHJW--GB1;
+  font-size: 14px;
+  line-height: normal;
+  letter-spacing: -0.1px;
+  text-align: left;
+  white-space: nowrap;
+  color: #7B431C;
+}
+
+/* 0:979 从政策环境看 [TEXT] */
+.n-0-979 {
+  position: absolute;
+  left: 25px;
+  top: 144.24px;
+  z-index: 7;
+  width: 84px;
+  height: 20px;
+  font-family: FZLTZHJW--GB1;
+  font-size: 14px;
+  line-height: normal;
+  letter-spacing: -0.1px;
+  text-align: left;
+  white-space: nowrap;
+  color: #7B431C;
+}
+
+/* 0:980 从海外市场需求上看 [TEXT] */
+.n-0-980 {
+  position: absolute;
+  left: 25px;
+  top: 244.24px;
+  z-index: 8;
+  width: 126px;
+  height: 20px;
+  font-family: FZLTZHJW--GB1;
+  font-size: 14px;
+  line-height: normal;
+  letter-spacing: -0.1px;
+  text-align: left;
+  white-space: nowrap;
+  color: #7B431C;
+}
+
+/* 0:981 行业处于政策高度友好的红利期。从国家层面 [TEXT] */
+.n-0-981 {
+  position: absolute;
+  left: 17px;
+  top: 168.24px;
+  z-index: 9;
+  width: 321px;
+  height: 60px;
+  font-family: FZLTHJW--GB1;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: -0.1px;
+  text-align: left;
+  color: #333333;
+}
+
+/* 0:982 近期美国迎来史诗级的电网扩容，750亿美 [TEXT] */
+.n-0-982 {
+  position: absolute;
+  left: 17px;
+  top: 268.24px;
+  z-index: 10;
+  width: 321px;
+  height: 90px;
+  font-family: FZLTHJW--GB1;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: -0.1px;
+  text-align: left;
+  color: #333333;
+}
+
+/* 0:983 以上观点由华夏基金提供 [TEXT] */
+.n-0-983 {
+  position: absolute;
+  left: 28px;
+  top: 363.24px;
+  z-index: 11;
+  width: 299px;
+  height: 14px;
+  font-family: FZLTHJW--GB1;
+  font-size: 9px;
+  line-height: 11px;
+  letter-spacing: -0.11px;
+  text-align: center;
+  white-space: nowrap;
+  color: #999999;
+}

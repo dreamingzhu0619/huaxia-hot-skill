@@ -1,0 +1,2066 @@
+{
+  "meta": {
+    "moduleIndex": 2,
+    "moduleId": "0:959",
+    "moduleName": "市场解读",
+    "slug": "market-analysis",
+    "fileName": "02-market-analysis.json",
+    "position": {
+      "x": 10,
+      "y": 410.7644348144531,
+      "width": 355,
+      "height": 392.2355651855469
+    },
+    "nodeCount": 19,
+    "resolvedNodeCount": 19,
+    "textCount": 8,
+    "textsResolved": 0,
+    "sectionIndexes": [
+      2
+    ],
+    "styleCounts": {
+      "paints": 14,
+      "fonts": 5,
+      "effects": 6
+    },
+    "assetCounts": {
+      "bitmaps": 0,
+      "svgs": 2,
+      "d2cSvgIcons": 4,
+      "d2cExportImages": 0
+    },
+    "imageCount": 4,
+    "d2cMatched": true,
+    "d2cMatchDistance": 0.074,
+    "d2cNodeCssCount": 7,
+    "missingStyleRefs": []
+  },
+  "sections": [
+    {
+      "sectionIndex": 2,
+      "id": "0:959",
+      "name": "市场解读",
+      "type": "FRAME",
+      "nodeCount": 25,
+      "x": 10,
+      "y": 410.76,
+      "width": 355,
+      "height": 392.2355651855469
+    }
+  ],
+  "assets": {
+    "bitmaps": [],
+    "svgs": {
+      "0:960": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-31.00000000000023 -9 387.0732700000002 400.07327\" width=\"387.0732700000002\" height=\"400.07327\" shape-rendering=\"crispEdges\"><defs><linearGradient id=\"grad_0_960_0\" x1=\"0.5\" y1=\"0.0\" x2=\"0.5\" y2=\"1.0\"><stop offset=\"0%\" stop-color=\"#E0EDFF\" stop-opacity=\"1\"/><stop offset=\"11%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\"/></linearGradient><linearGradient id=\"grad_0_960_1\" x1=\"0.5\" y1=\"1.0\" x2=\"0.5\" y2=\"0.0\"><stop offset=\"18%\" stop-color=\"#4F9CF0\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#75C3F8\" stop-opacity=\"1\"/></linearGradient><linearGradient id=\"grad_0_960_2\" x1=\"0.5\" y1=\"1.0\" x2=\"0.5\" y2=\"0.0\"><stop offset=\"18%\" stop-color=\"#4F9CF0\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#75C3F8\" stop-opacity=\"1\"/></linearGradient><linearGradient id=\"grad_0_960_3\" x1=\"0.7424\" y1=\"0.0627\" x2=\"0.2576\" y2=\"0.9373\"><stop offset=\"7%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\"/><stop offset=\"57%\" stop-color=\"rgb(255, 224, 177)\" stop-opacity=\"0\"/></linearGradient><linearGradient id=\"grad_0_960_4\" x1=\"0.7424\" y1=\"0.0627\" x2=\"0.2576\" y2=\"0.9373\"><stop offset=\"7%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\"/><stop offset=\"57%\" stop-color=\"rgb(255, 224, 177)\" stop-opacity=\"0\"/></linearGradient></defs>\n<path d=\"M10.097191,7.8064284e-14L344.9028,-2.396997e-14C348.43716,-2.5047095e-14,350.24429,0.0071458817,351.58942,0.70439386C352.74719,1.3045356,353.69547,2.2527997,354.29559,3.410594C354.99283,4.7557154,355,6.5628386,355,10.097191L355,379.9028C355,383.43716,354.99283,385.24429,354.29559,386.58942C353.69547,387.74719,352.74719,388.69547,351.58942,389.29559C350.24429,389.99283,348.43716,390,344.9028,390L10.097194,390C6.5628376,390,4.7557149,389.99283,3.4105935,389.29559C2.2527995,388.69547,1.3045354,387.74719,0.70439374,386.58942C0.0071459413,385.24429,2.8834994e-15,383.43716,4.4363901e-15,379.9028L1.6691742e-13,10.09719C1.6847031e-13,6.5628386,0.0071546435,4.7557087,0.70439374,3.410594C1.3045354,2.2527997,2.2527995,1.3045356,3.4105935,0.70439386C4.7557082,0.0071545243,6.5628376,7.9141405e-14,10.097191,7.8064284e-14\" fill=\"url(#grad_0_960_0)\"/>\n<path fill-rule=\"evenodd\" d=\"M-1.073256,379.9028Q-1.073256,385.49213,-0.24845377,387.08334Q0.83212185,389.16794,2.9166789,390.24844Q4.5078917,391.07327,10.097194,391.07327L344.9028,391.07327Q350.49213,391.07327,352.08331,390.24844Q354.16794,389.16791,355.24844,387.08331Q356.07327,385.49203,356.07327,379.9028L356.07327,10.097191Q356.07327,4.5079546,355.24844,2.9166939Q354.16794,0.83210504,352.08334,-0.24845931Q350.49216,-1.0732558,344.9028,-1.0732558L10.097191,-1.0732558Q4.5078797,-1.0732558,2.9166825,-0.24846007Q0.83208722,0.8320893,-0.24845986,2.9166832Q-1.0732558,4.5078807,-1.0732558,10.09719L-1.073256,379.9028ZM344.9028,0L10.097191,0C6.5628376,0,4.7557082,0.0071545243,3.4105935,0.70439386C2.2527995,1.3045356,1.3045354,2.2527997,0.70439374,3.410594C0.0071546435,4.7557087,0,6.5628386,0,10.09719L0,379.9028C0,383.43716,0.0071459413,385.24429,0.70439374,386.58942C1.3045354,387.74719,2.2527995,388.69547,3.4105935,389.29559C4.7557149,389.99283,6.5628376,390,10.097194,390L344.9028,390C348.43716,390,350.24429,389.99283,351.58942,389.29559C352.74719,388.69547,353.69547,387.74719,354.29559,386.58942C354.99283,385.24429,355,383.43716,355,379.9028L355,10.097191C355,6.5628386,354.99283,4.7557154,354.29559,3.410594C353.69547,2.2527997,352.74719,1.3045356,351.58942,0.70439386C350.24429,0.0071458817,348.43716,0,344.9028,0Z\" fill=\"#FFFFFF\"/>\n<path d=\"M-31.00000000000023,-1Q40.277198999999996,-0.88010543,122,-1Q114.15101999999999,-0.8605988,109.3595,7.290206899999999Q104.71053,14.709823,99.48566,22.343861C97.31218999999999,25.519508,96.18568,27.10437,94.73662,28.250017C93.46284,29.257074,92.00455,30.011162,90.44579,30.472553C88.67451,30.996849,86.71175,31,82.83185,31L-11.36393,31C-15.820338,31,-18.09487,30.991871,-19.846823,30.141249C-21.3598814,29.406616,-22.6289911,28.239632,-23.4876833,26.793367C-24.4819527,25.118755,-24.6804209,22.852882,-25.0534024,18.412107L-26.2066932,4.6808572Q-27.8383706,0.17257769999999995,-31.00000000000023,-1Z\" fill=\"url(#grad_0_960_1)\"/>\n<path d=\"M-31.00000000000023,-1Q40.277198999999996,-0.88010543,122,-1Q114.15101999999999,-0.8605988,109.3595,7.290206899999999Q104.71053,14.709823,99.48566,22.343861C97.31218999999999,25.519508,96.18568,27.10437,94.73662,28.250017C93.46284,29.257074,92.00455,30.011162,90.44579,30.472553C88.67451,30.996849,86.71175,31,82.83185,31L-11.36393,31C-15.820338,31,-18.09487,30.991871,-19.846823,30.141249C-21.3598814,29.406616,-22.6289911,28.239632,-23.4876833,26.793367C-24.4819527,25.118755,-24.6804209,22.852882,-25.0534024,18.412107L-26.2066932,4.6808572Q-27.8383706,0.17257769999999995,-31.00000000000023,-1Z\" fill=\"url(#grad_0_960_2)\"/>\n<path d=\"M81.037552,-9L48.99999999999999,41L60.177523,41L92,-9L81.037552,-9Z\" fill=\"url(#grad_0_960_3)\" transform=\"matrix(-1,0,0,1,98,0)\"/>\n<path d=\"M111.405672,-9L80.00000000000001,41L107.805159,41L139,-9L111.405672,-9Z\" fill=\"url(#grad_0_960_4)\" transform=\"matrix(-1,0,0,1,160,0)\"/>\n</svg>",
+      "0:959": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"16.999999999994618 42.235572814941406 142.00000000000537 220.99999237060547\" width=\"142.00000000000537\" height=\"220.99999237060547\" shape-rendering=\"crispEdges\"><defs><linearGradient id=\"grad_0_959_0\" x1=\"0.5\" y1=\"0.0\" x2=\"0.5\" y2=\"1.0\"><stop offset=\"12%\" stop-color=\"#FFDA92\" stop-opacity=\"1\"/><stop offset=\"99%\" stop-color=\"#FFF1D4\" stop-opacity=\"1\"/></linearGradient><linearGradient id=\"grad_0_959_1\" x1=\"0.5\" y1=\"0.0\" x2=\"0.5\" y2=\"1.0\"><stop offset=\"12%\" stop-color=\"#FFDA92\" stop-opacity=\"1\"/><stop offset=\"99%\" stop-color=\"#FFF1D4\" stop-opacity=\"1\"/></linearGradient><linearGradient id=\"grad_0_959_2\" x1=\"0.5\" y1=\"0.0\" x2=\"0.5\" y2=\"1.0\"><stop offset=\"12%\" stop-color=\"#FFDA92\" stop-opacity=\"1\"/><stop offset=\"99%\" stop-color=\"#FFF1D4\" stop-opacity=\"1\"/></linearGradient></defs>\n<path d=\"M25,65.2355728149414L137,65.2355728149414C139.80025999999998,65.2355728149414,141.23206,65.2412379384414,142.29779000000002,65.79366368494141C143.2151,66.2691557149414,143.96642,67.0204649149414,144.44191,67.9377847149414C144.99433,69.0035174149414,145,70.4353065149414,145,73.2355728149414L145,80.23557181494141C145,83.0358388149414,144.99433,84.4676288149414,144.44191,85.5333618149414C143.96642,86.4506818149414,143.2151,87.20198981494141,142.29779000000002,87.67748281494141C141.23206,88.22990781494141,139.80025999999998,88.2355728149414,137,88.2355728149414L25,88.2355728149414C22.1997337,88.2355728149414,20.7679455,88.2299058149414,19.7022119,87.67748281494141C18.7848921,87.20198981494141,18.0335829,86.4506818149414,17.55809087,85.5333618149414C17.0056686997,84.4676288149414,16.99999999999515,83.0358388149414,16.99999999999515,80.2355728149414L16.99999999999515,73.2355738149414C16.99999999999515,70.4353065149414,17.0056685209,69.00351861494141,17.55809087,67.9377847149414C18.0335829,67.0204649149414,18.7848921,66.2691557149414,19.7022119,65.79366368494141C20.7679458,65.24124133584141,22.1997337,65.2355728149414,25,65.2355728149414\" fill=\"url(#grad_0_959_0)\" transform=\"matrix(1,0,0,-1,0,130.4711456298828)\"/>\n<path d=\"M25,163.23558044433594L113,163.23558044433594C115.800262,163.23558044433594,117.23206,163.24124556783593,118.29779,163.79367131433594C119.2151,164.26916334433594,119.96642,165.02047254433595,120.44191,165.93779234433595C120.99433,167.00352504433593,121,168.43531414433593,121,171.23558044433594L121,178.23557944433594C121,181.03584644433593,120.99433,182.46763644433594,120.44191,183.53336944433593C119.96642,184.45068944433595,119.2151,185.20199744433594,118.29779,185.67749044433594C117.23206,186.22991544433594,115.800262,186.23558044433594,113,186.23558044433594L24.9999995,186.23558044433594C22.1997337,186.23558044433594,20.7679455,186.22991344433595,19.7022119,185.67749044433594C18.7848921,185.20199744433594,18.0335829,184.45068944433595,17.55809087,183.53336944433593C17.0056686997,182.46763644433594,16.99999999999606,181.03584644433593,16.99999999999606,178.23558044433594L16.99999999999606,171.23558144433593C16.99999999999606,168.43531414433593,17.0056685209,167.00352624433594,17.55809087,165.93779234433595C18.0335829,165.02047254433595,18.7848921,164.26916334433594,19.7022119,163.79367131433594C20.7679458,163.24124896523594,22.1997337,163.23558044433594,25,163.23558044433594\" fill=\"url(#grad_0_959_1)\" transform=\"matrix(1,0,0,-1,0,326.4711608886719)\"/>\n<path d=\"M25,263.2355651855469L151,263.2355651855469C153.80026,263.2355651855469,155.23206,263.2412303090469,156.29779,263.7936560555469C157.2151,264.2691480855469,157.96642,265.02045728554685,158.44191,265.9377770855469C158.99434,267.0035097855469,159,268.4352988855469,159,271.2355651855469L159,278.2355641855469C159,281.0358311855469,158.99434,282.4676211855469,158.44191,283.5333541855469C157.96642,284.45067418554686,157.2151,285.20198218554685,156.29779,285.6774751855469C155.23206,286.22990018554685,153.80026,286.2355651855469,151,286.2355651855469L24.9999976,286.2355651855469C22.1997337,286.2355651855469,20.7679455,286.22989818554686,19.7022119,285.6774751855469C18.7848921,285.20198218554685,18.0335829,284.45067418554686,17.55809087,283.5333541855469C17.0056686997,282.4676211855469,16.999999999994618,281.0358311855469,16.999999999994618,278.2355651855469L16.999999999994618,271.2355661855469C16.999999999994618,268.4352988855469,17.0056685209,267.0035109855469,17.55809087,265.9377770855469C18.0335829,265.02045728554685,18.7848921,264.2691480855469,19.7022119,263.7936560555469C20.7679458,263.24123370644685,22.1997337,263.2355651855469,25,263.2355651855469\" fill=\"url(#grad_0_959_2)\" transform=\"matrix(1,0,0,-1,0,526.4711303710938)\"/>\n</svg>"
+    }
+  },
+  "node": {
+    "id": "0:959",
+    "name": "市场解读",
+    "type": "FRAME",
+    "layoutStyle": {
+      "width": 355,
+      "height": 392.2355651855469,
+      "relativeX": 10,
+      "relativeY": 410.7644348144531,
+      "rotate": 0,
+      "rotateX": null
+    },
+    "bounds": {
+      "x": 10,
+      "y": 410.7644348144531,
+      "width": 355,
+      "height": 392.2355651855469
+    },
+    "opacity": null,
+    "fill": null,
+    "effect": null,
+    "borderRadius": null,
+    "strokeAlign": null,
+    "strokeColor": null,
+    "strokeType": null,
+    "strokeWidth": null,
+    "mask": null,
+    "path": null,
+    "text": null,
+    "textRuns": null,
+    "textAlign": null,
+    "textMode": null,
+    "textColor": null,
+    "hasSvg": true,
+    "exportImage": null,
+    "styleRefs": null,
+    "componentDefinition": null,
+    "d2cCss": {
+      "-webkit-background-clip": null,
+      "-webkit-text-fill-color": null,
+      "background": null,
+      "background-clip": null,
+      "background-image": null,
+      "border": null,
+      "border-bottom-left-radius": null,
+      "border-radius": null,
+      "border-top-left-radius": null,
+      "bottom": null,
+      "box-shadow": null,
+      "color": null,
+      "filter": null,
+      "flex": null,
+      "font-family": null,
+      "font-size": null,
+      "height": null,
+      "left": null,
+      "letter-spacing": null,
+      "line-height": null,
+      "mix-blend-mode": null,
+      "object-fit": null,
+      "opacity": null,
+      "overflow": null,
+      "position": null,
+      "right": null,
+      "text-align": null,
+      "text-fill-color": null,
+      "text-shadow": null,
+      "top": null,
+      "transform": null,
+      "transform-origin": null,
+      "width": null,
+      "z-index": null
+    },
+    "d2cMatch": null,
+    "sources": [
+      "getDsl",
+      "extractSvg",
+      "getDesignSvgs"
+    ],
+    "captureStatus": "complete",
+    "children": [
+      {
+        "id": "0:960",
+        "name": "矩形",
+        "type": "FRAME",
+        "layoutStyle": {
+          "width": 355,
+          "height": 390,
+          "relativeX": 0,
+          "relativeY": 2.2355759143829346,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 10,
+          "y": 413.00001072883606,
+          "width": 355,
+          "height": 390
+        },
+        "opacity": null,
+        "fill": null,
+        "effect": null,
+        "borderRadius": "10.1px",
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": null,
+        "text": null,
+        "textRuns": null,
+        "textAlign": null,
+        "textMode": null,
+        "textColor": null,
+        "hasSvg": true,
+        "exportImage": null,
+        "styleRefs": null,
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": "71.24%",
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": "none",
+          "font-family": null,
+          "font-size": null,
+          "height": "392.24px",
+          "left": "2.67%",
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": "2.67%",
+          "text-align": null,
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": "14.71%",
+          "transform": null,
+          "transform-origin": null,
+          "width": "355px",
+          "z-index": "2"
+        },
+        "d2cMatch": "img-src",
+        "sources": [
+          "getDsl",
+          "getD2c",
+          "extractSvg",
+          "getDesignSvgs"
+        ],
+        "captureStatus": "complete",
+        "children": [
+          {
+            "id": "0:961",
+            "name": "蒙版",
+            "type": "PATH",
+            "layoutStyle": {
+              "width": 355,
+              "height": 390,
+              "relativeX": 0,
+              "relativeY": 0,
+              "rotate": 0,
+              "rotateX": null
+            },
+            "bounds": {
+              "x": 10,
+              "y": 413.00001072883606,
+              "width": 355,
+              "height": 390
+            },
+            "opacity": null,
+            "fill": "linear-gradient(180deg, #E0EDFF 0%, #FFFFFF 11%)",
+            "effect": {
+              "boxShadow": [
+                "box-shadow: 0px 1px 2px 2px #EAF5FF;"
+              ],
+              "filter": [],
+              "backdropFilter": [],
+              "raw": [
+                "box-shadow: 0px 1px 2px 2px #EAF5FF;"
+              ]
+            },
+            "borderRadius": null,
+            "strokeAlign": null,
+            "strokeColor": null,
+            "strokeType": null,
+            "strokeWidth": null,
+            "mask": "outline",
+            "path": [
+              {
+                "data": "M10.097191,7.8064284e-14L344.9028,-2.396997e-14C348.43716,-2.5047095e-14,350.24429,0.0071458817,351.58942,0.70439386C352.74719,1.3045356,353.69547,2.2527997,354.29559,3.410594C354.99283,4.7557154,355,6.5628386,355,10.097191L355,379.9028C355,383.43716,354.99283,385.24429,354.29559,386.58942C353.69547,387.74719,352.74719,388.69547,351.58942,389.29559C350.24429,389.99283,348.43716,390,344.9028,390L10.097194,390C6.5628376,390,4.7557149,389.99283,3.4105935,389.29559C2.2527995,388.69547,1.3045354,387.74719,0.70439374,386.58942C0.0071459413,385.24429,2.8834994e-15,383.43716,4.4363901e-15,379.9028L1.6691742e-13,10.09719C1.6847031e-13,6.5628386,0.0071546435,4.7557087,0.70439374,3.410594C1.3045354,2.2527997,2.2527995,1.3045356,3.4105935,0.70439386C4.7557082,0.0071545243,6.5628376,7.9141405e-14,10.097191,7.8064284e-14",
+                "fill": "linear-gradient(180deg, #E0EDFF 0%, #FFFFFF 11%)",
+                "transform": null
+              },
+              {
+                "data": "M-1.073256,379.9028Q-1.073256,385.49213,-0.24845377,387.08334Q0.83212185,389.16794,2.9166789,390.24844Q4.5078917,391.07327,10.097194,391.07327L344.9028,391.07327Q350.49213,391.07327,352.08331,390.24844Q354.16794,389.16791,355.24844,387.08331Q356.07327,385.49203,356.07327,379.9028L356.07327,10.097191Q356.07327,4.5079546,355.24844,2.9166939Q354.16794,0.83210504,352.08334,-0.24845931Q350.49216,-1.0732558,344.9028,-1.0732558L10.097191,-1.0732558Q4.5078797,-1.0732558,2.9166825,-0.24846007Q0.83208722,0.8320893,-0.24845986,2.9166832Q-1.0732558,4.5078807,-1.0732558,10.09719L-1.073256,379.9028ZM344.9028,0L10.097191,0C6.5628376,0,4.7557082,0.0071545243,3.4105935,0.70439386C2.2527995,1.3045356,1.3045354,2.2527997,0.70439374,3.410594C0.0071546435,4.7557087,0,6.5628386,0,10.09719L0,379.9028C0,383.43716,0.0071459413,385.24429,0.70439374,386.58942C1.3045354,387.74719,2.2527995,388.69547,3.4105935,389.29559C4.7557149,389.99283,6.5628376,390,10.097194,390L344.9028,390C348.43716,390,350.24429,389.99283,351.58942,389.29559C352.74719,388.69547,353.69547,387.74719,354.29559,386.58942C354.99283,385.24429,355,383.43716,355,379.9028L355,10.097191C355,6.5628386,354.99283,4.7557154,354.29559,3.410594C353.69547,2.2527997,352.74719,1.3045356,351.58942,0.70439386C350.24429,0.0071458817,348.43716,0,344.9028,0Z",
+                "fill": "#FFFFFF",
+                "transform": null
+              }
+            ],
+            "text": null,
+            "textRuns": null,
+            "textAlign": null,
+            "textMode": null,
+            "textColor": null,
+            "hasSvg": false,
+            "exportImage": null,
+            "styleRefs": {
+              "effect": "effect_0:127"
+            },
+            "componentDefinition": null,
+            "d2cCss": {
+              "-webkit-background-clip": null,
+              "-webkit-text-fill-color": null,
+              "background": null,
+              "background-clip": null,
+              "background-image": null,
+              "border": null,
+              "border-bottom-left-radius": null,
+              "border-radius": null,
+              "border-top-left-radius": null,
+              "bottom": null,
+              "box-shadow": null,
+              "color": null,
+              "filter": null,
+              "flex": null,
+              "font-family": null,
+              "font-size": null,
+              "height": null,
+              "left": null,
+              "letter-spacing": null,
+              "line-height": null,
+              "mix-blend-mode": null,
+              "object-fit": null,
+              "opacity": null,
+              "overflow": null,
+              "position": null,
+              "right": null,
+              "text-align": null,
+              "text-fill-color": null,
+              "text-shadow": null,
+              "top": null,
+              "transform": null,
+              "transform-origin": null,
+              "width": null,
+              "z-index": null
+            },
+            "d2cMatch": null,
+            "sources": [
+              "getDsl"
+            ],
+            "captureStatus": "complete",
+            "children": []
+          },
+          {
+            "id": "0:962",
+            "name": "矩形备份 7",
+            "type": "PATH",
+            "layoutStyle": {
+              "width": 153,
+              "height": 32,
+              "relativeX": -31,
+              "relativeY": -1,
+              "rotate": 0,
+              "rotateX": null
+            },
+            "bounds": {
+              "x": -21,
+              "y": 412.00001072883606,
+              "width": 153,
+              "height": 32
+            },
+            "opacity": null,
+            "fill": "linear-gradient(0deg, #4F9CF0 18%, #75C3F8 100%)",
+            "effect": {
+              "boxShadow": [
+                "box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5);",
+                "box-shadow: 0px 1px 0px 0px #FFFFFF;"
+              ],
+              "filter": [
+                "filter: blur(9.72px);"
+              ],
+              "backdropFilter": [],
+              "raw": [
+                "box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5);",
+                "box-shadow: 0px 1px 0px 0px #FFFFFF;",
+                "filter: blur(9.72px);"
+              ]
+            },
+            "borderRadius": null,
+            "strokeAlign": null,
+            "strokeColor": null,
+            "strokeType": null,
+            "strokeWidth": null,
+            "mask": null,
+            "path": [
+              {
+                "data": "M-31.00000000000023,-1Q40.277198999999996,-0.88010543,122,-1Q114.15101999999999,-0.8605988,109.3595,7.290206899999999Q104.71053,14.709823,99.48566,22.343861C97.31218999999999,25.519508,96.18568,27.10437,94.73662,28.250017C93.46284,29.257074,92.00455,30.011162,90.44579,30.472553C88.67451,30.996849,86.71175,31,82.83185,31L-11.36393,31C-15.820338,31,-18.09487,30.991871,-19.846823,30.141249C-21.3598814,29.406616,-22.6289911,28.239632,-23.4876833,26.793367C-24.4819527,25.118755,-24.6804209,22.852882,-25.0534024,18.412107L-26.2066932,4.6808572Q-27.8383706,0.17257769999999995,-31.00000000000023,-1Z",
+                "fill": "linear-gradient(0deg, #4F9CF0 18%, #75C3F8 100%)",
+                "transform": null
+              }
+            ],
+            "text": null,
+            "textRuns": null,
+            "textAlign": null,
+            "textMode": null,
+            "textColor": null,
+            "hasSvg": false,
+            "exportImage": null,
+            "styleRefs": {
+              "effect": "effect_0:137"
+            },
+            "componentDefinition": null,
+            "d2cCss": {
+              "-webkit-background-clip": null,
+              "-webkit-text-fill-color": null,
+              "background": null,
+              "background-clip": null,
+              "background-image": null,
+              "border": null,
+              "border-bottom-left-radius": null,
+              "border-radius": null,
+              "border-top-left-radius": null,
+              "bottom": null,
+              "box-shadow": null,
+              "color": null,
+              "filter": null,
+              "flex": null,
+              "font-family": null,
+              "font-size": null,
+              "height": null,
+              "left": null,
+              "letter-spacing": null,
+              "line-height": null,
+              "mix-blend-mode": null,
+              "object-fit": null,
+              "opacity": null,
+              "overflow": null,
+              "position": null,
+              "right": null,
+              "text-align": null,
+              "text-fill-color": null,
+              "text-shadow": null,
+              "top": null,
+              "transform": null,
+              "transform-origin": null,
+              "width": null,
+              "z-index": null
+            },
+            "d2cMatch": null,
+            "sources": [
+              "getDsl"
+            ],
+            "captureStatus": "complete",
+            "children": []
+          },
+          {
+            "id": "0:963",
+            "name": "矩形备份 8",
+            "type": "PATH",
+            "layoutStyle": {
+              "width": 153,
+              "height": 32,
+              "relativeX": -31,
+              "relativeY": -1,
+              "rotate": 0,
+              "rotateX": null
+            },
+            "bounds": {
+              "x": -21,
+              "y": 412.00001072883606,
+              "width": 153,
+              "height": 32
+            },
+            "opacity": null,
+            "fill": "linear-gradient(0deg, #4F9CF0 18%, #75C3F8 100%)",
+            "effect": {
+              "boxShadow": [
+                "box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5);",
+                "box-shadow: 0px 1px 0px 0px #FFFFFF;"
+              ],
+              "filter": [],
+              "backdropFilter": [],
+              "raw": [
+                "box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5);",
+                "box-shadow: 0px 1px 0px 0px #FFFFFF;"
+              ]
+            },
+            "borderRadius": null,
+            "strokeAlign": null,
+            "strokeColor": null,
+            "strokeType": null,
+            "strokeWidth": null,
+            "mask": null,
+            "path": [
+              {
+                "data": "M-31.00000000000023,-1Q40.277198999999996,-0.88010543,122,-1Q114.15101999999999,-0.8605988,109.3595,7.290206899999999Q104.71053,14.709823,99.48566,22.343861C97.31218999999999,25.519508,96.18568,27.10437,94.73662,28.250017C93.46284,29.257074,92.00455,30.011162,90.44579,30.472553C88.67451,30.996849,86.71175,31,82.83185,31L-11.36393,31C-15.820338,31,-18.09487,30.991871,-19.846823,30.141249C-21.3598814,29.406616,-22.6289911,28.239632,-23.4876833,26.793367C-24.4819527,25.118755,-24.6804209,22.852882,-25.0534024,18.412107L-26.2066932,4.6808572Q-27.8383706,0.17257769999999995,-31.00000000000023,-1Z",
+                "fill": "linear-gradient(0deg, #4F9CF0 18%, #75C3F8 100%)",
+                "transform": null
+              }
+            ],
+            "text": null,
+            "textRuns": null,
+            "textAlign": null,
+            "textMode": null,
+            "textColor": null,
+            "hasSvg": false,
+            "exportImage": null,
+            "styleRefs": {
+              "effect": "effect_0:147"
+            },
+            "componentDefinition": null,
+            "d2cCss": {
+              "-webkit-background-clip": null,
+              "-webkit-text-fill-color": null,
+              "background": null,
+              "background-clip": null,
+              "background-image": null,
+              "border": null,
+              "border-bottom-left-radius": null,
+              "border-radius": null,
+              "border-top-left-radius": null,
+              "bottom": null,
+              "box-shadow": null,
+              "color": null,
+              "filter": null,
+              "flex": null,
+              "font-family": null,
+              "font-size": null,
+              "height": null,
+              "left": null,
+              "letter-spacing": null,
+              "line-height": null,
+              "mix-blend-mode": null,
+              "object-fit": null,
+              "opacity": null,
+              "overflow": null,
+              "position": null,
+              "right": null,
+              "text-align": null,
+              "text-fill-color": null,
+              "text-shadow": null,
+              "top": null,
+              "transform": null,
+              "transform-origin": null,
+              "width": null,
+              "z-index": null
+            },
+            "d2cMatch": null,
+            "sources": [
+              "getDsl"
+            ],
+            "captureStatus": "complete",
+            "children": []
+          },
+          {
+            "id": "0:964",
+            "name": "路径 5",
+            "type": "PATH",
+            "layoutStyle": {
+              "width": 43,
+              "height": 50,
+              "relativeX": 6,
+              "relativeY": -9,
+              "rotate": 0,
+              "rotateX": null
+            },
+            "bounds": {
+              "x": 16,
+              "y": 404.00001072883606,
+              "width": 43,
+              "height": 50
+            },
+            "opacity": 0.14746005833148956,
+            "fill": "linear-gradient(211deg, #FFFFFF 8%, rgba(255, 224, 177, 0) 58%)",
+            "effect": null,
+            "borderRadius": null,
+            "strokeAlign": null,
+            "strokeColor": null,
+            "strokeType": null,
+            "strokeWidth": null,
+            "mask": null,
+            "path": [
+              {
+                "data": "M81.037552,-9L48.99999999999999,41L60.177523,41L92,-9L81.037552,-9Z",
+                "fill": "linear-gradient(211deg, #FFFFFF 8%, rgba(255, 224, 177, 0) 58%)",
+                "transform": "matrix(-1,0,0,1,98,0)"
+              }
+            ],
+            "text": null,
+            "textRuns": null,
+            "textAlign": null,
+            "textMode": null,
+            "textColor": null,
+            "hasSvg": false,
+            "exportImage": null,
+            "styleRefs": null,
+            "componentDefinition": null,
+            "d2cCss": {
+              "-webkit-background-clip": null,
+              "-webkit-text-fill-color": null,
+              "background": null,
+              "background-clip": null,
+              "background-image": null,
+              "border": null,
+              "border-bottom-left-radius": null,
+              "border-radius": null,
+              "border-top-left-radius": null,
+              "bottom": "0%",
+              "box-shadow": null,
+              "color": null,
+              "filter": null,
+              "flex": null,
+              "font-family": null,
+              "font-size": null,
+              "height": null,
+              "left": "0%",
+              "letter-spacing": null,
+              "line-height": null,
+              "mix-blend-mode": null,
+              "object-fit": null,
+              "opacity": null,
+              "overflow": null,
+              "position": "absolute",
+              "right": "0%",
+              "text-align": null,
+              "text-fill-color": null,
+              "text-shadow": null,
+              "top": "0.57%",
+              "transform": null,
+              "transform-origin": null,
+              "width": null,
+              "z-index": "0"
+            },
+            "d2cMatch": "img-src",
+            "sources": [
+              "getDsl",
+              "getD2c"
+            ],
+            "captureStatus": "complete",
+            "children": []
+          },
+          {
+            "id": "0:965",
+            "name": "路径 5备份",
+            "type": "PATH",
+            "layoutStyle": {
+              "width": 59,
+              "height": 50,
+              "relativeX": 21,
+              "relativeY": -9,
+              "rotate": 0,
+              "rotateX": null
+            },
+            "bounds": {
+              "x": 31,
+              "y": 404.00001072883606,
+              "width": 59,
+              "height": 50
+            },
+            "opacity": 0.14746005833148956,
+            "fill": "linear-gradient(211deg, #FFFFFF 8%, rgba(255, 224, 177, 0) 58%)",
+            "effect": null,
+            "borderRadius": null,
+            "strokeAlign": null,
+            "strokeColor": null,
+            "strokeType": null,
+            "strokeWidth": null,
+            "mask": null,
+            "path": [
+              {
+                "data": "M111.405672,-9L80.00000000000001,41L107.805159,41L139,-9L111.405672,-9Z",
+                "fill": "linear-gradient(211deg, #FFFFFF 8%, rgba(255, 224, 177, 0) 58%)",
+                "transform": "matrix(-1,0,0,1,160,0)"
+              }
+            ],
+            "text": null,
+            "textRuns": null,
+            "textAlign": null,
+            "textMode": null,
+            "textColor": null,
+            "hasSvg": false,
+            "exportImage": null,
+            "styleRefs": null,
+            "componentDefinition": null,
+            "d2cCss": {
+              "-webkit-background-clip": null,
+              "-webkit-text-fill-color": null,
+              "background": null,
+              "background-clip": null,
+              "background-image": null,
+              "border": null,
+              "border-bottom-left-radius": null,
+              "border-radius": null,
+              "border-top-left-radius": null,
+              "bottom": null,
+              "box-shadow": null,
+              "color": null,
+              "filter": null,
+              "flex": null,
+              "font-family": null,
+              "font-size": null,
+              "height": null,
+              "left": null,
+              "letter-spacing": null,
+              "line-height": null,
+              "mix-blend-mode": null,
+              "object-fit": null,
+              "opacity": null,
+              "overflow": null,
+              "position": null,
+              "right": null,
+              "text-align": null,
+              "text-fill-color": null,
+              "text-shadow": null,
+              "top": null,
+              "transform": null,
+              "transform-origin": null,
+              "width": null,
+              "z-index": null
+            },
+            "d2cMatch": null,
+            "sources": [
+              "getDsl"
+            ],
+            "captureStatus": "complete",
+            "children": []
+          },
+          {
+            "id": "0:966",
+            "name": "椭圆形",
+            "type": "SVG_ELLIPSE",
+            "layoutStyle": {
+              "width": 71,
+              "height": 22,
+              "relativeX": -21,
+              "relativeY": -12,
+              "rotate": 0,
+              "rotateX": null
+            },
+            "bounds": {
+              "x": -11,
+              "y": 401.00001072883606,
+              "width": 71,
+              "height": 22
+            },
+            "opacity": 0.645233154296875,
+            "fill": "#6CE8FF",
+            "effect": {
+              "boxShadow": [],
+              "filter": [
+                "filter: blur(24.48px);"
+              ],
+              "backdropFilter": [],
+              "raw": [
+                "filter: blur(24.48px);"
+              ]
+            },
+            "borderRadius": null,
+            "strokeAlign": "inside",
+            "strokeColor": null,
+            "strokeType": "solid",
+            "strokeWidth": "1px",
+            "mask": null,
+            "path": null,
+            "text": null,
+            "textRuns": null,
+            "textAlign": null,
+            "textMode": null,
+            "textColor": null,
+            "hasSvg": false,
+            "exportImage": null,
+            "styleRefs": {
+              "fill": "paint_0:192",
+              "effect": "effect_0:158",
+              "strokeColor": "paint_0:11"
+            },
+            "componentDefinition": null,
+            "d2cCss": {
+              "-webkit-background-clip": null,
+              "-webkit-text-fill-color": null,
+              "background": null,
+              "background-clip": null,
+              "background-image": null,
+              "border": null,
+              "border-bottom-left-radius": null,
+              "border-radius": null,
+              "border-top-left-radius": null,
+              "bottom": null,
+              "box-shadow": null,
+              "color": null,
+              "filter": null,
+              "flex": null,
+              "font-family": null,
+              "font-size": null,
+              "height": null,
+              "left": null,
+              "letter-spacing": null,
+              "line-height": null,
+              "mix-blend-mode": null,
+              "object-fit": null,
+              "opacity": null,
+              "overflow": null,
+              "position": null,
+              "right": null,
+              "text-align": null,
+              "text-fill-color": null,
+              "text-shadow": null,
+              "top": null,
+              "transform": null,
+              "transform-origin": null,
+              "width": null,
+              "z-index": null
+            },
+            "d2cMatch": null,
+            "sources": [
+              "getDsl"
+            ],
+            "captureStatus": "complete",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0:967",
+        "name": "市场解读",
+        "type": "TEXT",
+        "layoutStyle": {
+          "width": 102,
+          "height": 38,
+          "relativeX": 1.0069996118545532,
+          "relativeY": -5.684341886080802e-14,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 11.006999611854553,
+          "y": 410.76443481445307,
+          "width": 102,
+          "height": 38
+        },
+        "opacity": null,
+        "fill": null,
+        "effect": {
+          "boxShadow": [
+            "box-shadow: 0px 2px 3px 0px #4F9EF1;"
+          ],
+          "filter": [],
+          "backdropFilter": [],
+          "raw": [
+            "box-shadow: 0px 2px 3px 0px #4F9EF1;"
+          ]
+        },
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": null,
+        "text": "市场解读",
+        "textRuns": [
+          {
+            "text": "市场解读",
+            "font": {
+              "family": "FZZDHJW--GB1",
+              "size": 20,
+              "style": "0",
+              "lineHeight": "37.5639533996582",
+              "letterSpacing": "auto",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#FFFFFF"
+          }
+        ],
+        "textAlign": "center",
+        "textMode": "auto-height",
+        "textColor": [
+          {
+            "start": 0,
+            "end": 4,
+            "color": "#FFFFFF"
+          }
+        ],
+        "hasSvg": false,
+        "exportImage": null,
+        "styleRefs": {
+          "effect": "effect_0:164",
+          "font": [
+            "font_0:166"
+          ],
+          "textColors": [
+            "paint_0:121"
+          ]
+        },
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": null,
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": null,
+          "font-family": null,
+          "font-size": null,
+          "height": null,
+          "left": null,
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": null,
+          "right": null,
+          "text-align": null,
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": null,
+          "transform": null,
+          "transform-origin": null,
+          "width": null,
+          "z-index": null
+        },
+        "d2cMatch": null,
+        "sources": [
+          "getDsl"
+        ],
+        "captureStatus": "complete",
+        "children": []
+      },
+      {
+        "id": "0:968",
+        "name": "随着“十五五”规划落地、AI算力需求爆发",
+        "type": "TEXT",
+        "layoutStyle": {
+          "width": 321,
+          "height": 59,
+          "relativeX": 17,
+          "relativeY": 70.2355728149414,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 27,
+          "y": 481.00000762939453,
+          "width": 321,
+          "height": 59
+        },
+        "opacity": null,
+        "fill": null,
+        "effect": null,
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": null,
+        "text": "随着“十五五”规划落地、AI算力需求爆发与海外市场扩容，电网行业已完成周期底部筑底，正式进入景气度上行通道。",
+        "textRuns": [
+          {
+            "text": "随着“十五五”规划落地、AI算力需求爆发与海外市场扩容，",
+            "font": {
+              "family": "FZLTHJW--GB1",
+              "size": 14,
+              "style": "0",
+              "lineHeight": "20",
+              "letterSpacing": "-0.10000000149011612px",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#333333"
+          },
+          {
+            "text": "电网行业已完成周期底部筑底，正式进入景气度上行通道",
+            "font": {
+              "family": "FZLTZHJW--GB1",
+              "size": 14,
+              "style": "0",
+              "lineHeight": "20",
+              "letterSpacing": "-0.10000000149011612px",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#F81E01"
+          },
+          {
+            "text": "。",
+            "font": {
+              "family": "FZLTHJW--GB1",
+              "size": 14,
+              "style": "0",
+              "lineHeight": "20",
+              "letterSpacing": "-0.10000000149011612px",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#333333"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line",
+        "textColor": [
+          {
+            "start": 0,
+            "end": 28,
+            "color": "#333333"
+          },
+          {
+            "start": 28,
+            "end": 53,
+            "color": "#F81E01"
+          },
+          {
+            "start": 53,
+            "end": 54,
+            "color": "#333333"
+          }
+        ],
+        "hasSvg": false,
+        "exportImage": null,
+        "styleRefs": {
+          "font": [
+            "font_0:169",
+            "font_0:196",
+            "font_0:169"
+          ],
+          "textColors": [
+            "paint_0:171",
+            "paint_0:198",
+            "paint_0:171"
+          ]
+        },
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": "67.05%",
+          "box-shadow": null,
+          "color": "#999999",
+          "filter": null,
+          "flex": null,
+          "font-family": "FZLTHJW--GB1",
+          "font-size": "9px",
+          "height": null,
+          "left": "4.79%",
+          "letter-spacing": "-0.11px",
+          "line-height": "11px",
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": "absolute",
+          "right": "4.79%",
+          "text-align": "justify",
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": "17.91%",
+          "transform": null,
+          "transform-origin": null,
+          "width": "321px",
+          "z-index": "2"
+        },
+        "d2cMatch": "img-src",
+        "sources": [
+          "getDsl",
+          "getD2c"
+        ],
+        "captureStatus": "complete",
+        "children": []
+      },
+      {
+        "id": "0:969",
+        "name": "形状结合",
+        "type": "PATH",
+        "layoutStyle": {
+          "width": 128,
+          "height": 23,
+          "relativeX": 17,
+          "relativeY": 42.24,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 27,
+          "y": 453.00443481445313,
+          "width": 128,
+          "height": 23
+        },
+        "opacity": null,
+        "fill": "linear-gradient(180deg, #FFDA92 12%, #FFF1D4 99%)",
+        "effect": {
+          "boxShadow": [
+            "box-shadow: inset 0px -1px 2px 0px rgba(255, 255, 255, 0.5);"
+          ],
+          "filter": [],
+          "backdropFilter": [],
+          "raw": [
+            "box-shadow: inset 0px -1px 2px 0px rgba(255, 255, 255, 0.5);"
+          ]
+        },
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": [
+          {
+            "data": "M25,65.2355728149414L137,65.2355728149414C139.80025999999998,65.2355728149414,141.23206,65.2412379384414,142.29779000000002,65.79366368494141C143.2151,66.2691557149414,143.96642,67.0204649149414,144.44191,67.9377847149414C144.99433,69.0035174149414,145,70.4353065149414,145,73.2355728149414L145,80.23557181494141C145,83.0358388149414,144.99433,84.4676288149414,144.44191,85.5333618149414C143.96642,86.4506818149414,143.2151,87.20198981494141,142.29779000000002,87.67748281494141C141.23206,88.22990781494141,139.80025999999998,88.2355728149414,137,88.2355728149414L25,88.2355728149414C22.1997337,88.2355728149414,20.7679455,88.2299058149414,19.7022119,87.67748281494141C18.7848921,87.20198981494141,18.0335829,86.4506818149414,17.55809087,85.5333618149414C17.0056686997,84.4676288149414,16.99999999999515,83.0358388149414,16.99999999999515,80.2355728149414L16.99999999999515,73.2355738149414C16.99999999999515,70.4353065149414,17.0056685209,69.00351861494141,17.55809087,67.9377847149414C18.0335829,67.0204649149414,18.7848921,66.2691557149414,19.7022119,65.79366368494141C20.7679458,65.24124133584141,22.1997337,65.2355728149414,25,65.2355728149414",
+            "fill": "linear-gradient(180deg, #FFDA92 12%, #FFF1D4 99%)",
+            "transform": "matrix(1,0,0,-1,0,130.4711456298828)"
+          }
+        ],
+        "text": null,
+        "textRuns": null,
+        "textAlign": null,
+        "textMode": null,
+        "textColor": null,
+        "hasSvg": false,
+        "exportImage": null,
+        "styleRefs": {
+          "effect": "effect_0:201"
+        },
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": null,
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": null,
+          "font-family": null,
+          "font-size": null,
+          "height": null,
+          "left": null,
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": null,
+          "right": null,
+          "text-align": null,
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": null,
+          "transform": null,
+          "transform-origin": null,
+          "width": null,
+          "z-index": null
+        },
+        "d2cMatch": null,
+        "sources": [
+          "getDsl"
+        ],
+        "captureStatus": "complete",
+        "children": []
+      },
+      {
+        "id": "0:972",
+        "name": "形状结合备份",
+        "type": "PATH",
+        "layoutStyle": {
+          "width": 104,
+          "height": 23,
+          "relativeX": 17,
+          "relativeY": 140.24,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 27,
+          "y": 551.0044348144531,
+          "width": 104,
+          "height": 23
+        },
+        "opacity": null,
+        "fill": "linear-gradient(180deg, #FFDA92 12%, #FFF1D4 99%)",
+        "effect": {
+          "boxShadow": [
+            "box-shadow: inset 0px -1px 2px 0px rgba(255, 255, 255, 0.5);"
+          ],
+          "filter": [],
+          "backdropFilter": [],
+          "raw": [
+            "box-shadow: inset 0px -1px 2px 0px rgba(255, 255, 255, 0.5);"
+          ]
+        },
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": [
+          {
+            "data": "M25,163.23558044433594L113,163.23558044433594C115.800262,163.23558044433594,117.23206,163.24124556783593,118.29779,163.79367131433594C119.2151,164.26916334433594,119.96642,165.02047254433595,120.44191,165.93779234433595C120.99433,167.00352504433593,121,168.43531414433593,121,171.23558044433594L121,178.23557944433594C121,181.03584644433593,120.99433,182.46763644433594,120.44191,183.53336944433593C119.96642,184.45068944433595,119.2151,185.20199744433594,118.29779,185.67749044433594C117.23206,186.22991544433594,115.800262,186.23558044433594,113,186.23558044433594L24.9999995,186.23558044433594C22.1997337,186.23558044433594,20.7679455,186.22991344433595,19.7022119,185.67749044433594C18.7848921,185.20199744433594,18.0335829,184.45068944433595,17.55809087,183.53336944433593C17.0056686997,182.46763644433594,16.99999999999606,181.03584644433593,16.99999999999606,178.23558044433594L16.99999999999606,171.23558144433593C16.99999999999606,168.43531414433593,17.0056685209,167.00352624433594,17.55809087,165.93779234433595C18.0335829,165.02047254433595,18.7848921,164.26916334433594,19.7022119,163.79367131433594C20.7679458,163.24124896523594,22.1997337,163.23558044433594,25,163.23558044433594",
+            "fill": "linear-gradient(180deg, #FFDA92 12%, #FFF1D4 99%)",
+            "transform": "matrix(1,0,0,-1,0,326.4711608886719)"
+          }
+        ],
+        "text": null,
+        "textRuns": null,
+        "textAlign": null,
+        "textMode": null,
+        "textColor": null,
+        "hasSvg": false,
+        "exportImage": null,
+        "styleRefs": {
+          "effect": "effect_0:201"
+        },
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": null,
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": null,
+          "font-family": null,
+          "font-size": null,
+          "height": null,
+          "left": null,
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": null,
+          "right": null,
+          "text-align": null,
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": null,
+          "transform": null,
+          "transform-origin": null,
+          "width": null,
+          "z-index": null
+        },
+        "d2cMatch": null,
+        "sources": [
+          "getDsl"
+        ],
+        "captureStatus": "complete",
+        "children": []
+      },
+      {
+        "id": "0:975",
+        "name": "形状结合备份 2",
+        "type": "PATH",
+        "layoutStyle": {
+          "width": 142,
+          "height": 23,
+          "relativeX": 17,
+          "relativeY": 240.24,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 27,
+          "y": 651.0044348144531,
+          "width": 142,
+          "height": 23
+        },
+        "opacity": null,
+        "fill": "linear-gradient(180deg, #FFDA92 12%, #FFF1D4 99%)",
+        "effect": {
+          "boxShadow": [
+            "box-shadow: inset 0px -1px 2px 0px rgba(255, 255, 255, 0.5);"
+          ],
+          "filter": [],
+          "backdropFilter": [],
+          "raw": [
+            "box-shadow: inset 0px -1px 2px 0px rgba(255, 255, 255, 0.5);"
+          ]
+        },
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": [
+          {
+            "data": "M25,263.2355651855469L151,263.2355651855469C153.80026,263.2355651855469,155.23206,263.2412303090469,156.29779,263.7936560555469C157.2151,264.2691480855469,157.96642,265.02045728554685,158.44191,265.9377770855469C158.99434,267.0035097855469,159,268.4352988855469,159,271.2355651855469L159,278.2355641855469C159,281.0358311855469,158.99434,282.4676211855469,158.44191,283.5333541855469C157.96642,284.45067418554686,157.2151,285.20198218554685,156.29779,285.6774751855469C155.23206,286.22990018554685,153.80026,286.2355651855469,151,286.2355651855469L24.9999976,286.2355651855469C22.1997337,286.2355651855469,20.7679455,286.22989818554686,19.7022119,285.6774751855469C18.7848921,285.20198218554685,18.0335829,284.45067418554686,17.55809087,283.5333541855469C17.0056686997,282.4676211855469,16.999999999994618,281.0358311855469,16.999999999994618,278.2355651855469L16.999999999994618,271.2355661855469C16.999999999994618,268.4352988855469,17.0056685209,267.0035109855469,17.55809087,265.9377770855469C18.0335829,265.02045728554685,18.7848921,264.2691480855469,19.7022119,263.7936560555469C20.7679458,263.24123370644685,22.1997337,263.2355651855469,25,263.2355651855469",
+            "fill": "linear-gradient(180deg, #FFDA92 12%, #FFF1D4 99%)",
+            "transform": "matrix(1,0,0,-1,0,526.4711303710938)"
+          }
+        ],
+        "text": null,
+        "textRuns": null,
+        "textAlign": null,
+        "textMode": null,
+        "textColor": null,
+        "hasSvg": false,
+        "exportImage": null,
+        "styleRefs": {
+          "effect": "effect_0:201"
+        },
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": null,
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": null,
+          "font-family": null,
+          "font-size": null,
+          "height": null,
+          "left": null,
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": null,
+          "right": null,
+          "text-align": null,
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": null,
+          "transform": null,
+          "transform-origin": null,
+          "width": null,
+          "z-index": null
+        },
+        "d2cMatch": null,
+        "sources": [
+          "getDsl"
+        ],
+        "captureStatus": "complete",
+        "children": []
+      },
+      {
+        "id": "0:978",
+        "name": "从国内看景气度看",
+        "type": "TEXT",
+        "layoutStyle": {
+          "width": 112,
+          "height": 20,
+          "relativeX": 25,
+          "relativeY": 46.23557662963867,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 35,
+          "y": 457.0000114440918,
+          "width": 112,
+          "height": 20
+        },
+        "opacity": null,
+        "fill": null,
+        "effect": null,
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": null,
+        "text": "从国内看景气度看",
+        "textRuns": [
+          {
+            "text": "从国内看景气度看",
+            "font": {
+              "family": "FZLTZHJW--GB1",
+              "size": 14,
+              "style": "0",
+              "lineHeight": "-1",
+              "letterSpacing": "-0.10000000149011612px",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#7B431C"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line",
+        "textColor": [
+          {
+            "start": 0,
+            "end": 8,
+            "color": "#7B431C"
+          }
+        ],
+        "hasSvg": false,
+        "exportImage": null,
+        "styleRefs": {
+          "font": [
+            "font_0:230"
+          ],
+          "textColors": [
+            "paint_0:232"
+          ]
+        },
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": null,
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": null,
+          "font-family": null,
+          "font-size": null,
+          "height": null,
+          "left": null,
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": null,
+          "right": null,
+          "text-align": null,
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": null,
+          "transform": null,
+          "transform-origin": null,
+          "width": null,
+          "z-index": null
+        },
+        "d2cMatch": null,
+        "sources": [
+          "getDsl"
+        ],
+        "captureStatus": "complete",
+        "children": []
+      },
+      {
+        "id": "0:979",
+        "name": "从政策环境看",
+        "type": "TEXT",
+        "layoutStyle": {
+          "width": 84,
+          "height": 20,
+          "relativeX": 25,
+          "relativeY": 144.23558044433594,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 35,
+          "y": 555.0000152587891,
+          "width": 84,
+          "height": 20
+        },
+        "opacity": null,
+        "fill": null,
+        "effect": null,
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": null,
+        "text": "从政策环境看",
+        "textRuns": [
+          {
+            "text": "从政策环境看",
+            "font": {
+              "family": "FZLTZHJW--GB1",
+              "size": 14,
+              "style": "0",
+              "lineHeight": "-1",
+              "letterSpacing": "-0.10000000149011612px",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#7B431C"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line",
+        "textColor": [
+          {
+            "start": 0,
+            "end": 6,
+            "color": "#7B431C"
+          }
+        ],
+        "hasSvg": false,
+        "exportImage": null,
+        "styleRefs": {
+          "font": [
+            "font_0:230"
+          ],
+          "textColors": [
+            "paint_0:232"
+          ]
+        },
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": null,
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": null,
+          "font-family": null,
+          "font-size": null,
+          "height": null,
+          "left": "17px",
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": "absolute",
+          "right": null,
+          "text-align": null,
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": "163.24px",
+          "transform": null,
+          "transform-origin": null,
+          "width": null,
+          "z-index": "4"
+        },
+        "d2cMatch": "img-src",
+        "sources": [
+          "getDsl",
+          "getD2c"
+        ],
+        "captureStatus": "complete",
+        "children": []
+      },
+      {
+        "id": "0:980",
+        "name": "从海外市场需求上看",
+        "type": "TEXT",
+        "layoutStyle": {
+          "width": 126,
+          "height": 20,
+          "relativeX": 25,
+          "relativeY": 244.23558044433594,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 35,
+          "y": 655.0000152587891,
+          "width": 126,
+          "height": 20
+        },
+        "opacity": null,
+        "fill": null,
+        "effect": null,
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": null,
+        "text": "从海外市场需求上看",
+        "textRuns": [
+          {
+            "text": "从海外市场需求上看",
+            "font": {
+              "family": "FZLTZHJW--GB1",
+              "size": 14,
+              "style": "0",
+              "lineHeight": "-1",
+              "letterSpacing": "-0.10000000149011612px",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#7B431C"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line",
+        "textColor": [
+          {
+            "start": 0,
+            "end": 9,
+            "color": "#7B431C"
+          }
+        ],
+        "hasSvg": false,
+        "exportImage": null,
+        "styleRefs": {
+          "font": [
+            "font_0:230"
+          ],
+          "textColors": [
+            "paint_0:232"
+          ]
+        },
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": null,
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": null,
+          "font-family": null,
+          "font-size": null,
+          "height": null,
+          "left": "17px",
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": "absolute",
+          "right": null,
+          "text-align": null,
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": "263.24px",
+          "transform": null,
+          "transform-origin": null,
+          "width": null,
+          "z-index": "5"
+        },
+        "d2cMatch": "img-src",
+        "sources": [
+          "getDsl",
+          "getD2c"
+        ],
+        "captureStatus": "complete",
+        "children": []
+      },
+      {
+        "id": "0:981",
+        "name": "行业处于政策高度友好的红利期。从国家层面",
+        "type": "TEXT",
+        "layoutStyle": {
+          "width": 321,
+          "height": 60,
+          "relativeX": 17,
+          "relativeY": 168.23558044433594,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 27,
+          "y": 579.0000152587891,
+          "width": 321,
+          "height": 60
+        },
+        "opacity": null,
+        "fill": null,
+        "effect": null,
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": null,
+        "text": "行业处于政策高度友好的红利期。从国家层面的电力系统转型规划，到两大电网的具体投资计划，再到专项资金的配套支持，形成了全方位的政策支撑体系。",
+        "textRuns": [
+          {
+            "text": "行业处于政策高度友好的红利期。从国家层面的电力系统转型规划，到两大电网的具体投资计划，再到专项资金的配套支持，",
+            "font": {
+              "family": "FZLTHJW--GB1",
+              "size": 14,
+              "style": "0",
+              "lineHeight": "20",
+              "letterSpacing": "-0.10000000149011612px",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#333333"
+          },
+          {
+            "text": "形成了全方位的政策支撑体系",
+            "font": {
+              "family": "FZLTZHJW--GB1",
+              "size": 14,
+              "style": "0",
+              "lineHeight": "20",
+              "letterSpacing": "-0.10000000149011612px",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#F71D00"
+          },
+          {
+            "text": "。",
+            "font": {
+              "family": "FZLTHJW--GB1",
+              "size": 14,
+              "style": "0",
+              "lineHeight": "20",
+              "letterSpacing": "-0.10000000149011612px",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#333333"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line",
+        "textColor": [
+          {
+            "start": 0,
+            "end": 55,
+            "color": "#333333"
+          },
+          {
+            "start": 55,
+            "end": 68,
+            "color": "#F71D00"
+          },
+          {
+            "start": 68,
+            "end": 69,
+            "color": "#333333"
+          }
+        ],
+        "hasSvg": false,
+        "exportImage": null,
+        "styleRefs": {
+          "font": [
+            "font_0:169",
+            "font_0:196",
+            "font_0:169"
+          ],
+          "textColors": [
+            "paint_0:171",
+            "paint_0:237",
+            "paint_0:171"
+          ]
+        },
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": "41.81%",
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": null,
+          "font-family": null,
+          "font-size": null,
+          "height": null,
+          "left": "4.79%",
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": "absolute",
+          "right": "4.79%",
+          "text-align": "justify",
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": "42.89%",
+          "transform": null,
+          "transform-origin": null,
+          "width": "321px",
+          "z-index": "9"
+        },
+        "d2cMatch": "img-src",
+        "sources": [
+          "getDsl",
+          "getD2c"
+        ],
+        "captureStatus": "complete",
+        "children": []
+      },
+      {
+        "id": "0:982",
+        "name": "近期美国迎来史诗级的电网扩容，750亿美",
+        "type": "TEXT",
+        "layoutStyle": {
+          "width": 321,
+          "height": 90,
+          "relativeX": 17,
+          "relativeY": 268.2355651855469,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 27,
+          "y": 679.0,
+          "width": 321,
+          "height": 90
+        },
+        "opacity": null,
+        "fill": null,
+        "effect": null,
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": null,
+        "text": "近期美国迎来史诗级的电网扩容，750亿美元投资计划落地，形成了 “国内 + 海外” 双轮驱动的需求格局。国内电网厂商凭借全产业链优势，全球市场份额持续提升，海外市场或成为行业增长的第二曲线。",
+        "textRuns": [
+          {
+            "text": "近期美国迎来史诗级的电网扩容，750亿美元投资计划落地，形成了 “国内 + 海外” 双轮驱动的需求格局。",
+            "font": {
+              "family": "FZLTHJW--GB1",
+              "size": 14,
+              "style": "0",
+              "lineHeight": "20",
+              "letterSpacing": "-0.10000000149011612px",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#333333"
+          },
+          {
+            "text": "国内电网厂商凭借全产业链优势，全球市场份额持续提升，海外市场或成为行业增长的第二曲线。",
+            "font": {
+              "family": "FZLTZHJW--GB1",
+              "size": 14,
+              "style": "0",
+              "lineHeight": "20",
+              "letterSpacing": "-0.10000000149011612px",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#F81F02"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line",
+        "textColor": [
+          {
+            "start": 0,
+            "end": 52,
+            "color": "#333333"
+          },
+          {
+            "start": 52,
+            "end": 95,
+            "color": "#F81F02"
+          }
+        ],
+        "hasSvg": false,
+        "exportImage": null,
+        "styleRefs": {
+          "font": [
+            "font_0:169",
+            "font_0:196"
+          ],
+          "textColors": [
+            "paint_0:171",
+            "paint_0:240"
+          ]
+        },
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": "8.67%",
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": null,
+          "font-family": null,
+          "font-size": null,
+          "height": null,
+          "left": "4.79%",
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": "absolute",
+          "right": "4.79%",
+          "text-align": "justify",
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": "68.39%",
+          "transform": null,
+          "transform-origin": null,
+          "width": "321px",
+          "z-index": "10"
+        },
+        "d2cMatch": "img-src",
+        "sources": [
+          "getDsl",
+          "getD2c"
+        ],
+        "captureStatus": "complete",
+        "children": []
+      },
+      {
+        "id": "0:983",
+        "name": "以上观点由华夏基金提供",
+        "type": "TEXT",
+        "layoutStyle": {
+          "width": 299,
+          "height": 14,
+          "relativeX": 28,
+          "relativeY": 363.2355651855469,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 38,
+          "y": 774.0,
+          "width": 299,
+          "height": 14
+        },
+        "opacity": null,
+        "fill": null,
+        "effect": null,
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": null,
+        "text": "以上观点由华夏基金提供",
+        "textRuns": [
+          {
+            "text": "以上观点由华夏基金提供",
+            "font": {
+              "family": "FZLTHJW--GB1",
+              "size": 9,
+              "style": "0",
+              "lineHeight": "11",
+              "letterSpacing": "-0.11249999701976776px",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#999999"
+          }
+        ],
+        "textAlign": "center",
+        "textMode": "single-line",
+        "textColor": [
+          {
+            "start": 0,
+            "end": 11,
+            "color": "#999999"
+          }
+        ],
+        "hasSvg": false,
+        "exportImage": null,
+        "styleRefs": {
+          "font": [
+            "font_0:243"
+          ],
+          "textColors": [
+            "paint_0:245"
+          ]
+        },
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": null,
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": null,
+          "font-family": null,
+          "font-size": null,
+          "height": null,
+          "left": null,
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": null,
+          "right": null,
+          "text-align": null,
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": null,
+          "transform": null,
+          "transform-origin": null,
+          "width": null,
+          "z-index": null
+        },
+        "d2cMatch": null,
+        "sources": [
+          "getDsl"
+        ],
+        "captureStatus": "complete",
+        "children": []
+      }
+    ]
+  },
+  "d2c": {
+    "html": "<div\n        style=\"width: 355px; height: 392.24px; flex: none; position: absolute; left: 2.67%; right: 2.67%; top: 14.71%; bottom: 71.24%; z-index: 2\">\n        <div\n          style=\"position: absolute; left: 0%; right: 0%; top: 0.57%; bottom: 0%; z-index: 0\">\n          <img src=\"./asset/icons/svg_f1311853.svg\" />\n        </div>\n        <p\n          style=\"width: 102px; color: #FFFFFF; font-size: 20px; font-family: FZZDHJW--GB1; text-align: center; line-height: 37.56px; text-shadow: 0px 2px 3px #4F9EF1; position: absolute; left: calc(100% - 355px + 1.01px); top: calc(100% - 392.24px + 0px); z-index: 1\">\n          市场解读\n        </p>\n        <div\n          style=\"width: 321px; text-align: justify; position: absolute; left: 4.79%; right: 4.79%; top: 17.91%; bottom: 67.05%; z-index: 2\">\n          <span\n            style=\"width: 0px; color: #333333; font-size: 14px; font-family: FZLTHJW--GB1; line-height: 20px; letter-spacing: -0.1px\">\n            随着“十五五”规划落地、AI算力需求爆发与海外市场扩容，\n          </span>\n          <span\n            style=\"width: 0px; color: #F81E01; font-size: 14px; font-family: FZLTZHJW--GB1; line-height: 20px; letter-spacing: -0.1px\">\n            电网行业已完成周期底部筑底，正式进入景气度上行通道\n          </span>\n          <span\n            style=\"width: 0px; color: #333333; font-size: 14px; font-family: FZLTHJW--GB1; line-height: 20px; letter-spacing: -0.1px\">\n            。\n          </span>\n        </div>\n        <div style=\"position: absolute; left: 17px; top: 65.24px; z-index: 3\">\n          <img src=\"./asset/icons/svg_cff01688.svg\" />\n        </div>\n        <div style=\"position: absolute; left: 17px; top: 163.24px; z-index: 4\">\n          <img src=\"./asset/icons/svg_acb6c5d2.svg\" />\n        </div>\n        <div style=\"position: absolute; left: 17px; top: 263.24px; z-index: 5\">\n          <img src=\"./asset/icons/svg_fca80d1d.svg\" />\n        </div>\n        <p\n          style=\"color: #7B431C; font-size: 14px; font-family: FZLTZHJW--GB1; text-align: justify; line-height: 20px; letter-spacing: -0.1px; position: absolute; left: calc(100% - 355px + 25px); top: calc(100% - 392.24px + 46.24px); z-index: 6\">\n          从国内看景气度看\n        </p>\n        <p\n          style=\"color: #7B431C; font-size: 14px; font-family: FZLTZHJW--GB1; text-align: justify; line-height: 20px; letter-spacing: -0.1px; position: absolute; left: calc(100% - 355px + 25px); top: calc(100% - 392.24px + 144.24px); z-index: 7\">\n          从政策环境看\n        </p>\n        <p\n          style=\"color: #7B431C; font-size: 14px; font-family: FZLTZHJW--GB1; text-align: justify; line-height: 20px; letter-spacing: -0.1px; position: absolute; left: calc(100% - 355px + 25px); top: calc(100% - 392.24px + 244.24px); z-index: 8\">\n          从海外市场需求上看\n        </p>\n        <div\n          style=\"width: 321px; text-align: justify; position: absolute; left: 4.79%; right: 4.79%; top: 42.89%; bottom: 41.81%; z-index: 9\">\n          <span\n            style=\"width: 0px; color: #333333; font-size: 14px; font-family: FZLTHJW--GB1; line-height: 20px; letter-spacing: -0.1px\">\n            行业处于政策高度友好的红利期。从国家层面的电力系统转型规划，到两大电网的具体投资计划，再到专项资金的配套支持，\n          </span>\n          <span\n            style=\"width: 0px; color: #F71D00; font-size: 14px; font-family: FZLTZHJW--GB1; line-height: 20px; letter-spacing: -0.1px\">\n            形成了全方位的政策支撑体系\n          </span>\n          <span\n            style=\"width: 0px; color: #333333; font-size: 14px; font-family: FZLTHJW--GB1; line-height: 20px; letter-spacing: -0.1px\">\n            。\n          </span>\n        </div>\n        <div\n          style=\"width: 321px; text-align: justify; position: absolute; left: 4.79%; right: 4.79%; top: 68.39%; bottom: 8.67%; z-index: 10\">\n          <span\n            style=\"width: 0px; color: #333333; font-size: 14px; font-family: FZLTHJW--GB1; line-height: 20px; letter-spacing: -0.1px\">\n            近期美国迎来史诗级的电网扩容，750亿美元投资计划落地，形成了 “国内 +\n            海外” 双轮驱动的需求格局。\n          </span>\n          <span\n            style=\"width: 0px; color: #F81F02; font-size: 14px; font-family: FZLTZHJW--GB1; line-height: 20px; letter-spacing: -0.1px\">\n            国内电网厂商凭借全产业链优势，全球市场份额持续提升，海外市场或成为行业增长的第二曲线。\n          </span>\n        </div>\n        <div\n          style=\"width: 299px; color: #999999; font-size: 9px; font-family: FZLTHJW--GB1; text-align: center; line-height: 11px; letter-spacing: -0.11px; position: absolute; left: calc(100% - 355px + 28px); top: calc(100% - 392.24px + 363.24px); z-index: 11\">\n          以上观点由华夏基金提供\n        </div>\n      </div>",
+    "svgIcons": {
+      "svg_acb6c5d2.svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"none\" version=\"1.1\" width=\"104\" height=\"23\" viewBox=\"0 0 104 23\"><defs><filter id=\"master_svg0_0_972\" filterUnits=\"objectBoundingBox\" color-interpolation-filters=\"sRGB\" x=\"0\" y=\"0\" width=\"1\" height=\"1\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"BackgroundImageFix\" result=\"shape\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" result=\"hardAlpha\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feOffset dy=\"-1\" dx=\"0\"/><feGaussianBlur stdDeviation=\"1\"/><feComposite in2=\"hardAlpha\" operator=\"arithmetic\" k2=\"-1\" k3=\"1\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0\"/><feBlend mode=\"normal\" in2=\"shape\" result=\"effect1_innerShadow\"/></filter><linearGradient x1=\"0.4424571394920349\" y1=\"0.1275646835565567\" x2=\"0.4424571394920349\" y2=\"0.995271623134613\" id=\"master_svg1_0_214\"><stop offset=\"0%\" stop-color=\"#FFDA92\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#FFF1D4\" stop-opacity=\"1\"/></linearGradient></defs><path d=\"M8.000001,23L96,23C98.800262,23,100.23206,23.0056651831,101.29779,23.55809098C102.2151,24.033583,102.96642,24.7848924,103.44191,25.7022123C103.99433,26.7679453,104,28.1997337,104,31.000000999999997L104,37.999999C104,40.800266,103.99433,42.232056,103.44191,43.297789C102.96642,44.215109,102.2151,44.966417,101.29779,45.44191C100.23206,45.994335,98.800262,46,96,46L7.9999995,46C5.1997337,46,3.7679462,45.994333,2.7022123,45.44191C1.7848924,44.966417,1.033583,44.215109,0.55809098,43.297789C0.0056687593,42.232054000000005,-3.9410836e-12,40.800266,-3.9410836e-12,37.999999L-3.9410836e-12,31.000000999999997C-3.9410836e-12,28.1997337,0.0056686401,26.7679462,0.55809098,25.7022123C1.033583,24.7848924,1.7848924,24.033583,2.7022123,23.55809098C3.7679462,23.0056686401,5.1997337,23,8.000001,23\" fill-rule=\"evenodd\" fill=\"url(#master_svg1_0_214)\" fill-opacity=\"1\" transform=\"matrix(1,0,0,-1,0,46)\" filter=\"url(#master_svg0_0_972)\"/></svg>",
+      "svg_cff01688.svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"none\" version=\"1.1\" width=\"128\" height=\"23\" viewBox=\"0 0 128 23\"><defs><filter id=\"master_svg0_0_969\" filterUnits=\"objectBoundingBox\" color-interpolation-filters=\"sRGB\" x=\"0\" y=\"0\" width=\"1\" height=\"1\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"BackgroundImageFix\" result=\"shape\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" result=\"hardAlpha\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feOffset dy=\"-1\" dx=\"0\"/><feGaussianBlur stdDeviation=\"1\"/><feComposite in2=\"hardAlpha\" operator=\"arithmetic\" k2=\"-1\" k3=\"1\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0\"/><feBlend mode=\"normal\" in2=\"shape\" result=\"effect1_innerShadow\"/></filter><linearGradient x1=\"0.4424571394920349\" y1=\"0.1275646835565567\" x2=\"0.4424571394920349\" y2=\"0.995271623134613\" id=\"master_svg1_0_214\"><stop offset=\"0%\" stop-color=\"#FFDA92\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#FFF1D4\" stop-opacity=\"1\"/></linearGradient></defs><path d=\"M8.000001,23L120,23C122.80026,23,124.23206,23.0056651831,125.29779,23.55809098C126.2151,24.033583,126.96642,24.7848924,127.44191,25.7022123C127.99433,26.7679453,128,28.1997337,128,31.000000999999997L128,37.999999C128,40.800266,127.99433,42.232056,127.44191,43.297789C126.96642,44.215109,126.2151,44.966417,125.29779,45.44191C124.23206,45.994335,122.80026,46,120,46L8,46C5.1997337,46,3.7679462,45.994333,2.7022123,45.44191C1.7848924,44.966417,1.033583,44.215109,0.55809098,43.297789C0.0056687593,42.232054000000005,-4.8505644e-12,40.800266,-4.8505644e-12,37.999999L-4.8505644e-12,31.000000999999997C-4.8505644e-12,28.1997337,0.0056686401,26.7679462,0.55809098,25.7022123C1.033583,24.7848924,1.7848924,24.033583,2.7022123,23.55809098C3.7679462,23.0056686401,5.1997337,23,8.000001,23\" fill-rule=\"evenodd\" fill=\"url(#master_svg1_0_214)\" fill-opacity=\"1\" transform=\"matrix(1,0,0,-1,0,46)\" filter=\"url(#master_svg0_0_969)\"/></svg>",
+      "svg_f1311853.svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"none\" version=\"1.1\" width=\"355\" height=\"390\" viewBox=\"0 0 363.1484375 398.146484375\"><defs><filter id=\"master_svg0_0_961\" filterUnits=\"objectBoundingBox\" color-interpolation-filters=\"sRGB\" x=\"-0.016901408450704224\" y=\"-0.01282051282051282\" width=\"1.0338028169014084\" height=\"1.0307692307692307\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feMorphology radius=\"2\" operator=\"dilate\"/><feOffset dy=\"1\" dx=\"0\"/><feGaussianBlur stdDeviation=\"1\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 0.9180824756622314 0 0 0 0 0.96047043800354 0 0 0 0 1 0 0 0 1 0\"/><feBlend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow\"/><feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow\" result=\"shape\"/></filter><linearGradient x1=\"0.45910465717315674\" y1=\"0\" x2=\"0.45910465717315674\" y2=\"0.11668512970209122\" id=\"master_svg1_0_126\"><stop offset=\"0%\" stop-color=\"#E0EDFF\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\"/></linearGradient><filter id=\"master_svg2_0_961\" filterUnits=\"objectBoundingBox\" color-interpolation-filters=\"sRGB\" x=\"-0.016901408450704224\" y=\"-0.01282051282051282\" width=\"1.0338028169014084\" height=\"1.0307692307692307\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feMorphology radius=\"2\" operator=\"dilate\"/><feOffset dy=\"1\" dx=\"0\"/><feGaussianBlur stdDeviation=\"1\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 0.9180824756622314 0 0 0 0 0.96047043800354 0 0 0 0 1 0 0 0 1 0\"/><feBlend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow\"/><feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow\" result=\"shape\"/></filter><mask id=\"master_svg3_0_961\" style=\"mask-type:luminance\" maskUnits=\"userSpaceOnUse\" x=\"-26.92578125\" y=\"-8.9267578125\" width=\"386\" height=\"402\"><path d=\"M14.17141175,3.073242187500078L348.97701875,3.073242187499976C352.51137875,3.073242187499975,354.31850875,3.0803880692,355.66363875,3.7776361075000002C356.82140875,4.3777778875,357.76968875,5.326042187500001,358.36980875,6.4838363875C359.06704875,7.8289575875,359.07421875,9.636081687499999,359.07421875,13.1704351875L359.07421875,382.9760421875C359.07421875,386.5104021875,359.06704875,388.3175321875,358.36980875,389.6626621875C357.76968875,390.8204321875,356.82140875,391.7687121875,355.66363875,392.3688321875C354.31850875,393.0660721875,352.51137875,393.0732421875,348.97701875,393.0732421875L14.17141275,393.0732421875C10.63705735,393.0732421875,8.82993415,393.0660721875,7.48481275,392.3688321875C6.327018450000001,391.7687121875,5.3787543499999995,390.8204321875,4.77861261,389.6626621875C4.0813646317,388.3175321875,4.074218750000003,386.5104021875,4.074218750000004,382.9760421875L4.074218750000167,13.1704321875C4.074218750000169,9.636081687499999,4.0813733339,7.8289513875,4.77861261,6.4838363875C5.3787543499999995,5.326042187500001,6.327018450000001,4.3777778875,7.48481275,3.7776361075000002C8.82992745,3.080396831,10.63705735,3.073242187500079,14.17141175,3.073242187500078\" fill-rule=\"evenodd\" fill=\"#FFFFFF\" fill-opacity=\"1\" filter=\"url(#master_svg2_0_961)\"/></mask><filter id=\"master_svg4_0_962\" filterUnits=\"objectBoundingBox\" color-interpolation-filters=\"sRGB\" x=\"-0.12706078423394096\" y=\"-0.6075093746185303\" width=\"1.254121568467882\" height=\"2.2150187492370605\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feOffset dy=\"1\" dx=\"0\"/><feGaussianBlur stdDeviation=\"0\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0\"/><feBlend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow\"/><feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow\" result=\"shape\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" result=\"hardAlpha\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feOffset dy=\"1\" dx=\"0\"/><feGaussianBlur stdDeviation=\"1.5\"/><feComposite in2=\"hardAlpha\" operator=\"arithmetic\" k2=\"-1\" k3=\"1\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0\"/><feBlend mode=\"normal\" in2=\"shape\" result=\"effect2_innerShadow\"/><feGaussianBlur stdDeviation=\"4.860074996948242\" result=\"effect3_foregroundBlur\"/></filter><linearGradient x1=\"0.539856493473053\" y1=\"0.8155282139778137\" x2=\"0.539856493473053\" y2=\"0\" id=\"master_svg5_0_181\"><stop offset=\"0%\" stop-color=\"#4F9CF0\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#75C3F8\" stop-opacity=\"1\"/></linearGradient><filter id=\"master_svg6_0_963\" filterUnits=\"objectBoundingBox\" color-interpolation-filters=\"sRGB\" x=\"0\" y=\"0\" width=\"1\" height=\"1.03125\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feOffset dy=\"1\" dx=\"0\"/><feGaussianBlur stdDeviation=\"0\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0\"/><feBlend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow\"/><feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow\" result=\"shape\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" result=\"hardAlpha\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feOffset dy=\"1\" dx=\"0\"/><feGaussianBlur stdDeviation=\"1.5\"/><feComposite in2=\"hardAlpha\" operator=\"arithmetic\" k2=\"-1\" k3=\"1\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0\"/><feBlend mode=\"normal\" in2=\"shape\" result=\"effect2_innerShadow\"/></filter><linearGradient x1=\"0.539856493473053\" y1=\"0.8155282139778137\" x2=\"0.539856493473053\" y2=\"0\" id=\"master_svg7_0_188\"><stop offset=\"0%\" stop-color=\"#4F9CF0\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#75C3F8\" stop-opacity=\"1\"/></linearGradient><linearGradient x1=\"0.7679015398025513\" y1=\"0\" x2=\"0.4779237687427305\" y2=\"0.6071801920487051\" id=\"master_svg8_0_152\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#FFE0B1\" stop-opacity=\"0\"/></linearGradient><linearGradient x1=\"0.7679015398025513\" y1=\"0\" x2=\"0.3200385673641314\" y2=\"0.49811650694201554\" id=\"master_svg9_0_152\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#FFE0B1\" stop-opacity=\"0\"/></linearGradient><filter id=\"master_svga_0_966\" filterUnits=\"objectBoundingBox\" color-interpolation-filters=\"sRGB\" x=\"-0.6895774518939811\" y=\"-2.225454503839666\" width=\"2.379154903787962\" height=\"5.450909007679332\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"BackgroundImageFix\" result=\"shape\"/><feGaussianBlur stdDeviation=\"12.239999771118164\" result=\"effect1_foregroundBlur\"/></filter></defs><g mask=\"url(#master_svg3_0_961)\"><g filter=\"url(#master_svg0_0_961)\"><path d=\"M14.17141175,3.073242187500078L348.97701875,3.073242187499976C352.51137875,3.073242187499975,354.31850875,3.0803880692,355.66363875,3.7776361075000002C356.82140875,4.3777778875,357.76968875,5.326042187500001,358.36980875,6.4838363875C359.06704875,7.8289575875,359.07421875,9.636081687499999,359.07421875,13.1704351875L359.07421875,382.9760421875C359.07421875,386.5104021875,359.06704875,388.3175321875,358.36980875,389.6626621875C357.76968875,390.8204321875,356.82140875,391.7687121875,355.66363875,392.3688321875C354.31850875,393.0660721875,352.51137875,393.0732421875,348.97701875,393.0732421875L14.17141275,393.0732421875C10.63705735,393.0732421875,8.82993415,393.0660721875,7.48481275,392.3688321875C6.327018450000001,391.7687121875,5.3787543499999995,390.8204321875,4.77861261,389.6626621875C4.0813646317,388.3175321875,4.074218750000003,386.5104021875,4.074218750000004,382.9760421875L4.074218750000167,13.1704321875C4.074218750000169,9.636081687499999,4.0813733339,7.8289513875,4.77861261,6.4838363875C5.3787543499999995,5.326042187500001,6.327018450000001,4.3777778875,7.48481275,3.7776361075000002C8.82992745,3.080396831,10.63705735,3.073242187500079,14.17141175,3.073242187500078\" fill-rule=\"evenodd\" fill=\"url(#master_svg1_0_126)\" fill-opacity=\"1\"/><path d=\"M14.17141175,1.9999863875L348.97701875,1.9999863875Q354.56637875,1.9999863875,356.15755875,2.8247829275Q358.24215875,3.9053469874999998,359.32265875,5.9899360875Q360.14748875,7.5811967875,360.14748875,13.1704351875L360.14748875,382.9760421875Q360.14748875,388.5652721875,359.32265875,390.1565521875Q358.24215875,392.2411521875,356.15752875,393.3216821875Q354.56634875,394.1465121875,348.97701875,394.1465121875L14.17141275,394.1465121875Q8.58211185,394.1465121875,6.99089815,393.3216821875Q4.90634161,392.2411821875,3.82576482,390.1565821875Q3.00096295,388.5653721875,3.00096295,382.9760421875L3.00096295,13.1704321875Q3.00096295,7.5811233875,3.82575919,5.989926587499999Q4.90630752,3.9053301175,6.99090245,2.8247828075Q8.58209995,1.9999861875,14.17141175,1.9999863875ZM348.97701875,3.0732421875L14.17141175,3.0732421875C10.63705735,3.0732421875,8.82992745,3.080396831,7.48481275,3.7776361075000002C6.327018450000001,4.3777778875,5.3787543499999995,5.326042187500001,4.77861261,6.4838363875C4.0813733339,7.8289513875,4.07421875,9.636081687499999,4.07421875,13.1704321875L4.07421875,382.9760421875C4.07421875,386.5104021875,4.0813646317,388.3175321875,4.77861261,389.6626621875C5.3787543499999995,390.8204321875,6.327018450000001,391.7687121875,7.48481275,392.3688321875C8.82993415,393.0660721875,10.63705735,393.0732421875,14.17141275,393.0732421875L348.97701875,393.0732421875C352.51137875,393.0732421875,354.31850875,393.0660721875,355.66363875,392.3688321875C356.82140875,391.7687121875,357.76968875,390.8204321875,358.36980875,389.6626621875C359.06704875,388.3175321875,359.07421875,386.5104021875,359.07421875,382.9760421875L359.07421875,13.1704351875C359.07421875,9.636081687499999,359.06704875,7.8289575875,358.36980875,6.4838363875C357.76968875,5.326042187500001,356.82140875,4.3777778875,355.66363875,3.7776361075000002C354.31850875,3.0803880692,352.51137875,3.0732421875,348.97701875,3.0732421875Z\" fill-rule=\"evenodd\" fill=\"#FFFFFF\" fill-opacity=\"1\"/></g><path d=\"M-26.92578125000023,2.0732421875Q44.351417749999996,2.1931367575,126.07421875,2.0732421875Q118.22523874999999,2.2126433875,113.43371875,10.3634490875Q108.78474875,17.7830651875,103.55987875,25.4171031875C101.38640874999999,28.5927501875,100.25989875,30.1776121875,98.81083875,31.3232591875C97.53705875,32.3303161875,96.07876875,33.0844041875,94.52000875,33.545795187500005C92.74872875,34.0700911875,90.78596875,34.0732421875,86.90606875,34.0732421875L-7.28971125,34.0732421875C-11.74611925,34.0732421875,-14.02065125,34.0651131875,-15.77260425,33.2144911875C-17.28566265,32.4798581875,-18.55477235,31.3128741875,-19.41346455,29.8666091875C-20.40773395,28.1919971875,-20.60620215,25.9261241875,-20.97918365,21.4853491875L-22.13247445,7.7540993875Q-23.76415185,3.2458198874999997,-26.92578125000023,2.0732421875Z\" fill-rule=\"evenodd\" fill=\"url(#master_svg5_0_181)\" fill-opacity=\"1\" filter=\"url(#master_svg4_0_962)\"/><path d=\"M-26.92578125000023,2.0732421875Q44.351417749999996,2.1931367575,126.07421875,2.0732421875Q118.22523874999999,2.2126433875,113.43371875,10.3634490875Q108.78474875,17.7830651875,103.55987875,25.4171031875C101.38640874999999,28.5927501875,100.25989875,30.1776121875,98.81083875,31.3232591875C97.53705875,32.3303161875,96.07876875,33.0844041875,94.52000875,33.545795187500005C92.74872875,34.0700911875,90.78596875,34.0732421875,86.90606875,34.0732421875L-7.28971125,34.0732421875C-11.74611925,34.0732421875,-14.02065125,34.0651131875,-15.77260425,33.2144911875C-17.28566265,32.4798581875,-18.55477235,31.3128741875,-19.41346455,29.8666091875C-20.40773395,28.1919971875,-20.60620215,25.9261241875,-20.97918365,21.4853491875L-22.13247445,7.7540993875Q-23.76415185,3.2458198874999997,-26.92578125000023,2.0732421875Z\" fill-rule=\"evenodd\" fill=\"url(#master_svg7_0_188)\" fill-opacity=\"1\" filter=\"url(#master_svg6_0_963)\"/><path d=\"M85.11177075,-5.9267578125L53.07421874999999,44.0732421875L64.25174175000001,44.0732421875L96.07421875,-5.9267578125L85.11177075,-5.9267578125Z\" fill-rule=\"evenodd\" fill=\"url(#master_svg8_0_152)\" fill-opacity=\"1\"/><path d=\"M115.47989075,-5.9267578125L84.07421875000001,44.0732421875L111.87937775,44.0732421875L143.07421875,-5.9267578125L115.47989075,-5.9267578125Z\" fill-rule=\"evenodd\" fill=\"url(#master_svg9_0_152)\" fill-opacity=\"1\"/><ellipse cx=\"18.57421875\" cy=\"2.0732421875\" rx=\"35.5\" ry=\"11\" fill=\"#6CE8FF\" fill-opacity=\"1\" filter=\"url(#master_svga_0_966)\"/></g></svg>",
+      "svg_fca80d1d.svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"none\" version=\"1.1\" width=\"142\" height=\"23\" viewBox=\"0 0 142 23\"><defs><filter id=\"master_svg0_0_975\" filterUnits=\"objectBoundingBox\" color-interpolation-filters=\"sRGB\" x=\"0\" y=\"0\" width=\"1\" height=\"1\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"BackgroundImageFix\" result=\"shape\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" result=\"hardAlpha\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feOffset dy=\"-1\" dx=\"0\"/><feGaussianBlur stdDeviation=\"1\"/><feComposite in2=\"hardAlpha\" operator=\"arithmetic\" k2=\"-1\" k3=\"1\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0\"/><feBlend mode=\"normal\" in2=\"shape\" result=\"effect1_innerShadow\"/></filter><linearGradient x1=\"0.4424571394920349\" y1=\"0.1275646835565567\" x2=\"0.4424571394920349\" y2=\"0.995271623134613\" id=\"master_svg1_0_214\"><stop offset=\"0%\" stop-color=\"#FFDA92\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#FFF1D4\" stop-opacity=\"1\"/></linearGradient></defs><path d=\"M8.000001,23L134,23C136.80026,23,138.23206,23.0056651831,139.29779,23.55809098C140.2151,24.033583,140.96642,24.7848924,141.44191,25.7022123C141.99434,26.7679453,142,28.1997337,142,31.000000999999997L142,37.999999C142,40.800266,141.99434,42.232056,141.44191,43.297789C140.96642,44.215109,140.2151,44.966417,139.29779,45.44191C138.23206,45.994335,136.80026,46,134,46L7.9999976,46C5.1997337,46,3.7679462,45.994333,2.7022123,45.44191C1.7848924,44.966417,1.033583,44.215109,0.55809098,43.297789C0.0056687593,42.232054000000005,-5.3810949e-12,40.800266,-5.3810949e-12,37.999999L-5.3810949e-12,31.000000999999997C-5.3810949e-12,28.1997337,0.0056686401,26.7679462,0.55809098,25.7022123C1.033583,24.7848924,1.7848924,24.033583,2.7022123,23.55809098C3.7679462,23.0056686401,5.1997337,23,8.000001,23\" fill-rule=\"evenodd\" fill=\"url(#master_svg1_0_214)\" fill-opacity=\"1\" transform=\"matrix(1,0,0,-1,0,46)\" filter=\"url(#master_svg0_0_975)\"/></svg>"
+    },
+    "exportImages": {}
+  }
+}

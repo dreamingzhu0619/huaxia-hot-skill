@@ -1,0 +1,116 @@
+{
+  "sectionIndex": 22,
+  "section": {
+    "id": "0:243",
+    "name": "矩形 1000",
+    "type": "GROUP"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:473": {
+        "value": []
+      },
+      "paint_0:480": {
+        "value": [
+          "#D8D8D8"
+        ]
+      },
+      "paint_0:522": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:571": {
+        "value": [
+          "linear-gradient(90deg, #FF4E3C -25%, #FF4E3C -23%, #FF1818 125%)"
+        ]
+      },
+      "paint_0:573": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158384864891941/158384864891947/43cc0b6042e1824abd443e2061fb010a.png",
+            "filters": ""
+          }
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "GROUP",
+        "id": "0:243",
+        "name": "矩形 1000",
+        "layoutStyle": {
+          "width": 1076,
+          "height": 1000.22998046875,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "LAYER",
+            "id": "0:244",
+            "name": "矩形 1000",
+            "layoutStyle": {
+              "width": 1076,
+              "height": 1000.22998046875,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "borderRadius": "50px",
+            "fill": "paint_0:571",
+            "strokeColor": "paint_0:522",
+            "strokeType": "solid",
+            "strokeAlign": "center",
+            "strokeWidth": "1px",
+            "effect": "effect_0:473"
+          },
+          {
+            "type": "GROUP",
+            "id": "0:245",
+            "name": "Clip",
+            "layoutStyle": {
+              "width": 1076,
+              "height": 1000.22998046875,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:247",
+                "name": "矩形 1000",
+                "layoutStyle": {
+                  "width": 1076,
+                  "height": 1000.22998046875,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "borderRadius": "50px",
+                "fill": "paint_0:480",
+                "strokeColor": "paint_0:522",
+                "strokeType": "solid",
+                "strokeAlign": "center",
+                "strokeWidth": "1px",
+                "effect": "effect_0:473"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:246",
+                "name": "图层 742",
+                "layoutStyle": {
+                  "width": 683,
+                  "height": 348,
+                  "relativeX": -25,
+                  "relativeY": 7.1201171875
+                },
+                "fill": "paint_0:573"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 5
+}

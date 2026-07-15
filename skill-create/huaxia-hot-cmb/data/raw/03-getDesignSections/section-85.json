@@ -1,0 +1,58 @@
+{
+  "sectionIndex": 85,
+  "section": {
+    "id": "0:1435",
+    "name": "成立以来",
+    "type": "TEXT"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:883": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 10,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "paint_0:909": {
+        "value": [
+          "#A6A6A6"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:1435",
+        "name": "成立以来",
+        "layoutStyle": {
+          "width": 40,
+          "height": 14,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "成立以来",
+            "font": "font_0:883"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 4,
+            "color": "paint_0:909"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

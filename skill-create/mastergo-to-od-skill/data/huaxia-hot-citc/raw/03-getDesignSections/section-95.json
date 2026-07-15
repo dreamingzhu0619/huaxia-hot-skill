@@ -1,0 +1,657 @@
+{
+  "sectionIndex": 95,
+  "section": {
+    "id": "13:386",
+    "name": "热点速递",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:473": {
+        "value": []
+      },
+      "effect_0:512": {
+        "value": [
+          "box-shadow: 0px 5px 9px 0px rgba(255, 72, 72, 0.251);"
+        ]
+      },
+      "effect_0:524": {
+        "value": [
+          "box-shadow: 0px 2px 5px 0px rgba(221, 32, 29, 0.7608);"
+        ]
+      },
+      "font_0:526": {
+        "value": {
+          "family": "MiSans-Semibold",
+          "size": 44.36130142211914,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "44.36130142211914",
+          "letterSpacing": "auto",
+          "weight": "600"
+        }
+      },
+      "font_0:535": {
+        "value": {
+          "family": "MiSans-Regular",
+          "size": 25.998199462890625,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "25.998199462890625",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "400"
+        }
+      },
+      "font_3:356": {
+        "value": {
+          "family": "MiSans-Regular",
+          "size": 38,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "58",
+          "letterSpacing": "5%",
+          "weight": "400"
+        }
+      },
+      "font_3:358": {
+        "value": {
+          "family": "MiSans-Demibold",
+          "size": 38,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "58",
+          "letterSpacing": "5%",
+          "weight": "600"
+        }
+      },
+      "paint_0:471": {
+        "value": [
+          "linear-gradient(90deg, #FCCC89 -25%, #FCCC89 -23%, #EB8F2C 125%)"
+        ]
+      },
+      "paint_0:476": {
+        "value": [
+          "linear-gradient(6deg, #FFFFFF -13%, #FFFFFF 91%, #F9DFC1 100%, #F3BF83 113%)"
+        ]
+      },
+      "paint_0:478": {
+        "value": [
+          "rgba(255, 255, 255, 0.3412)"
+        ]
+      },
+      "paint_0:480": {
+        "value": [
+          "#D8D8D8"
+        ]
+      },
+      "paint_0:482": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158384864891941/158384864891947/c6b02ef55c9d138b3fccaa10087e9c49.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:484": {
+        "value": [
+          "#FFFDFA"
+        ]
+      },
+      "paint_0:486": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158384864891941/158384864891947/fd7bef68fe6bd4c4da29d38be1fae4a4.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:488": {
+        "value": [
+          "linear-gradient(6deg, #FFF5E6 -11%, #FFFAF3 48%, #FFFFFF 87%, #FFFFFF 111%)"
+        ]
+      },
+      "paint_0:495": {
+        "value": [
+          "#6D2807"
+        ]
+      },
+      "paint_0:505": {
+        "value": [
+          "#E5372C"
+        ]
+      },
+      "paint_0:510": {
+        "value": [
+          "linear-gradient(268deg, #FF371D -24%, #FF371D -22%, #FF7A2A 47%, #FFBC37 95%, #FFBC37 124%)"
+        ]
+      },
+      "paint_0:514": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158384864891941/158384864891947/294920335855012b6c7e4da6da20a934.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:516": {
+        "value": [
+          "linear-gradient(90deg, #F83A22 0%, #F83A22 0%, #FF7D59 100%)"
+        ]
+      },
+      "paint_0:518": {
+        "value": [
+          "linear-gradient(90deg, #FFDCA7 0%, #FFF7F7 51%, #FFC67D 99%, #FFC67D 100%)"
+        ]
+      },
+      "paint_0:520": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158384864891941/158384864891947/0be890084320795cd99fcd25666bc6c2.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:528": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:529": {
+        "value": [
+          "linear-gradient(0deg, #EEF6FF -15%, #FDFFFF 19%, #FDFFFF 115%)"
+        ]
+      },
+      "paint_0:537": {
+        "value": [
+          "#AA785D"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "13:386",
+        "name": "热点速递",
+        "layoutStyle": {
+          "width": 1081.75048828125,
+          "height": 644.0767822265625,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "GROUP",
+            "id": "0:19",
+            "name": "热点速递",
+            "layoutStyle": {
+              "width": 1101.015625,
+              "height": 1131,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:20",
+                "name": "矩形 153 拷贝",
+                "layoutStyle": {
+                  "width": 1074.010009765625,
+                  "height": 591,
+                  "relativeX": 5.724824905395508,
+                  "relativeY": 53.0767822265625
+                },
+                "borderRadius": "23.68000030517578px",
+                "fill": "paint_0:471",
+                "effect": "effect_0:473"
+              },
+              {
+                "type": "GROUP",
+                "id": "0:21",
+                "name": "矩形 153 拷贝 3",
+                "layoutStyle": {
+                  "width": 1074.010009765625,
+                  "height": 583.3900146484375,
+                  "relativeX": 5.724824905395508,
+                  "relativeY": 53.0767822265625
+                },
+                "children": [
+                  {
+                    "type": "LAYER",
+                    "id": "0:22",
+                    "name": "矩形 153 拷贝 3",
+                    "layoutStyle": {
+                      "width": 1074.010009765625,
+                      "height": 583.3900146484375,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "borderRadius": "23.68000030517578px",
+                    "fill": "paint_0:476",
+                    "strokeColor": "paint_0:478",
+                    "strokeType": "solid",
+                    "strokeAlign": "outside",
+                    "strokeWidth": "1px"
+                  },
+                  {
+                    "type": "GROUP",
+                    "id": "0:23",
+                    "name": "Clip",
+                    "layoutStyle": {
+                      "width": 1074.010009765625,
+                      "height": 583.3900146484375,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "children": [
+                      {
+                        "type": "LAYER",
+                        "id": "0:25",
+                        "name": "矩形 153 拷贝 3",
+                        "layoutStyle": {
+                          "width": 1074.010009765625,
+                          "height": 583.3900146484375,
+                          "relativeX": 0,
+                          "relativeY": 0
+                        },
+                        "borderRadius": "23.68000030517578px",
+                        "fill": "paint_0:480",
+                        "strokeColor": "paint_0:478",
+                        "strokeType": "solid",
+                        "strokeAlign": "outside",
+                        "strokeWidth": "1px"
+                      },
+                      {
+                        "type": "LAYER",
+                        "id": "0:24",
+                        "name": "图层 738",
+                        "layoutStyle": {
+                          "width": 127,
+                          "height": 156,
+                          "relativeX": 967.010009765625,
+                          "relativeY": -53
+                        },
+                        "fill": "paint_0:482"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "GROUP",
+                "id": "0:26",
+                "name": "形状 5",
+                "layoutStyle": {
+                  "width": 81.01564025878906,
+                  "height": 79.7800064086914,
+                  "relativeX": 1000.7348022460938,
+                  "relativeY": 51.29656982421875
+                },
+                "children": [
+                  {
+                    "type": "PATH",
+                    "id": "0:27",
+                    "name": "形状 5",
+                    "layoutStyle": {
+                      "width": 81.01564025878906,
+                      "height": 79.7800064086914,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "path": [
+                      {
+                        "fill": "#FFFDFA",
+                        "data": ""
+                      }
+                    ]
+                  },
+                  {
+                    "type": "GROUP",
+                    "id": "0:28",
+                    "name": "Clip",
+                    "layoutStyle": {
+                      "width": 81.01564025878906,
+                      "height": 79.7800064086914,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "children": [
+                      {
+                        "type": "PATH",
+                        "id": "0:30",
+                        "name": "形状 5",
+                        "layoutStyle": {
+                          "width": 81.01564025878906,
+                          "height": 79.7800064086914,
+                          "relativeX": 0,
+                          "relativeY": 0
+                        },
+                        "path": [
+                          {
+                            "fill": "#D8D8D8",
+                            "data": ""
+                          }
+                        ]
+                      },
+                      {
+                        "type": "LAYER",
+                        "id": "0:29",
+                        "name": "图层 739",
+                        "layoutStyle": {
+                          "width": 110,
+                          "height": 137,
+                          "relativeX": -5,
+                          "relativeY": -3.2198119163513184
+                        },
+                        "opacity": 0.8299999833106995,
+                        "fill": "paint_0:486"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "GROUP",
+                "id": "0:31",
+                "name": "组 5797",
+                "layoutStyle": {
+                  "width": 1043,
+                  "height": 1063.251953125,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "LAYER",
+                    "id": "0:32",
+                    "name": "矩形 751",
+                    "layoutStyle": {
+                      "width": 978,
+                      "height": 447,
+                      "relativeX": 45.734825134277344,
+                      "relativeY": 111.0767822265625
+                    },
+                    "borderRadius": "30px",
+                    "fill": "paint_0:488"
+                  },
+                  {
+                    "type": "TEXT",
+                    "id": "0:33",
+                    "name": "随着AI科技板块加速上涨及估值大幅扩张，市场震荡可能性提升，部分投资者高低切换，流向相对低位抗跌的低位资产，万得数据显示，5月18日-22日，红利低波ETF华夏一周净流入1.61亿元，从资金流角度来看，近期红利类ETF重获市场青睐。国信证券认为，红利低波策略所依赖的“稳收益+抗波动”市场环境正加速形成，配置价值有望持续凸显。",
+                    "layoutStyle": {
+                      "width": 946.2799072265625,
+                      "height": 447.4909973144531,
+                      "relativeX": 61.469825744628906,
+                      "relativeY": 128.8377685546875
+                    },
+                    "text": [
+                      {
+                        "text": "T95|0:33",
+                        "font": "font_3:356"
+                      },
+                      {
+                        "text": "T95|0:33",
+                        "font": "font_3:358"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 123,
+                        "color": "paint_0:495"
+                      },
+                      {
+                        "start": 123,
+                        "end": 163,
+                        "color": "paint_0:505"
+                      }
+                    ],
+                    "textAlign": "left",
+                    "textMode": "single-line"
+                  },
+                  {
+                    "type": "GROUP",
+                    "id": "0:35",
+                    "name": "热点速递 拷贝",
+                    "layoutStyle": {
+                      "width": 360.9563903808594,
+                      "height": 584.0128784179688,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "children": [
+                      {
+                        "type": "GROUP",
+                        "id": "0:36",
+                        "name": "组 23",
+                        "layoutStyle": {
+                          "width": 341.69122314453125,
+                          "height": 97.08966827392578,
+                          "relativeX": 0,
+                          "relativeY": 0
+                        },
+                        "children": [
+                          {
+                            "type": "GROUP",
+                            "id": "0:37",
+                            "name": "圆角矩形 6",
+                            "layoutStyle": {
+                              "width": 311.52618408203125,
+                              "height": 96.05319213867188,
+                              "relativeX": 30.1650333404541,
+                              "relativeY": 0.591191828250885
+                            },
+                            "children": [
+                              {
+                                "type": "PATH",
+                                "id": "0:38",
+                                "name": "圆角矩形 6",
+                                "layoutStyle": {
+                                  "width": 311.52618408203125,
+                                  "height": 96.05319213867188,
+                                  "relativeX": 0,
+                                  "relativeY": 0
+                                },
+                                "effect": "effect_0:512",
+                                "path": [
+                                  {
+                                    "fill": "linear-gradient(268deg, #FF371D -24%, #FF371D -22%, #FF7A2A 47%, #FFBC37 95%, #FFBC37 124%)",
+                                    "data": ""
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "GROUP",
+                                "id": "0:39",
+                                "name": "Clip",
+                                "layoutStyle": {
+                                  "width": 311.52618408203125,
+                                  "height": 96.05319213867188,
+                                  "relativeX": 0,
+                                  "relativeY": 0
+                                },
+                                "children": [
+                                  {
+                                    "type": "PATH",
+                                    "id": "0:41",
+                                    "name": "圆角矩形 6",
+                                    "layoutStyle": {
+                                      "width": 311.52618408203125,
+                                      "height": 96.05319213867188,
+                                      "relativeX": 0,
+                                      "relativeY": 0
+                                    },
+                                    "effect": "effect_0:512",
+                                    "path": [
+                                      {
+                                        "fill": "#D8D8D8",
+                                        "data": ""
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "LAYER",
+                                    "id": "0:40",
+                                    "name": "图层 737",
+                                    "layoutStyle": {
+                                      "width": 341,
+                                      "height": 189,
+                                      "relativeX": 8.569792747497559,
+                                      "relativeY": -6.514399528503418
+                                    },
+                                    "fill": "paint_0:514",
+                                    "effect": "effect_0:512"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "PATH",
+                            "id": "0:42",
+                            "name": "形状 4",
+                            "layoutStyle": {
+                              "width": 76.13373565673828,
+                              "height": 36.8045654296875,
+                              "relativeX": 29.779991149902344,
+                              "relativeY": 60.28510665893555
+                            },
+                            "effect": "effect_0:512",
+                            "path": [
+                              {
+                                "fill": "linear-gradient(90deg, #F83A22 0%, #F83A22 0%, #FF7D59 100%)",
+                                "data": ""
+                              }
+                            ]
+                          },
+                          {
+                            "type": "PATH",
+                            "id": "0:43",
+                            "name": "形状 3",
+                            "layoutStyle": {
+                              "width": 105.12252807617188,
+                              "height": 82.72449493408203,
+                              "relativeX": 0,
+                              "relativeY": 0
+                            },
+                            "effect": "effect_0:512",
+                            "path": [
+                              {
+                                "fill": "linear-gradient(90deg, #FFDCA7 0%, #FFF7F7 51%, #FFC67D 99%, #FFC67D 100%)",
+                                "data": ""
+                              }
+                            ]
+                          },
+                          {
+                            "type": "LAYER",
+                            "id": "0:44",
+                            "name": "ef-redian-gongju",
+                            "layoutStyle": {
+                              "width": 44,
+                              "height": 50,
+                              "relativeX": 30.734825134277344,
+                              "relativeY": 12.07679271697998
+                            },
+                            "opacity": 0.3199999928474426,
+                            "fill": "paint_0:520",
+                            "effect": "effect_0:512"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "GROUP",
+                        "id": "0:45",
+                        "name": "热点速递",
+                        "layoutStyle": {
+                          "width": 0,
+                          "height": 44.36130142211914,
+                          "relativeX": 131.2208251953125,
+                          "relativeY": 21.1890869140625
+                        },
+                        "children": [
+                          {
+                            "type": "TEXT",
+                            "id": "0:46",
+                            "name": "热点速递",
+                            "layoutStyle": {
+                              "width": 178,
+                              "height": 45,
+                              "relativeX": 1.34,
+                              "relativeY": 6.08,
+                              "rotate": -3.95
+                            },
+                            "effect": "effect_0:524",
+                            "text": [
+                              {
+                                "text": "热点速递",
+                                "font": "font_0:526"
+                              }
+                            ],
+                            "textColor": [
+                              {
+                                "start": 0,
+                                "end": 4,
+                                "color": "paint_0:528"
+                              }
+                            ],
+                            "textAlign": "left",
+                            "textMode": "single-line"
+                          },
+                          {
+                            "type": "PATH",
+                            "id": "0:47",
+                            "name": "Gradient Overlay",
+                            "layoutStyle": {
+                              "width": 0,
+                              "height": 44.36130142211914,
+                              "relativeX": 3.86224365234375,
+                              "relativeY": 1.812957763671875
+                            },
+                            "path": [
+                              {
+                                "fill": "linear-gradient(0deg, #EEF6FF -15%, #FDFFFF 19%, #FDFFFF 115%)",
+                                "data": ""
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "TEXT",
+                "id": "0:49",
+                "name": "数据来源：Wind，截至2026.5.22。",
+                "layoutStyle": {
+                  "width": 426,
+                  "height": 26,
+                  "relativeX": 61.63982391357422,
+                  "relativeY": 580.6597900390625
+                },
+                "text": [
+                  {
+                    "text": "数据来源：Wind，截至2026.5.22。",
+                    "font": "font_0:535"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 22,
+                    "color": "paint_0:537"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 30,
+  "svgNodeCount": 6
+}

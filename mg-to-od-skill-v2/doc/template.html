@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>H5 Page</title>
+
+  <!-- 全局 CSS Reset -->
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { width: 100%; min-height: 100vh; -webkit-font-smoothing: antialiased; }
+    body { font-family: "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.5; }
+    img { max-width: 100%; display: block; }
+    a { text-decoration: none; color: inherit; }
+    ul, ol { list-style: none; }
+  </style>
+
+  <!-- 组件样式 -->
+  <link rel="stylesheet" href="assets/styles/reset.css">
+  <link rel="stylesheet" href="assets/styles/components.css">
+</head>
+<body>
+
+<main class="h5-page">
+
+  <!-- 固定模块：无 {{slot}}，原样保留 -->
+  <section data-od-id="marketingHeader">
+    <div class="marketing-header">
+      <img class="marketing-header__bg" src="assets/images/marketing-header-bg.png" alt="">
+      <div class="marketing-header__content">
+        <h1 class="marketing-header__title">智选理财</h1>
+        <p class="marketing-header__subtitle">专业投研团队 为您精选优质基金</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 可变模块：section 内是 blueprint，json 数组长度决定复制几份 -->
+  <section data-od-id="hotspotExpress">
+    <div class="hotspot-express">
+      <h2 class="hotspot-express__title">{{title}}</h2>
+      <ul class="hotspot-express__list">
+        {{items}}
+      </ul>
+      <img class="hotspot-express__banner" src="{{banner}}" alt="">
+    </div>
+  </section>
+
+  <section data-od-id="productCards">
+    <article class="product-card">
+      <div class="product-card__info">
+        <h3 class="product-card__name">{{name}}</h3>
+        <span class="product-card__code">{{code}}</span>
+      </div>
+      <div class="product-card__risk">
+        <span class="product-card__risk-tag">{{risk}}</span>
+      </div>
+      <div class="product-card__metric">
+        <span class="product-card__metric-label">{{metricLabel}}</span>
+        <span class="product-card__metric-value">{{metricValue}}</span>
+      </div>
+      <button class="product-card__cta">{{cta}}</button>
+    </article>
+  </section>
+
+  <section data-od-id="recommendations">
+    <article class="recommendation-card">
+      <header class="recommendation-card__header">
+        <h2 class="recommendation-card__title">{{title}}</h2>
+      </header>
+      <p class="recommendation-card__body">{{body}}</p>
+      <div class="recommendation-card__chart chart-container">
+        {{chart}}
+      </div>
+      <div class="recommendation-card__charts chart-container">
+        {{charts}}
+      </div>
+      <div class="recommendation-card__images">
+        {{images}}
+      </div>
+      <p class="recommendation-card__source">{{source}}</p>
+    </article>
+  </section>
+
+  <!-- 可变模块 -->
+  <section data-od-id="riskWarning">
+    <div class="risk-warning">
+      <p class="risk-warning__products">{{products}}</p>
+      <p class="risk-warning__fee">{{fee}}</p>
+      <p class="risk-warning__disclaimer">{{disclaimer}}</p>
+    </div>
+  </section>
+
+  <!-- 固定模块 -->
+  <section data-od-id="bankEnding">
+    <div class="bank-ending">
+      <img class="bank-ending__logo" src="assets/images/bank-logo.png" alt="">
+      <p class="bank-ending__slogan">买基金 来招行</p>
+      <p class="bank-ending__tips">基金有风险 投资需谨慎</p>
+    </div>
+  </section>
+
+</main>
+
+</body>
+</html>

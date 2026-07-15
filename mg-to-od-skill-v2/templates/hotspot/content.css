@@ -1,0 +1,31 @@
+/* ============================================
+   content.css — 内容层（可变文字 / 图表样式）
+   所有放到 card-hotspot__body 里的内容用这里
+   ============================================ */
+
+/* ---- 正文段落 ---- */
+.text-body {
+  color: #6D2807;
+  font-size: 38px;
+  font-family: "MiSans", sans-serif;
+  line-height: 58px;
+  letter-spacing: 1.9px;
+  text-align: justify;
+  margin: 0;
+}
+
+/* ---- 正文中高亮文字 ---- */
+.text-highlight {
+  color: #E5372C;
+  font-weight: 600;
+}
+
+/* ---- 数据来源脚注 ---- */
+.text-source {
+  color: #AA785D;
+  font-size: 26px;
+  font-family: "MiSans", sans-serif;
+  line-height: 26px;
+  letter-spacing: 0.47px;
+  margin-top: 40px;
+}

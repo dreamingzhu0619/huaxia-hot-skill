@@ -1,0 +1,39 @@
+{
+  "sectionIndex": 94,
+  "section": {
+    "id": "0:315",
+    "name": "Color Overlay",
+    "type": "PATH"
+  },
+  "dsl": {
+    "styles": {
+      "paint_0:905": {
+        "value": [
+          "#A9582C"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "PATH",
+        "id": "0:315",
+        "name": "Color Overlay",
+        "layoutStyle": {
+          "width": 1057.000244140625,
+          "height": 735.387939453125,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "path": [
+          {
+            "fill": "#A9582C",
+            "data": ""
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1,
+  "svgNodeCount": 1
+}

@@ -1,0 +1,59 @@
+{
+  "sectionIndex": 56,
+  "section": {
+    "id": "0:1199",
+    "name": "2019",
+    "type": "TEXT"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:542": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 8,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "-0.1599999964237213px"
+        }
+      },
+      "paint_0:316": {
+        "value": [
+          "#959595"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:1199",
+        "name": "2019",
+        "layoutStyle": {
+          "width": 18,
+          "height": 12,
+          "relativeX": 0,
+          "relativeY": 0,
+          "rotate": -46
+        },
+        "text": [
+          {
+            "text": "2019",
+            "font": "font_0:542"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 4,
+            "color": "paint_0:316"
+          }
+        ],
+        "textAlign": "right",
+        "textMode": "single-line"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

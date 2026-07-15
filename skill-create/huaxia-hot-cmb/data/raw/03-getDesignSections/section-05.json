@@ -1,0 +1,43 @@
+{
+  "sectionIndex": 5,
+  "section": {
+    "id": "0:1001",
+    "name": "矩形备份",
+    "type": "LAYER"
+  },
+  "dsl": {
+    "styles": {
+      "paint_0:309": {
+        "value": [
+          "#ECF9FF"
+        ]
+      },
+      "paint_0:311": {
+        "value": [
+          "#B0C7E3"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "LAYER",
+        "id": "0:1001",
+        "name": "矩形备份",
+        "layoutStyle": {
+          "width": 74,
+          "height": 205,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "borderRadius": "3px",
+        "fill": "paint_0:309",
+        "strokeColor": "paint_0:311",
+        "strokeType": "solid",
+        "strokeAlign": "inside",
+        "strokeWidth": "0.5px"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

@@ -1,0 +1,194 @@
+/* ============================================================================
+   华夏热点速递 H5 —— flow 组件共享样式（静态 HTML 用）
+   固定样式全部取自 huaxia-hot-cmb/assets/styles/modules/NN-*.css 精确值，
+   节点 id 注释供溯源（见 references/components-provenance.md）。
+   agent 只写 HTML（内容），不改本文件。
+   ============================================================================ */
+
+/* ---- 页面容器 + 模块流式定位（margin 值取自原 page.css，还原设计稿模块间距）----
+   视觉顺序按 position.y：banner→hotspot→market→related→rec-a→rec-b→buy-fund→compliance */
+* { box-sizing: border-box; }
+body { margin: 0; background: #BBE0FB; }
+.page {
+  position: relative; width: 375px; margin: 0 auto;
+  background: #BBE0FB;
+  display: flex; flex-direction: column; align-items: flex-start;
+  overflow: hidden;
+}
+.hx-mod-banner            { margin: 52px 0 0 25px; }
+.hx-mod-hotspot-frontline { margin: 13.86px 0 0 10px; }
+.hx-mod-market-analysis   { margin: 19.76px 0 0 10px; }
+.hx-mod-related-products  { margin: 21px 0 0 10px; }
+.hx-mod-recommendation-a  { margin: 22.5px 0 0 10px; }
+.hx-mod-recommendation-b  { margin: 19.92px 0 0 10px; }
+.hx-mod-buy-fund-cmb      { margin: 20px 0 0 9px; }
+.hx-mod-compliance-notice { margin: 109px 0 0 9px; }
+
+/* ---- 共享：蓝白渐变白卡骨架（2/3/4/7 共用）0:951/0:961/0:986/0:1330 ---- */
+.hx-card {
+  position: relative; width: 355px; box-sizing: border-box;
+  background-image: linear-gradient(180deg, #E0EDFF 0%, #FFFFFF 11%);
+  box-shadow: 0px 1px 2px 2px #EAF5FF;
+  border-radius: 10.1px;
+  /* 高度随内容自适应 */
+}
+
+/* ---- 共享：左上蓝色梯形角标（hotspot / market）0:952-956 + 0:957 ----
+   角标 SVG 几何取自 data/modules 的真实 path（见模板 svg 片段）。 */
+.hx-tab { position: absolute; left: -31px; top: -8px; width: 170px; height: 47px; pointer-events: none; }
+.hx-tab-title {                         /* 0:957 / 0:967 白字，top 由各组件按相对偏移覆盖 */
+  position: absolute; left: 1px; width: 102px; height: 38px;
+  font-family: "FZZDHJW--GB1","PingFang SC",sans-serif; font-weight: 700;
+  font-size: 20px; line-height: 37.56px; text-align: center;
+  color: #FFFFFF; text-shadow: 0px 2px 3px #4F9EF1;
+  white-space: nowrap; pointer-events: none;
+}
+
+/* ---- 共享：标题装饰 菱形+渐变线（recommendation / related）0:992-996 / 0:1321-1328 ---- */
+.hx-deco { display: flex; align-items: center; height: 10px; flex: none; }
+.hx-deco .line { flex: 1; height: 2px; background-image: linear-gradient(270deg, #2979E8 0%, rgba(37,119,232,0) 99%); }
+.hx-deco .d-hollow, .hx-deco .d-solid { width: 7px; height: 7px; transform: rotate(45deg); flex: none; }
+.hx-deco .d-hollow { border: 0.7px solid #2577E8; box-sizing: border-box; margin-left: 2px; }
+.hx-deco .d-solid  { background-color: #2577E8; margin-left: 3px; }
+.hx-deco.right { transform: scaleX(-1); }
+
+/* ============================================================================
+   01 hotspot-frontline  （源 01-hotspot-frontline.css）
+   ============================================================================ */
+.hot {
+  overflow: hidden;                                   /* 0:950 裁角标越界 */
+  padding: 40px 17px 12px;                            /* 顶部留角标；正文 left≈17(0:958) */
+  display: flex; flex-direction: column; gap: 8px;
+}
+.hot .hx-tab-title { top: -3.24px; }                  /* 0:957 相对卡框偏移 */
+.hot-body {                                           /* 0:958 */
+  font-family: "FZLTHJW--GB1","PingFang SC",sans-serif;
+  font-size: 14px; line-height: 20px; letter-spacing: -0.1px;
+  text-align: justify; color: #333333; margin: 0;
+}
+.hot-source {                                         /* 0:1318 */
+  font-family: "FZLTHJW--GB1",sans-serif;
+  font-size: 9px; line-height: 11px; letter-spacing: -0.11px;
+  text-align: center; color: #999999; margin: 4px 0 0;
+}
+
+/* ============================================================================
+   02 market-analysis  （源 02-market-analysis.css）
+   ============================================================================ */
+.market {
+  overflow: hidden;                                   /* 0:960 */
+  padding: 42px 17px 12px;                            /* 首个金标 top≈42(0:969) */
+  display: flex; flex-direction: column; gap: 11px;   /* 分论点间 gap≈11 */
+}
+.market .hx-tab-title { top: -2.24px; }               /* 0:967 相对卡框偏移 */
+.market-point { display: flex; flex-direction: column; gap: 5px; }  /* 金标→正文 gap≈5 */
+.market-subhead {                                     /* 0:969/972/975 + 0:978-980 */
+  align-self: flex-start; display: inline-block;
+  padding: 2px 8px 3px; border-radius: 8px;
+  background-image: linear-gradient(180deg, #FFDA92 12%, #FFF1D4 99%);
+  box-shadow: inset 0px -1px 2px 0px rgba(255,255,255,0.5);
+  font-family: "FZLTZHJW--GB1","PingFang SC",sans-serif;
+  font-size: 14px; line-height: 18px; letter-spacing: -0.1px;
+  color: #7B431C; white-space: nowrap;
+}
+.market-body {                                        /* 0:968/981/982 */
+  font-family: "FZLTHJW--GB1","PingFang SC",sans-serif;
+  font-size: 14px; line-height: 20px; letter-spacing: -0.1px;
+  text-align: justify; color: #333333; margin: 0;
+}
+.market-disclaimer {                                  /* 0:983 */
+  font-family: "FZLTHJW--GB1",sans-serif;
+  font-size: 9px; line-height: 11px; letter-spacing: -0.11px;
+  text-align: center; color: #999999; margin: -6px 0 0;
+}
+
+/* ============================================================================
+   03/04 recommendation （A/B 合一；源 03-recommendation-a.css / 04-b）
+   ============================================================================ */
+.rec {
+  padding: 11px 17px 12px;                            /* 0:986 */
+  display: flex; flex-direction: column; gap: 10px;
+}
+.rec-head { display: flex; align-items: center; justify-content: center; gap: 8px; min-height: 28px; }
+.rec-head .hx-deco { width: 55px; }
+.rec-title {                                          /* 0:991 */
+  flex: 1; min-width: 0; text-align: center;
+  font-family: "FZLTZHJW--GB1","PingFang SC",sans-serif;
+  font-size: 17px; line-height: 1.4; letter-spacing: -0.34px;
+  color: #1570E9; font-weight: 600;
+}
+.rec-body {                                           /* 0:1000 */
+  font-family: "FZLTZHJW--GB1","PingFang SC",sans-serif;
+  font-size: 14px; line-height: 20px; letter-spacing: -0.1px;
+  text-align: left; color: #F81F02; margin: 0;
+}
+/* 图表：数据驱动（沿用原柱/线样式，几何由 agent 按数据算成静态 SVG/div）*/
+.rec-chart { display: flex; flex-direction: column; gap: 9px; padding: 4px 0 2px; }
+.rec-chart-title { font-family: "FZLTCHJW--GB1",sans-serif; font-size: 10px; color: #333333; }  /* 0:1004 */
+.bar-row { display: flex; align-items: center; gap: 8px; }
+.bar-row .cat { width: 30px; flex: none; font-family:"FZLTHJW--GB1",sans-serif; font-size: 10px; color: #959595; } /* 0:1002 */
+.bar-row .track { flex: 1; height: 16px; }
+.bar-row .fill {                                      /* 0:1013 */
+  height: 16px; background-color: #FFD282; border-radius: 8px;
+  box-shadow: inset 0px 1px 3px 0px rgba(255,255,255,0.5);
+  display:flex; align-items:center; justify-content:flex-end; padding-right:6px;
+}
+.bar-row .val { font-family:"FZLTHJW--GB1",sans-serif; font-size: 12px; letter-spacing:-0.24px; color: #884209; } /* 0:1005 */
+.rec-chart svg { width: 100%; height: 130px; display: block; }
+.rec-source {                                         /* 0:988 */
+  font-family: "FZLTHJW--GB1",sans-serif;
+  font-size: 9px; line-height: 12px; text-align: center; color: #959595; margin: 2px 0 0;
+}
+
+/* ============================================================================
+   07 related-products （源 07-related-products.css）
+   ============================================================================ */
+.related-wrap { width: 355px; display: flex; flex-direction: column; }
+.related-head { display: flex; align-items: center; justify-content: center; gap: 9px; height: 37.56px; }
+.related-head .hx-deco { width: 92px; }
+.related-head .hx-deco .d-hollow { margin-left: 1px; }
+.related-head .hx-deco .d-solid  { margin-left: 4px; }
+.rel-title {                                          /* 0:1329 渐变字 */
+  font-family: "FZZDHJW--GB1","PingFang SC",sans-serif; font-weight: 700;
+  font-size: 25px; line-height: 37.56px; white-space: nowrap;
+  background-image: linear-gradient(277deg, #1593FF 2%, #005FFF 95%);
+  -webkit-background-clip: text; background-clip: text;
+  -webkit-text-fill-color: transparent; color: transparent;
+  text-shadow: 0px 1px 0px rgba(255,255,255,0.6);
+}
+.related-card {                                       /* 0:1330 外卡 */
+  padding: 22px 17px 12px;
+  display: flex; flex-direction: column; gap: 20px;
+}
+.prod-big {                                           /* 0:1369 大产品子卡 */
+  background-image: linear-gradient(359deg, #FFFFFF 1%, #F0F8FF 98%);
+  box-shadow: inset 0px 1px 0px 0px #FFFFFF, 0 1px 4px rgba(80,140,220,0.10);
+  border-radius: 12px; padding: 16px 14px 18px;
+  display: flex; flex-direction: column; align-items: center; gap: 8px;
+}
+.prod-big .prod-name { font-family:"FZLTZHJW--GB1",sans-serif; font-size:17px; color:#343434; margin:0; text-align:center; } /* 0:1425 */
+.prod-small { display: flex; align-items: center; justify-content: space-between; gap: 10px; }  /* 无独立背景 */
+.prod-small .prod-left { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.prod-small .prod-name { font-family:"FZLTZHJW--GB1",sans-serif; font-size:15px; color:#343434; margin:0; }  /* 0:1332 */
+.ret-label { font-family:"FZLTHJW--GB1",sans-serif; font-size:10px; color:#A6A6A6; }             /* 0:1434/1435 */
+.prod-big .ret-label { margin-top:2px; }
+.prod-tags { display: flex; align-items: center; gap: 6px; }
+.tag { background-color:#F1F8FF; color:#2C96FF; font-family:"FZLTHJW--GB1",sans-serif; font-size:10px;
+       line-height:15px; padding:0 6px; border-radius:3px; white-space:nowrap; }                 /* 0:1337 等 */
+/* CTA 橙色胶囊 0:1350/0:1373 */
+.cta {
+  position: relative; overflow: hidden;
+  display: inline-flex; align-items: center; justify-content: center; gap: 5px; flex: none;
+  background-image: linear-gradient(90deg, #FF5B00 17%, #F13816 85%);
+  box-shadow: 0px 1px 0px 0px #FF800F;
+  font-family:"FZLTZHJW--GB1",sans-serif; color:#FFFFFF; text-shadow:0px 1px 2px #FF4F02;
+}
+.cta::before {                                        /* 顶部白高光 0:1363/1378 */
+  content:""; position:absolute; left:0; top:0; right:0; height:56%;
+  background-image: linear-gradient(180deg, rgba(255,255,255,0.485) -10%, rgba(255,255,255,0) 100%);
+  pointer-events:none;
+}
+.cta-big  { width: 241px; height: 35px; border-radius: 17.5px; font-size: 14px; }
+.cta-small{ height: 32.67px; padding: 0 18px; border-radius: 16.3px; font-size: 14px; }
+.cta-wrap { position: relative; display: inline-flex; }         /* 不裁剪，容纳戳出药丸的手 */
+.cta-hand { position: absolute; left: 202px; top: 9px; width: 50px; height: 48px; pointer-events: none; z-index: 3; } /* 0:1380 相对药丸 left207.21/top14.96 */

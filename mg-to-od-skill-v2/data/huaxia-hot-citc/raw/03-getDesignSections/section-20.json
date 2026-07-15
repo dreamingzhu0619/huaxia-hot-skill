@@ -1,0 +1,727 @@
+{
+  "sectionIndex": 20,
+  "section": {
+    "id": "0:202",
+    "name": "组 5815",
+    "type": "GROUP"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:715": {
+        "value": {
+          "family": "MiSans-Demibold",
+          "size": 17.140729904174805,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "17.140729904174805",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "600"
+        }
+      },
+      "paint_0:702": {
+        "value": [
+          "linear-gradient(90deg, #FFBD9C 0%, #FF2B2B 100%)"
+        ]
+      },
+      "paint_0:709": {
+        "value": [
+          "#DBAF90"
+        ]
+      },
+      "paint_0:717": {
+        "value": [
+          "#B67D73"
+        ]
+      },
+      "paint_0:719": {
+        "value": [
+          "#B67D73"
+        ]
+      },
+      "paint_0:721": {
+        "value": [
+          "#B67D73"
+        ]
+      },
+      "paint_0:723": {
+        "value": [
+          "#B67D73"
+        ]
+      },
+      "paint_0:725": {
+        "value": [
+          "#B67D73"
+        ]
+      },
+      "paint_0:727": {
+        "value": [
+          "#B67D73"
+        ]
+      },
+      "paint_0:729": {
+        "value": [
+          "#B67D73"
+        ]
+      },
+      "paint_0:731": {
+        "value": [
+          "#B67D73"
+        ]
+      },
+      "paint_0:733": {
+        "value": [
+          "#B67D73"
+        ]
+      },
+      "paint_0:735": {
+        "value": [
+          "#B67D73"
+        ]
+      },
+      "paint_0:737": {
+        "value": [
+          "#B67D73"
+        ]
+      },
+      "paint_0:739": {
+        "value": [
+          "#B67D73"
+        ]
+      },
+      "paint_0:741": {
+        "value": [
+          "#B67D73"
+        ]
+      },
+      "paint_0:743": {
+        "value": [
+          "#B67D73"
+        ]
+      },
+      "paint_0:745": {
+        "value": [
+          "#B67D73"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "GROUP",
+        "id": "0:202",
+        "name": "组 5815",
+        "layoutStyle": {
+          "width": 838,
+          "height": 431.1407165527344,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "GROUP",
+            "id": "0:203",
+            "name": "组 5807",
+            "layoutStyle": {
+              "width": 706,
+              "height": 319,
+              "relativeX": 86.66200256347656,
+              "relativeY": 83.137939453125
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:204",
+                "name": "矩形 1007",
+                "layoutStyle": {
+                  "width": 32.34000015258789,
+                  "height": 86,
+                  "relativeX": 0,
+                  "relativeY": 232
+                },
+                "fill": "paint_0:702"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:205",
+                "name": "矩形 1007 拷贝 2",
+                "layoutStyle": {
+                  "width": 32.34000015258789,
+                  "height": 132,
+                  "relativeX": 52.54998779296875,
+                  "relativeY": 186
+                },
+                "fill": "paint_0:702"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:206",
+                "name": "矩形 1007 拷贝 3",
+                "layoutStyle": {
+                  "width": 32.34000015258789,
+                  "height": 109,
+                  "relativeX": 102.39999389648438,
+                  "relativeY": 209
+                },
+                "fill": "paint_0:702"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:207",
+                "name": "矩形 1007 拷贝 4",
+                "layoutStyle": {
+                  "width": 32.34000015258789,
+                  "height": 29,
+                  "relativeX": 156.29000854492188,
+                  "relativeY": 289
+                },
+                "fill": "paint_0:702"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:208",
+                "name": "矩形 1007 拷贝 14",
+                "layoutStyle": {
+                  "width": 32.34000015258789,
+                  "height": 15,
+                  "relativeX": 673.6599731445312,
+                  "relativeY": 304
+                },
+                "fill": "paint_0:702"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:209",
+                "name": "矩形 1007 拷贝 5",
+                "layoutStyle": {
+                  "width": 32.34000015258789,
+                  "height": 39,
+                  "relativeX": 208.83999633789062,
+                  "relativeY": 279
+                },
+                "fill": "paint_0:702"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:210",
+                "name": "矩形 1007 拷贝 6",
+                "layoutStyle": {
+                  "width": 32.34000015258789,
+                  "height": 113,
+                  "relativeX": 260.0299987792969,
+                  "relativeY": 205
+                },
+                "fill": "paint_0:702"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:211",
+                "name": "矩形 1007 拷贝 7",
+                "layoutStyle": {
+                  "width": 32.34000015258789,
+                  "height": 146,
+                  "relativeX": 311.22998046875,
+                  "relativeY": 173
+                },
+                "fill": "paint_0:702"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:212",
+                "name": "矩形 1007 拷贝 8",
+                "layoutStyle": {
+                  "width": 32.34000015258789,
+                  "height": 130,
+                  "relativeX": 362.42999267578125,
+                  "relativeY": 189
+                },
+                "fill": "paint_0:702"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:213",
+                "name": "矩形 1007 拷贝 9",
+                "layoutStyle": {
+                  "width": 32.34000015258789,
+                  "height": 143,
+                  "relativeX": 414.97998046875,
+                  "relativeY": 176
+                },
+                "fill": "paint_0:702"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:214",
+                "name": "矩形 1007 拷贝 10",
+                "layoutStyle": {
+                  "width": 32.34000015258789,
+                  "height": 215,
+                  "relativeX": 467.52001953125,
+                  "relativeY": 104
+                },
+                "fill": "paint_0:702"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:215",
+                "name": "矩形 1007 拷贝 11",
+                "layoutStyle": {
+                  "width": 32.34000015258789,
+                  "height": 226,
+                  "relativeX": 520.0700073242188,
+                  "relativeY": 93
+                },
+                "fill": "paint_0:702"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:216",
+                "name": "矩形 1007 拷贝 12",
+                "layoutStyle": {
+                  "width": 32.34000015258789,
+                  "height": 259,
+                  "relativeX": 571.27001953125,
+                  "relativeY": 60
+                },
+                "fill": "paint_0:702"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:217",
+                "name": "矩形 1007 拷贝 13",
+                "layoutStyle": {
+                  "width": 32.34000015258789,
+                  "height": 319,
+                  "relativeX": 622.469970703125,
+                  "relativeY": 0
+                },
+                "fill": "paint_0:702"
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:218",
+            "name": "形状 6",
+            "layoutStyle": {
+              "width": 673.6639404296875,
+              "height": 189,
+              "relativeX": 102.83000183105469,
+              "relativeY": 88.137451171875
+            },
+            "path": [
+              {
+                "fill": "#DBAF90",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "GROUP",
+            "id": "0:219",
+            "name": "组 5804",
+            "layoutStyle": {
+              "width": 838,
+              "height": 431.1407165527344,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "TEXT",
+                "id": "0:220",
+                "name": "7200",
+                "layoutStyle": {
+                  "width": 44,
+                  "height": 18,
+                  "relativeX": 0,
+                  "relativeY": 58
+                },
+                "text": [
+                  {
+                    "text": "7200",
+                    "font": "font_0:715"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:717"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:221",
+                "name": "（亿）",
+                "layoutStyle": {
+                  "width": 53,
+                  "height": 18,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "text": [
+                  {
+                    "text": "（亿）",
+                    "font": "font_0:715"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 3,
+                    "color": "paint_0:719"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:222",
+                "name": "6000",
+                "layoutStyle": {
+                  "width": 46,
+                  "height": 18,
+                  "relativeX": 0,
+                  "relativeY": 123
+                },
+                "text": [
+                  {
+                    "text": "6000",
+                    "font": "font_0:715"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:721"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:223",
+                "name": "4800",
+                "layoutStyle": {
+                  "width": 46,
+                  "height": 18,
+                  "relativeX": 0,
+                  "relativeY": 190
+                },
+                "text": [
+                  {
+                    "text": "4800",
+                    "font": "font_0:715"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:723"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:224",
+                "name": "3600",
+                "layoutStyle": {
+                  "width": 45,
+                  "height": 18,
+                  "relativeX": 0,
+                  "relativeY": 257
+                },
+                "text": [
+                  {
+                    "text": "3600",
+                    "font": "font_0:715"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:725"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:225",
+                "name": "2400",
+                "layoutStyle": {
+                  "width": 45,
+                  "height": 18,
+                  "relativeX": 1,
+                  "relativeY": 324
+                },
+                "text": [
+                  {
+                    "text": "2400",
+                    "font": "font_0:715"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:727"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:226",
+                "name": "1200",
+                "layoutStyle": {
+                  "width": 42,
+                  "height": 18,
+                  "relativeX": 1,
+                  "relativeY": 391
+                },
+                "text": [
+                  {
+                    "text": "1200",
+                    "font": "font_0:715"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:729"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:227",
+                "name": "7.5%",
+                "layoutStyle": {
+                  "width": 41,
+                  "height": 18,
+                  "relativeX": 837,
+                  "relativeY": 58
+                },
+                "text": [
+                  {
+                    "text": "7.5%",
+                    "font": "font_0:715"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:731"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:228",
+                "name": "6.0%",
+                "layoutStyle": {
+                  "width": 43,
+                  "height": 18,
+                  "relativeX": 837,
+                  "relativeY": 123
+                },
+                "text": [
+                  {
+                    "text": "6.0%",
+                    "font": "font_0:715"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:733"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:229",
+                "name": "4.5%",
+                "layoutStyle": {
+                  "width": 43,
+                  "height": 18,
+                  "relativeX": 837,
+                  "relativeY": 190
+                },
+                "text": [
+                  {
+                    "text": "4.5%",
+                    "font": "font_0:715"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:735"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:230",
+                "name": "3.0%",
+                "layoutStyle": {
+                  "width": 43,
+                  "height": 18,
+                  "relativeX": 837,
+                  "relativeY": 257
+                },
+                "text": [
+                  {
+                    "text": "3.0%",
+                    "font": "font_0:715"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:737"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:231",
+                "name": "1.5%",
+                "layoutStyle": {
+                  "width": 40,
+                  "height": 18,
+                  "relativeX": 838,
+                  "relativeY": 324
+                },
+                "text": [
+                  {
+                    "text": "1.5%",
+                    "font": "font_0:715"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:739"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:232",
+                "name": "0.0%",
+                "layoutStyle": {
+                  "width": 44,
+                  "height": 18,
+                  "relativeX": 838,
+                  "relativeY": 391
+                },
+                "text": [
+                  {
+                    "text": "0.0%",
+                    "font": "font_0:715"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:741"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:233",
+                "name": "2016",
+                "layoutStyle": {
+                  "width": 42,
+                  "height": 18,
+                  "relativeX": 238.00001525878906,
+                  "relativeY": 414
+                },
+                "text": [
+                  {
+                    "text": "2016",
+                    "font": "font_0:715"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:743"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:234",
+                "name": "2026",
+                "layoutStyle": {
+                  "width": 44,
+                  "height": 18,
+                  "relativeX": 753,
+                  "relativeY": 414
+                },
+                "text": [
+                  {
+                    "text": "2026",
+                    "font": "font_0:715"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:745"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 33,
+  "svgNodeCount": 1
+}

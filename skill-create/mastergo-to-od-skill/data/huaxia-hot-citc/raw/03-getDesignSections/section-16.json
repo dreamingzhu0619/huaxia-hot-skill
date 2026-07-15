@@ -1,0 +1,153 @@
+{
+  "sectionIndex": 16,
+  "section": {
+    "id": "0:191",
+    "name": "红利低波指数聚焦银行等低波动板块，金融权重占比高达51.3%，央国企股东背景股息率优势显著。指数过去几年红利贡献水平始终维持在5%以上，分红整体稳健增长。",
+    "type": "TEXT"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:590": {
+        "value": {
+          "family": "MiSans-Regular",
+          "size": 38,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "auto",
+          "letterSpacing": "-4.5%",
+          "weight": "400"
+        }
+      },
+      "font_0:591": {
+        "value": {
+          "family": "MiSans-Demibold",
+          "size": 38,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "auto",
+          "letterSpacing": "-4.5%",
+          "weight": "600"
+        }
+      },
+      "paint_0:683": {
+        "value": [
+          "#6D2807"
+        ]
+      },
+      "paint_0:685": {
+        "value": [
+          "#E5372C"
+        ]
+      },
+      "paint_0:687": {
+        "value": [
+          "#6D2807"
+        ]
+      },
+      "paint_0:689": {
+        "value": [
+          "#E5372C"
+        ]
+      },
+      "paint_0:691": {
+        "value": [
+          "#6D2807"
+        ]
+      },
+      "paint_0:695": {
+        "value": [
+          "#E5372C"
+        ]
+      },
+      "paint_0:697": {
+        "value": [
+          "#6D2807"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:191",
+        "name": "红利低波指数聚焦银行等低波动板块，金融权重占比高达51.3%，央国企股东背景股息率优势显著。指数过去几年红利贡献水平始终维持在5%以上，分红整体稳健增长。",
+        "layoutStyle": {
+          "width": 987.4688110351562,
+          "height": 229.07949829101562,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "T16|0:191",
+            "font": "font_0:590"
+          },
+          {
+            "text": "T16|0:191",
+            "font": "font_0:591"
+          },
+          {
+            "text": "T16|0:191",
+            "font": "font_0:590"
+          },
+          {
+            "text": "T16|0:191",
+            "font": "font_0:591"
+          },
+          {
+            "text": "T16|0:191",
+            "font": "font_0:590"
+          },
+          {
+            "text": "T16|0:191",
+            "font": "font_0:591"
+          },
+          {
+            "text": "T16|0:191",
+            "font": "font_0:590"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 6,
+            "color": "paint_0:683"
+          },
+          {
+            "start": 6,
+            "end": 16,
+            "color": "paint_0:685"
+          },
+          {
+            "start": 16,
+            "end": 25,
+            "color": "paint_0:687"
+          },
+          {
+            "start": 25,
+            "end": 30,
+            "color": "paint_0:689"
+          },
+          {
+            "start": 30,
+            "end": 63,
+            "color": "paint_0:691"
+          },
+          {
+            "start": 63,
+            "end": 65,
+            "color": "paint_0:695"
+          },
+          {
+            "start": 65,
+            "end": 77,
+            "color": "paint_0:697"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

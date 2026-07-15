@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>D2C 整页拼装抽象</title>
+  <style>
+    /*
+      抽象来源：
+      data/huaxia-hot-citc/raw/07-getD2c/d2c-out/195066566304017-0-3.html
+
+      用途：
+      - 本文件只描述完整 H5 页面如何拼装。
+      - 本文件不是模块内部精确样式的数据源。
+      - 模块内部的精确数据仍然来自 modules/*.json、d2cCss、
+        textRuns、fill/effect/font、svg assets、export images 等。
+      - 每一类模块组理论上都可以重复。
+      - 每一个模块实例理论上都可以变高。
+      - 原设计稿只提供默认值：大多数模块组默认数量为 1，
+        默认高度为原 D2C 高度。
+
+      缩放：
+      - D2C 源页面宽度为 1125px。
+      - H5 运行时逻辑宽度为 375px。
+      - 下方所有数值均为 源 px / 3。
+    */
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: MiSans, "PingFang SC", "Microsoft YaHei", sans-serif;
+      background: #fff;
+    }
+
+    .h5-page {
+      --page-width: 375px;
+      --gap-marketing-header-to-hotspot-express: -150.69px;
+      --gap-hotspot-express-to-product-card: 17px;
+      --gap-between-marketing-headers: 0px;
+      --gap-between-hotspot-expresses: 17px;
+      --gap-between-product-cards: 17.27px;
+      --gap-between-recommendations: 17.6px;
+      --gap-between-risk-warnings: 14.39px;
+      --gap-between-bank-endings: 11.77px;
+      --gap-product-card-to-recommendation: 17.27px;
+      --gap-recommendation-to-risk-warning: 14.39px;
+      --gap-risk-warning-to-bank-ending: 11.77px;
+
+      width: var(--page-width);
+      min-height: 2702.67px;
+      margin: 0 auto;
+      position: relative;
+      overflow: visible;
+    }
+
+    /*
+      背景是页面级图层。
+      它必须跟随最终计算出的页面高度延展。
+    */
+    .page-background {
+      position: absolute;
+      inset: 0;
+      z-index: 0;
+      min-height: 100%;
+      pointer-events: none;
+    }
+
+    /*
+      页面拼装模型：
+      1. 完整 H5 是一组模块组的纵向堆叠。
+      2. 每个模块组都可以重复 N 次。
+      3. 每个模块实例都有来自 D2C 的默认高度，但最终渲染高度
+         可以随着内容增多而变高。
+      4. 后面的模块组按照前面模块组的实际高度继续向下排列。
+      5. 允许负数模块间距，用来表达设计稿里的刻意重叠，
+         例如 marketing-header -> hotspot-express。
+    */
+    .module-flow {
+      position: relative;
+      z-index: 20;
+    }
+
+    .module-group {
+      position: relative;
+      display: block;
+    }
+
+    .module-instance {
+      position: relative;
+      overflow: visible;
+    }
+
+    .module-instance + .module-instance {
+      margin-top: var(--instance-gap, 0px);
+    }
+
+    .module-group + .module-group {
+      margin-top: var(--group-gap, 0px);
+    }
+
+    .marketing-header-group {
+      --instance-gap: var(--gap-between-marketing-headers);
+      --group-gap: var(--gap-marketing-header-to-hotspot-express);
+      z-index: 5;
+    }
+
+    .marketing-header {
+      margin-left: 0;
+      width: 375px;
+      min-height: 313px;
+    }
+
+    .hotspot-express-group {
+      --instance-gap: var(--gap-between-hotspot-expresses);
+      --group-gap: var(--gap-hotspot-express-to-product-card);
+      z-index: 8;
+    }
+
+    .hotspot-express {
+      margin-left: 6.42px;
+      width: 360.58px;
+      min-height: 214.69px;
+    }
+
+    .product-card-group {
+      --instance-gap: var(--gap-between-product-cards);
+      --group-gap: var(--gap-product-card-to-recommendation);
+    }
+
+    .product-card {
+      margin-left: 8.33px;
+      width: 358.34px;
+      min-height: 176.99px;
+    }
+
+    .recommendation-group {
+      --instance-gap: var(--gap-between-recommendations);
+      --group-gap: var(--gap-recommendation-to-risk-warning);
+    }
+
+    .recommendation-card {
+      margin-left: 8.33px;
+      width: 358.67px;
+      min-height: 355.15px;
+    }
+
+    .risk-warning-group {
+      --instance-gap: var(--gap-between-risk-warnings);
+      --group-gap: var(--gap-risk-warning-to-bank-ending);
+    }
+
+    .risk-warning {
+      margin-left: 11.33px;
+      width: 352.33px;
+      min-height: 570.72px;
+    }
+
+    .bank-ending-group {
+      --instance-gap: var(--gap-between-bank-endings);
+    }
+
+    .bank-ending {
+      margin-left: 124.84px;
+      width: 126.88px;
+      min-height: 68.1px;
+    }
+
+    /*
+      占位槽。
+      在真正的 output skill 中，这些槽会被更精确的模块数据
+      生成出来的 component fragment 替换。
+    */
+    [data-component-slot] {
+      outline: 1px dashed rgba(180, 80, 40, 0.28);
+      min-height: inherit;
+    }
+  </style>
+</head>
+<body>
+  <main class="h5-page" data-source-scale="3" data-logical-width="375">
+    <!-- 页面级固定/背景层。高度跟随最终页面高度。 -->
+    <section class="page-background" data-component-slot="background">
+      <!-- 插入由 00-background 模块精确数据生成的背景组件。 -->
+    </section>
+
+    <!--
+      可变高度页面流。
+      所有直接子节点都是模块组。每个模块组都可以包含
+      0、1 或 N 个实例。原始 D2C 页面只提供默认的模块组顺序、
+      偏移、宽度和默认高度。
+    -->
+    <div class="module-flow" aria-label="H5 module flow">
+      <div class="module-group marketing-header-group" data-repeat-slot="marketing-header" data-default-count="1">
+        <section class="module-instance marketing-header" data-component-slot="marketing-header" data-default-height="313">
+          <!-- 插入由精确模块数据生成的 marketing-header 实例。 -->
+        </section>
+      </div>
+
+      <div class="module-group hotspot-express-group" data-repeat-slot="hotspot-express" data-default-count="1">
+        <section class="module-instance hotspot-express" data-component-slot="hotspot-express" data-default-height="214.69">
+          <!-- 插入由精确模块数据生成的 hotspot-express 实例。 -->
+        </section>
+      </div>
+
+      <div class="module-group product-card-group" data-repeat-slot="product-card" data-default-count="1">
+        <section class="module-instance product-card" data-component-slot="product-card" data-default-height="176.99">
+          <!-- 插入由精确模块数据生成的 product-card 实例。 -->
+        </section>
+      </div>
+
+      <div class="module-group recommendation-group" data-repeat-slot="recommendation" data-default-count="3">
+        <section class="module-instance recommendation-card" data-component-slot="recommendation" data-default-height="355.15">
+          <!-- 插入由精确模块数据生成的 recommendation 实例 0。 -->
+        </section>
+
+        <section class="module-instance recommendation-card" data-component-slot="recommendation" data-default-height="355.07">
+          <!-- 插入由精确模块数据生成的 recommendation 实例 1。 -->
+        </section>
+
+        <section class="module-instance recommendation-card" data-component-slot="recommendation" data-default-height="647.38">
+          <!-- 插入由精确模块数据生成的 recommendation 实例 2。 -->
+        </section>
+      </div>
+
+      <div class="module-group risk-warning-group" data-repeat-slot="risk-warning" data-default-count="1">
+        <section class="module-instance risk-warning" data-component-slot="risk-warning" data-default-height="570.72">
+          <!-- 插入由精确模块数据生成的 risk-warning 实例。 -->
+        </section>
+      </div>
+
+      <div class="module-group bank-ending-group" data-repeat-slot="bank-ending" data-default-count="1">
+        <section class="module-instance bank-ending" data-component-slot="bank-ending" data-default-height="68.1">
+          <!-- 插入由精确模块数据生成的 bank-ending 实例。 -->
+        </section>
+      </div>
+    </div>
+  </main>
+</body>
+</html>

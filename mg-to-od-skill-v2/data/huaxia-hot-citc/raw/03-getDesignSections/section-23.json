@@ -1,0 +1,47 @@
+{
+  "sectionIndex": 23,
+  "section": {
+    "id": "0:248",
+    "name": "矩形 1000 拷贝 3",
+    "type": "LAYER"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:473": {
+        "value": []
+      },
+      "paint_0:471": {
+        "value": [
+          "linear-gradient(90deg, #FCCC89 -25%, #FCCC89 -23%, #EB8F2C 125%)"
+        ]
+      },
+      "paint_0:522": {
+        "value": [
+          "#FFFFFF"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "LAYER",
+        "id": "0:248",
+        "name": "矩形 1000 拷贝 3",
+        "layoutStyle": {
+          "width": 1076,
+          "height": 1204.3499755859375,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "borderRadius": "50px",
+        "fill": "paint_0:471",
+        "strokeColor": "paint_0:522",
+        "strokeType": "solid",
+        "strokeAlign": "center",
+        "strokeWidth": "1px",
+        "effect": "effect_0:473"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

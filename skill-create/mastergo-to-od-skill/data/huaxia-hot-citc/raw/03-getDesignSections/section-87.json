@@ -1,0 +1,251 @@
+{
+  "sectionIndex": 87,
+  "section": {
+    "id": "0:411",
+    "name": "组 21",
+    "type": "GROUP"
+  },
+  "dsl": {
+    "styles": {
+      "paint_0:480": {
+        "value": [
+          "#D8D8D8"
+        ]
+      },
+      "paint_0:976": {
+        "value": [
+          "#AF6E64"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "GROUP",
+        "id": "0:411",
+        "name": "组 21",
+        "layoutStyle": {
+          "width": 1057,
+          "height": 231,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "GROUP",
+            "id": "0:412",
+            "name": "组 2",
+            "layoutStyle": {
+              "width": 1057,
+              "height": 231,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "GROUP",
+                "id": "0:413",
+                "name": "组 1",
+                "layoutStyle": {
+                  "width": 1057,
+                  "height": 231,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "LAYER",
+                    "id": "0:415",
+                    "name": "矩形 2",
+                    "layoutStyle": {
+                      "width": 1057,
+                      "height": 231,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "fill": "paint_0:480",
+                    "strokeColor": "paint_0:976",
+                    "strokeType": "solid",
+                    "strokeAlign": "center",
+                    "strokeWidth": "1px"
+                  },
+                  {
+                    "type": "LAYER",
+                    "id": "0:414",
+                    "name": "矩形 1",
+                    "layoutStyle": {
+                      "width": 1055.99951171875,
+                      "height": 229.99761962890625,
+                      "relativeX": 0.5002437233924866,
+                      "relativeY": 0.5011867880821228
+                    },
+                    "strokeColor": "paint_0:976",
+                    "strokeType": "solid",
+                    "strokeAlign": "center",
+                    "strokeWidth": "1px"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "GROUP",
+            "id": "0:416",
+            "name": "组 4",
+            "layoutStyle": {
+              "width": 1057,
+              "height": 231,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "GROUP",
+                "id": "0:417",
+                "name": "组 3",
+                "layoutStyle": {
+                  "width": 1057,
+                  "height": 231,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "LAYER",
+                    "id": "0:419",
+                    "name": "矩形 3",
+                    "layoutStyle": {
+                      "width": 1057,
+                      "height": 231,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "fill": "paint_0:480",
+                    "strokeColor": "paint_0:976",
+                    "strokeType": "solid",
+                    "strokeAlign": "center",
+                    "strokeWidth": "1px"
+                  },
+                  {
+                    "type": "PATH",
+                    "id": "0:418",
+                    "name": "直线 1",
+                    "layoutStyle": {
+                      "width": 1055.99951171875,
+                      "height": 0,
+                      "relativeX": 0.5002437233924866,
+                      "relativeY": 84.33366394042969
+                    },
+                    "path": [
+                      {
+                        "fill": "#AF6E64",
+                        "data": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:420",
+            "name": "直线 2",
+            "layoutStyle": {
+              "width": 810.7981567382812,
+              "height": 0,
+              "relativeX": 244.704345703125,
+              "relativeY": 152.333251953125
+            },
+            "path": [
+              {
+                "fill": "#AF6E64",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "GROUP",
+            "id": "0:421",
+            "name": "组 6",
+            "layoutStyle": {
+              "width": 1057,
+              "height": 231,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "GROUP",
+                "id": "0:422",
+                "name": "组 5",
+                "layoutStyle": {
+                  "width": 1057,
+                  "height": 231,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "LAYER",
+                    "id": "0:425",
+                    "name": "矩形 4",
+                    "layoutStyle": {
+                      "width": 1057,
+                      "height": 231,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "fill": "paint_0:480",
+                    "strokeColor": "paint_0:976",
+                    "strokeType": "solid",
+                    "strokeAlign": "center",
+                    "strokeWidth": "1px"
+                  },
+                  {
+                    "type": "PATH",
+                    "id": "0:423",
+                    "name": "直线 3",
+                    "layoutStyle": {
+                      "width": 229.99761962890625,
+                      "height": 0,
+                      "relativeX": 129.2,
+                      "relativeY": 115.5
+                    },
+                    "path": [
+                      {
+                        "fill": "#AF6E64",
+                        "data": "",
+                        "transform": "matrix(6.123234262925839e-17,1,-1,6.123234262925839e-17,244.70403641462323,-243.70224410295486)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "PATH",
+                    "id": "0:424",
+                    "name": "直线 4",
+                    "layoutStyle": {
+                      "width": 229.99761962890625,
+                      "height": 0,
+                      "relativeX": 612.29,
+                      "relativeY": 115.5
+                    },
+                    "path": [
+                      {
+                        "fill": "#AF6E64",
+                        "data": "",
+                        "transform": "matrix(6.123234262925839e-17,1,-1,6.123234262925839e-17,727.7890431284904,-726.787250816822)"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 15,
+  "svgNodeCount": 3
+}

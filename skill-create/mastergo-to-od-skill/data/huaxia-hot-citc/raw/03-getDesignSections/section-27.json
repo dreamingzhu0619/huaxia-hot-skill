@@ -1,0 +1,750 @@
+{
+  "sectionIndex": 27,
+  "section": {
+    "id": "0:285",
+    "name": "3.1 拷贝",
+    "type": "GROUP"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:590": {
+        "value": {
+          "family": "MiSans-Regular",
+          "size": 38,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "auto",
+          "letterSpacing": "-4.5%",
+          "weight": "400"
+        }
+      },
+      "font_0:617": {
+        "value": {
+          "family": "MiSans-Demibold",
+          "size": 33,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "33",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "600"
+        }
+      },
+      "font_0:819": {
+        "value": {
+          "family": "MiSans-Semibold",
+          "size": 38,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "auto",
+          "letterSpacing": "-4.5%",
+          "weight": "600"
+        }
+      },
+      "font_0:838": {
+        "value": {
+          "family": "MiSans-Medium",
+          "size": 32,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "auto",
+          "letterSpacing": "-4.5%",
+          "weight": "500"
+        }
+      },
+      "font_0:847": {
+        "value": {
+          "family": "MiSans-Demibold",
+          "size": 33,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "33",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "600"
+        }
+      },
+      "font_0:850": {
+        "value": {
+          "family": "MiSans-Semibold",
+          "size": 32,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "auto",
+          "letterSpacing": "-4.5%",
+          "weight": "600"
+        }
+      },
+      "font_0:859": {
+        "value": {
+          "family": "MiSans-Semibold",
+          "size": 33,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "33",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "600"
+        }
+      },
+      "font_0:864": {
+        "value": {
+          "family": "MiSans-Regular",
+          "size": 32,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "auto",
+          "letterSpacing": "-4.5%",
+          "weight": "400"
+        }
+      },
+      "font_0:889": {
+        "value": {
+          "family": "MiSans-Regular",
+          "size": 26,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "auto",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "400"
+        }
+      },
+      "paint_0:522": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:633": {
+        "value": [
+          "linear-gradient(0deg, #FD1513 -25%, #FD1513 -23%, #FE443D 47%, #FF7267 95%, #FF7267 125%)"
+        ]
+      },
+      "paint_0:821": {
+        "value": [
+          "#6D2807"
+        ]
+      },
+      "paint_0:823": {
+        "value": [
+          "#E5372C"
+        ]
+      },
+      "paint_0:825": {
+        "value": [
+          "#6D2807"
+        ]
+      },
+      "paint_0:829": {
+        "value": [
+          "#E5372C"
+        ]
+      },
+      "paint_0:831": {
+        "value": [
+          "#6D2807"
+        ]
+      },
+      "paint_0:832": {
+        "value": [
+          "linear-gradient(268deg, #FFD187 -24%, #FFDFA6 64%, #FEEDC5 124%)"
+        ]
+      },
+      "paint_0:834": {
+        "value": [
+          "#FFFBF4"
+        ]
+      },
+      "paint_0:836": {
+        "value": [
+          "linear-gradient(6deg, #FFF5E6 23%, #FFF5E6 49%, #FFF5E6 66%, #FFF5E6 76%)"
+        ]
+      },
+      "paint_0:840": {
+        "value": [
+          "#6D2807"
+        ]
+      },
+      "paint_0:849": {
+        "value": [
+          "#6D2121"
+        ]
+      },
+      "paint_0:852": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:861": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:866": {
+        "value": [
+          "#6D2121"
+        ]
+      },
+      "paint_0:874": {
+        "value": [
+          "#6D2121"
+        ]
+      },
+      "paint_0:878": {
+        "value": [
+          "#6D2121"
+        ]
+      },
+      "paint_0:886": {
+        "value": [
+          "#6D2121"
+        ]
+      },
+      "paint_0:891": {
+        "value": [
+          "#AA785D"
+        ]
+      },
+      "paint_0:893": {
+        "value": [
+          "#AA785D"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "GROUP",
+        "id": "0:285",
+        "name": "3.1 拷贝",
+        "layoutStyle": {
+          "width": 1014.989990234375,
+          "height": 635.7684936523438,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "TEXT",
+            "id": "0:286",
+            "name": "红利低波策略作为投资组合里的“守卫员”，在震荡市场可充当哑铃策略的“防御之盾”，缓冲短期波动风险。",
+            "layoutStyle": {
+              "width": 987.4688110351562,
+              "height": 148.21820068359375,
+              "relativeX": 12.520999908447266,
+              "relativeY": 0
+            },
+            "text": [
+              {
+                "text": "红利低波策略作为投资组合里的“",
+                "font": "font_0:590"
+              },
+              {
+                "text": "守卫员",
+                "font": "font_0:819"
+              },
+              {
+                "text": "”，在震荡市场可充当哑铃策略的“",
+                "font": "font_0:590"
+              },
+              {
+                "text": "防御之盾",
+                "font": "font_0:819"
+              },
+              {
+                "text": "”，缓冲短期波动风险。",
+                "font": "font_0:590"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 15,
+                "color": "paint_0:821"
+              },
+              {
+                "start": 15,
+                "end": 18,
+                "color": "paint_0:823"
+              },
+              {
+                "start": 18,
+                "end": 34,
+                "color": "paint_0:825"
+              },
+              {
+                "start": 34,
+                "end": 38,
+                "color": "paint_0:829"
+              },
+              {
+                "start": 38,
+                "end": 49,
+                "color": "paint_0:831"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line"
+          },
+          {
+            "type": "GROUP",
+            "id": "0:287",
+            "name": "组 5809",
+            "layoutStyle": {
+              "width": 1014.989990234375,
+              "height": 353.8481140136719,
+              "relativeX": 0,
+              "relativeY": 130.73291015625
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:288",
+                "name": "矩形 1006",
+                "layoutStyle": {
+                  "width": 1014.989990234375,
+                  "height": 82.9800033569336,
+                  "relativeX": 0,
+                  "relativeY": 4
+                },
+                "opacity": 0.6800000071525574,
+                "borderRadius": "8px",
+                "fill": "paint_0:832",
+                "strokeColor": "paint_0:522",
+                "strokeType": "solid",
+                "strokeAlign": "center",
+                "strokeWidth": "1px"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:289",
+                "name": "矩形 1006 拷贝",
+                "layoutStyle": {
+                  "width": 1014.989990234375,
+                  "height": 56.459999084472656,
+                  "relativeX": 0,
+                  "relativeY": 86
+                },
+                "borderRadius": "9px",
+                "fill": "paint_0:834"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:290",
+                "name": "矩形 1006 拷贝 2",
+                "layoutStyle": {
+                  "width": 1014.989990234375,
+                  "height": 56.459999084472656,
+                  "relativeX": 0,
+                  "relativeY": 144.0703125
+                },
+                "borderRadius": "9px",
+                "fill": "paint_0:836"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:291",
+                "name": "矩形 1006 拷贝 3",
+                "layoutStyle": {
+                  "width": 1014.989990234375,
+                  "height": 56.459999084472656,
+                  "relativeX": 0,
+                  "relativeY": 202.59033203125
+                },
+                "borderRadius": "9px",
+                "fill": "paint_0:834"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:292",
+                "name": "矩形 1006 拷贝 4",
+                "layoutStyle": {
+                  "width": 1014.989990234375,
+                  "height": 56.459999084472656,
+                  "relativeX": 0,
+                  "relativeY": 261.5703125
+                },
+                "borderRadius": "9px",
+                "fill": "paint_0:836"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:293",
+                "name": "红利低波全收益\n300收益\n500收益\n科创50（全）",
+                "layoutStyle": {
+                  "width": 229.35499572753906,
+                  "height": 260.1108093261719,
+                  "relativeX": 20.077999114990234,
+                  "relativeY": 91.38525390625
+                },
+                "text": [
+                  {
+                    "text": "红利低波全收益\n300收益\n500收益\n科创50（全）",
+                    "font": "font_0:838"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 27,
+                    "color": "paint_0:840"
+                  }
+                ],
+                "textAlign": "center",
+                "textMode": "single-line"
+              },
+              {
+                "type": "GROUP",
+                "id": "0:294",
+                "name": "组 5816",
+                "layoutStyle": {
+                  "width": 189,
+                  "height": 321.9800109863281,
+                  "relativeX": 322.989990234375,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "LAYER",
+                    "id": "0:295",
+                    "name": "矩形 1006 拷贝 12",
+                    "layoutStyle": {
+                      "width": 186.57000732421875,
+                      "height": 321.9800109863281,
+                      "relativeX": 2.42999267578125,
+                      "relativeY": 0
+                    },
+                    "borderRadius": "8px",
+                    "fill": "paint_0:633"
+                  },
+                  {
+                    "type": "LAYER",
+                    "id": "0:296",
+                    "name": "矩形 1007 拷贝 8",
+                    "layoutStyle": {
+                      "width": 189,
+                      "height": 2,
+                      "relativeX": 0,
+                      "relativeY": 141.990234375
+                    },
+                    "opacity": 0.3799999952316284,
+                    "fill": "paint_0:522"
+                  },
+                  {
+                    "type": "LAYER",
+                    "id": "0:297",
+                    "name": "矩形 1007 拷贝 18",
+                    "layoutStyle": {
+                      "width": 189,
+                      "height": 2,
+                      "relativeX": 0,
+                      "relativeY": 85.990234375
+                    },
+                    "opacity": 0.3799999952316284,
+                    "fill": "paint_0:522"
+                  },
+                  {
+                    "type": "LAYER",
+                    "id": "0:298",
+                    "name": "矩形 1007 拷贝 9",
+                    "layoutStyle": {
+                      "width": 189,
+                      "height": 2,
+                      "relativeX": 0,
+                      "relativeY": 199.990234375
+                    },
+                    "opacity": 0.3799999952316284,
+                    "fill": "paint_0:522"
+                  },
+                  {
+                    "type": "LAYER",
+                    "id": "0:299",
+                    "name": "矩形 1007 拷贝 10",
+                    "layoutStyle": {
+                      "width": 189,
+                      "height": 2,
+                      "relativeX": 0,
+                      "relativeY": 258.990234375
+                    },
+                    "opacity": 0.3799999952316284,
+                    "fill": "paint_0:522"
+                  }
+                ]
+              },
+              {
+                "type": "GROUP",
+                "id": "0:300",
+                "name": "组 5812",
+                "layoutStyle": {
+                  "width": 420.5565185546875,
+                  "height": 338.8578796386719,
+                  "relativeX": 73.54100036621094,
+                  "relativeY": 14.990234375
+                },
+                "children": [
+                  {
+                    "type": "TEXT",
+                    "id": "0:301",
+                    "name": "指数名称",
+                    "layoutStyle": {
+                      "width": 134,
+                      "height": 33,
+                      "relativeX": 0,
+                      "relativeY": 15
+                    },
+                    "text": [
+                      {
+                        "text": "指数名称",
+                        "font": "font_0:847"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 4,
+                        "color": "paint_0:849"
+                      }
+                    ],
+                    "textAlign": "center",
+                    "textMode": "single-line"
+                  },
+                  {
+                    "type": "TEXT",
+                    "id": "0:302",
+                    "name": "10.14%\n1.14%\n7.24%\n6.80%\n",
+                    "layoutStyle": {
+                      "width": 124.88829803466797,
+                      "height": 261.1108093261719,
+                      "relativeX": 279.77001953125,
+                      "relativeY": 77.7470703125
+                    },
+                    "text": [
+                      {
+                        "text": "10.14%\n1.14%\n7.24%\n6.80%\n",
+                        "font": "font_0:850"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 25,
+                        "color": "paint_0:852"
+                      }
+                    ],
+                    "textAlign": "center",
+                    "textMode": "single-line"
+                  },
+                  {
+                    "type": "TEXT",
+                    "id": "0:303",
+                    "name": "近5年年化\n收益率",
+                    "layoutStyle": {
+                      "width": 156,
+                      "height": 66,
+                      "relativeX": 265,
+                      "relativeY": 0
+                    },
+                    "text": [
+                      {
+                        "text": "近5年年化\n收益率",
+                        "font": "font_0:859"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 9,
+                        "color": "paint_0:861"
+                      }
+                    ],
+                    "textAlign": "center",
+                    "textMode": "single-line"
+                  }
+                ]
+              },
+              {
+                "type": "GROUP",
+                "id": "0:304",
+                "name": "组 5810",
+                "layoutStyle": {
+                  "width": 154.76998901367188,
+                  "height": 337.3778991699219,
+                  "relativeX": 582.041015625,
+                  "relativeY": 13.990234375
+                },
+                "children": [
+                  {
+                    "type": "TEXT",
+                    "id": "0:305",
+                    "name": "9.62%\n20.20%\n21.96%\n29.80%",
+                    "layoutStyle": {
+                      "width": 133.3621063232422,
+                      "height": 261.1108093261719,
+                      "relativeX": 10.03399658203125,
+                      "relativeY": 76.26708984375
+                    },
+                    "text": [
+                      {
+                        "text": "9.62%\n20.20%\n21.96%\n29.80%",
+                        "font": "font_0:864"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 26,
+                        "color": "paint_0:866"
+                      }
+                    ],
+                    "textAlign": "center",
+                    "textMode": "single-line"
+                  },
+                  {
+                    "type": "TEXT",
+                    "id": "0:306",
+                    "name": "近5年年化\n波动率",
+                    "layoutStyle": {
+                      "width": 155,
+                      "height": 66,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "text": [
+                      {
+                        "text": "近5年年化\n波动率",
+                        "font": "font_0:617"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 9,
+                        "color": "paint_0:874"
+                      }
+                    ],
+                    "textAlign": "center",
+                    "textMode": "single-line"
+                  }
+                ]
+              },
+              {
+                "type": "GROUP",
+                "id": "0:307",
+                "name": "组 5811",
+                "layoutStyle": {
+                  "width": 133.98001098632812,
+                  "height": 340.3778991699219,
+                  "relativeX": 824.541015625,
+                  "relativeY": 10.990234375
+                },
+                "children": [
+                  {
+                    "type": "TEXT",
+                    "id": "0:308",
+                    "name": "-16.92%\n-36.60%\n-39.63%\n-59.34%\n",
+                    "layoutStyle": {
+                      "width": 130.92950439453125,
+                      "height": 260.1108093261719,
+                      "relativeX": 1.25,
+                      "relativeY": 80.26708984375
+                    },
+                    "text": [
+                      {
+                        "text": "-16.92%\n-36.60%\n-39.63%\n-59.34%\n",
+                        "font": "font_0:864"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 32,
+                        "color": "paint_0:878"
+                      }
+                    ],
+                    "textAlign": "center",
+                    "textMode": "single-line"
+                  },
+                  {
+                    "type": "TEXT",
+                    "id": "0:309",
+                    "name": "近5年\n最大回撤",
+                    "layoutStyle": {
+                      "width": 134,
+                      "height": 66,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "text": [
+                      {
+                        "text": "近5年\n最大回撤",
+                        "font": "font_0:617"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 8,
+                        "color": "paint_0:886"
+                      }
+                    ],
+                    "textAlign": "center",
+                    "textMode": "single-line"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "id": "0:310",
+            "name": "注：均使用全收益指数（含分红）",
+            "layoutStyle": {
+              "width": 989.4686889648438,
+              "height": 66.36389923095703,
+              "relativeX": 11.520999908447266,
+              "relativeY": 457.20849609375
+            },
+            "text": [
+              {
+                "text": "注：均使用全收益指数（含分红）",
+                "font": "font_0:889"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 15,
+                "color": "paint_0:891"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:311",
+            "name": "数据来源：Wind，统计区间：2021.5.23-2026.5.22。红利低波全收益2021-2025年收益率为：16.34%、3.46%、12.23%、24.82%、5.57%。指数的过往业绩及其净值高低并不预示其未来业绩表现。",
+            "layoutStyle": {
+              "width": 989.4686889648438,
+              "height": 128.55999755859375,
+              "relativeX": 11.520999908447266,
+              "relativeY": 507.20849609375
+            },
+            "text": [
+              {
+                "text": "T27|0:311",
+                "font": "font_0:889"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 115,
+                "color": "paint_0:893"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 27
+}

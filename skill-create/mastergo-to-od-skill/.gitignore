@@ -1,0 +1,10 @@
+# 敏感配置
+config/local.secret.json
+
+# 运行产物
+assets/images/
+output/
+
+# Python
+__pycache__/
+*.pyc

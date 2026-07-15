@@ -1,0 +1,176 @@
+{
+  "sectionIndex": 81,
+  "section": {
+    "id": "0:1335",
+    "name": "编组",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:883": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 10,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "paint_0:878": {
+        "value": [
+          "#F1F8FF"
+        ]
+      },
+      "paint_0:880": {
+        "value": [
+          "#0976FF"
+        ]
+      },
+      "paint_0:895": {
+        "value": [
+          "#2C96FF"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1335",
+        "name": "编组",
+        "layoutStyle": {
+          "width": 100,
+          "height": 15,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "FRAME",
+            "id": "0:1336",
+            "name": "编组 5备份",
+            "layoutStyle": {
+              "width": 44.88971710205078,
+              "height": 15,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "PATH",
+                "id": "0:1337",
+                "name": "矩形",
+                "layoutStyle": {
+                  "width": 44.88971710205078,
+                  "height": 15,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "path": [
+                  {
+                    "fill": "#F1F8FF",
+                    "data": ""
+                  },
+                  {
+                    "fill": "#0976FF",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "TEXT",
+                "id": "0:1338",
+                "name": "025833",
+                "layoutStyle": {
+                  "width": 35,
+                  "height": 14,
+                  "relativeX": 5,
+                  "relativeY": 2
+                },
+                "text": [
+                  {
+                    "text": "025833",
+                    "font": "font_0:883"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 6,
+                    "color": "paint_0:895"
+                  }
+                ],
+                "textAlign": "center",
+                "textMode": "single-line"
+              }
+            ]
+          },
+          {
+            "type": "FRAME",
+            "id": "0:1339",
+            "name": "编组 5",
+            "layoutStyle": {
+              "width": 51,
+              "height": 15,
+              "relativeX": 49,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "PATH",
+                "id": "0:1340",
+                "name": "矩形",
+                "layoutStyle": {
+                  "width": 51,
+                  "height": 15,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "path": [
+                  {
+                    "fill": "#F1F8FF",
+                    "data": ""
+                  },
+                  {
+                    "fill": "#0976FF",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "TEXT",
+                "id": "0:1341",
+                "name": "R5高风险",
+                "layoutStyle": {
+                  "width": 42,
+                  "height": 14,
+                  "relativeX": 5,
+                  "relativeY": 2
+                },
+                "text": [
+                  {
+                    "text": "R5高风险",
+                    "font": "font_0:883"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 5,
+                    "color": "paint_0:895"
+                  }
+                ],
+                "textAlign": "center",
+                "textMode": "single-line"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 7,
+  "svgNodeCount": 2
+}

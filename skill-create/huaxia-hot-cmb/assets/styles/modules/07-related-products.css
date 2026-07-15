@@ -1,0 +1,754 @@
+/* 07-related-products.json  相关产品
+   由 getDsl 生成；mix-blend-mode/overflow/object-fit 取自 d2cCss。
+   根 .m-07-related-products，其余节点 .n-{id}。共 60 条规则。 */
+/* 2:788 相关产品 [FRAME] */
+.m-07-related-products {
+  position: relative;
+  width: 355px;
+  height: 332.5px;
+}
+
+/* 0:1320 现在怎么投？ [FRAME] */
+.n-0-1320 {
+  position: absolute;
+  left: 15px;
+  top: 0px;
+  z-index: 0;
+  width: 325.45px;
+  height: 37.56px;
+}
+
+/* 0:1321 编组 8 [FRAME]  svg=assets.svgs[0:1321] */
+.n-0-1321 {
+  position: absolute;
+  left: 0px;
+  top: 11px;
+  z-index: 0;
+  width: 92.45px;
+  height: 9.9px;
+}
+
+/* 0:1322 矩形 [LAYER] */
+.n-0-1322 {
+  position: absolute;
+  left: 80px;
+  top: 1.45px;
+  z-index: 0;
+  width: 7px;
+  height: 7px;
+  box-sizing: border-box;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+  border: 0.7px solid #2577E8;
+}
+
+/* 0:1323 直线 [PATH]  PATH→内联SVG */
+.n-0-1323 {
+  position: absolute;
+  left: 0px;
+  top: 4.45px;
+  z-index: 1;
+  width: 79px;
+  height: 0px;
+  background-image: linear-gradient(270deg, #2979E8 0%, rgba(37, 119, 232, 0) 99%);
+}
+
+/* 0:1324 矩形 [LAYER] */
+.n-0-1324 {
+  position: absolute;
+  left: 84px;
+  top: 1.45px;
+  z-index: 2;
+  width: 7px;
+  height: 7px;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+  background-color: #2577E8;
+}
+
+/* 0:1325 编组 8 [FRAME]  svg=assets.svgs[0:1325] */
+.n-0-1325 {
+  position: absolute;
+  left: 233px;
+  top: 11px;
+  z-index: 1;
+  width: 92.45px;
+  height: 9.9px;
+  transform: rotate(180deg) rotateX(180deg);
+  transform-origin: center;
+}
+
+/* 0:1326 矩形 [LAYER] */
+.n-0-1326 {
+  position: absolute;
+  left: 80px;
+  top: 1.45px;
+  z-index: 0;
+  width: 7px;
+  height: 7px;
+  box-sizing: border-box;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+  border: 0.7px solid #2577E8;
+}
+
+/* 0:1327 直线 [PATH]  PATH→内联SVG */
+.n-0-1327 {
+  position: absolute;
+  left: 0px;
+  top: 4.45px;
+  z-index: 1;
+  width: 79px;
+  height: 0px;
+  background-image: linear-gradient(270deg, #2979E8 0%, rgba(37, 119, 232, 0) 99%);
+}
+
+/* 0:1328 矩形 [LAYER] */
+.n-0-1328 {
+  position: absolute;
+  left: 84px;
+  top: 1.45px;
+  z-index: 2;
+  width: 7px;
+  height: 7px;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+  background-color: #2577E8;
+}
+
+/* 0:1329 相关产品 [TEXT] */
+.n-0-1329 {
+  position: absolute;
+  left: 88px;
+  top: 0px;
+  z-index: 2;
+  width: 150px;
+  height: 38px;
+  background-image: linear-gradient(277deg, #1593FF 2%, #005FFF 95%);
+  font-family: FZZDHJW--GB1;
+  font-size: 25px;
+  line-height: 37.56px;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  text-shadow: 0px 1px 0px #FFFFFF;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+}
+
+/* 0:1331 蒙版 [GROUP]  svg=assets.svgs[0:1331] */
+.n-0-1331 {
+  position: absolute;
+  left: 0px;
+  top: 38px;
+  z-index: 1;
+  width: 355px;
+  height: 294.5px;
+}
+
+/* 0:1330 蒙版 [PATH]  PATH→内联SVG  mask=outline */
+.n-0-1330 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 355px;
+  height: 294.5px;
+  background-image: linear-gradient(180deg, #E0EDFF 0%, #FFFFFF 11%);
+  box-shadow: 0px 1px 2px 2px #EAF5FF;
+}
+
+/* 0:1332 天弘中证电网设备主题指数C [TEXT] */
+.n-0-1332 {
+  position: absolute;
+  left: 18px;
+  top: 251px;
+  z-index: 2;
+  width: 190px;
+  height: 22px;
+  font-family: FZLTZHJW--GB1;
+  font-size: 15px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  white-space: nowrap;
+  color: #343434;
+}
+
+/* 0:1335 编组 [FRAME] */
+.n-0-1335 {
+  position: absolute;
+  left: 18px;
+  top: 273.14px;
+  z-index: 3;
+  width: 100px;
+  height: 15px;
+}
+
+/* 0:1336 编组 5备份 [FRAME]  svg=assets.svgs[0:1336] */
+.n-0-1336 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 44.89px;
+  height: 15px;
+}
+
+/* 0:1337 矩形 [PATH]  PATH→内联SVG */
+.n-0-1337 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 44.89px;
+  height: 15px;
+  background-color: #F1F8FF;
+}
+
+/* 0:1338 025833 [TEXT] */
+.n-0-1338 {
+  position: absolute;
+  left: 5px;
+  top: 2px;
+  z-index: 1;
+  width: 35px;
+  height: 14px;
+  font-family: FZLTHJW--GB1;
+  font-size: 10px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #2C96FF;
+}
+
+/* 0:1339 编组 5 [FRAME]  svg=assets.svgs[0:1339] */
+.n-0-1339 {
+  position: absolute;
+  left: 49px;
+  top: 0px;
+  z-index: 1;
+  width: 51px;
+  height: 15px;
+}
+
+/* 0:1340 矩形 [PATH]  PATH→内联SVG */
+.n-0-1340 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 51px;
+  height: 15px;
+  background-color: #F1F8FF;
+}
+
+/* 0:1341 R5高风险 [TEXT] */
+.n-0-1341 {
+  position: absolute;
+  left: 5px;
+  top: 2px;
+  z-index: 1;
+  width: 42px;
+  height: 14px;
+  font-family: FZLTHJW--GB1;
+  font-size: 10px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #2C96FF;
+}
+
+/* 0:1342 按钮2备份 [FRAME] */
+.n-0-1342 {
+  position: absolute;
+  left: 259px;
+  top: 286.14px;
+  z-index: 4;
+  width: 87px;
+  height: 32.67px;
+}
+
+/* 0:1343 编组 3 [FRAME] */
+.n-0-1343 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 87px;
+  height: 32.67px;
+}
+
+/* 0:1344 矩形 [PATH]  PATH→内联SVG */
+.n-0-1344 {
+  position: absolute;
+  left: 13.44px;
+  top: 22.95px;
+  z-index: 0;
+  width: 59.42px;
+  height: 7.05px;
+  filter: blur(9.57px);
+}
+
+/* 0:1349 矩形 + 矩形蒙版 [FRAME]  svg=assets.svgs[0:1349] */
+.n-0-1349 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+  width: 87px;
+  height: 32.67px;
+  overflow: hidden;
+  border-radius: 16.3px;
+}
+
+/* 0:1350 蒙版 [PATH]  PATH→内联SVG  mask=outline */
+.n-0-1350 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 87px;
+  height: 32.67px;
+  background-image: linear-gradient(90deg, #FF5B00 17%, #F13816 85%);
+  box-shadow: 0px 1px 0px 0px #FF800F;
+}
+
+/* 0:1355 椭圆形备份 3 [PATH]  PATH→内联SVG */
+.n-0-1355 {
+  position: absolute;
+  left: 8.2px;
+  top: -9.53px;
+  z-index: 1;
+  width: 30.33px;
+  height: 28.13px;
+  background-color: #FF8F4F;
+  filter: blur(25.22px);
+}
+
+/* 0:1358 矩形备份 9 [PATH]  PATH→内联SVG */
+.n-0-1358 {
+  position: absolute;
+  left: 8.16px;
+  top: 1.44px;
+  z-index: 2;
+  width: 72.21px;
+  height: 5.1px;
+  background-color: #FFB297;
+  filter: blur(6.26px);
+}
+
+/* 0:1361 矩形 [PATH]  PATH→内联SVG */
+.n-0-1361 {
+  position: absolute;
+  left: 46.02px;
+  top: -6.35px;
+  z-index: 3;
+  width: 35.62px;
+  height: 50.82px;
+  opacity: 0.309;
+  background-image: linear-gradient(215deg, rgba(255, 255, 255, 0.7) 4%, rgba(255, 255, 255, 0) 69%);
+}
+
+/* 0:1362 矩形 [PATH]  PATH→内联SVG */
+.n-0-1362 {
+  position: absolute;
+  left: 27.61px;
+  top: -8.17px;
+  z-index: 4;
+  width: 45.83px;
+  height: 50.82px;
+  opacity: 0.398;
+  background-image: linear-gradient(214deg, rgba(255, 255, 255, 0.8) -9%, rgba(255, 255, 255, 0) 73%);
+}
+
+/* 0:1363 矩形 [PATH]  PATH→内联SVG */
+.n-0-1363 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 5;
+  width: 87px;
+  height: 32.67px;
+  opacity: 0.485;
+  background-image: linear-gradient(180deg, #FFFFFF -10%, rgba(255, 255, 255, 0) 56%);
+}
+
+/* 0:1367 小试一笔 [TEXT] */
+.n-0-1367 {
+  position: absolute;
+  left: 16px;
+  top: 8px;
+  z-index: 1;
+  width: 56px;
+  height: 20px;
+  font-family: FZLTZHJW--GB1;
+  font-size: 14px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  text-shadow: 0px 1px 2px #FF4F02;
+  color: #FFFFFF;
+}
+
+/* 0:1368 产品卡 [FRAME]  svg=assets.svgs[0:1368] */
+.n-0-1368 {
+  position: absolute;
+  left: 17px;
+  top: 60.24px;
+  z-index: 5;
+  width: 321px;
+  height: 171px;
+}
+
+/* 0:1369 矩形 [PATH]  PATH→内联SVG */
+.n-0-1369 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 321px;
+  height: 171px;
+  background-image: linear-gradient(359deg, #FFFFFF 1%, #F0F8FF 98%), linear-gradient(0deg, #FFFCF4 0%, #FFFAEF 100%);
+  box-shadow: inset 0px 1px 0px 0px #FFFFFF;
+}
+
+/* 0:1370 大产品卡 [FRAME] */
+.n-0-1370 {
+  position: absolute;
+  left: 6px;
+  top: 18px;
+  z-index: 1;
+  width: 310px;
+  height: 151.92px;
+}
+
+/* 0:1371 按钮2备份 [FRAME] */
+.n-0-1371 {
+  position: absolute;
+  left: 35px;
+  top: 100px;
+  z-index: 0;
+  width: 249.43px;
+  height: 51.92px;
+}
+
+/* 0:1372 矩形 + 矩形蒙版 [FRAME]  svg=assets.svgs[0:1372] */
+.n-0-1372 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 241px;
+  height: 35px;
+  overflow: hidden;
+  border-radius: 17.5px;
+}
+
+/* 0:1373 蒙版 [PATH]  PATH→内联SVG  mask=outline */
+.n-0-1373 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 241px;
+  height: 35px;
+  background-image: linear-gradient(90deg, #FF5B00 17%, #F13816 85%);
+  box-shadow: 0px 1px 0px 0px #FF800F;
+}
+
+/* 0:1374 椭圆形备份 3 [PATH]  PATH→内联SVG */
+.n-0-1374 {
+  position: absolute;
+  left: 92.07px;
+  top: -10.21px;
+  z-index: 1;
+  width: 32.2px;
+  height: 30.14px;
+  background-color: #FF8F4F;
+  filter: blur(26.73px);
+}
+
+/* 0:1375 矩形备份 9 [PATH]  PATH→内联SVG */
+.n-0-1375 {
+  position: absolute;
+  left: 8.66px;
+  top: 1.54px;
+  z-index: 2;
+  width: 225.29px;
+  height: 5.46px;
+  background-color: #FFB297;
+  filter: blur(6.64px);
+}
+
+/* 0:1376 矩形 [PATH]  PATH→内联SVG */
+.n-0-1376 {
+  position: absolute;
+  left: 178.43px;
+  top: -6.81px;
+  z-index: 3;
+  width: 37.81px;
+  height: 54.44px;
+  opacity: 0.309;
+  background-image: linear-gradient(215deg, rgba(255, 255, 255, 0.7) 4%, rgba(255, 255, 255, 0) 69%);
+}
+
+/* 0:1377 矩形 [PATH]  PATH→内联SVG */
+.n-0-1377 {
+  position: absolute;
+  left: 164.88px;
+  top: -8.75px;
+  z-index: 4;
+  width: 42.65px;
+  height: 54.44px;
+  opacity: 0.398;
+  background-image: linear-gradient(214deg, rgba(255, 255, 255, 0.8) -9%, rgba(255, 255, 255, 0) 73%);
+}
+
+/* 0:1378 矩形 [PATH]  PATH→内联SVG */
+.n-0-1378 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 5;
+  width: 241px;
+  height: 35px;
+  opacity: 0.485;
+  background-image: linear-gradient(180deg, #FFFFFF -10%, rgba(255, 255, 255, 0) 56%);
+}
+
+/* 0:1379 小试一笔 [TEXT] */
+.n-0-1379 {
+  position: absolute;
+  left: 92px;
+  top: 9px;
+  z-index: 1;
+  width: 56px;
+  height: 20px;
+  font-family: FZLTZHJW--GB1;
+  font-size: 14px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  text-shadow: 0px 1px 2px #FF4F02;
+  color: #FFFFFF;
+}
+
+/* 0:1380 手 [FRAME] */
+.n-0-1380 {
+  position: absolute;
+  left: 84.76%;
+  top: 21.19%;
+  z-index: 2;
+  width: 39px;
+  height: 33px;
+  transform: rotate(13deg);
+  transform-origin: 0 0;
+}
+
+/* 0:1382 椭圆形 [SVG_ELLIPSE] */
+.n-0-1382 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 19.22px;
+  height: 19.32px;
+  background-color: rgba(255, 255, 255, 0.2979);
+  border-radius: 50%;
+}
+
+/* 0:1383 椭圆形 [SVG_ELLIPSE] */
+.n-0-1383 {
+  position: absolute;
+  left: 3.6px;
+  top: 3.62px;
+  z-index: 1;
+  width: 12.01px;
+  height: 12.07px;
+  background-color: rgba(255, 255, 255, 0.2979);
+  border-radius: 50%;
+}
+
+/* 0:1384 手 [FRAME]  svg=assets.svgs[0:1384] */
+.n-0-1384 {
+  position: absolute;
+  left: 7.21px;
+  top: 9.66px;
+  z-index: 2;
+  width: 31.23px;
+  height: 22.54px;
+  transform: rotate(3deg);
+  transform-origin: 0 0;
+  overflow: hidden;
+}
+
+/* 0:1385 蒙版 [PATH]  PATH→内联SVG  mask=outline */
+.n-0-1385 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 31.23px;
+  height: 22.54px;
+  background-image: linear-gradient(123deg, #FEFBF5 11%, #FEECE4 59%, #FFE0CE 87%);
+  box-shadow: inset 1px 1px 1px 0px rgba(255, 255, 255, 0.8036), inset 1px -2px 5px 0px #F9C9AD, 1px 2px 4px 0px rgba(255, 125, 9, 0.5);
+}
+
+/* 0:1386 路径 5 [PATH]  PATH→内联SVG */
+.n-0-1386 {
+  position: absolute;
+  left: 13.81px;
+  top: 25.12px;
+  z-index: 1;
+  width: 6.27px;
+  height: 5.47px;
+  background-image: radial-gradient(72% 17% at 50% 50%, rgba(255, 189, 180, 1) 0%, rgba(255, 232, 221, 1) 100%);
+}
+
+/* 0:1387 路径 5备份 [PATH]  PATH→内联SVG */
+.n-0-1387 {
+  position: absolute;
+  left: 17.8px;
+  top: 23.86px;
+  z-index: 2;
+  width: 4.64px;
+  height: 4.26px;
+  background-image: radial-gradient(65% 21% at 50% 50%, rgba(254, 189, 180, 1) 0%, rgba(255, 189, 180, 1) 100%);
+  filter: blur(0.42px);
+}
+
+/* 0:1388 路径 5备份 2 [PATH]  PATH→内联SVG */
+.n-0-1388 {
+  position: absolute;
+  left: 22.72px;
+  top: 22.72px;
+  z-index: 3;
+  width: 3.92px;
+  height: 3.24px;
+  background-image: radial-gradient(54% 20% at 34% 50%, rgba(255, 226, 213, 1) 0%, rgba(255, 223, 219, 1) 100%);
+  filter: blur(0.42px);
+}
+
+/* 0:1425 华夏中证电网设备主题ETF发起式联接C [TEXT] */
+.n-0-1425 {
+  position: absolute;
+  left: 8px;
+  top: 0px;
+  z-index: 1;
+  width: 294px;
+  height: 25px;
+  font-family: FZLTZHJW--GB1;
+  font-size: 17px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #343434;
+}
+
+/* 0:1427 标签 [FRAME]  svg=assets.svgs[0:1427] */
+.n-0-1427 {
+  position: absolute;
+  left: 104px;
+  top: 24px;
+  z-index: 2;
+  width: 101px;
+  height: 15px;
+}
+
+/* 0:1428 矩形 [PATH]  PATH→内联SVG */
+.n-0-1428 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 44.89px;
+  height: 15px;
+  background-color: #F1F8FF;
+}
+
+/* 0:1429 025857 [TEXT] */
+.n-0-1429 {
+  position: absolute;
+  left: 4px;
+  top: 2px;
+  z-index: 1;
+  width: 35px;
+  height: 14px;
+  font-family: FZLTHJW--GB1;
+  font-size: 10px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  white-space: nowrap;
+  color: #2C96FF;
+}
+
+/* 0:1430 矩形 [PATH]  PATH→内联SVG */
+.n-0-1430 {
+  position: absolute;
+  left: 50px;
+  top: 0px;
+  z-index: 2;
+  width: 51px;
+  height: 15px;
+  background-color: #F1F8FF;
+}
+
+/* 0:1431 R5高风险 [TEXT] */
+.n-0-1431 {
+  position: absolute;
+  left: 53px;
+  top: 2px;
+  z-index: 3;
+  width: 42px;
+  height: 14px;
+  font-family: FZLTHJW--GB1;
+  font-size: 10px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  white-space: nowrap;
+  color: #2C96FF;
+}
+
+/* 0:1434 成立以来 [TEXT] */
+.n-0-1434 {
+  position: absolute;
+  left: 158px;
+  top: 154px;
+  z-index: 6;
+  width: 40px;
+  height: 14px;
+  font-family: FZLTHJW--GB1;
+  font-size: 10px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  color: #A6A6A6;
+}
+
+/* 0:1435 成立以来 [TEXT] */
+.n-0-1435 {
+  position: absolute;
+  left: 108px;
+  top: 303px;
+  z-index: 7;
+  width: 40px;
+  height: 14px;
+  font-family: FZLTHJW--GB1;
+  font-size: 10px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  white-space: nowrap;
+  color: #A6A6A6;
+}

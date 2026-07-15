@@ -1,0 +1,58 @@
+{
+  "sectionIndex": 86,
+  "section": {
+    "id": "0:410",
+    "name": "托管费",
+    "type": "TEXT"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:1014": {
+        "value": {
+          "family": "MiSans-Regular",
+          "size": 28.451799392700195,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "28.451799392700195",
+          "letterSpacing": "auto",
+          "weight": "400"
+        }
+      },
+      "paint_0:1030": {
+        "value": [
+          "#AA785D"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:410",
+        "name": "托管费",
+        "layoutStyle": {
+          "width": 86,
+          "height": 29,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "托管费",
+            "font": "font_0:1014"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 3,
+            "color": "paint_0:1030"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

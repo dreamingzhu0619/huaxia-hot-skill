@@ -1,0 +1,45 @@
+{
+  "sectionIndex": 68,
+  "section": {
+    "id": "0:1250",
+    "name": "路径 2",
+    "type": "PATH"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:618": {
+        "value": [
+          "box-shadow: inset -0.4px 0px 0px 0px #FFFFFF;"
+        ]
+      },
+      "paint_0:616": {
+        "value": [
+          "linear-gradient(219deg, #FEFFB3 1%, #FFB75C 100%)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "PATH",
+        "id": "0:1250",
+        "name": "路径 2",
+        "layoutStyle": {
+          "width": 14,
+          "height": 17,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "effect": "effect_0:618",
+        "path": [
+          {
+            "fill": "linear-gradient(219deg, #FEFFB3 1%, #FFB75C 100%)",
+            "data": ""
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1,
+  "svgNodeCount": 1
+}

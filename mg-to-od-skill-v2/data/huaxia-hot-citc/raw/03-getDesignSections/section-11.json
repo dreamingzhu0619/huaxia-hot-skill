@@ -1,0 +1,50 @@
+{
+  "sectionIndex": 11,
+  "section": {
+    "id": "0:166",
+    "name": "图层 748",
+    "type": "GROUP"
+  },
+  "dsl": {
+    "styles": {
+      "paint_0:666": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158384864891941/158384864891947/177a06b07bd20066afea4b88c71edcfc.png",
+            "filters": ""
+          }
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "GROUP",
+        "id": "0:166",
+        "name": "图层 748",
+        "layoutStyle": {
+          "width": 52,
+          "height": 70,
+          "relativeX": 0,
+          "relativeY": 0,
+          "rotate": -90
+        },
+        "children": [
+          {
+            "type": "LAYER",
+            "id": "0:167",
+            "name": "图层 748",
+            "layoutStyle": {
+              "width": 52,
+              "height": 70,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "fill": "paint_0:666"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 2
+}

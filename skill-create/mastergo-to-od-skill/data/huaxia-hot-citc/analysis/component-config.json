@@ -1,0 +1,110 @@
+{
+  "_说明": "Step 4 AI 判断结果：模块合并 + fixed/variable 分类 + 图表识别。后续 Step 5 脚本全部读取此文件。",
+
+  "designScale": { "scale": 3, "logicalWidth": 375 },
+
+  "components": [
+    {
+      "name": "background",
+      "displayName": "背景图",
+      "instanceMode": "fixed",
+      "modules": ["00-背景图.json"],
+      "classification": { "allFixed": true }
+    },
+    {
+      "name": "marketing-header",
+      "displayName": "营销头图",
+      "instanceMode": "fixed",
+      "modules": ["05-营销头图.json"],
+      "classification": {
+        "variableTexts": ["0:10"],
+        "fixedTexts": [],
+        "fixedGroups": ["0:7", "0:9", "0:13", "0:16", "4:0648"],
+        "charts": [],
+        "outlinedTextGroups": ["0:13", "0:16"]
+      }
+    },
+    {
+      "name": "hotspot-express",
+      "displayName": "热点速递",
+      "instanceMode": "array",
+      "modules": ["08-热点速递.json"],
+      "classification": {
+        "variableTexts": ["0:33", "0:49"],
+        "fixedTexts": ["0:46"],
+        "fixedGroups": ["0:20", "0:21", "0:26", "0:31", "0:35"],
+        "charts": []
+      }
+    },
+    {
+      "name": "product-card",
+      "displayName": "产品卡",
+      "instanceMode": "array",
+      "modules": ["01-产品卡.json"],
+      "classification": {
+        "variableTexts": ["0:57", "0:63", "4:269"],
+        "fixedTexts": ["0:55", "0:66"],
+        "fixedGroups": ["0:53", "0:50"],
+        "charts": []
+      }
+    },
+    {
+      "name": "recommendation",
+      "displayName": "产品推荐理由",
+      "instanceMode": "array",
+      "modules": ["02-产品推荐理由A.json", "03-产品推荐理由B.json", "04-产品推荐理由C.json"],
+      "representativeModule": "02-产品推荐理由A.json",
+      "classification": {
+        "variableTexts": [
+          "0:76", "0:80", "0:84", "0:91", "0:101", "0:109", "0:117",
+          "0:123", "0:124", "0:132", "0:140", "0:148",
+          "0:152", "0:155", "0:158", "0:163", "0:172", "0:177"
+        ],
+        "fixedTexts": ["0:92"],
+        "fixedGroups": [
+          "0:68", "0:69", "0:71", "0:83", "0:85", "0:86", "0:88", "0:89", "0:93",
+          "0:94", "0:95", "0:96", "0:102", "0:103", "0:104", "0:110", "0:111", "0:112",
+          "0:118", "0:120", "0:121", "0:125", "0:126", "0:127", "0:133", "0:134", "0:135",
+          "0:141", "0:142", "0:143", "0:149", "0:150", "0:153", "0:156", "0:157",
+          "0:162", "0:166", "0:168", "0:170", "0:171", "0:175", "0:176"
+        ],
+        "charts": [],
+        "outlinedTextGroups": ["0:75", "0:79"]
+      }
+    },
+    {
+      "name": "risk-warning",
+      "displayName": "风险警告",
+      "instanceMode": "fixed",
+      "modules": ["07-风险警告.json"],
+      "classification": {
+        "variableTexts": ["0:403", "0:405", "0:406"],
+        "fixedTexts": ["0:401", "0:404", "0:407", "0:408", "0:409", "0:410"],
+        "fixedGroups": ["0:402", "0:411", "0:412", "0:413", "0:416", "0:417", "0:421", "0:422", "0:426", "0:427", "0:430", "0:431", "0:434", "0:435"],
+        "charts": []
+      }
+    },
+    {
+      "name": "bank-ending",
+      "displayName": "银行结束语",
+      "instanceMode": "fixed",
+      "modules": ["06-银行结束语.json"],
+      "classification": { "allFixed": true, "purePathLogo": true }
+    }
+  ],
+
+  "pageConfig": {
+    "title": "华夏基金热点速递 | 中信银行",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "containerWidth": 375,
+    "componentOrder": [
+      "background",
+      "marketing-header",
+      "hotspot-express",
+      "product-card",
+      "recommendation",
+      "risk-warning",
+      "bank-ending"
+    ]
+  }
+}

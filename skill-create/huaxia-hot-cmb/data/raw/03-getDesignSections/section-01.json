@@ -1,0 +1,341 @@
+{
+  "sectionIndex": 1,
+  "section": {
+    "id": "2:794",
+    "name": "热点前线",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:127": {
+        "value": [
+          "box-shadow: 0px 1px 2px 2px #EAF5FF;"
+        ]
+      },
+      "effect_0:137": {
+        "value": [
+          "box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5);",
+          "box-shadow: 0px 1px 0px 0px #FFFFFF;",
+          "filter: blur(9.72px);"
+        ]
+      },
+      "effect_0:147": {
+        "value": [
+          "box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5);",
+          "box-shadow: 0px 1px 0px 0px #FFFFFF;"
+        ]
+      },
+      "effect_0:158": {
+        "value": [
+          "filter: blur(24.48px);"
+        ]
+      },
+      "effect_0:164": {
+        "value": [
+          "box-shadow: 0px 2px 3px 0px #4F9EF1;"
+        ]
+      },
+      "font_0:166": {
+        "value": {
+          "family": "FZZDHJW--GB1",
+          "size": 20,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "37.5639533996582",
+          "letterSpacing": "auto"
+        }
+      },
+      "font_0:169": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 14,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "20",
+          "letterSpacing": "-0.10000000149011612px"
+        }
+      },
+      "font_0:243": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 9,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "11",
+          "letterSpacing": "-0.11249999701976776px"
+        }
+      },
+      "paint_0:11": {
+        "value": []
+      },
+      "paint_0:121": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:125": {
+        "value": [
+          "linear-gradient(180deg, #E0EDFF 0%, #FFFFFF 11%)"
+        ]
+      },
+      "paint_0:130": {
+        "value": [
+          "linear-gradient(0deg, #4F9CF0 18%, #75C3F8 100%)",
+          "linear-gradient(180deg, #75C4F8 0%, #4F9CF0 76%)"
+        ]
+      },
+      "paint_0:142": {
+        "value": [
+          "linear-gradient(0deg, #4F9CF0 18%, #75C3F8 100%)"
+        ]
+      },
+      "paint_0:151": {
+        "value": [
+          "linear-gradient(211deg, #FFFFFF 8%, rgba(255, 224, 177, 0) 58%)"
+        ]
+      },
+      "paint_0:155": {
+        "value": [
+          "#6CE8FF"
+        ]
+      },
+      "paint_0:171": {
+        "value": [
+          "#333333"
+        ]
+      },
+      "paint_0:245": {
+        "value": [
+          "#999999"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "2:794",
+        "name": "热点前线",
+        "layoutStyle": {
+          "width": 355,
+          "height": 236.23558044433594,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "FRAME",
+            "id": "0:950",
+            "name": "矩形",
+            "layoutStyle": {
+              "width": 355,
+              "height": 233,
+              "relativeX": 0,
+              "relativeY": 3.2355804443359375
+            },
+            "children": [
+              {
+                "type": "PATH",
+                "id": "0:951",
+                "name": "蒙版",
+                "layoutStyle": {
+                  "width": 355,
+                  "height": 233,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "mask": "outline",
+                "effect": "effect_0:127",
+                "path": [
+                  {
+                    "fill": "linear-gradient(180deg, #E0EDFF 0%, #FFFFFF 11%)",
+                    "data": ""
+                  },
+                  {
+                    "fill": "#FFFFFF",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "PATH",
+                "id": "0:952",
+                "name": "矩形备份 7",
+                "layoutStyle": {
+                  "width": 153,
+                  "height": 30,
+                  "relativeX": -31,
+                  "relativeY": -1
+                },
+                "effect": "effect_0:137",
+                "path": [
+                  {
+                    "fill": "linear-gradient(0deg, #4F9CF0 18%, #75C3F8 100%)",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "PATH",
+                "id": "0:953",
+                "name": "矩形备份 8",
+                "layoutStyle": {
+                  "width": 153,
+                  "height": 30,
+                  "relativeX": -31,
+                  "relativeY": -1
+                },
+                "effect": "effect_0:147",
+                "path": [
+                  {
+                    "fill": "linear-gradient(0deg, #4F9CF0 18%, #75C3F8 100%)",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "PATH",
+                "id": "0:954",
+                "name": "路径 5",
+                "layoutStyle": {
+                  "width": 43,
+                  "height": 47,
+                  "relativeX": 6,
+                  "relativeY": -8
+                },
+                "opacity": 0.14746005833148956,
+                "path": [
+                  {
+                    "fill": "linear-gradient(211deg, #FFFFFF 8%, rgba(255, 224, 177, 0) 58%)",
+                    "data": "",
+                    "transform": "matrix(-1,0,0,1,98,0)"
+                  }
+                ]
+              },
+              {
+                "type": "PATH",
+                "id": "0:955",
+                "name": "路径 5备份",
+                "layoutStyle": {
+                  "width": 59,
+                  "height": 47,
+                  "relativeX": 21,
+                  "relativeY": -8
+                },
+                "opacity": 0.14746005833148956,
+                "path": [
+                  {
+                    "fill": "linear-gradient(211deg, #FFFFFF 8%, rgba(255, 224, 177, 0) 58%)",
+                    "data": "",
+                    "transform": "matrix(-1,0,0,1,160,0)"
+                  }
+                ]
+              },
+              {
+                "type": "SVG_ELLIPSE",
+                "id": "0:956",
+                "name": "椭圆形",
+                "layoutStyle": {
+                  "width": 71,
+                  "height": 22,
+                  "relativeX": -21,
+                  "relativeY": -7
+                },
+                "opacity": 0.6499999761581421,
+                "fill": "paint_0:155",
+                "strokeColor": "paint_0:11",
+                "strokeType": "solid",
+                "strokeAlign": "inside",
+                "effect": "effect_0:158"
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "id": "0:957",
+            "name": "热点前线",
+            "layoutStyle": {
+              "width": 102,
+              "height": 38,
+              "relativeX": 1.0078125,
+              "relativeY": 0
+            },
+            "effect": "effect_0:164",
+            "text": [
+              {
+                "text": "热点前线",
+                "font": "font_0:166"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 4,
+                "color": "paint_0:121"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "auto-height"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:958",
+            "name": "截止3月5日收盘，电网设备概念股走强，中证电网设备主题指数上涨4.1%。展望2026年，电新行业有望延续积极趋势。国家电网“十五五”4万亿元固定资产投资落地，较“十四五”提升40%，叠加新能源大基地外送与跨区消纳需求，电网资本开支进入明确扩张期。此外，海外需求高增叠加国内电网投资增长有望带动电力设备放量，电网设备板块有望维持高景气。",
+            "layoutStyle": {
+              "width": 321,
+              "height": 161,
+              "relativeX": 17,
+              "relativeY": 40.23558044433594
+            },
+            "text": [
+              {
+                "text": "T1|0:958",
+                "font": "font_0:169"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 167,
+                "color": "paint_0:171"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1318",
+            "name": "信息来源：东方财富资讯，日期截止2026.3.5",
+            "layoutStyle": {
+              "width": 299,
+              "height": 14,
+              "relativeX": 28,
+              "relativeY": 201.23558044433594
+            },
+            "text": [
+              {
+                "text": "信息来源：东方财富资讯，日期截止2026.3.5",
+                "font": "font_0:243"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 24,
+                "color": "paint_0:245"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 11,
+  "svgNodeCount": 1
+}

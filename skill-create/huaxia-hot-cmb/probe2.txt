@@ -1,0 +1,11 @@
+effect_0:78: "effect_0:78": {"value": ["box-shadow: 0px 1px 0px 0px #FFFFFF;"]}, "effect_0:783": {"value": []}, "effect_0:787": {"value": ["box-shadow: 0px 1px 2px 0px #FF4F02;"]}, "effect_0:801": {"value": ["box-shadow: inset 1px 1p
+
+paint_0:270: "paint_0:270": {"value": []}, "paint_0:274": {"value": ["#1570E9"]}, "paint_0:278": {"value": []}, "paint_0:280": {"value": ["#2577E8"]}, "paint_0:286": {"value": ["linear-gradient(271deg, #2979E8 0%, rgba(37, 119, 232, 
+
+paint_0:74: "paint_0:74": {"value": ["linear-gradient(274deg, #005FFF 1%, #1593FF 95%)"]}, "paint_0:743": {"value": ["#C7E5FF", "linear-gradient(180deg, #BDE3FF 0%, rgba(255, 255, 255, 0) 100%)"]}, "paint_0:753": {"value": ["linear-
+
+paint_0:83: "paint_0:83": {"value": ["linear-gradient(180deg, #F75901 0%, #F37D4C 79%)"]}, "paint_0:871": {"value": ["#343434"]}, "paint_0:878": {"value": ["#F1F8FF"]}, "paint_0:880": {"value": ["#0976FF"]}, "paint_0:885": {"value":
+
+paint_0:722: "paint_0:722": {"value": ["linear-gradient(277deg, #1593FF 2%, #005FFF 95%)"]}, "paint_0:732": {"value": ["linear-gradient(180deg, #E0EDFF 0%, #FFFFFF 11%)"]}, "paint_0:738": {"value": ["linear-gradient(359deg, #FFFFFF 1
+
+=== raw 节点 stroke/effect 原始引用 ===

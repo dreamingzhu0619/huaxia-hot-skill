@@ -1,0 +1,81 @@
+{
+  "groups": [],
+  "singletons": [
+    {
+      "componentName": "背景图",
+      "module": "背景图",
+      "fileName": "00-背景图.json",
+      "instanceCount": 1,
+      "skeletonSignature": "FRAME>[GROUP>[LAYER]]",
+      "requiresManualClassification": true
+    },
+    {
+      "componentName": "产品卡",
+      "module": "产品卡",
+      "fileName": "01-产品卡.json",
+      "instanceCount": 1,
+      "skeletonSignature": "FRAME>[GROUP>[LAYER,LAYER,GROUP>[LAYER,TEXT],GROUP>[TEXT],GROUP>[GROUP>[LAYER,TEXT],GROUP>[LAYER,TEXT]],TEXT,TEXT]]",
+      "requiresManualClassification": true
+    },
+    {
+      "componentName": "产品推荐理由A",
+      "module": "产品推荐理由A",
+      "fileName": "02-产品推荐理由A.json",
+      "instanceCount": 1,
+      "skeletonSignature": "FRAME>[GROUP>[GROUP>[GROUP>[LAYER,GROUP>[LAYER,LAYER]],LAYER,GROUP>[TEXT,PATH],GROUP>[TEXT,PATH],LAYER],TEXT,GROUP>[GROUP>[LAYER,GROUP>[GROUP>[LAYER,TEXT],TEXT,GROUP>[GROUP>[GROUP>[GROUP>[LAYER],PATH],TEXT],GROUP>[GROUP>[GROUP>[LAYER],PATH],TEXT],GROUP>[GROUP>[GROUP>[LAYER],PATH],TEXT]]]],GROUP>[LAYER,GROUP>[GROUP>[LAYER,TEXT],TEXT,GROUP>[GROUP>[GROUP>[LAYER],PATH],TEXT],GROUP>[GROUP>[GROUP>[LAYER],PATH],TEXT],GROUP>[GROUP>[GROUP>[LAYER],PATH],TEXT]]],LAYER,GROUP>[LAYER,TEXT],GROUP>[LAYER,TEXT],GROUP>[GROUP>[TEXT],PATH],GROUP>[TEXT],GROUP>[LAYER],GROUP>[LAYER]],GROUP>[GROUP>[TEXT],LAYER,LAYER],TEXT]]",
+      "requiresManualClassification": true
+    },
+    {
+      "componentName": "产品推荐理由B",
+      "module": "产品推荐理由B",
+      "fileName": "03-产品推荐理由B.json",
+      "instanceCount": 1,
+      "skeletonSignature": "FRAME>[GROUP>[GROUP>[GROUP>[LAYER,GROUP>[LAYER,LAYER]],LAYER,GROUP>[TEXT,PATH],LAYER],TEXT,TEXT,GROUP>[LAYER,GROUP>[GROUP>[LAYER,TEXT],GROUP>[LAYER,TEXT]],GROUP>[GROUP>[LAYER,LAYER,LAYER,LAYER,LAYER,LAYER,LAYER,LAYER,LAYER,LAYER,LAYER,LAYER,LAYER,LAYER],PATH,GROUP>[TEXT,TEXT,TEXT,TEXT,TEXT,TEXT,TEXT,TEXT,TEXT,TEXT,TEXT,TEXT,TEXT,TEXT,TEXT]],GROUP>[GROUP>[TEXT],LAYER,LAYER]]]]",
+      "requiresManualClassification": true
+    },
+    {
+      "componentName": "产品推荐理由C",
+      "module": "产品推荐理由C",
+      "fileName": "04-产品推荐理由C.json",
+      "instanceCount": 1,
+      "skeletonSignature": "FRAME>[GROUP>[GROUP>[LAYER,GROUP>[LAYER,LAYER]],LAYER,GROUP>[TEXT,PATH],LAYER,TEXT,GROUP>[TEXT,GROUP>[LAYER,LAYER,LAYER,LAYER,LAYER,TEXT,GROUP>[LAYER,LAYER,LAYER,LAYER,LAYER],GROUP>[TEXT,TEXT,TEXT],GROUP>[TEXT,TEXT],GROUP>[TEXT,TEXT]],TEXT,TEXT],GROUP>[TEXT,GROUP>[LAYER,GROUP>[LAYER,TEXT],SVG_ELLIPSE,PATH,TEXT,TEXT,TEXT],GROUP>[LAYER,GROUP>[LAYER,TEXT],SVG_ELLIPSE,PATH,TEXT,TEXT,TEXT],GROUP>[GROUP>[TEXT],LAYER,LAYER]]]]",
+      "requiresManualClassification": true
+    },
+    {
+      "componentName": "营销头图",
+      "module": "营销头图",
+      "fileName": "05-营销头图.json",
+      "instanceCount": 1,
+      "skeletonSignature": "FRAME>[GROUP>[LAYER,GROUP>[TEXT,PATH],GROUP>[PATH],GROUP>[PATH],PATH,GROUP>[LAYER]]]",
+      "requiresManualClassification": true
+    },
+    {
+      "componentName": "银行结束语",
+      "module": "银行结束语",
+      "fileName": "06-银行结束语.json",
+      "instanceCount": 1,
+      "skeletonSignature": "FRAME>[GROUP>[PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,LAYER,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,PATH,LAYER,PATH,PATH,PATH]]",
+      "requiresManualClassification": true
+    },
+    {
+      "componentName": "风险警告",
+      "module": "风险警告",
+      "fileName": "07-风险警告.json",
+      "instanceCount": 1,
+      "skeletonSignature": "FRAME>[GROUP>[TEXT,GROUP>[TEXT,TEXT,TEXT,TEXT],TEXT,TEXT,TEXT,TEXT,GROUP>[GROUP>[GROUP>[LAYER,LAYER]],GROUP>[GROUP>[LAYER,PATH]],PATH,GROUP>[GROUP>[LAYER,PATH,PATH]]],GROUP>[GROUP>[LAYER,LAYER]],GROUP>[GROUP>[LAYER,PATH]],GROUP>[GROUP>[LAYER,PATH]],PATH,PATH,LAYER,PATH]]",
+      "requiresManualClassification": true
+    },
+    {
+      "componentName": "热点速递",
+      "module": "热点速递",
+      "fileName": "08-热点速递.json",
+      "instanceCount": 1,
+      "skeletonSignature": "FRAME>[GROUP>[LAYER,GROUP>[LAYER,GROUP>[LAYER,LAYER]],GROUP>[PATH,GROUP>[PATH,LAYER]],GROUP>[LAYER,TEXT,GROUP>[GROUP>[GROUP>[PATH,GROUP>[PATH,LAYER]],PATH,PATH,LAYER],GROUP>[TEXT,PATH]]],TEXT]]",
+      "requiresManualClassification": true
+    }
+  ],
+  "designScale": {
+    "scale": 3,
+    "logicalWidth": 375
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "sectionIndex": 24,
+  "section": {
+    "id": "0:249",
+    "name": "“哑铃型”策略  重构市场估值体系",
+    "type": "GROUP"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:575": {
+        "value": [
+          "box-shadow: 0px 3px 10px 0px rgba(218, 29, 29, 0.7608);"
+        ]
+      },
+      "font_0:577": {
+        "value": {
+          "family": "MiSans-Bold",
+          "size": 57,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "57",
+          "letterSpacing": "auto",
+          "weight": "700"
+        }
+      },
+      "paint_0:580": {
+        "value": [
+          "linear-gradient(0deg, #FDBBBB -15%, #FDBBBB -14%, #FDFFFF 52%, #FDFFFF 115%)"
+        ]
+      },
+      "paint_0:751": {
+        "value": [
+          "#FFFFFF"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "GROUP",
+        "id": "0:249",
+        "name": "“哑铃型”策略  重构市场估值体系",
+        "layoutStyle": {
+          "width": 828.780029296875,
+          "height": 57,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "TEXT",
+            "id": "0:250",
+            "name": "“哑铃型”策略  重构市场估值体系",
+            "layoutStyle": {
+              "width": 838,
+              "height": 57,
+              "relativeX": 0,
+              "relativeY": 1.64190673828125
+            },
+            "effect": "effect_0:575",
+            "text": [
+              {
+                "text": "“哑铃型”策略  重构市场估值体系",
+                "font": "font_0:577"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 17,
+                "color": "paint_0:751"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "PATH",
+            "id": "0:251",
+            "name": "Gradient Overlay",
+            "layoutStyle": {
+              "width": 828.780029296875,
+              "height": 57,
+              "relativeX": 3.641021966934204,
+              "relativeY": -9.1552734375e-05
+            },
+            "path": [
+              {
+                "fill": "linear-gradient(0deg, #FDBBBB -15%, #FDBBBB -14%, #FDFFFF 52%, #FDFFFF 115%)",
+                "data": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 3,
+  "svgNodeCount": 1
+}

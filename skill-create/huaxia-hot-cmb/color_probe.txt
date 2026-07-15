@@ -1,0 +1,23 @@
+=== MODULES: banner 标题 0:936/0:937 ===
+0:936 投资落地+出口激增
+  text='投资落地+出口激增'
+  strokeColor=None strokeWidth=None strokeAlign=None
+  textRuns[0].color='linear-gradient(274deg, #005FFF 1%, #1593FF 95%)'
+  textColor=[{'start': 0, 'end': 9, 'color': 'linear-gradient(274deg, #005FFF 1%, #1593FF 95%)'}]
+  styleRefs={'effect': 'effect_0:78', 'font': ['font_0:80'], 'textColors': ['paint_0:74']}
+  d2c: color=None -webkit-text-fill-color=None -webkit-text-stroke=None background=None background-image=None background-clip=None text-shadow=None
+0:937 电网进入高景气周期
+  text='电网进入高景气周期'
+  strokeColor=None strokeWidth=None strokeAlign=None
+  textRuns[0].color='linear-gradient(180deg, #F75901 0%, #F37D4C 79%)'
+  textColor=[{'start': 0, 'end': 9, 'color': 'linear-gradient(180deg, #F75901 0%, #F37D4C 79%)'}]
+  styleRefs={'effect': 'effect_0:78', 'font': ['font_0:80'], 'textColors': ['paint_0:83']}
+  d2c: color=None -webkit-text-fill-color=None -webkit-text-stroke=None background=None background-image=None background-clip=None text-shadow=None
+
+=== MODULES: 相关产品标题 (07) ===
+0:1329 相关产品 text='相关产品'
+  textRuns[0].color='linear-gradient(277deg, #1593FF 2%, #005FFF 95%)'
+  textColor=[{'start': 0, 'end': 4, 'color': 'linear-gradient(277deg, #1593FF 2%, #005FFF 95%)'}]
+  strokeColor=None strokeWidth='0.5366278886795044px'
+  styleRefs={'effect': 'effect_0:726', 'strokeColor': 'paint_0:270', 'font': ['font_0:729'], 'textColors': ['paint_0:722']}
+  d2c: color=None fill=None bg-image=None clip=None

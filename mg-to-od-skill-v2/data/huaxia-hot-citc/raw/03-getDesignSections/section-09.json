@@ -1,0 +1,106 @@
+{
+  "sectionIndex": 9,
+  "section": {
+    "id": "0:156",
+    "name": "➕",
+    "type": "GROUP"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:656": {
+        "value": {
+          "family": "EmojiOneColor",
+          "size": 37,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "37",
+          "letterSpacing": "3.5999999046325684%"
+        }
+      },
+      "paint_0:490": {
+        "value": [
+          "#E5372C"
+        ]
+      },
+      "paint_0:658": {
+        "value": [
+          "#6D2807"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "GROUP",
+        "id": "0:156",
+        "name": "➕",
+        "layoutStyle": {
+          "width": 37,
+          "height": 37,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "GROUP",
+            "id": "0:157",
+            "name": "➕",
+            "layoutStyle": {
+              "width": 37,
+              "height": 37,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "TEXT",
+                "id": "0:158",
+                "name": "➕",
+                "layoutStyle": {
+                  "width": 47,
+                  "height": 37,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "text": [
+                  {
+                    "text": "➕",
+                    "font": "font_0:656"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 1,
+                    "color": "paint_0:658"
+                  }
+                ],
+                "textAlign": "center",
+                "textMode": "single-line"
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:159",
+            "name": "Color Overlay",
+            "layoutStyle": {
+              "width": 37,
+              "height": 37,
+              "relativeX": 5,
+              "relativeY": 0
+            },
+            "path": [
+              {
+                "fill": "#E5372C",
+                "data": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 4,
+  "svgNodeCount": 1
+}

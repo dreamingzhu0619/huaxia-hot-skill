@@ -1,0 +1,97 @@
+{
+  "sectionIndex": 3,
+  "section": {
+    "id": "0:84",
+    "name": "中证红利低波动指数选取50只流动性好、连续分红、红利支付率适中、每股股息正增长、股息率高且波动率低的股票，采用股息率加权。\n指数以“红利+低波动”为核心策略，在保留高股息属性基础上，额外叠加低波动筛选。",
+    "type": "TEXT"
+  },
+  "dsl": {
+    "styles": {
+      "font_3:468": {
+        "value": {
+          "family": "MiSans-Regular",
+          "size": 38,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "52",
+          "letterSpacing": "auto",
+          "weight": "400"
+        }
+      },
+      "font_3:470": {
+        "value": {
+          "family": "MiSans-Demibold",
+          "size": 38,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "52",
+          "letterSpacing": "auto",
+          "weight": "600"
+        }
+      },
+      "paint_0:593": {
+        "value": [
+          "#6D2807"
+        ]
+      },
+      "paint_0:601": {
+        "value": [
+          "#E5372C"
+        ]
+      },
+      "paint_0:603": {
+        "value": [
+          "#6D2807"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:84",
+        "name": "中证红利低波动指数选取50只流动性好、连续分红、红利支付率适中、每股股息正增长、股息率高且波动率低的股票，采用股息率加权。\n指数以“红利+低波动”为核心策略，在保留高股息属性基础上，额外叠加低波动筛选。",
+        "layoutStyle": {
+          "width": 987.4688110351562,
+          "height": 299.1304931640625,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "T3|0:84",
+            "font": "font_3:468"
+          },
+          {
+            "text": "T3|0:84",
+            "font": "font_3:470"
+          },
+          {
+            "text": "T3|0:84",
+            "font": "font_3:468"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 66,
+            "color": "paint_0:593"
+          },
+          {
+            "start": 66,
+            "end": 72,
+            "color": "paint_0:601"
+          },
+          {
+            "start": 72,
+            "end": 101,
+            "color": "paint_0:603"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

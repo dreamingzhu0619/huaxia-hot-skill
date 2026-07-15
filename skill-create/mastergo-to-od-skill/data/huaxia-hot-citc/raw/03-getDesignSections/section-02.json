@@ -1,0 +1,326 @@
+{
+  "sectionIndex": 2,
+  "section": {
+    "id": "0:68",
+    "name": "底框",
+    "type": "GROUP"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:473": {
+        "value": []
+      },
+      "effect_0:575": {
+        "value": [
+          "box-shadow: 0px 3px 10px 0px rgba(218, 29, 29, 0.7608);"
+        ]
+      },
+      "effect_0:588": {
+        "value": [
+          "box-shadow: inset 3.82px 16.56px 10px 0px #FFE0E0;"
+        ]
+      },
+      "font_0:577": {
+        "value": {
+          "family": "MiSans-Bold",
+          "size": 57,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "57",
+          "letterSpacing": "auto",
+          "weight": "700"
+        }
+      },
+      "paint_0:471": {
+        "value": [
+          "linear-gradient(90deg, #FCCC89 -25%, #FCCC89 -23%, #EB8F2C 125%)"
+        ]
+      },
+      "paint_0:480": {
+        "value": [
+          "#D8D8D8"
+        ]
+      },
+      "paint_0:522": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:571": {
+        "value": [
+          "linear-gradient(90deg, #FF4E3C -25%, #FF4E3C -23%, #FF1818 125%)"
+        ]
+      },
+      "paint_0:573": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158384864891941/158384864891947/43cc0b6042e1824abd443e2061fb010a.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:579": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:580": {
+        "value": [
+          "linear-gradient(0deg, #FDBBBB -15%, #FDBBBB -14%, #FDFFFF 52%, #FDFFFF 115%)"
+        ]
+      },
+      "paint_0:585": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:753": {
+        "value": [
+          "#FFFFFF"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "GROUP",
+        "id": "0:68",
+        "name": "底框",
+        "layoutStyle": {
+          "width": 1076,
+          "height": 1065.449951171875,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "GROUP",
+            "id": "0:69",
+            "name": "矩形 1000",
+            "layoutStyle": {
+              "width": 1076,
+              "height": 986.4299926757812,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:70",
+                "name": "矩形 1000",
+                "layoutStyle": {
+                  "width": 1076,
+                  "height": 986.4299926757812,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "borderRadius": "50px",
+                "fill": "paint_0:571",
+                "strokeColor": "paint_0:522",
+                "strokeType": "solid",
+                "strokeAlign": "center",
+                "strokeWidth": "1px",
+                "effect": "effect_0:473"
+              },
+              {
+                "type": "GROUP",
+                "id": "0:71",
+                "name": "Clip",
+                "layoutStyle": {
+                  "width": 1076,
+                  "height": 986.4299926757812,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "LAYER",
+                    "id": "0:73",
+                    "name": "矩形 1000",
+                    "layoutStyle": {
+                      "width": 1076,
+                      "height": 986.4299926757812,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "borderRadius": "50px",
+                    "fill": "paint_0:480",
+                    "strokeColor": "paint_0:753",
+                    "strokeType": "solid",
+                    "strokeAlign": "center",
+                    "strokeWidth": "1px",
+                    "effect": "effect_0:473"
+                  },
+                  {
+                    "type": "LAYER",
+                    "id": "0:72",
+                    "name": "图层 742",
+                    "layoutStyle": {
+                      "width": 683,
+                      "height": 348,
+                      "relativeX": -25,
+                      "relativeY": 7.2099609375
+                    },
+                    "fill": "paint_0:573"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "LAYER",
+            "id": "0:74",
+            "name": "矩形 1000 拷贝 2",
+            "layoutStyle": {
+              "width": 1076,
+              "height": 498.760009765625,
+              "relativeX": 0,
+              "relativeY": 566.68994140625
+            },
+            "borderRadius": "50px",
+            "fill": "paint_0:471",
+            "strokeColor": "paint_0:522",
+            "strokeType": "solid",
+            "strokeAlign": "center",
+            "strokeWidth": "1px",
+            "effect": "effect_0:473"
+          },
+          {
+            "type": "GROUP",
+            "id": "0:75",
+            "name": "左手红利 右手低波",
+            "layoutStyle": {
+              "width": 472.9859924316406,
+              "height": 57,
+              "relativeX": 300.2960205078125,
+              "relativeY": 41.1820068359375
+            },
+            "children": [
+              {
+                "type": "TEXT",
+                "id": "0:76",
+                "name": "左手红利 右手低波",
+                "layoutStyle": {
+                  "width": 477,
+                  "height": 57,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "effect": "effect_0:575",
+                "text": [
+                  {
+                    "text": "左手红利 右手低波",
+                    "font": "font_0:577"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 9,
+                    "color": "paint_0:579"
+                  }
+                ],
+                "textAlign": "center",
+                "textMode": "single-line"
+              },
+              {
+                "type": "PATH",
+                "id": "0:77",
+                "name": "Gradient Overlay",
+                "layoutStyle": {
+                  "width": 472.9859924316406,
+                  "height": 57,
+                  "relativeX": 2.2919750213623047,
+                  "relativeY": 0.63800048828125
+                },
+                "path": [
+                  {
+                    "fill": "linear-gradient(0deg, #FDBBBB -15%, #FDBBBB -14%, #FDFFFF 52%, #FDFFFF 115%)",
+                    "data": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "GROUP",
+            "id": "0:79",
+            "name": "攻守兼备的组合底仓",
+            "layoutStyle": {
+              "width": 513,
+              "height": 57,
+              "relativeX": 281.2960205078125,
+              "relativeY": 109.1820068359375
+            },
+            "children": [
+              {
+                "type": "TEXT",
+                "id": "0:80",
+                "name": "攻守兼备的组合底仓",
+                "layoutStyle": {
+                  "width": 513,
+                  "height": 57,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "effect": "effect_0:575",
+                "text": [
+                  {
+                    "text": "攻守兼备的组合底仓",
+                    "font": "font_0:577"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 9,
+                    "color": "paint_0:585"
+                  }
+                ],
+                "textAlign": "center",
+                "textMode": "single-line"
+              },
+              {
+                "type": "PATH",
+                "id": "0:81",
+                "name": "Gradient Overlay",
+                "layoutStyle": {
+                  "width": 513,
+                  "height": 57,
+                  "relativeX": 2.3940000534057617,
+                  "relativeY": 0.2960014343261719
+                },
+                "path": [
+                  {
+                    "fill": "linear-gradient(0deg, #FDBBBB -15%, #FDBBBB -14%, #FDFFFF 52%, #FDFFFF 115%)",
+                    "data": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "LAYER",
+            "id": "0:83",
+            "name": "矩形 1000 拷贝",
+            "layoutStyle": {
+              "width": 1076,
+              "height": 863.2899780273438,
+              "relativeX": 0,
+              "relativeY": 187.97998046875
+            },
+            "borderRadius": "50px",
+            "fill": "paint_0:522",
+            "strokeColor": "paint_0:522",
+            "strokeType": "solid",
+            "strokeAlign": "center",
+            "strokeWidth": "1px",
+            "effect": "effect_0:588"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 14,
+  "svgNodeCount": 2
+}

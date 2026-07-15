@@ -1,0 +1,109 @@
+/* ========================================
+   共享内容样式（role → class）
+   ======================================== */
+.content-frame-title {
+  text-align: center;
+  letter-spacing: 3.6%;
+  white-space: nowrap;  /* 来源模块: productCard, recommendationC */
+}
+.content-body {
+  letter-spacing: -4.5%;
+  white-space: nowrap;
+  font-weight: 700;  /* 来源模块: productCard, recommendationC */
+}
+.content-source {
+  font-family: "MiSans-Regular", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 9px;
+  line-height: 9px;
+  letter-spacing: 1.8%;
+  color: #AA785D;
+  white-space: nowrap;  /* 来源模块: recommendationC */
+}
+
+/* ========================================
+   模块专属样式（壳 + 固定组件）
+   ======================================== */
+/* 产品卡 */
+.product-card .module-content {
+  padding-top: 24px;
+  padding-bottom: 63px;
+  padding-left: 21px;
+  padding-right: 22px;
+}
+.product-card {
+  background: linear-gradient(90deg, #FCCC89 -25%, #FCCC89 -23%, #EB8F2C 125%);
+  border-radius: 11px;
+  border: 1px solid #E4973D;
+}
+.product-card__按钮 {
+  background: linear-gradient(0deg, #FF0100 -25%, #FF0100 -23%, #FF2C27 47%, #FF564E 95%, #FF564E 125%);
+  border-radius: 18px;
+}
+.product-card__按钮__text {
+  font-family: "AlibabaPuHuiTi_2_95_ExtraBold", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 19px;
+  line-height: 19px;
+  letter-spacing: -2.2%;
+  font-weight: 800;
+  color: #FFFFFF;
+  text-align: center;
+  white-space: nowrap;
+}
+.product-card__代码 {
+  background: #FFEEDB;
+  border-radius: 2px;
+  border: 1px solid #DFB38E;
+}
+.product-card__风险等级 {
+  background: #FFEEDB;
+  border-radius: 2px;
+  border: 1px solid #E3BC9B;
+}
+
+.product-card .content-frame-title {
+  text-align: center;
+  letter-spacing: 3.6%;
+  white-space: nowrap;
+  font-weight: 600;
+}
+.product-card .content-body {
+  white-space: nowrap;
+  font-family: "SourceHanSansCN-Revision", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 700;
+}
+/* 产品推荐理由C */
+.recommendation-c .module-content {
+  padding-top: 14px;
+  padding-right: 3px;
+}
+.recommendation-c__矩形-1000 {
+  background: linear-gradient(90deg, #FF4E3C -25%, #FF4E3C -23%, #FF1818 125%);
+  border-radius: 17px;
+  border: 1px solid #FFFFFF;
+  box-shadow: inset 1.27px 5.52px 3.33px 0.0px #FFE0E0;
+}
+
+.recommendation-c .content-frame-title {
+  font-family: "MiSans-Bold", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 19px;
+  line-height: 19px;
+  font-weight: 700;
+  color: #FFFFFF;
+  text-align: center;
+  white-space: nowrap;
+}
+.recommendation-c .content-body {
+  font-family: "MiSans-Regular", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 13px;
+  letter-spacing: -4.5%;
+  color: #6D2807;
+  white-space: nowrap;
+}
+.recommendation-c .content-source {
+  font-family: "MiSans-Regular", "PingFang SC", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 9px;
+  line-height: 9px;
+  letter-spacing: 1.8%;
+  color: #AA785D;
+  white-space: nowrap;
+}

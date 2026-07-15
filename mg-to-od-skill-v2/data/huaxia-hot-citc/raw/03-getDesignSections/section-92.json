@@ -1,0 +1,40 @@
+{
+  "sectionIndex": 92,
+  "section": {
+    "id": "0:439",
+    "name": "直线 3",
+    "type": "PATH"
+  },
+  "dsl": {
+    "styles": {
+      "paint_0:976": {
+        "value": [
+          "#AF6E64"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "PATH",
+        "id": "0:439",
+        "name": "直线 3",
+        "layoutStyle": {
+          "width": 281.45306396484375,
+          "height": 0,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "path": [
+          {
+            "fill": "#AF6E64",
+            "data": "",
+            "transform": "matrix(6.123234262925839e-17,1,-1,6.123234262925839e-17,989.6075744628906,501.2012634277343)"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1,
+  "svgNodeCount": 1
+}

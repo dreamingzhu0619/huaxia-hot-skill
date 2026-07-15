@@ -1,0 +1,949 @@
+{
+  "sections": [
+    {
+      "id": "2:796",
+      "name": "头图banner",
+      "type": "FRAME",
+      "nodeCount": 23,
+      "x": 25,
+      "y": 52,
+      "width": 352.5882263183594,
+      "height": 88.89999389648438
+    },
+    {
+      "id": "2:794",
+      "name": "热点前线",
+      "type": "FRAME",
+      "nodeCount": 11,
+      "x": 10,
+      "y": 154.76,
+      "width": 355,
+      "height": 236.23558044433594
+    },
+    {
+      "id": "0:959",
+      "name": "市场解读",
+      "type": "FRAME",
+      "nodeCount": 25,
+      "x": 10,
+      "y": 410.76,
+      "width": 355,
+      "height": 392.2355651855469
+    },
+    {
+      "id": "0:985",
+      "name": "雅下水电投资产业链梳理",
+      "type": "FRAME",
+      "nodeCount": 15,
+      "x": 10,
+      "y": 1179,
+      "width": 355,
+      "height": 456.0768737792969
+    },
+    {
+      "id": "0:1000",
+      "name": "美国电网迎来史诗级扩建，750亿美元投资",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 27,
+      "y": 1224,
+      "width": 321,
+      "height": 128
+    },
+    {
+      "id": "0:1001",
+      "name": "矩形备份",
+      "type": "LAYER",
+      "nodeCount": 1,
+      "x": 51,
+      "y": 1363,
+      "width": 74,
+      "height": 205
+    },
+    {
+      "id": "0:1002",
+      "name": "2019 2020 2021 2022",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 76,
+      "y": 1385,
+      "width": 23,
+      "height": 183
+    },
+    {
+      "id": "0:1003",
+      "name": "年份",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 78,
+      "y": 1367,
+      "width": 20,
+      "height": 14
+    },
+    {
+      "id": "0:1004",
+      "name": "变压器出口金额（亿美元）",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 160,
+      "y": 1366,
+      "width": 118,
+      "height": 14
+    },
+    {
+      "id": "0:1005",
+      "name": "48.2",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 173,
+      "y": 1385,
+      "width": 24,
+      "height": 17
+    },
+    {
+      "id": "0:1006",
+      "name": "52.7",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 187,
+      "y": 1412.33,
+      "width": 24,
+      "height": 17
+    },
+    {
+      "id": "0:1007",
+      "name": "58.9",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 199,
+      "y": 1439.67,
+      "width": 24,
+      "height": 17
+    },
+    {
+      "id": "0:1008",
+      "name": "65.4",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 219,
+      "y": 1467,
+      "width": 24,
+      "height": 17
+    },
+    {
+      "id": "0:1009",
+      "name": "72.1",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 262,
+      "y": 1494.33,
+      "width": 24,
+      "height": 17
+    },
+    {
+      "id": "0:1010",
+      "name": "67.0",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 236,
+      "y": 1521.67,
+      "width": 24,
+      "height": 17
+    },
+    {
+      "id": "0:1011",
+      "name": "90.36",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 298,
+      "y": 1549,
+      "width": 30,
+      "height": 17
+    },
+    {
+      "id": "0:1012",
+      "name": "编组 4",
+      "type": "FRAME",
+      "nodeCount": 13,
+      "x": 135,
+      "y": 1549,
+      "width": 157,
+      "height": 16
+    },
+    {
+      "id": "0:1025",
+      "name": "编组 4备份 7",
+      "type": "FRAME",
+      "nodeCount": 13,
+      "x": 135,
+      "y": 1522,
+      "width": 97,
+      "height": 16
+    },
+    {
+      "id": "0:1038",
+      "name": "编组 4备份 8",
+      "type": "FRAME",
+      "nodeCount": 13,
+      "x": 135,
+      "y": 1494,
+      "width": 120,
+      "height": 16
+    },
+    {
+      "id": "0:1051",
+      "name": "编组 4备份 9",
+      "type": "FRAME",
+      "nodeCount": 13,
+      "x": 135,
+      "y": 1467,
+      "width": 78,
+      "height": 16
+    },
+    {
+      "id": "0:1064",
+      "name": "编组 4备份 10",
+      "type": "FRAME",
+      "nodeCount": 13,
+      "x": 135,
+      "y": 1440,
+      "width": 58,
+      "height": 16
+    },
+    {
+      "id": "0:1077",
+      "name": "编组 4备份 11",
+      "type": "FRAME",
+      "nodeCount": 13,
+      "x": 135,
+      "y": 1412,
+      "width": 45,
+      "height": 16
+    },
+    {
+      "id": "0:1090",
+      "name": "编组 4备份 12",
+      "type": "FRAME",
+      "nodeCount": 13,
+      "x": 135,
+      "y": 1385,
+      "width": 33,
+      "height": 16
+    },
+    {
+      "id": "0:1104",
+      "name": "雅下水电投资产业链梳理备份",
+      "type": "FRAME",
+      "nodeCount": 16,
+      "x": 10,
+      "y": 1655,
+      "width": 355,
+      "height": 408
+    },
+    {
+      "id": "0:1120",
+      "name": "近年电网与电源投资双轮驱动，持续加码彰显",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 27,
+      "y": 1700,
+      "width": 321,
+      "height": 63
+    },
+    {
+      "id": "0:1121",
+      "name": "电网投资及电源 投资情况(亿元)",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 148,
+      "y": 1775,
+      "width": 99,
+      "height": 30
+    },
+    {
+      "id": "0:1122",
+      "name": "编组 14",
+      "type": "FRAME",
+      "nodeCount": 5,
+      "x": 92,
+      "y": 1997,
+      "width": 191.63632202148438,
+      "height": 14
+    },
+    {
+      "id": "0:1127",
+      "name": "编组 12",
+      "type": "FRAME",
+      "nodeCount": 9,
+      "x": 54.79,
+      "y": 1816.72,
+      "width": 284.5479431152344,
+      "height": 149
+    },
+    {
+      "id": "0:1137",
+      "name": "编组 11",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 58,
+      "y": 1924,
+      "width": 10,
+      "height": 41
+    },
+    {
+      "id": "0:1140",
+      "name": "编组 10",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 74.75,
+      "y": 1923,
+      "width": 10,
+      "height": 42
+    },
+    {
+      "id": "0:1143",
+      "name": "编组 10备份",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 91.5,
+      "y": 1925,
+      "width": 10,
+      "height": 40
+    },
+    {
+      "id": "0:1146",
+      "name": "编组 10备份 2",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 108.25,
+      "y": 1925,
+      "width": 10,
+      "height": 40
+    },
+    {
+      "id": "0:1149",
+      "name": "编组 10备份 3",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 125,
+      "y": 1924,
+      "width": 10,
+      "height": 41
+    },
+    {
+      "id": "0:1152",
+      "name": "编组 10备份 4",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 141.75,
+      "y": 1922,
+      "width": 10,
+      "height": 43
+    },
+    {
+      "id": "0:1155",
+      "name": "编组 10备份 5",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 158.5,
+      "y": 1916,
+      "width": 10,
+      "height": 49
+    },
+    {
+      "id": "0:1158",
+      "name": "编组 10备份 6",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 175.25,
+      "y": 1908,
+      "width": 10,
+      "height": 57
+    },
+    {
+      "id": "0:1161",
+      "name": "编组 10备份 7",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 192,
+      "y": 1909,
+      "width": 10,
+      "height": 56
+    },
+    {
+      "id": "0:1164",
+      "name": "编组 10备份 8",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 208.75,
+      "y": 1908,
+      "width": 10,
+      "height": 57
+    },
+    {
+      "id": "0:1167",
+      "name": "编组 10备份 9",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 225.5,
+      "y": 1912,
+      "width": 10,
+      "height": 53
+    },
+    {
+      "id": "0:1170",
+      "name": "编组 10备份 10",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 242.25,
+      "y": 1909,
+      "width": 10,
+      "height": 56
+    },
+    {
+      "id": "0:1173",
+      "name": "编组 10备份 11",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 259,
+      "y": 1907,
+      "width": 10,
+      "height": 58
+    },
+    {
+      "id": "0:1176",
+      "name": "编组 10备份 12",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 275.75,
+      "y": 1889,
+      "width": 10,
+      "height": 76
+    },
+    {
+      "id": "0:1179",
+      "name": "编组 10备份 13",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 292.5,
+      "y": 1863,
+      "width": 10,
+      "height": 102
+    },
+    {
+      "id": "0:1182",
+      "name": "编组 10备份 14",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 309.25,
+      "y": 1841,
+      "width": 10,
+      "height": 124
+    },
+    {
+      "id": "0:1185",
+      "name": "编组 10备份 15",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 326,
+      "y": 1849,
+      "width": 10,
+      "height": 116
+    },
+    {
+      "id": "0:1188",
+      "name": "14000 12000 10000 80",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 27,
+      "y": 1812,
+      "width": 23,
+      "height": 154
+    },
+    {
+      "id": "0:1189",
+      "name": "2009",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 48,
+      "y": 1978.7,
+      "width": 18,
+      "height": 12
+    },
+    {
+      "id": "0:1190",
+      "name": "2010",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 64.56,
+      "y": 1977.98,
+      "width": 18,
+      "height": 12
+    },
+    {
+      "id": "0:1191",
+      "name": "2011",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 81.13,
+      "y": 1977.26,
+      "width": 18,
+      "height": 12
+    },
+    {
+      "id": "0:1192",
+      "name": "2012",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 98.31,
+      "y": 1977.98,
+      "width": 18,
+      "height": 12
+    },
+    {
+      "id": "0:1193",
+      "name": "2013",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 115.19,
+      "y": 1977.98,
+      "width": 18,
+      "height": 12
+    },
+    {
+      "id": "0:1194",
+      "name": "2014",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 132.06,
+      "y": 1977.98,
+      "width": 18,
+      "height": 12
+    },
+    {
+      "id": "0:1195",
+      "name": "2015",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 148.94,
+      "y": 1977.98,
+      "width": 18,
+      "height": 12
+    },
+    {
+      "id": "0:1196",
+      "name": "2016",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 165.81,
+      "y": 1977.98,
+      "width": 18,
+      "height": 12
+    },
+    {
+      "id": "0:1197",
+      "name": "2017",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 182.69,
+      "y": 1977.98,
+      "width": 18,
+      "height": 12
+    },
+    {
+      "id": "0:1198",
+      "name": "2018",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 199.56,
+      "y": 1977.98,
+      "width": 18,
+      "height": 12
+    },
+    {
+      "id": "0:1199",
+      "name": "2019",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 216.44,
+      "y": 1977.98,
+      "width": 18,
+      "height": 12
+    },
+    {
+      "id": "0:1200",
+      "name": "2020",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 233.62,
+      "y": 1978.7,
+      "width": 18,
+      "height": 12
+    },
+    {
+      "id": "0:1201",
+      "name": "2021",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 250.19,
+      "y": 1977.98,
+      "width": 18,
+      "height": 12
+    },
+    {
+      "id": "0:1202",
+      "name": "2022",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 267.37,
+      "y": 1978.7,
+      "width": 18,
+      "height": 12
+    },
+    {
+      "id": "0:1203",
+      "name": "2023",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 284.25,
+      "y": 1978.7,
+      "width": 18,
+      "height": 12
+    },
+    {
+      "id": "0:1204",
+      "name": "2024",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 301.12,
+      "y": 1978.7,
+      "width": 18,
+      "height": 12
+    },
+    {
+      "id": "0:1205",
+      "name": "2025",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 318,
+      "y": 1978.7,
+      "width": 18,
+      "height": 12
+    },
+    {
+      "id": "0:1206",
+      "name": "路径 13",
+      "type": "PATH",
+      "nodeCount": 1,
+      "x": 247,
+      "y": 1789.5,
+      "width": 45.5
+    },
+    {
+      "id": "0:1207",
+      "name": "路径 13备份",
+      "type": "PATH",
+      "nodeCount": 1,
+      "x": 101,
+      "y": 1789.5,
+      "width": 45.5
+    },
+    {
+      "id": "0:1210",
+      "name": "矩形",
+      "type": "LAYER",
+      "nodeCount": 1,
+      "x": 9,
+      "y": 2083,
+      "width": 357,
+      "height": 71
+    },
+    {
+      "id": "0:1211",
+      "name": "矩形",
+      "type": "LAYER",
+      "nodeCount": 1,
+      "x": 9,
+      "y": 2083,
+      "width": 357,
+      "height": 38
+    },
+    {
+      "id": "0:1213",
+      "name": "买基金 来招行",
+      "type": "FRAME",
+      "nodeCount": 37,
+      "x": 120,
+      "y": 2092,
+      "width": 136,
+      "height": 20
+    },
+    {
+      "id": "0:1250",
+      "name": "路径 2",
+      "type": "PATH",
+      "nodeCount": 1,
+      "x": 120.84,
+      "y": 2095.32,
+      "width": 14,
+      "height": 17
+    },
+    {
+      "id": "0:1252",
+      "name": "费率低 品类全 策略优 服务好",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 52,
+      "y": 2127,
+      "width": 273,
+      "height": 25
+    },
+    {
+      "id": "0:1253",
+      "name": "路径 12备份",
+      "type": "PATH",
+      "nodeCount": 1,
+      "x": 187.07,
+      "y": 2128.5,
+      "width": 0.3333333432674408,
+      "height": 15.999326705932617
+    },
+    {
+      "id": "0:1254",
+      "name": "路径 12备份",
+      "type": "PATH",
+      "nodeCount": 1,
+      "x": 114.41,
+      "y": 2128.5,
+      "width": 0.3333333432674408,
+      "height": 15.999326705932617
+    },
+    {
+      "id": "0:1255",
+      "name": "路径 12备份",
+      "type": "PATH",
+      "nodeCount": 1,
+      "x": 261.07,
+      "y": 2128.5,
+      "width": 0.3333333432674408,
+      "height": 15.999326705932617
+    },
+    {
+      "id": "2:836",
+      "name": "风险提示",
+      "type": "FRAME",
+      "nodeCount": 2,
+      "x": 9,
+      "y": 2649,
+      "width": 357,
+      "height": 121
+    },
+    {
+      "id": "2:849",
+      "name": "表格三",
+      "type": "FRAME",
+      "nodeCount": 18,
+      "x": 10,
+      "y": 2454,
+      "width": 355,
+      "height": 70
+    },
+    {
+      "id": "2:850",
+      "name": "表格四",
+      "type": "FRAME",
+      "nodeCount": 16,
+      "x": 10,
+      "y": 2570,
+      "width": 355,
+      "height": 70
+    },
+    {
+      "id": "2:846",
+      "name": "表格一",
+      "type": "FRAME",
+      "nodeCount": 14,
+      "x": 9,
+      "y": 2174,
+      "width": 289,
+      "height": 28
+    },
+    {
+      "id": "2:838",
+      "name": "表格二",
+      "type": "FRAME",
+      "nodeCount": 12,
+      "x": 9.93,
+      "y": 2315,
+      "width": 355.4305419921875,
+      "height": 88
+    },
+    {
+      "id": "0:1320",
+      "name": "现在怎么投？",
+      "type": "FRAME",
+      "nodeCount": 10,
+      "x": 25,
+      "y": 824,
+      "width": 325.4497375488281,
+      "height": 37.5639533996582
+    },
+    {
+      "id": "0:1331",
+      "name": "蒙版",
+      "type": "GROUP",
+      "nodeCount": 2,
+      "x": 10,
+      "y": 862,
+      "width": 355,
+      "height": 294.5000915527344
+    },
+    {
+      "id": "0:1332",
+      "name": "天弘中证电网设备主题指数C",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 28,
+      "y": 1075,
+      "width": 190,
+      "height": 22
+    },
+    {
+      "id": "0:1335",
+      "name": "编组",
+      "type": "FRAME",
+      "nodeCount": 7,
+      "x": 28,
+      "y": 1097.14,
+      "width": 100,
+      "height": 15
+    },
+    {
+      "id": "0:1342",
+      "name": "按钮2备份",
+      "type": "FRAME",
+      "nodeCount": 11,
+      "x": 269,
+      "y": 1110.14,
+      "width": 87,
+      "height": 32.67226791381836
+    },
+    {
+      "id": "0:1368",
+      "name": "产品卡",
+      "type": "FRAME",
+      "nodeCount": 26,
+      "x": 27,
+      "y": 884.24,
+      "width": 321,
+      "height": 171
+    },
+    {
+      "id": "0:1434",
+      "name": "成立以来",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 168,
+      "y": 978,
+      "width": 40,
+      "height": 14
+    },
+    {
+      "id": "0:1435",
+      "name": "成立以来",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 118,
+      "y": 1127,
+      "width": 40,
+      "height": 14
+    }
+  ],
+  "totalSections": 86,
+  "rootMetadata": {
+    "width": 375,
+    "height": 2792,
+    "name": "招行-热点速递中心化场景页蓝色（投资落地+出口激增，电网进入高景气周期）",
+    "type": "FRAME",
+    "fill": "paint_0:4",
+    "styles": {
+      "paint_0:4": {
+        "value": [
+          "#BBE0FB"
+        ]
+      }
+    }
+  },
+  "rootContainer": {
+    "width": "375px",
+    "minHeight": "2792px",
+    "background": "#BBE0FB",
+    "overflow": "hidden",
+    "position": "relative"
+  },
+  "splitContainers": [
+    {
+      "name": "编组 16",
+      "type": "FRAME",
+      "id": "0:984",
+      "width": 355,
+      "height": 456.0768737792969,
+      "x": 10,
+      "y": 1179
+    },
+    {
+      "name": "推荐理由A",
+      "type": "FRAME",
+      "id": "2:792",
+      "width": 355,
+      "height": 456.076904296875,
+      "x": 10,
+      "y": 1179
+    },
+    {
+      "name": "编组 13",
+      "type": "FRAME",
+      "id": "0:1136",
+      "width": 278,
+      "height": 124,
+      "x": 58,
+      "y": 1841
+    },
+    {
+      "name": "推荐理由B",
+      "type": "FRAME",
+      "id": "0:1103",
+      "width": 355,
+      "height": 408,
+      "x": 10,
+      "y": 1655
+    },
+    {
+      "name": "买基金 来招行",
+      "type": "FRAME",
+      "id": "0:1208",
+      "width": 357,
+      "height": 71,
+      "x": 9,
+      "y": 2083
+    },
+    {
+      "name": "合规提示",
+      "type": "FRAME",
+      "id": "2:800",
+      "width": 357,
+      "height": 507,
+      "x": 9,
+      "y": 2263
+    },
+    {
+      "name": "相关产品",
+      "type": "FRAME",
+      "id": "2:788",
+      "width": 355,
+      "height": 332.5001220703125,
+      "x": 10,
+      "y": 824
+    }
+  ]
+}

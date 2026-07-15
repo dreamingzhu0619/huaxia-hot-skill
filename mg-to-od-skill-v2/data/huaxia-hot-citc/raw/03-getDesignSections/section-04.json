@@ -1,0 +1,516 @@
+{
+  "sectionIndex": 4,
+  "section": {
+    "id": "0:86",
+    "name": "组 5803",
+    "type": "GROUP"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:610": {
+        "value": [
+          "box-shadow: inset 0.68px -12.98px 13px 0px rgba(202, 156, 78, 0.3412);"
+        ]
+      },
+      "font_0:614": {
+        "value": {
+          "family": "MiSans-Bold",
+          "size": 41,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "41",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "700"
+        }
+      },
+      "font_0:617": {
+        "value": {
+          "family": "MiSans-Demibold",
+          "size": 33,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "33",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "600"
+        }
+      },
+      "font_0:624": {
+        "value": {
+          "family": "MiSans-Demibold",
+          "size": 33,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "33",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "600"
+        }
+      },
+      "paint_0:490": {
+        "value": [
+          "#E5372C"
+        ]
+      },
+      "paint_0:606": {
+        "value": [
+          "linear-gradient(6deg, #FFF5E6 -20%, #FFF5E6 47%, #FFF5E6 92%, #FFF5E6 120%)"
+        ]
+      },
+      "paint_0:608": {
+        "value": [
+          "linear-gradient(359deg, #FFD187 -20%, #FFDFA6 64%, #FEEDC5 120%)"
+        ]
+      },
+      "paint_0:616": {
+        "value": [
+          "#6D2121"
+        ]
+      },
+      "paint_0:619": {
+        "value": [
+          "#6D2121"
+        ]
+      },
+      "paint_0:622": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158384864891941/158384864891947/233cdcd59065be98393fb686ed10f708.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:626": {
+        "value": [
+          "#6D2121"
+        ]
+      },
+      "paint_0:628": {
+        "value": [
+          "#6D2121"
+        ]
+      },
+      "paint_0:630": {
+        "value": [
+          "#6D2121"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "GROUP",
+        "id": "0:86",
+        "name": "组 5803",
+        "layoutStyle": {
+          "width": 300,
+          "height": 382.9800109863281,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "LAYER",
+            "id": "0:87",
+            "name": "矩形 1006 拷贝 14",
+            "layoutStyle": {
+              "width": 300,
+              "height": 382.9800109863281,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "borderRadius": "8px",
+            "fill": "paint_0:606"
+          },
+          {
+            "type": "GROUP",
+            "id": "0:88",
+            "name": "组 5802",
+            "layoutStyle": {
+              "width": 277.7200012207031,
+              "height": 341,
+              "relativeX": 11.1400146484375,
+              "relativeY": 15.989990234375
+            },
+            "children": [
+              {
+                "type": "GROUP",
+                "id": "0:89",
+                "name": "组 5801",
+                "layoutStyle": {
+                  "width": 277.7200012207031,
+                  "height": 83,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "LAYER",
+                    "id": "0:90",
+                    "name": "矩形 1006 拷贝 14",
+                    "layoutStyle": {
+                      "width": 277.7200012207031,
+                      "height": 83,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "borderRadius": "22px",
+                    "fill": "paint_0:608",
+                    "effect": "effect_0:610"
+                  },
+                  {
+                    "type": "TEXT",
+                    "id": "0:91",
+                    "name": "低波动因子",
+                    "layoutStyle": {
+                      "width": 208,
+                      "height": 41,
+                      "relativeX": 34.760986328125,
+                      "relativeY": 27
+                    },
+                    "text": [
+                      {
+                        "text": "低波动因子",
+                        "font": "font_0:614"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 5,
+                        "color": "paint_0:616"
+                      }
+                    ],
+                    "textAlign": "left",
+                    "textMode": "single-line"
+                  }
+                ]
+              },
+              {
+                "type": "TEXT",
+                "id": "0:92",
+                "name": "市场行为维度\n（异常风险规避）",
+                "layoutStyle": {
+                  "width": 269,
+                  "height": 68,
+                  "relativeX": 4.9210205078125,
+                  "relativeY": 97
+                },
+                "text": [
+                  {
+                    "text": "市场行为维度\n（异常风险规避）",
+                    "font": "font_0:617"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 15,
+                    "color": "paint_0:619"
+                  }
+                ],
+                "textAlign": "center",
+                "textMode": "single-line"
+              },
+              {
+                "type": "GROUP",
+                "id": "0:93",
+                "name": "组 5814",
+                "layoutStyle": {
+                  "width": 208.37103271484375,
+                  "height": 138,
+                  "relativeX": 35.8699951171875,
+                  "relativeY": 203
+                },
+                "children": [
+                  {
+                    "type": "GROUP",
+                    "id": "0:94",
+                    "name": "组 5800",
+                    "layoutStyle": {
+                      "width": 174.54103088378906,
+                      "height": 33,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "children": [
+                      {
+                        "type": "GROUP",
+                        "id": "0:95",
+                        "name": "图层 747",
+                        "layoutStyle": {
+                          "width": 32,
+                          "height": 30,
+                          "relativeX": 0,
+                          "relativeY": 0
+                        },
+                        "children": [
+                          {
+                            "type": "GROUP",
+                            "id": "0:96",
+                            "name": "图层 747",
+                            "layoutStyle": {
+                              "width": 32,
+                              "height": 30,
+                              "relativeX": 0,
+                              "relativeY": 0
+                            },
+                            "children": [
+                              {
+                                "type": "LAYER",
+                                "id": "0:97",
+                                "name": "图层 747",
+                                "layoutStyle": {
+                                  "width": 32,
+                                  "height": 30,
+                                  "relativeX": 0,
+                                  "relativeY": 0
+                                },
+                                "fill": "paint_0:622"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "PATH",
+                            "id": "0:98",
+                            "name": "Color Overlay",
+                            "layoutStyle": {
+                              "width": 32,
+                              "height": 30,
+                              "relativeX": 0,
+                              "relativeY": 0
+                            },
+                            "path": [
+                              {
+                                "fill": "#E5372C",
+                                "data": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "TEXT",
+                        "id": "0:101",
+                        "name": "博彩效应",
+                        "layoutStyle": {
+                          "width": 134,
+                          "height": 33,
+                          "relativeX": 40.551025390625,
+                          "relativeY": 0
+                        },
+                        "text": [
+                          {
+                            "text": "博彩效应",
+                            "font": "font_0:624"
+                          }
+                        ],
+                        "textColor": [
+                          {
+                            "start": 0,
+                            "end": 4,
+                            "color": "paint_0:626"
+                          }
+                        ],
+                        "textAlign": "center",
+                        "textMode": "single-line"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "GROUP",
+                    "id": "0:102",
+                    "name": "组 5800 拷贝",
+                    "layoutStyle": {
+                      "width": 175.54103088378906,
+                      "height": 33,
+                      "relativeX": 0,
+                      "relativeY": 52
+                    },
+                    "children": [
+                      {
+                        "type": "GROUP",
+                        "id": "0:103",
+                        "name": "图层 747",
+                        "layoutStyle": {
+                          "width": 32,
+                          "height": 30,
+                          "relativeX": 0,
+                          "relativeY": 0
+                        },
+                        "children": [
+                          {
+                            "type": "GROUP",
+                            "id": "0:104",
+                            "name": "图层 747",
+                            "layoutStyle": {
+                              "width": 32,
+                              "height": 30,
+                              "relativeX": 0,
+                              "relativeY": 0
+                            },
+                            "children": [
+                              {
+                                "type": "LAYER",
+                                "id": "0:105",
+                                "name": "图层 747",
+                                "layoutStyle": {
+                                  "width": 32,
+                                  "height": 30,
+                                  "relativeX": 0,
+                                  "relativeY": 0
+                                },
+                                "fill": "paint_0:622"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "PATH",
+                            "id": "0:106",
+                            "name": "Color Overlay",
+                            "layoutStyle": {
+                              "width": 32,
+                              "height": 30,
+                              "relativeX": 0,
+                              "relativeY": 0
+                            },
+                            "path": [
+                              {
+                                "fill": "#E5372C",
+                                "data": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "TEXT",
+                        "id": "0:109",
+                        "name": "机构效应",
+                        "layoutStyle": {
+                          "width": 134,
+                          "height": 33,
+                          "relativeX": 41.551025390625,
+                          "relativeY": 0
+                        },
+                        "text": [
+                          {
+                            "text": "机构效应",
+                            "font": "font_0:624"
+                          }
+                        ],
+                        "textColor": [
+                          {
+                            "start": 0,
+                            "end": 4,
+                            "color": "paint_0:628"
+                          }
+                        ],
+                        "textAlign": "center",
+                        "textMode": "single-line"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "GROUP",
+                    "id": "0:110",
+                    "name": "组 5800 拷贝 2",
+                    "layoutStyle": {
+                      "width": 208.37103271484375,
+                      "height": 33,
+                      "relativeX": 0,
+                      "relativeY": 105
+                    },
+                    "children": [
+                      {
+                        "type": "GROUP",
+                        "id": "0:111",
+                        "name": "图层 747",
+                        "layoutStyle": {
+                          "width": 32,
+                          "height": 30,
+                          "relativeX": 0,
+                          "relativeY": 0
+                        },
+                        "children": [
+                          {
+                            "type": "GROUP",
+                            "id": "0:112",
+                            "name": "图层 747",
+                            "layoutStyle": {
+                              "width": 32,
+                              "height": 30,
+                              "relativeX": 0,
+                              "relativeY": 0
+                            },
+                            "children": [
+                              {
+                                "type": "LAYER",
+                                "id": "0:113",
+                                "name": "图层 747",
+                                "layoutStyle": {
+                                  "width": 32,
+                                  "height": 30,
+                                  "relativeX": 0,
+                                  "relativeY": 0
+                                },
+                                "fill": "paint_0:622"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "PATH",
+                            "id": "0:114",
+                            "name": "Color Overlay",
+                            "layoutStyle": {
+                              "width": 32,
+                              "height": 30,
+                              "relativeX": 0,
+                              "relativeY": 0
+                            },
+                            "path": [
+                              {
+                                "fill": "#E5372C",
+                                "data": ""
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "TEXT",
+                        "id": "0:117",
+                        "name": "代表性偏差",
+                        "layoutStyle": {
+                          "width": 168,
+                          "height": 33,
+                          "relativeX": 40.551025390625,
+                          "relativeY": 0
+                        },
+                        "text": [
+                          {
+                            "text": "代表性偏差",
+                            "font": "font_0:624"
+                          }
+                        ],
+                        "textColor": [
+                          {
+                            "start": 0,
+                            "end": 5,
+                            "color": "paint_0:630"
+                          }
+                        ],
+                        "textAlign": "center",
+                        "textMode": "single-line"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 26,
+  "svgNodeCount": 3
+}

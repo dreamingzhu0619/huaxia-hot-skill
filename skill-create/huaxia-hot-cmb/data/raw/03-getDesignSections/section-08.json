@@ -1,0 +1,58 @@
+{
+  "sectionIndex": 8,
+  "section": {
+    "id": "0:1004",
+    "name": "变压器出口金额（亿美元）",
+    "type": "TEXT"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:324": {
+        "value": {
+          "family": "FZLTCHJW--GB1",
+          "size": 10,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "-0.20000000298023224px"
+        }
+      },
+      "paint_0:171": {
+        "value": [
+          "#333333"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:1004",
+        "name": "变压器出口金额（亿美元）",
+        "layoutStyle": {
+          "width": 118,
+          "height": 14,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "变压器出口金额（亿美元）",
+            "font": "font_0:324"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 12,
+            "color": "paint_0:171"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

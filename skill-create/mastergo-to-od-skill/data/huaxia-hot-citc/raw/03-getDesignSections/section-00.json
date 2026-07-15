@@ -1,0 +1,59 @@
+{
+  "sectionIndex": 0,
+  "section": {
+    "id": "13:393",
+    "name": "背景图",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "paint_0:448": {
+        "value": [
+          "#FFDFAC"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "13:393",
+        "name": "背景图",
+        "layoutStyle": {
+          "width": 1125,
+          "height": 8108,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "GROUP",
+            "id": "0:4",
+            "name": "bg",
+            "layoutStyle": {
+              "width": 1125,
+              "height": 8108,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:5",
+                "name": "颜色填充 1",
+                "layoutStyle": {
+                  "width": 1125,
+                  "height": 8108,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "fill": "paint_0:448"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 3
+}

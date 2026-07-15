@@ -1,0 +1,86 @@
+{
+  "sectionIndex": 90,
+  "section": {
+    "id": "0:434",
+    "name": "组 23",
+    "type": "GROUP"
+  },
+  "dsl": {
+    "styles": {
+      "paint_0:480": {
+        "value": [
+          "#D8D8D8"
+        ]
+      },
+      "paint_0:976": {
+        "value": [
+          "#AF6E64"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "GROUP",
+        "id": "0:434",
+        "name": "组 23",
+        "layoutStyle": {
+          "width": 1057,
+          "height": 283,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "GROUP",
+            "id": "0:435",
+            "name": "组 3",
+            "layoutStyle": {
+              "width": 1057,
+              "height": 283,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:437",
+                "name": "矩形 3",
+                "layoutStyle": {
+                  "width": 1057,
+                  "height": 283,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "fill": "paint_0:480",
+                "strokeColor": "paint_0:976",
+                "strokeType": "solid",
+                "strokeAlign": "center",
+                "strokeWidth": "1px"
+              },
+              {
+                "type": "PATH",
+                "id": "0:436",
+                "name": "直线 1",
+                "layoutStyle": {
+                  "width": 1055.99951171875,
+                  "height": 0,
+                  "relativeX": 0.5002437233924866,
+                  "relativeY": 103.0890121459961
+                },
+                "path": [
+                  {
+                    "fill": "#AF6E64",
+                    "data": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 4,
+  "svgNodeCount": 1
+}

@@ -1,0 +1,147 @@
+{
+  "sectionIndex": 26,
+  "section": {
+    "id": "0:1122",
+    "name": "编组 14",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:462": {
+        "value": []
+      },
+      "font_0:464": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 12,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "paint_0:11": {
+        "value": []
+      },
+      "paint_0:316": {
+        "value": [
+          "#959595"
+        ]
+      },
+      "paint_0:468": {
+        "value": [
+          "#FFD386"
+        ]
+      },
+      "paint_0:471": {
+        "value": [
+          "#5BAEEA"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1122",
+        "name": "编组 14",
+        "layoutStyle": {
+          "width": 191.63632202148438,
+          "height": 14,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "TEXT",
+            "id": "0:1123",
+            "name": "电网累计投资",
+            "layoutStyle": {
+              "width": 78.6363296508789,
+              "height": 17,
+              "relativeX": 14,
+              "relativeY": 0
+            },
+            "effect": "effect_0:462",
+            "text": [
+              {
+                "text": "电网累计投资",
+                "font": "font_0:464"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 6,
+                "color": "paint_0:316"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "auto-height"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1124",
+            "name": "电源累计投资",
+            "layoutStyle": {
+              "width": 78.6363296508789,
+              "height": 17,
+              "relativeX": 113,
+              "relativeY": 0
+            },
+            "effect": "effect_0:462",
+            "text": [
+              {
+                "text": "电源累计投资",
+                "font": "font_0:464"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 6,
+                "color": "paint_0:316"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "auto-height"
+          },
+          {
+            "type": "LAYER",
+            "id": "0:1125",
+            "name": "矩形",
+            "layoutStyle": {
+              "width": 9,
+              "height": 9,
+              "relativeX": 0,
+              "relativeY": 3
+            },
+            "fill": "paint_0:468",
+            "strokeColor": "paint_0:11",
+            "strokeType": "solid",
+            "strokeAlign": "inside",
+            "strokeWidth": "1px"
+          },
+          {
+            "type": "LAYER",
+            "id": "0:1126",
+            "name": "矩形备份 19",
+            "layoutStyle": {
+              "width": 9,
+              "height": 9,
+              "relativeX": 99,
+              "relativeY": 3
+            },
+            "fill": "paint_0:471",
+            "strokeColor": "paint_0:11",
+            "strokeType": "solid",
+            "strokeAlign": "inside",
+            "strokeWidth": "1px"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 5
+}

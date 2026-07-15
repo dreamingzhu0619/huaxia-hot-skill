@@ -1,0 +1,117 @@
+{
+  "sectionIndex": 21,
+  "section": {
+    "id": "0:235",
+    "name": "图标小标题",
+    "type": "GROUP"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:456": {
+        "value": []
+      },
+      "font_0:668": {
+        "value": {
+          "family": "MiSans-Demibold",
+          "size": 46,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "46",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "600"
+        }
+      },
+      "paint_0:673": {
+        "value": [
+          "#FC4441"
+        ]
+      },
+      "paint_0:747": {
+        "value": [
+          "#6D2807"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "GROUP",
+        "id": "0:235",
+        "name": "图标小标题",
+        "layoutStyle": {
+          "width": 622,
+          "height": 46,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "GROUP",
+            "id": "0:236",
+            "name": "现金分红统计",
+            "layoutStyle": {
+              "width": 0,
+              "height": 46,
+              "relativeX": 171.42800903320312,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "TEXT",
+                "id": "0:237",
+                "name": "现金分红统计",
+                "layoutStyle": {
+                  "width": 281,
+                  "height": 46,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "effect": "effect_0:456",
+                "text": [
+                  {
+                    "text": "现金分红统计",
+                    "font": "font_0:668"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 6,
+                    "color": "paint_0:747"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              }
+            ]
+          },
+          {
+            "type": "LAYER",
+            "id": "0:240",
+            "name": "矩形 1005",
+            "layoutStyle": {
+              "width": 151,
+              "height": 4,
+              "relativeX": 471,
+              "relativeY": 19.462890625
+            },
+            "fill": "paint_0:673"
+          },
+          {
+            "type": "LAYER",
+            "id": "0:241",
+            "name": "矩形 1005 拷贝",
+            "layoutStyle": {
+              "width": 151,
+              "height": 4,
+              "relativeX": 0,
+              "relativeY": 19.462890625
+            },
+            "fill": "paint_0:673"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 5
+}

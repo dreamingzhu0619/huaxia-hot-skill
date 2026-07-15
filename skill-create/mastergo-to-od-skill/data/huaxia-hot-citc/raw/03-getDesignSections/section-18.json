@@ -1,0 +1,43 @@
+{
+  "sectionIndex": 18,
+  "section": {
+    "id": "0:194",
+    "name": "矩形 1001",
+    "type": "LAYER"
+  },
+  "dsl": {
+    "styles": {
+      "paint_0:522": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:700": {
+        "value": [
+          "linear-gradient(6deg, #FFF5E6 -12%, #FFFAF3 47%, #FFFFFF 88%, #FFFFFF 112%)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "LAYER",
+        "id": "0:194",
+        "name": "矩形 1001",
+        "layoutStyle": {
+          "width": 1019,
+          "height": 517.260009765625,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "borderRadius": "25px",
+        "fill": "paint_0:700",
+        "strokeColor": "paint_0:522",
+        "strokeType": "solid",
+        "strokeAlign": "center",
+        "strokeWidth": "1px"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

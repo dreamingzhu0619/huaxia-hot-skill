@@ -1,0 +1,137 @@
+{
+  "sectionIndex": 67,
+  "section": {
+    "id": "0:1213",
+    "name": "买基金 来招行",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "paint_0:121": {
+        "value": [
+          "#FFFFFF"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1213",
+        "name": "买基金 来招行",
+        "layoutStyle": {
+          "width": 136,
+          "height": 20,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "PATH",
+            "id": "0:1214",
+            "name": "形状",
+            "layoutStyle": {
+              "width": 19.598060607910156,
+              "height": 19.10284423828125,
+              "relativeX": 0,
+              "relativeY": 0.853391706943512
+            },
+            "path": [
+              {
+                "fill": "#FFFFFF",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1220",
+            "name": "形状",
+            "layoutStyle": {
+              "width": 19.598060607910156,
+              "height": 19.299781799316406,
+              "relativeX": 21.948949813842773,
+              "relativeY": 0.10940919071435928
+            },
+            "path": [
+              {
+                "fill": "#FFFFFF",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1227",
+            "name": "形状",
+            "layoutStyle": {
+              "width": 19.861711502075195,
+              "height": 19.409191131591797,
+              "relativeX": 43.766075134277344,
+              "relativeY": 0
+            },
+            "path": [
+              {
+                "fill": "#FFFFFF",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1233",
+            "name": "形状",
+            "layoutStyle": {
+              "width": 19.378353118896484,
+              "height": 19.8249454498291,
+              "relativeX": 72.46009826660156,
+              "relativeY": 0.17505469918251038
+            },
+            "path": [
+              {
+                "fill": "#FFFFFF",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1238",
+            "name": "形状",
+            "layoutStyle": {
+              "width": 19.447574615478516,
+              "height": 19.69687271118164,
+              "relativeX": 94.10145568847656,
+              "relativeY": 0.21881838142871857
+            },
+            "path": [
+              {
+                "fill": "#FFFFFF",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1244",
+            "name": "形状",
+            "layoutStyle": {
+              "width": 19.66397476196289,
+              "height": 19.71553611755371,
+              "relativeX": 116.33602905273438,
+              "relativeY": 0.26258206367492676
+            },
+            "path": [
+              {
+                "fill": "#FFFFFF",
+                "data": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 7,
+  "svgNodeCount": 1
+}

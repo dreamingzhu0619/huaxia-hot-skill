@@ -1,0 +1,74 @@
+{
+  "sectionIndex": 40,
+  "section": {
+    "id": "0:1173",
+    "name": "编组 10备份 11",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "paint_0:11": {
+        "value": []
+      },
+      "paint_0:468": {
+        "value": [
+          "#FFD386"
+        ]
+      },
+      "paint_0:488": {
+        "value": [
+          "#5BAEEA"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1173",
+        "name": "编组 10备份 11",
+        "layoutStyle": {
+          "width": 10,
+          "height": 58,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "LAYER",
+            "id": "0:1174",
+            "name": "矩形备份 17",
+            "layoutStyle": {
+              "width": 5,
+              "height": 52,
+              "relativeX": 0,
+              "relativeY": 6
+            },
+            "fill": "paint_0:468",
+            "strokeColor": "paint_0:11",
+            "strokeType": "solid",
+            "strokeAlign": "inside",
+            "strokeWidth": "1px"
+          },
+          {
+            "type": "LAYER",
+            "id": "0:1175",
+            "name": "矩形备份 18",
+            "layoutStyle": {
+              "width": 5,
+              "height": 58,
+              "relativeX": 5,
+              "relativeY": 0
+            },
+            "fill": "paint_0:488",
+            "strokeColor": "paint_0:11",
+            "strokeType": "solid",
+            "strokeAlign": "inside",
+            "strokeWidth": "1px"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 3
+}

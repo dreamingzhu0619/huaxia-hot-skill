@@ -1,0 +1,471 @@
+{
+  "sectionIndex": 74,
+  "section": {
+    "id": "2:849",
+    "name": "表格三",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:670": {
+        "value": []
+      },
+      "effect_0:678": {
+        "value": []
+      },
+      "font_0:1259": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 10,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "14",
+          "letterSpacing": "-0.20000000298023224px"
+        }
+      },
+      "font_0:654": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 9,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "font_0:660": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 9,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "16.200000762939453",
+          "letterSpacing": "auto"
+        }
+      },
+      "font_0:683": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 10,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "14",
+          "letterSpacing": "0.07287000119686127px"
+        }
+      },
+      "paint_0:1314": {
+        "value": [
+          "#81B8EB"
+        ]
+      },
+      "paint_0:650": {
+        "value": [
+          "#81B8EB"
+        ]
+      },
+      "paint_0:656": {
+        "value": [
+          "#81B8EB"
+        ]
+      },
+      "paint_0:666": {
+        "value": [
+          "rgba(255, 255, 255, 0.01)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "2:849",
+        "name": "表格三",
+        "layoutStyle": {
+          "width": 355,
+          "height": 70,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "PATH",
+            "id": "0:1276",
+            "name": "蒙版备份 3",
+            "layoutStyle": {
+              "width": 355,
+              "height": 70,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "effect": "effect_0:670",
+            "path": [
+              {
+                "fill": "rgba(255, 255, 255, 0.01)",
+                "data": ""
+              },
+              {
+                "fill": "#81B8EB",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1300",
+            "name": "天弘中证电网设备主题指数C 025833",
+            "layoutStyle": {
+              "width": 289,
+              "height": 28,
+              "relativeX": -1,
+              "relativeY": -31
+            },
+            "effect": "effect_0:678",
+            "text": [
+              {
+                "text": "天弘中证电网设备主题指数C  025833\n以下费用在申购/赎回基金过程中收取:",
+                "font": "font_0:683"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 40,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1272",
+            "name": "申购费",
+            "layoutStyle": {
+              "width": 27,
+              "height": 13,
+              "relativeX": 33.873046875,
+              "relativeY": 22.994384765625
+            },
+            "text": [
+              {
+                "text": "申购费",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 3,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1271",
+            "name": "赎回费",
+            "layoutStyle": {
+              "width": 27,
+              "height": 13,
+              "relativeX": 33.873046875,
+              "relativeY": 46.994384765625
+            },
+            "text": [
+              {
+                "text": "赎回费",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 3,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1258",
+            "name": "风险提示备份 2",
+            "layoutStyle": {
+              "width": 357,
+              "height": 15,
+              "relativeX": -1,
+              "relativeY": 76
+            },
+            "text": [
+              {
+                "text": "注：天弘中证电网设备主题指数发起C不收取申购费用。",
+                "font": "font_0:1259"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 25,
+                "color": "paint_0:650"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1261",
+            "name": "份额(S)或金额(M)/持有期限(N)备份",
+            "layoutStyle": {
+              "width": 121,
+              "height": 13,
+              "relativeX": 111.94921875,
+              "relativeY": 5.258544921875
+            },
+            "text": [
+              {
+                "text": "份额(S)或金额(M)/持有期限(N)",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 19,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1263",
+            "name": "收费方式/费率备份",
+            "layoutStyle": {
+              "width": 58,
+              "height": 13,
+              "relativeX": 273.54296875,
+              "relativeY": 5.258544921875
+            },
+            "text": [
+              {
+                "text": "收费方式/费率",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 7,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1265",
+            "name": "1.50% 0.00%备份",
+            "layoutStyle": {
+              "width": 26,
+              "height": 33,
+              "relativeX": 289.54296875,
+              "relativeY": 37.55517578125
+            },
+            "text": [
+              {
+                "text": "1.50%\n0.00%",
+                "font": "font_0:660"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 11,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1267",
+            "name": "N<7天 N≥7天备份",
+            "layoutStyle": {
+              "width": 30,
+              "height": 33,
+              "relativeX": 157.44921875,
+              "relativeY": 37.55517578125
+            },
+            "text": [
+              {
+                "text": "N<7天\nN≥7天",
+                "font": "font_0:660"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 9,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1269",
+            "name": "费用类型备份",
+            "layoutStyle": {
+              "width": 36,
+              "height": 13,
+              "relativeX": 29.373046875,
+              "relativeY": 5.69775390625
+            },
+            "text": [
+              {
+                "text": "费用类型",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 4,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "PATH",
+            "id": "0:1278",
+            "name": "路径 12备份 4",
+            "layoutStyle": {
+              "width": 355.4305419921875,
+              "relativeX": -0.06640625,
+              "relativeY": 19.5
+            },
+            "path": [
+              {
+                "fill": "#81B8EB",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1280",
+            "name": "路径 12备份 10",
+            "layoutStyle": {
+              "width": 262.21527099609375,
+              "relativeX": 93.1484375,
+              "relativeY": 52.5
+            },
+            "path": [
+              {
+                "fill": "#81B8EB",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1282",
+            "name": "路径 12备份 13",
+            "layoutStyle": {
+              "width": 355.4305419921875,
+              "relativeX": -0.06640625,
+              "relativeY": 36
+            },
+            "path": [
+              {
+                "fill": "#81B8EB",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1284",
+            "name": "路径 12备份 14",
+            "layoutStyle": {
+              "width": 70,
+              "relativeX": null,
+              "relativeY": null
+            },
+            "path": [
+              {
+                "fill": "#81B8EB",
+                "data": "",
+                "transform": "matrix(6.123234262925839e-17,1,-1,6.123234262925839e-17,93.93310546875,-93.36376953125)"
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1286",
+            "name": "路径 12备份 15",
+            "layoutStyle": {
+              "width": 70,
+              "relativeX": null,
+              "relativeY": null
+            },
+            "path": [
+              {
+                "fill": "#81B8EB",
+                "data": "",
+                "transform": "matrix(6.123234262925839e-17,1,-1,6.123234262925839e-17,252.93310546874997,-252.36376953125)"
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1313",
+            "name": "路径 15",
+            "layoutStyle": {
+              "width": 10.584505081176758,
+              "relativeX": 167.1875,
+              "relativeY": 26.782470703125
+            },
+            "path": [
+              {
+                "fill": "#81B8EB",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1316",
+            "name": "路径 15备份",
+            "layoutStyle": {
+              "width": 10.584505081176758,
+              "relativeX": 295.1875,
+              "relativeY": 26.782470703125
+            },
+            "path": [
+              {
+                "fill": "#81B8EB",
+                "data": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 18,
+  "svgNodeCount": 1
+}

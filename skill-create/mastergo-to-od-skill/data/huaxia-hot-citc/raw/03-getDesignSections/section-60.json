@@ -1,0 +1,39 @@
+{
+  "sectionIndex": 60,
+  "section": {
+    "id": "0:380",
+    "name": "路径 31",
+    "type": "PATH"
+  },
+  "dsl": {
+    "styles": {
+      "paint_0:972": {
+        "value": [
+          "#1A1C1B"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "PATH",
+        "id": "0:380",
+        "name": "路径 31",
+        "layoutStyle": {
+          "width": 41.640777587890625,
+          "height": 47.77099609375,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "path": [
+          {
+            "fill": "#1A1C1B",
+            "data": ""
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1,
+  "svgNodeCount": 1
+}

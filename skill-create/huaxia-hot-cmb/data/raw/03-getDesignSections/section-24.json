@@ -1,0 +1,92 @@
+{
+  "sectionIndex": 24,
+  "section": {
+    "id": "0:1120",
+    "name": "近年电网与电源投资双轮驱动，持续加码彰显",
+    "type": "TEXT"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:169": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 14,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "20",
+          "letterSpacing": "-0.10000000149011612px"
+        }
+      },
+      "font_0:196": {
+        "value": {
+          "family": "FZLTZHJW--GB1",
+          "size": 14,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "20",
+          "letterSpacing": "-0.10000000149011612px"
+        }
+      },
+      "paint_0:171": {
+        "value": [
+          "#333333"
+        ]
+      },
+      "paint_0:453": {
+        "value": [
+          "#F81F02"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:1120",
+        "name": "近年电网与电源投资双轮驱动，持续加码彰显",
+        "layoutStyle": {
+          "width": 321,
+          "height": 63,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "T24|0:1120",
+            "font": "font_0:169"
+          },
+          {
+            "text": "T24|0:1120",
+            "font": "font_0:196"
+          },
+          {
+            "text": "T24|0:1120",
+            "font": "font_0:169"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 46,
+            "color": "paint_0:171"
+          },
+          {
+            "start": 46,
+            "end": 60,
+            "color": "paint_0:453"
+          },
+          {
+            "start": 60,
+            "end": 61,
+            "color": "paint_0:171"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

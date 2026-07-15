@@ -1,0 +1,259 @@
+{
+  "sectionIndex": 15,
+  "section": {
+    "id": "0:179",
+    "name": "底框",
+    "type": "GROUP"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:473": {
+        "value": []
+      },
+      "effect_0:575": {
+        "value": [
+          "box-shadow: 0px 3px 10px 0px rgba(218, 29, 29, 0.7608);"
+        ]
+      },
+      "effect_0:588": {
+        "value": [
+          "box-shadow: inset 3.82px 16.56px 10px 0px #FFE0E0;"
+        ]
+      },
+      "font_0:577": {
+        "value": {
+          "family": "MiSans-Bold",
+          "size": 57,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "57",
+          "letterSpacing": "auto",
+          "weight": "700"
+        }
+      },
+      "paint_0:471": {
+        "value": [
+          "linear-gradient(90deg, #FCCC89 -25%, #FCCC89 -23%, #EB8F2C 125%)"
+        ]
+      },
+      "paint_0:480": {
+        "value": [
+          "#D8D8D8"
+        ]
+      },
+      "paint_0:522": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:571": {
+        "value": [
+          "linear-gradient(90deg, #FF4E3C -25%, #FF4E3C -23%, #FF1818 125%)"
+        ]
+      },
+      "paint_0:573": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158384864891941/158384864891947/43cc0b6042e1824abd443e2061fb010a.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:580": {
+        "value": [
+          "linear-gradient(0deg, #FDBBBB -15%, #FDBBBB -14%, #FDFFFF 52%, #FDFFFF 115%)"
+        ]
+      },
+      "paint_0:679": {
+        "value": [
+          "#FFFFFF"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "GROUP",
+        "id": "0:179",
+        "name": "底框",
+        "layoutStyle": {
+          "width": 1076,
+          "height": 1065.22021484375,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "GROUP",
+            "id": "0:180",
+            "name": "矩形 1000",
+            "layoutStyle": {
+              "width": 1076,
+              "height": 1000.22998046875,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:181",
+                "name": "矩形 1000",
+                "layoutStyle": {
+                  "width": 1076,
+                  "height": 1000.22998046875,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "borderRadius": "50px",
+                "fill": "paint_0:571",
+                "strokeColor": "paint_0:522",
+                "strokeType": "solid",
+                "strokeAlign": "center",
+                "strokeWidth": "1px",
+                "effect": "effect_0:473"
+              },
+              {
+                "type": "GROUP",
+                "id": "0:182",
+                "name": "Clip",
+                "layoutStyle": {
+                  "width": 1076,
+                  "height": 1000.22998046875,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "LAYER",
+                    "id": "0:184",
+                    "name": "矩形 1000",
+                    "layoutStyle": {
+                      "width": 1076,
+                      "height": 1000.22998046875,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "borderRadius": "50px",
+                    "fill": "paint_0:480",
+                    "strokeColor": "paint_0:522",
+                    "strokeType": "solid",
+                    "strokeAlign": "center",
+                    "strokeWidth": "1px",
+                    "effect": "effect_0:473"
+                  },
+                  {
+                    "type": "LAYER",
+                    "id": "0:183",
+                    "name": "图层 742",
+                    "layoutStyle": {
+                      "width": 683,
+                      "height": 348,
+                      "relativeX": -25,
+                      "relativeY": 7.1201171875
+                    },
+                    "fill": "paint_0:573"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "LAYER",
+            "id": "0:185",
+            "name": "矩形 1000 拷贝 3",
+            "layoutStyle": {
+              "width": 1076,
+              "height": 596.27001953125,
+              "relativeX": 0,
+              "relativeY": 468.9501953125
+            },
+            "borderRadius": "50px",
+            "fill": "paint_0:471",
+            "strokeColor": "paint_0:522",
+            "strokeType": "solid",
+            "strokeAlign": "center",
+            "strokeWidth": "1px",
+            "effect": "effect_0:473"
+          },
+          {
+            "type": "GROUP",
+            "id": "0:186",
+            "name": "行业龙头加持 力争稳定分红",
+            "layoutStyle": {
+              "width": 700.9860229492188,
+              "height": 57,
+              "relativeX": 186.2960205078125,
+              "relativeY": 41.092041015625
+            },
+            "children": [
+              {
+                "type": "TEXT",
+                "id": "0:187",
+                "name": "行业龙头加持 力争稳定分红",
+                "layoutStyle": {
+                  "width": 705,
+                  "height": 57,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "effect": "effect_0:575",
+                "text": [
+                  {
+                    "text": "行业龙头加持 力争稳定分红",
+                    "font": "font_0:577"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 13,
+                    "color": "paint_0:679"
+                  }
+                ],
+                "textAlign": "center",
+                "textMode": "single-line"
+              },
+              {
+                "type": "PATH",
+                "id": "0:188",
+                "name": "Gradient Overlay",
+                "layoutStyle": {
+                  "width": 700.9860229492188,
+                  "height": 57,
+                  "relativeX": 2.5769901275634766,
+                  "relativeY": 0.18199920654296875
+                },
+                "path": [
+                  {
+                    "fill": "linear-gradient(0deg, #FDBBBB -15%, #FDBBBB -14%, #FDFFFF 52%, #FDFFFF 115%)",
+                    "data": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "LAYER",
+            "id": "0:190",
+            "name": "矩形 1000 拷贝",
+            "layoutStyle": {
+              "width": 1076,
+              "height": 919.219970703125,
+              "relativeX": 0,
+              "relativeY": 129.0400390625
+            },
+            "borderRadius": "50px",
+            "fill": "paint_0:522",
+            "strokeColor": "paint_0:522",
+            "strokeType": "solid",
+            "strokeAlign": "center",
+            "strokeWidth": "1px",
+            "effect": "effect_0:588"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 11,
+  "svgNodeCount": 1
+}

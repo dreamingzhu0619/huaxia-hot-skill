@@ -1,0 +1,58 @@
+{
+  "sectionIndex": 25,
+  "section": {
+    "id": "0:1121",
+    "name": "电网投资及电源 投资情况(亿元)",
+    "type": "TEXT"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:456": {
+        "value": {
+          "family": "FZLTZHJW--GB1",
+          "size": 12,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "15",
+          "letterSpacing": "-0.08571428805589676px"
+        }
+      },
+      "paint_0:329": {
+        "value": [
+          "#884209"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:1121",
+        "name": "电网投资及电源 投资情况(亿元)",
+        "layoutStyle": {
+          "width": 99,
+          "height": 30,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "电网投资及电源\n投资情况(亿元)",
+            "font": "font_0:456"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 16,
+            "color": "paint_0:329"
+          }
+        ],
+        "textAlign": "center",
+        "textMode": "auto-height"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

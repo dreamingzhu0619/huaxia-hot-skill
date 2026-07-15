@@ -1,0 +1,147 @@
+/* 01-hotspot-frontline.json  热点前线
+   由 getDsl 生成；mix-blend-mode/overflow/object-fit 取自 d2cCss。
+   根 .m-01-hotspot-frontline，其余节点 .n-{id}。共 11 条规则。 */
+/* 2:794 热点前线 [FRAME] */
+.m-01-hotspot-frontline {
+  position: relative;
+  width: 355px;
+  height: 236.24px;
+}
+
+/* 0:950 矩形 [FRAME]  svg=assets.svgs[0:950] */
+.n-0-950 {
+  position: absolute;
+  left: 0px;
+  top: 3.24px;
+  z-index: 0;
+  width: 355px;
+  height: 233px;
+  overflow: hidden;
+  border-radius: 10.1px;
+}
+
+/* 0:951 蒙版 [PATH]  PATH→内联SVG  mask=outline */
+.n-0-951 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 355px;
+  height: 233px;
+  background-image: linear-gradient(180deg, #E0EDFF 0%, #FFFFFF 11%);
+  box-shadow: 0px 1px 2px 2px #EAF5FF;
+}
+
+/* 0:952 矩形备份 7 [PATH]  PATH→内联SVG */
+.n-0-952 {
+  position: absolute;
+  left: -31px;
+  top: -1px;
+  z-index: 1;
+  width: 153px;
+  height: 30px;
+  background-image: linear-gradient(180deg, #75C4F8 0%, #4F9CF0 76%), linear-gradient(0deg, #4F9CF0 18%, #75C3F8 100%);
+  box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5), 0px 1px 0px 0px #FFFFFF;
+  filter: blur(9.72px);
+}
+
+/* 0:953 矩形备份 8 [PATH]  PATH→内联SVG */
+.n-0-953 {
+  position: absolute;
+  left: -31px;
+  top: -1px;
+  z-index: 2;
+  width: 153px;
+  height: 30px;
+  background-image: linear-gradient(0deg, #4F9CF0 18%, #75C3F8 100%);
+  box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5), 0px 1px 0px 0px #FFFFFF;
+}
+
+/* 0:954 路径 5 [PATH]  PATH→内联SVG */
+.n-0-954 {
+  position: absolute;
+  left: 6px;
+  top: -8px;
+  z-index: 3;
+  width: 43px;
+  height: 47px;
+  opacity: 0.147;
+  background-image: linear-gradient(211deg, #FFFFFF 8%, rgba(255, 224, 177, 0) 58%);
+}
+
+/* 0:955 路径 5备份 [PATH]  PATH→内联SVG */
+.n-0-955 {
+  position: absolute;
+  left: 21px;
+  top: -8px;
+  z-index: 4;
+  width: 59px;
+  height: 47px;
+  opacity: 0.147;
+  background-image: linear-gradient(211deg, #FFFFFF 8%, rgba(255, 224, 177, 0) 58%);
+}
+
+/* 0:956 椭圆形 [SVG_ELLIPSE] */
+.n-0-956 {
+  position: absolute;
+  left: -21px;
+  top: -7px;
+  z-index: 5;
+  width: 71px;
+  height: 22px;
+  opacity: 0.65;
+  background-color: #6CE8FF;
+  border-radius: 50%;
+  filter: blur(24.48px);
+}
+
+/* 0:957 热点前线 [TEXT] */
+.n-0-957 {
+  position: absolute;
+  left: 1.01px;
+  top: 0px;
+  z-index: 1;
+  width: 102px;
+  height: 38px;
+  font-family: FZZDHJW--GB1;
+  font-size: 20px;
+  line-height: 37.56px;
+  letter-spacing: normal;
+  text-align: center;
+  white-space: nowrap;
+  text-shadow: 0px 2px 3px #4F9EF1;
+  color: #FFFFFF;
+}
+
+/* 0:958 截止3月5日收盘，电网设备概念股走强，中证电网设备主题指数上涨4.1%。展望2026年，电新行业有望延续积极趋势。国家电网“十五五”4万亿元固定资产投资落地，较“十四五”提升40%，叠加新能源大基地外送与跨区消纳需求，电网资本开支进入明确扩张期。此外，海外需求高增叠加国内电网投资增长有望带动电力设备放量，电网设备板块有望维持高景气。 [TEXT] */
+.n-0-958 {
+  position: absolute;
+  left: 17px;
+  top: 40.24px;
+  z-index: 2;
+  width: 321px;
+  height: 161px;
+  font-family: FZLTHJW--GB1;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: -0.1px;
+  text-align: left;
+  color: #333333;
+}
+
+/* 0:1318 信息来源：东方财富资讯，日期截止2026.3.5 [TEXT] */
+.n-0-1318 {
+  position: absolute;
+  left: 28px;
+  top: 201.24px;
+  z-index: 3;
+  width: 299px;
+  height: 14px;
+  font-family: FZLTHJW--GB1;
+  font-size: 9px;
+  line-height: 11px;
+  letter-spacing: -0.11px;
+  text-align: center;
+  white-space: nowrap;
+  color: #999999;
+}

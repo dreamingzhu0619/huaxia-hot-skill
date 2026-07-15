@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc -l \"D:/dreamingzhu_main/研究生/huaxia-hot-skill-create-v1/mg-to-od-skill-v2/data/huaxia-hot-citc/modules/\"*.json)",
+      "Bash(python scripts/calc_content_area.py \"data/huaxia-hot-citc/modules/01-产品卡.json\" --exclude-ids \"0:51,0:52,0:53,0:62,0:65\")",
+      "Bash(python scripts/calc_content_area.py \"data/huaxia-hot-citc/modules/04-产品推荐理由C.json\" --exclude-ids \"0:244,0:245,0:246,0:247,0:253\")",
+      "Bash(python -c ':*)",
+      "Bash(python scripts/step3_generate_css.py --step2 data/huaxia-hot-citc/output/test-slots-v3.json --modules data/huaxia-hot-citc/modules --output data/huaxia-hot-citc/output/assets/styles/test-components.css)",
+      "Bash(python scripts/calc_content_area.py \"data/huaxia-hot-citc/modules/01-产品卡.json\" --exclude-ids \"0:51,0:52,0:53,0:62,0:65,4:0409\")",
+      "Bash(python scripts/calc_content_area.py \"data/huaxia-hot-citc/modules/05-营销头图.json\" --exclude-ids \"0:6,0:7,13:327\")",
+      "Bash(python scripts/calc_content_area.py \"data/huaxia-hot-citc/modules/08-热点速递.json\" --exclude-ids \"0:20,0:21,0:26,0:36,0:46\")",
+      "Bash(python scripts/calc_content_area.py \"data/huaxia-hot-citc/modules/02-产品推荐理由A.json\" --exclude-ids \"0:69,0:74,0:83\")",
+      "Bash(python scripts/_gen_step2_v3.py)",
+      "Bash(python scripts/calc_content_area.py \"data/huaxia-hot-citc/modules/07-风险警告.json\" --exclude-ids \"0:411,0:426,0:430,0:434,0:438\")",
+      "Bash(python scripts/step3_generate_css.py --step2 data/huaxia-hot-citc/output/slots-definition.json --modules data/huaxia-hot-citc/modules --output data/huaxia-hot-citc/output/assets/styles/components.css)",
+      "Bash(python3:*)",
+      "Bash(python:*)",
+      "Bash(rm -rf .git)",
+      "Bash(git init:*)",
+      "Bash(git remote:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}

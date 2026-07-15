@@ -1,0 +1,33 @@
+{
+  "sectionIndex": 67,
+  "section": {
+    "id": "0:387",
+    "name": "矩形 9",
+    "type": "LAYER"
+  },
+  "dsl": {
+    "styles": {
+      "paint_0:972": {
+        "value": [
+          "#1A1C1B"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "LAYER",
+        "id": "0:387",
+        "name": "矩形 9",
+        "layoutStyle": {
+          "width": 3.0439488887786865,
+          "height": 2.6961684226989746,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "fill": "paint_0:972"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

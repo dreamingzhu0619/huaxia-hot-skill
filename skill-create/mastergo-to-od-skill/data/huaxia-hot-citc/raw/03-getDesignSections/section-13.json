@@ -1,0 +1,117 @@
+{
+  "sectionIndex": 13,
+  "section": {
+    "id": "0:170",
+    "name": "图标小标题",
+    "type": "GROUP"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:456": {
+        "value": []
+      },
+      "font_0:668": {
+        "value": {
+          "family": "MiSans-Demibold",
+          "size": 46,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "46",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "600"
+        }
+      },
+      "paint_0:670": {
+        "value": [
+          "#6D2807"
+        ]
+      },
+      "paint_0:673": {
+        "value": [
+          "#FC4441"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "GROUP",
+        "id": "0:170",
+        "name": "图标小标题",
+        "layoutStyle": {
+          "width": 860,
+          "height": 46,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "GROUP",
+            "id": "0:171",
+            "name": "红利低波组合的投资逻辑",
+            "layoutStyle": {
+              "width": 0,
+              "height": 46,
+              "relativeX": 172.42800903320312,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "TEXT",
+                "id": "0:172",
+                "name": "红利低波组合的投资逻辑",
+                "layoutStyle": {
+                  "width": 515,
+                  "height": 46,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "effect": "effect_0:456",
+                "text": [
+                  {
+                    "text": "红利低波组合的投资逻辑",
+                    "font": "font_0:668"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 11,
+                    "color": "paint_0:670"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              }
+            ]
+          },
+          {
+            "type": "LAYER",
+            "id": "0:175",
+            "name": "矩形 1005",
+            "layoutStyle": {
+              "width": 151,
+              "height": 4,
+              "relativeX": 709,
+              "relativeY": 18.462890625
+            },
+            "fill": "paint_0:673"
+          },
+          {
+            "type": "LAYER",
+            "id": "0:176",
+            "name": "矩形 1005 拷贝",
+            "layoutStyle": {
+              "width": 151,
+              "height": 4,
+              "relativeX": 0,
+              "relativeY": 18.462890625
+            },
+            "fill": "paint_0:673"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 5
+}

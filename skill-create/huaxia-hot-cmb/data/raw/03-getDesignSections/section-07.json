@@ -1,0 +1,58 @@
+{
+  "sectionIndex": 7,
+  "section": {
+    "id": "0:1003",
+    "name": "年份",
+    "type": "TEXT"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:319": {
+        "value": {
+          "family": "FZLTZHJW--GB1",
+          "size": 10,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "-0.20000000298023224px"
+        }
+      },
+      "paint_0:321": {
+        "value": [
+          "#666666"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:1003",
+        "name": "年份",
+        "layoutStyle": {
+          "width": 20,
+          "height": 14,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "年份",
+            "font": "font_0:319"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 2,
+            "color": "paint_0:321"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

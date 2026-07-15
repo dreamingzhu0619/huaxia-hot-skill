@@ -1,0 +1,71 @@
+{
+  "sectionIndex": 73,
+  "section": {
+    "id": "2:836",
+    "name": "风险提示",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:648": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 10,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "15",
+          "letterSpacing": "-0.20000000298023224px"
+        }
+      },
+      "paint_0:650": {
+        "value": [
+          "#81B8EB"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "2:836",
+        "name": "风险提示",
+        "layoutStyle": {
+          "width": 357,
+          "height": 121,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "TEXT",
+            "id": "0:1256",
+            "name": "风险提示",
+            "layoutStyle": {
+              "width": 357,
+              "height": 121,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "text": [
+              {
+                "text": "T73|0:1256",
+                "font": "font_0:648"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 260,
+                "color": "paint_0:650"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 2
+}

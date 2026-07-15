@@ -1,0 +1,177 @@
+/* 05-buy-fund-cmb.json  买基金 来招行
+   由 getDsl 生成；mix-blend-mode/overflow/object-fit 取自 d2cCss。
+   根 .m-05-buy-fund-cmb，其余节点 .n-{id}。共 15 条规则。 */
+/* 0:1208 买基金 来招行 [FRAME]  svg=assets.svgs[0:1208] */
+.m-05-buy-fund-cmb {
+  position: relative;
+  width: 357px;
+  height: 71px;
+}
+
+/* 0:1210 矩形 [LAYER] */
+.n-0-1210 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width: 357px;
+  height: 71px;
+  background-image: linear-gradient(180deg, #FFE4C6 0%, #FFFFFF 35%);
+  border-radius: 6.67px;
+  box-shadow: inset 0px 1px 0px 0px #FFFFFF, 0px 2px 4px 0px rgba(246, 207, 173, 0.5);
+}
+
+/* 0:1211 矩形 [LAYER] */
+.n-0-1211 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+  width: 357px;
+  height: 38px;
+  box-sizing: border-box;
+  background-image: linear-gradient(90deg, #FF8F41 0%, #FF3500 100%);
+  border: 1px solid #FFFFFF;
+  border-radius: 6.67px;
+}
+
+/* 0:1213 买基金 来招行 [FRAME]  svg=assets.svgs[0:1213] */
+.n-0-1213 {
+  position: absolute;
+  left: 111px;
+  top: 9px;
+  z-index: 2;
+  width: 136px;
+  height: 20px;
+}
+
+/* 0:1214 形状 [PATH]  PATH→内联SVG */
+.n-0-1214 {
+  position: absolute;
+  left: 0px;
+  top: 0.85px;
+  z-index: 0;
+  width: 19.6px;
+  height: 19.1px;
+  background-color: #FFFFFF;
+}
+
+/* 0:1220 形状 [PATH]  PATH→内联SVG */
+.n-0-1220 {
+  position: absolute;
+  left: 21.95px;
+  top: 0.11px;
+  z-index: 1;
+  width: 19.6px;
+  height: 19.3px;
+  background-color: #FFFFFF;
+}
+
+/* 0:1227 形状 [PATH]  PATH→内联SVG */
+.n-0-1227 {
+  position: absolute;
+  left: 43.77px;
+  top: 0px;
+  z-index: 2;
+  width: 19.86px;
+  height: 19.41px;
+  background-color: #FFFFFF;
+}
+
+/* 0:1233 形状 [PATH]  PATH→内联SVG */
+.n-0-1233 {
+  position: absolute;
+  left: 72.46px;
+  top: 0.18px;
+  z-index: 3;
+  width: 19.38px;
+  height: 19.82px;
+  background-color: #FFFFFF;
+}
+
+/* 0:1238 形状 [PATH]  PATH→内联SVG */
+.n-0-1238 {
+  position: absolute;
+  left: 94.1px;
+  top: 0.22px;
+  z-index: 4;
+  width: 19.45px;
+  height: 19.7px;
+  background-color: #FFFFFF;
+}
+
+/* 0:1244 形状 [PATH]  PATH→内联SVG */
+.n-0-1244 {
+  position: absolute;
+  left: 116.34px;
+  top: 0.26px;
+  z-index: 5;
+  width: 19.66px;
+  height: 19.72px;
+  background-color: #FFFFFF;
+}
+
+/* 0:1250 路径 2 [PATH]  PATH→内联SVG */
+.n-0-1250 {
+  position: absolute;
+  left: 111.84px;
+  top: 12.32px;
+  z-index: 3;
+  width: 14px;
+  height: 17px;
+  background-image: linear-gradient(219deg, #FEFFB3 1%, #FFB75C 100%);
+  box-shadow: inset -0.4px 0px 0px 0px #FFFFFF;
+}
+
+/* 0:1252 费率低 品类全 策略优 服务好 [TEXT] */
+.n-0-1252 {
+  position: absolute;
+  left: 43px;
+  top: 44px;
+  z-index: 4;
+  width: 273px;
+  height: 25px;
+  font-family: FZLTHJW--GB1;
+  font-size: 17px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  white-space: nowrap;
+  color: #EE0815;
+}
+
+/* 0:1253 路径 12备份 [PATH]  PATH→内联SVG */
+.n-0-1253 {
+  position: absolute;
+  left: 178.07px;
+  top: 45.5px;
+  z-index: 5;
+  width: 0.33px;
+  height: 16px;
+  opacity: 0.599;
+  background-color: #7A4210;
+}
+
+/* 0:1254 路径 12备份 [PATH]  PATH→内联SVG */
+.n-0-1254 {
+  position: absolute;
+  left: 105.41px;
+  top: 45.5px;
+  z-index: 6;
+  width: 0.33px;
+  height: 16px;
+  opacity: 0.599;
+  background-color: #7A4210;
+}
+
+/* 0:1255 路径 12备份 [PATH]  PATH→内联SVG */
+.n-0-1255 {
+  position: absolute;
+  left: 252.07px;
+  top: 45.5px;
+  z-index: 7;
+  width: 0.33px;
+  height: 16px;
+  opacity: 0.602;
+  background-color: #7A4210;
+}

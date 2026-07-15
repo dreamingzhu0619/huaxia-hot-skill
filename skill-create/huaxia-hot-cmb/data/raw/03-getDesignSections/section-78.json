@@ -1,0 +1,244 @@
+{
+  "sectionIndex": 78,
+  "section": {
+    "id": "0:1320",
+    "name": "现在怎么投？",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:726": {
+        "value": [
+          "box-shadow: 0px 1px 0px 0px #FFFFFF;"
+        ]
+      },
+      "font_0:729": {
+        "value": {
+          "family": "FZZDHJW--GB1",
+          "size": 25,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "37.5639533996582",
+          "letterSpacing": "auto"
+        }
+      },
+      "paint_0:11": {
+        "value": []
+      },
+      "paint_0:270": {
+        "value": []
+      },
+      "paint_0:295": {
+        "value": []
+      },
+      "paint_0:702": {
+        "value": [
+          "#2577E8"
+        ]
+      },
+      "paint_0:706": {
+        "value": [
+          "linear-gradient(270deg, #2979E8 0%, rgba(37, 119, 232, 0) 99%)"
+        ]
+      },
+      "paint_0:710": {
+        "value": [
+          "#2577E8"
+        ]
+      },
+      "paint_0:715": {
+        "value": [
+          "#2577E8"
+        ]
+      },
+      "paint_0:718": {
+        "value": [
+          "linear-gradient(270deg, #2979E8 0%, rgba(37, 119, 232, 0) 99%)"
+        ]
+      },
+      "paint_0:722": {
+        "value": [
+          "linear-gradient(277deg, #1593FF 2%, #005FFF 95%)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1320",
+        "name": "现在怎么投？",
+        "layoutStyle": {
+          "width": 325.4497375488281,
+          "height": 37.5639533996582,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "FRAME",
+            "id": "0:1321",
+            "name": "编组 8",
+            "layoutStyle": {
+              "width": 92.44974517822266,
+              "height": 9.899495124816895,
+              "relativeX": 0,
+              "relativeY": 11
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:1322",
+                "name": "矩形",
+                "layoutStyle": {
+                  "width": 7,
+                  "height": 7,
+                  "relativeX": 80,
+                  "relativeY": 1.45,
+                  "rotate": 45
+                },
+                "fill": "paint_0:295",
+                "strokeColor": "paint_0:702",
+                "strokeType": "solid",
+                "strokeAlign": "inside",
+                "strokeWidth": "0.699999988079071px"
+              },
+              {
+                "type": "PATH",
+                "id": "0:1323",
+                "name": "直线",
+                "layoutStyle": {
+                  "width": 79,
+                  "relativeX": 0,
+                  "relativeY": 4.449747562408447
+                },
+                "path": [
+                  {
+                    "fill": "linear-gradient(270deg, #2979E8 0%, rgba(37, 119, 232, 0) 99%)",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "LAYER",
+                "id": "0:1324",
+                "name": "矩形",
+                "layoutStyle": {
+                  "width": 7,
+                  "height": 7,
+                  "relativeX": 84,
+                  "relativeY": 1.45,
+                  "rotate": 45
+                },
+                "fill": "paint_0:710",
+                "strokeColor": "paint_0:11",
+                "strokeType": "solid",
+                "strokeAlign": "inside",
+                "strokeWidth": "1px"
+              }
+            ]
+          },
+          {
+            "type": "FRAME",
+            "id": "0:1325",
+            "name": "编组 8",
+            "layoutStyle": {
+              "width": 92.44974517822266,
+              "height": 9.899495124816895,
+              "relativeX": 233,
+              "relativeY": 11,
+              "rotate": 180,
+              "rotateX": 180
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:1326",
+                "name": "矩形",
+                "layoutStyle": {
+                  "width": 7,
+                  "height": 7,
+                  "relativeX": 80,
+                  "relativeY": 1.45,
+                  "rotate": 45
+                },
+                "fill": "paint_0:295",
+                "strokeColor": "paint_0:715",
+                "strokeType": "solid",
+                "strokeAlign": "inside",
+                "strokeWidth": "0.699999988079071px"
+              },
+              {
+                "type": "PATH",
+                "id": "0:1327",
+                "name": "直线",
+                "layoutStyle": {
+                  "width": 79,
+                  "relativeX": 0,
+                  "relativeY": 4.449747562408447
+                },
+                "path": [
+                  {
+                    "fill": "linear-gradient(270deg, #2979E8 0%, rgba(37, 119, 232, 0) 99%)",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "LAYER",
+                "id": "0:1328",
+                "name": "矩形",
+                "layoutStyle": {
+                  "width": 7,
+                  "height": 7,
+                  "relativeX": 84,
+                  "relativeY": 1.45,
+                  "rotate": 45
+                },
+                "fill": "paint_0:715",
+                "strokeColor": "paint_0:11",
+                "strokeType": "solid",
+                "strokeAlign": "inside",
+                "strokeWidth": "1px"
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1329",
+            "name": "相关产品",
+            "layoutStyle": {
+              "width": 150,
+              "height": 38,
+              "relativeX": 88,
+              "relativeY": 0
+            },
+            "strokeColor": "paint_0:270",
+            "strokeType": "solid",
+            "strokeAlign": "outside",
+            "strokeWidth": "0.5366278886795044px",
+            "effect": "effect_0:726",
+            "text": [
+              {
+                "text": "相关产品",
+                "font": "font_0:729"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 4,
+                "color": "paint_0:722"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "auto-height"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 10,
+  "svgNodeCount": 2
+}

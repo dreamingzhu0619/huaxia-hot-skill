@@ -1,0 +1,776 @@
+{
+  "sectionIndex": 28,
+  "section": {
+    "id": "4:0628",
+    "name": "组 5820",
+    "type": "GROUP"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:456": {
+        "value": []
+      },
+      "effect_0:610": {
+        "value": [
+          "box-shadow: inset 0.68px -12.98px 13px 0px rgba(202, 156, 78, 0.3412);"
+        ]
+      },
+      "effect_0:635": {
+        "value": [
+          "box-shadow: inset -0.96px -10.96px 18px 0px rgba(203, 47, 41, 0.4902);"
+        ]
+      },
+      "font_0:614": {
+        "value": {
+          "family": "MiSans-Bold",
+          "size": 41,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "41",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "700"
+        }
+      },
+      "font_0:668": {
+        "value": {
+          "family": "MiSans-Demibold",
+          "size": 46,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "46",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "600"
+        }
+      },
+      "font_0:675": {
+        "value": {
+          "family": "MiSans-Regular",
+          "size": 26,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "26",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "400"
+        }
+      },
+      "font_0:776": {
+        "value": {
+          "family": "MiSans-Regular",
+          "size": 30.30545997619629,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "30.30545997619629",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "400"
+        }
+      },
+      "font_0:777": {
+        "value": {
+          "family": "MiSans-Bold",
+          "size": 30.30545997619629,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "30.30545997619629",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "700"
+        }
+      },
+      "font_0:782": {
+        "value": {
+          "family": "MiSans-Demibold",
+          "size": 30.30545997619629,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "30.30545997619629",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "600"
+        }
+      },
+      "font_0:785": {
+        "value": {
+          "family": "MiSans-Demibold",
+          "size": 30,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "auto",
+          "letterSpacing": "-4.5%",
+          "weight": "600"
+        }
+      },
+      "font_0:786": {
+        "value": {
+          "family": "MiSans-Regular",
+          "size": 30,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "auto",
+          "letterSpacing": "-4.5%",
+          "weight": "400"
+        }
+      },
+      "paint_0:522": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:633": {
+        "value": [
+          "linear-gradient(0deg, #FD1513 -25%, #FD1513 -23%, #FE443D 47%, #FF7267 95%, #FF7267 125%)"
+        ]
+      },
+      "paint_0:767": {
+        "value": [
+          "#AA785D"
+        ]
+      },
+      "paint_0:768": {
+        "value": [
+          "linear-gradient(6deg, #FFF5E6 -20%, #FFF5E6 47%, #FFF5E6 93%, #FFF5E6 120%)"
+        ]
+      },
+      "paint_0:771": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:772": {
+        "value": [
+          "#FFE7BD"
+        ]
+      },
+      "paint_0:774": {
+        "value": [
+          "#FE403A"
+        ]
+      },
+      "paint_0:779": {
+        "value": [
+          "#6D2807"
+        ]
+      },
+      "paint_0:781": {
+        "value": [
+          "#FE403A"
+        ]
+      },
+      "paint_0:784": {
+        "value": [
+          "#6D2807"
+        ]
+      },
+      "paint_0:788": {
+        "value": [
+          "#E5372C"
+        ]
+      },
+      "paint_0:790": {
+        "value": [
+          "#6D2807"
+        ]
+      },
+      "paint_0:793": {
+        "value": [
+          "linear-gradient(359deg, #FFD187 -20%, #FFDFA6 64%, #FEEDC5 120%)"
+        ]
+      },
+      "paint_0:796": {
+        "value": [
+          "#6D2121"
+        ]
+      },
+      "paint_0:797": {
+        "value": [
+          "#FFAEAE"
+        ]
+      },
+      "paint_0:799": {
+        "value": [
+          "#F6CA85"
+        ]
+      },
+      "paint_0:802": {
+        "value": [
+          "#6D2807"
+        ]
+      },
+      "paint_0:804": {
+        "value": [
+          "#FE403A"
+        ]
+      },
+      "paint_0:806": {
+        "value": [
+          "#6D2807"
+        ]
+      },
+      "paint_0:808": {
+        "value": [
+          "#E5372C"
+        ]
+      },
+      "paint_0:810": {
+        "value": [
+          "#6D2807"
+        ]
+      },
+      "paint_0:814": {
+        "value": [
+          "#6D2807"
+        ]
+      },
+      "paint_0:817": {
+        "value": [
+          "linear-gradient(270deg, #FC4441 0%, rgba(255, 255, 255, 0) 50%)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "GROUP",
+        "id": "4:0628",
+        "name": "组 5820",
+        "layoutStyle": {
+          "width": 1069,
+          "height": 797.4677734375,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "TEXT",
+            "id": "0:255",
+            "name": "数据来源：Wind，截至2026.3.31，中上协行业·股票家数统计。",
+            "layoutStyle": {
+              "width": 753,
+              "height": 26,
+              "relativeX": 44.53099822998047,
+              "relativeY": 771.4677734375
+            },
+            "text": [
+              {
+                "text": "数据来源：Wind，截至2026.3.31，中上协行业·股票家数统计。",
+                "font": "font_0:675"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 35,
+                "color": "paint_0:767"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line"
+          },
+          {
+            "type": "GROUP",
+            "id": "0:256",
+            "name": "组 5808 拷贝 2",
+            "layoutStyle": {
+              "width": 547.8900146484375,
+              "height": 5186.42333984375,
+              "relativeX": 29.110000610351562,
+              "relativeY": 82.453125
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:257",
+                "name": "矩形 1001",
+                "layoutStyle": {
+                  "width": 495.7799987792969,
+                  "height": 662.010009765625,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "opacity": 0.6800000071525574,
+                "borderRadius": "25px",
+                "fill": "paint_0:768",
+                "strokeColor": "paint_0:522",
+                "strokeType": "solid",
+                "strokeAlign": "center",
+                "strokeWidth": "1px"
+              },
+              {
+                "type": "GROUP",
+                "id": "0:258",
+                "name": "组 5818",
+                "layoutStyle": {
+                  "width": 278.989990234375,
+                  "height": 69,
+                  "relativeX": 108.89999389648438,
+                  "relativeY": 26.009765625
+                },
+                "children": [
+                  {
+                    "type": "LAYER",
+                    "id": "0:259",
+                    "name": "矩形 1006 拷贝 14",
+                    "layoutStyle": {
+                      "width": 278.989990234375,
+                      "height": 69,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "borderRadius": "22px",
+                    "fill": "paint_0:633",
+                    "effect": "effect_0:635"
+                  },
+                  {
+                    "type": "TEXT",
+                    "id": "0:260",
+                    "name": "红利资产",
+                    "layoutStyle": {
+                      "width": 167,
+                      "height": 41,
+                      "relativeX": 56.881011962890625,
+                      "relativeY": 15
+                    },
+                    "text": [
+                      {
+                        "text": "红利资产",
+                        "font": "font_0:614"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 4,
+                        "color": "paint_0:771"
+                      }
+                    ],
+                    "textAlign": "left",
+                    "textMode": "single-line"
+                  }
+                ]
+              },
+              {
+                "type": "SVG_ELLIPSE",
+                "id": "0:261",
+                "name": "椭圆 560",
+                "layoutStyle": {
+                  "width": 267.8800048828125,
+                  "height": 267.8800048828125,
+                  "relativeX": 113.66000366210938,
+                  "relativeY": 210.56982421875
+                },
+                "strokeColor": "paint_0:772",
+                "strokeType": "solid",
+                "strokeAlign": "center",
+                "strokeWidth": "1px"
+              },
+              {
+                "type": "PATH",
+                "id": "0:262",
+                "name": "椭圆 560 拷贝 2",
+                "layoutStyle": {
+                  "width": 241.07078552246094,
+                  "height": 267.88671875,
+                  "relativeX": 113.65890502929688,
+                  "relativeY": 210.56640625
+                },
+                "path": [
+                  {
+                    "fill": "#FE403A",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "TEXT",
+                "id": "0:263",
+                "name": "占比超\n60%",
+                "layoutStyle": {
+                  "width": 93,
+                  "height": 61,
+                  "relativeX": 201.9290008544922,
+                  "relativeY": 315.19482421875
+                },
+                "text": [
+                  {
+                    "text": "占比超\n",
+                    "font": "font_0:776"
+                  },
+                  {
+                    "text": "60%",
+                    "font": "font_0:777"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:779"
+                  },
+                  {
+                    "start": 4,
+                    "end": 7,
+                    "color": "paint_0:781"
+                  }
+                ],
+                "textAlign": "center",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:264",
+                "name": "持股超380家",
+                "layoutStyle": {
+                  "width": 184,
+                  "height": 31,
+                  "relativeX": 157.12599182128906,
+                  "relativeY": 110.19482421875
+                },
+                "text": [
+                  {
+                    "text": "持股超380家",
+                    "font": "font_0:782"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 7,
+                    "color": "paint_0:784"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:265",
+                "name": "代表板块：化工，银行，交运，食品饮料，公用事业，房地产等。",
+                "layoutStyle": {
+                  "width": 464.97369384765625,
+                  "height": 129.1645965576172,
+                  "relativeX": 15.125999450683594,
+                  "relativeY": 553.2685546875
+                },
+                "text": [
+                  {
+                    "text": "代表板块",
+                    "font": "font_0:785"
+                  },
+                  {
+                    "text": "：化工，银行，交运，食品饮料，公用事业，房地产等。",
+                    "font": "font_0:786"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:788"
+                  },
+                  {
+                    "start": 4,
+                    "end": 29,
+                    "color": "paint_0:790"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              }
+            ]
+          },
+          {
+            "type": "GROUP",
+            "id": "0:268",
+            "name": "组 5808 拷贝 3",
+            "layoutStyle": {
+              "width": 1069.8900146484375,
+              "height": 5186.42333984375,
+              "relativeX": 551.1099853515625,
+              "relativeY": 82.453125
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:269",
+                "name": "矩形 1001",
+                "layoutStyle": {
+                  "width": 495.7799987792969,
+                  "height": 662.010009765625,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "opacity": 0.6800000071525574,
+                "borderRadius": "25px",
+                "fill": "paint_0:768",
+                "strokeColor": "paint_0:522",
+                "strokeType": "solid",
+                "strokeAlign": "center",
+                "strokeWidth": "1px"
+              },
+              {
+                "type": "GROUP",
+                "id": "0:270",
+                "name": "组 5818",
+                "layoutStyle": {
+                  "width": 278.010009765625,
+                  "height": 69,
+                  "relativeX": 109.8900146484375,
+                  "relativeY": 26.009765625
+                },
+                "children": [
+                  {
+                    "type": "LAYER",
+                    "id": "0:271",
+                    "name": "矩形 1006 拷贝 14",
+                    "layoutStyle": {
+                      "width": 278.010009765625,
+                      "height": 69,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "borderRadius": "22px",
+                    "fill": "paint_0:793",
+                    "effect": "effect_0:610"
+                  },
+                  {
+                    "type": "TEXT",
+                    "id": "0:272",
+                    "name": "科技资产",
+                    "layoutStyle": {
+                      "width": 167,
+                      "height": 41,
+                      "relativeX": 55.8909912109375,
+                      "relativeY": 15
+                    },
+                    "text": [
+                      {
+                        "text": "科技资产",
+                        "font": "font_0:614"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 4,
+                        "color": "paint_0:796"
+                      }
+                    ],
+                    "textAlign": "left",
+                    "textMode": "single-line"
+                  }
+                ]
+              },
+              {
+                "type": "SVG_ELLIPSE",
+                "id": "0:273",
+                "name": "椭圆 560",
+                "layoutStyle": {
+                  "width": 267.8800048828125,
+                  "height": 267.8800048828125,
+                  "relativeX": 113.6600341796875,
+                  "relativeY": 210.56982421875
+                },
+                "opacity": 0.3199999928474426,
+                "strokeColor": "paint_0:797",
+                "strokeType": "solid",
+                "strokeAlign": "center",
+                "strokeWidth": "1px"
+              },
+              {
+                "type": "PATH",
+                "id": "0:274",
+                "name": "椭圆 560 拷贝",
+                "layoutStyle": {
+                  "width": 133.9434814453125,
+                  "height": 214.35888671875,
+                  "relativeX": 247.6024169921875,
+                  "relativeY": 210.56640625
+                },
+                "path": [
+                  {
+                    "fill": "#F6CA85",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "TEXT",
+                "id": "0:275",
+                "name": "占比超\n31%",
+                "layoutStyle": {
+                  "width": 93,
+                  "height": 61,
+                  "relativeX": 199.9290771484375,
+                  "relativeY": 315.19482421875
+                },
+                "text": [
+                  {
+                    "text": "占比超\n",
+                    "font": "font_0:776"
+                  },
+                  {
+                    "text": "31%",
+                    "font": "font_0:777"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:802"
+                  },
+                  {
+                    "start": 4,
+                    "end": 7,
+                    "color": "paint_0:804"
+                  }
+                ],
+                "textAlign": "center",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:276",
+                "name": "持股超200家",
+                "layoutStyle": {
+                  "width": 183,
+                  "height": 31,
+                  "relativeX": 157.12603759765625,
+                  "relativeY": 110.19482421875
+                },
+                "text": [
+                  {
+                    "text": "持股超200家",
+                    "font": "font_0:782"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 7,
+                    "color": "paint_0:806"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:277",
+                "name": "代表板块：硬件设备、电气设备、机械、半导体、软件服务等。",
+                "layoutStyle": {
+                  "width": 464.97369384765625,
+                  "height": 129.1645965576172,
+                  "relativeX": 15.12603759765625,
+                  "relativeY": 553.2685546875
+                },
+                "text": [
+                  {
+                    "text": "代表板块",
+                    "font": "font_0:785"
+                  },
+                  {
+                    "text": "：硬件设备、电气设备、机械、半导体、软件服务等。",
+                    "font": "font_0:786"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:808"
+                  },
+                  {
+                    "start": 4,
+                    "end": 28,
+                    "color": "paint_0:810"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              }
+            ]
+          },
+          {
+            "type": "GROUP",
+            "id": "4:0627",
+            "name": "组 5819",
+            "layoutStyle": {
+              "width": 1069,
+              "height": 46,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "GROUP",
+                "id": "0:280",
+                "name": "一季度保险公司持股汇总（按行业）",
+                "layoutStyle": {
+                  "width": 0,
+                  "height": 46,
+                  "relativeX": 179.42799377441406,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "TEXT",
+                    "id": "0:281",
+                    "name": "一季度保险公司持股汇总（按行业）",
+                    "layoutStyle": {
+                      "width": 749,
+                      "height": 46,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "effect": "effect_0:456",
+                    "text": [
+                      {
+                        "text": "一季度保险公司持股汇总（按行业）",
+                        "font": "font_0:668"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 16,
+                        "color": "paint_0:814"
+                      }
+                    ],
+                    "textAlign": "left",
+                    "textMode": "single-line"
+                  }
+                ]
+              },
+              {
+                "type": "LAYER",
+                "id": "0:284",
+                "name": "矩形 1005 拷贝",
+                "layoutStyle": {
+                  "width": 151,
+                  "height": 4,
+                  "relativeX": 0,
+                  "relativeY": 19.462890625
+                },
+                "fill": "paint_0:817"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:314",
+                "name": "矩形 1005 拷贝",
+                "layoutStyle": {
+                  "width": 151,
+                  "height": 4,
+                  "relativeX": 918,
+                  "relativeY": 19.46,
+                  "rotate": 180,
+                  "rotateX": 180
+                },
+                "fill": "paint_0:817"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 27,
+  "svgNodeCount": 2
+}

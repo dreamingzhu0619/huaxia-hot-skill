@@ -1,0 +1,135 @@
+{
+  "getDsl": {
+    "node": [
+      "borderRadius",
+      "effect",
+      "fill",
+      "id",
+      "layoutStyle",
+      "layoutStyle.height",
+      "layoutStyle.relativeX",
+      "layoutStyle.relativeY",
+      "layoutStyle.rotate",
+      "layoutStyle.rotateX",
+      "layoutStyle.width",
+      "mask",
+      "name",
+      "opacity",
+      "path",
+      "path[]",
+      "path[].data",
+      "path[].fill",
+      "path[].transform",
+      "strokeAlign",
+      "strokeColor",
+      "strokeType",
+      "strokeWidth",
+      "text",
+      "textAlign",
+      "textColor",
+      "textColor[]",
+      "textColor[].color",
+      "textColor[].end",
+      "textColor[].start",
+      "textMode",
+      "text[]",
+      "text[].font",
+      "text[].text",
+      "type"
+    ],
+    "styles": {
+      "paint_": [
+        "value[]",
+        "value[].<color-string>",
+        "value[].filters",
+        "value[].url"
+      ],
+      "font_": [
+        "value.case",
+        "value.decoration",
+        "value.family",
+        "value.letterSpacing",
+        "value.lineHeight",
+        "value.size",
+        "value.style"
+      ],
+      "effect_": [
+        "value[]"
+      ]
+    }
+  },
+  "getD2c": {
+    "css": [
+      "-webkit-background-clip",
+      "-webkit-text-fill-color",
+      "background",
+      "background-clip",
+      "background-image",
+      "border",
+      "border-bottom-left-radius",
+      "border-radius",
+      "border-top-left-radius",
+      "bottom",
+      "box-shadow",
+      "color",
+      "filter",
+      "flex",
+      "font-family",
+      "font-size",
+      "height",
+      "left",
+      "letter-spacing",
+      "line-height",
+      "mix-blend-mode",
+      "object-fit",
+      "opacity",
+      "overflow",
+      "position",
+      "right",
+      "text-align",
+      "text-fill-color",
+      "text-shadow",
+      "top",
+      "transform",
+      "transform-origin",
+      "width",
+      "z-index"
+    ],
+    "payload": [
+      "fileInfo",
+      "frameType",
+      "image",
+      "resourcePath",
+      "shape",
+      "svg"
+    ]
+  },
+  "extractSvg": [
+    "id",
+    "name",
+    "svg"
+  ],
+  "getDesignSvgs": [
+    "svgs"
+  ],
+  "getDesignTexts": [
+    "texts"
+  ],
+  "getDesignSections.overview": [
+    "height",
+    "id",
+    "name",
+    "nodeCount",
+    "type",
+    "width",
+    "x",
+    "y"
+  ],
+  "getDesignSections.detail": [
+    "dsl",
+    "nodeCount",
+    "section",
+    "sectionIndex",
+    "svgNodeCount"
+  ]
+}

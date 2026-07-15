@@ -1,0 +1,251 @@
+{
+  "sectionIndex": 16,
+  "section": {
+    "id": "0:1012",
+    "name": "编组 4",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:341": {
+        "value": [
+          "box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5);"
+        ]
+      },
+      "paint_0:11": {
+        "value": []
+      },
+      "paint_0:339": {
+        "value": [
+          "#FFD282"
+        ]
+      },
+      "paint_0:346": {
+        "value": [
+          "#FFE3B5"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1012",
+        "name": "编组 4",
+        "layoutStyle": {
+          "width": 157,
+          "height": 16,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "LAYER",
+            "id": "0:1013",
+            "name": "矩形备份 2",
+            "layoutStyle": {
+              "width": 157,
+              "height": 16,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "mask": "outline",
+            "borderRadius": "8px",
+            "fill": "paint_0:339",
+            "strokeColor": "paint_0:11",
+            "strokeType": "solid",
+            "strokeAlign": "inside",
+            "strokeWidth": "1px",
+            "effect": "effect_0:341"
+          },
+          {
+            "type": "FRAME",
+            "id": "0:1014",
+            "name": "编组 2",
+            "layoutStyle": {
+              "width": 153.4881591796875,
+              "height": 16,
+              "relativeX": 4.511840343475342,
+              "relativeY": 0
+            },
+            "opacity": 0.6476963758468628,
+            "children": [
+              {
+                "type": "PATH",
+                "id": "0:1015",
+                "name": "矩形备份 3",
+                "layoutStyle": {
+                  "width": 18.4881591796875,
+                  "height": 16,
+                  "relativeX": 45,
+                  "relativeY": 0
+                },
+                "path": [
+                  {
+                    "fill": "#FFE3B5",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "PATH",
+                "id": "0:1016",
+                "name": "矩形备份 10",
+                "layoutStyle": {
+                  "width": 18.4881591796875,
+                  "height": 16,
+                  "relativeX": 105,
+                  "relativeY": 0
+                },
+                "path": [
+                  {
+                    "fill": "#FFE3B5",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "PATH",
+                "id": "0:1017",
+                "name": "矩形备份 14",
+                "layoutStyle": {
+                  "width": 18.4881591796875,
+                  "height": 16,
+                  "relativeX": 135,
+                  "relativeY": 0
+                },
+                "path": [
+                  {
+                    "fill": "#FFE3B5",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "PATH",
+                "id": "0:1018",
+                "name": "矩形备份 4",
+                "layoutStyle": {
+                  "width": 18.4881591796875,
+                  "height": 16,
+                  "relativeX": 30,
+                  "relativeY": 0
+                },
+                "path": [
+                  {
+                    "fill": "#FFE3B5",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "PATH",
+                "id": "0:1019",
+                "name": "矩形备份 11",
+                "layoutStyle": {
+                  "width": 18.4881591796875,
+                  "height": 16,
+                  "relativeX": 90,
+                  "relativeY": 0
+                },
+                "path": [
+                  {
+                    "fill": "#FFE3B5",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "PATH",
+                "id": "0:1020",
+                "name": "矩形备份 15",
+                "layoutStyle": {
+                  "width": 18.4881591796875,
+                  "height": 16,
+                  "relativeX": 120,
+                  "relativeY": 0
+                },
+                "path": [
+                  {
+                    "fill": "#FFE3B5",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "PATH",
+                "id": "0:1021",
+                "name": "矩形备份 5",
+                "layoutStyle": {
+                  "width": 18.4881591796875,
+                  "height": 16,
+                  "relativeX": 15,
+                  "relativeY": 0
+                },
+                "path": [
+                  {
+                    "fill": "#FFE3B5",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "PATH",
+                "id": "0:1022",
+                "name": "矩形备份 12",
+                "layoutStyle": {
+                  "width": 18.4881591796875,
+                  "height": 16,
+                  "relativeX": 75,
+                  "relativeY": 0
+                },
+                "path": [
+                  {
+                    "fill": "#FFE3B5",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "PATH",
+                "id": "0:1023",
+                "name": "矩形备份 6",
+                "layoutStyle": {
+                  "width": 18.4881591796875,
+                  "height": 16,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "path": [
+                  {
+                    "fill": "#FFE3B5",
+                    "data": ""
+                  }
+                ]
+              },
+              {
+                "type": "PATH",
+                "id": "0:1024",
+                "name": "矩形备份 13",
+                "layoutStyle": {
+                  "width": 18.4881591796875,
+                  "height": 16,
+                  "relativeX": 60,
+                  "relativeY": 9.094947017729282e-13
+                },
+                "path": [
+                  {
+                    "fill": "#FFE3B5",
+                    "data": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 13,
+  "svgNodeCount": 1
+}

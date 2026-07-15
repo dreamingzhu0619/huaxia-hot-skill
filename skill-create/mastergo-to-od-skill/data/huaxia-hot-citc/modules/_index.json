@@ -1,0 +1,343 @@
+{
+  "meta": {
+    "projectName": "huaxia-hot-citc",
+    "fileId": "195066566304017",
+    "layerId": "0:3",
+    "rootNodeId": "0:3",
+    "rootNodeName": "Canvas",
+    "splitAt": "2026-07-13T17:07:52.059052+08:00",
+    "moduleCount": 9,
+    "totalNodes": 381,
+    "totalTexts": 82,
+    "totalImages": 53,
+    "page": {
+      "width": 1125.0,
+      "height": 8108.0,
+      "background": "rgba(0,0,0,0)"
+    },
+    "d2cUnmatchedFragments": 0
+  },
+  "modules": [
+    {
+      "fileName": "00-背景图.json",
+      "moduleIndex": 0,
+      "moduleId": "13:393",
+      "moduleName": "背景图",
+      "slug": "背景图",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "width": 1125,
+        "height": 8108
+      },
+      "nodeCount": 3,
+      "textCount": 0,
+      "imageCount": 0,
+      "assetCounts": {
+        "bitmaps": 0,
+        "svgs": 0,
+        "d2cSvgIcons": 1,
+        "d2cExportImages": 0
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        0
+      ]
+    },
+    {
+      "fileName": "01-产品卡.json",
+      "moduleIndex": 1,
+      "moduleId": "13:390",
+      "moduleName": "产品卡",
+      "slug": "产品卡",
+      "position": {
+        "x": 24.989999771118164,
+        "y": 1182.010009765625,
+        "width": 1075.02001953125,
+        "height": 530.97998046875
+      },
+      "nodeCount": 18,
+      "textCount": 6,
+      "imageCount": 0,
+      "assetCounts": {
+        "bitmaps": 0,
+        "svgs": 0,
+        "d2cSvgIcons": 0,
+        "d2cExportImages": 0
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        1
+      ]
+    },
+    {
+      "fileName": "02-产品推荐理由A.json",
+      "moduleIndex": 2,
+      "moduleId": "13:387",
+      "moduleName": "产品推荐理由A",
+      "slug": "产品推荐理由A",
+      "position": {
+        "x": 25,
+        "y": 1764.7900390625,
+        "width": 1076,
+        "height": 1065.449951171875
+      },
+      "nodeCount": 92,
+      "textCount": 19,
+      "imageCount": 17,
+      "assetCounts": {
+        "bitmaps": 3,
+        "svgs": 9,
+        "d2cSvgIcons": 4,
+        "d2cExportImages": 3
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "fileName": "03-产品推荐理由B.json",
+      "moduleIndex": 3,
+      "moduleId": "13:388",
+      "moduleName": "产品推荐理由B",
+      "slug": "产品推荐理由B",
+      "position": {
+        "x": 25,
+        "y": 2883.8798828125,
+        "width": 1076,
+        "height": 1065.22021484375
+      },
+      "nodeCount": 62,
+      "textCount": 21,
+      "imageCount": 3,
+      "assetCounts": {
+        "bitmaps": 1,
+        "svgs": 2,
+        "d2cSvgIcons": 3,
+        "d2cExportImages": 1
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "fileName": "04-产品推荐理由C.json",
+      "moduleIndex": 4,
+      "moduleId": "13:389",
+      "moduleName": "产品推荐理由C",
+      "slug": "产品推荐理由C",
+      "position": {
+        "x": 17,
+        "y": 4001.8798828125,
+        "width": 1084,
+        "height": 1942.150390625
+      },
+      "nodeCount": 67,
+      "textCount": 23,
+      "imageCount": 4,
+      "assetCounts": {
+        "bitmaps": 1,
+        "svgs": 3,
+        "d2cSvgIcons": 6,
+        "d2cExportImages": 1
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "fileName": "05-营销头图.json",
+      "moduleIndex": 5,
+      "moduleId": "13:328",
+      "moduleName": "营销头图",
+      "slug": "营销头图",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "width": 1125,
+        "height": 939
+      },
+      "nodeCount": 13,
+      "textCount": 1,
+      "imageCount": 6,
+      "assetCounts": {
+        "bitmaps": 2,
+        "svgs": 4,
+        "d2cSvgIcons": 4,
+        "d2cExportImages": 2
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        29
+      ]
+    },
+    {
+      "fileName": "06-银行结束语.json",
+      "moduleIndex": 6,
+      "moduleId": "13:392",
+      "moduleName": "银行结束语",
+      "slug": "银行结束语",
+      "position": {
+        "x": 374.5145568847656,
+        "y": 7734.69189453125,
+        "width": 380.6289978027344,
+        "height": 204.30859375
+      },
+      "nodeCount": 53,
+      "textCount": 0,
+      "imageCount": 1,
+      "assetCounts": {
+        "bitmaps": 0,
+        "svgs": 1,
+        "d2cSvgIcons": 1,
+        "d2cExportImages": 0
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ]
+    },
+    {
+      "fileName": "07-风险警告.json",
+      "moduleIndex": 7,
+      "moduleId": "13:391",
+      "moduleName": "风险警告",
+      "slug": "风险警告",
+      "position": {
+        "x": 34,
+        "y": 5987.20849609375,
+        "width": 1057,
+        "height": 1712.1669921875
+      },
+      "nodeCount": 43,
+      "textCount": 9,
+      "imageCount": 7,
+      "assetCounts": {
+        "bitmaps": 0,
+        "svgs": 6,
+        "d2cSvgIcons": 5,
+        "d2cExportImages": 0
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94
+      ]
+    },
+    {
+      "fileName": "08-热点速递.json",
+      "moduleIndex": 8,
+      "moduleId": "13:386",
+      "moduleName": "热点速递",
+      "slug": "热点速递",
+      "position": {
+        "x": 19.265174865722656,
+        "y": 486.9232177734375,
+        "width": 1081.75048828125,
+        "height": 644.0767822265625
+      },
+      "nodeCount": 30,
+      "textCount": 3,
+      "imageCount": 15,
+      "assetCounts": {
+        "bitmaps": 4,
+        "svgs": 6,
+        "d2cSvgIcons": 5,
+        "d2cExportImages": 4
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        95
+      ]
+    }
+  ]
+}

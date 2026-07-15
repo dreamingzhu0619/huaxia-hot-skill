@@ -1,0 +1,163 @@
+{
+  "sectionIndex": 19,
+  "section": {
+    "id": "0:195",
+    "name": "组 5806",
+    "type": "GROUP"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:706": {
+        "value": {
+          "family": "MiSans-Demibold",
+          "size": 22.04014015197754,
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "22.04014015197754",
+          "letterSpacing": "1.7999999523162842%",
+          "weight": "600"
+        }
+      },
+      "paint_0:702": {
+        "value": [
+          "linear-gradient(90deg, #FFBD9C 0%, #FF2B2B 100%)"
+        ]
+      },
+      "paint_0:708": {
+        "value": [
+          "#6C2020"
+        ]
+      },
+      "paint_0:709": {
+        "value": [
+          "#DBAF90"
+        ]
+      },
+      "paint_0:712": {
+        "value": [
+          "#6C2020"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "GROUP",
+        "id": "0:195",
+        "name": "组 5806",
+        "layoutStyle": {
+          "width": 329.2440185546875,
+          "height": 22.04014015197754,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "GROUP",
+            "id": "0:196",
+            "name": "组 5805",
+            "layoutStyle": {
+              "width": 48.243988037109375,
+              "height": 22.04014015197754,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:197",
+                "name": "矩形 1007 拷贝",
+                "layoutStyle": {
+                  "width": 36,
+                  "height": 9,
+                  "relativeX": 0,
+                  "relativeY": 5.8330078125
+                },
+                "fill": "paint_0:702"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:198",
+                "name": "现金分红总额（亿）",
+                "layoutStyle": {
+                  "width": 202,
+                  "height": 23,
+                  "relativeX": 48.243988037109375,
+                  "relativeY": 0
+                },
+                "text": [
+                  {
+                    "text": "现金分红总额（亿）",
+                    "font": "font_0:706"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 9,
+                    "color": "paint_0:708"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              }
+            ]
+          },
+          {
+            "type": "GROUP",
+            "id": "0:199",
+            "name": "组 5805 拷贝",
+            "layoutStyle": {
+              "width": 48.2440185546875,
+              "height": 22.04014015197754,
+              "relativeX": 281,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:200",
+                "name": "矩形 1007 拷贝",
+                "layoutStyle": {
+                  "width": 36,
+                  "height": 6,
+                  "relativeX": 0,
+                  "relativeY": 7.8330078125
+                },
+                "borderRadius": "3px",
+                "fill": "paint_0:709"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:201",
+                "name": "股息支付率",
+                "layoutStyle": {
+                  "width": 112,
+                  "height": 23,
+                  "relativeX": 48.2440185546875,
+                  "relativeY": 0
+                },
+                "text": [
+                  {
+                    "text": "股息支付率",
+                    "font": "font_0:706"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 5,
+                    "color": "paint_0:712"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 7
+}

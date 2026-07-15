@@ -1,0 +1,392 @@
+{
+  "sectionIndex": 76,
+  "section": {
+    "id": "2:846",
+    "name": "表格一",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:670": {
+        "value": []
+      },
+      "effect_0:678": {
+        "value": []
+      },
+      "font_0:648": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 10,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "15",
+          "letterSpacing": "-0.20000000298023224px"
+        }
+      },
+      "font_0:654": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 9,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "font_0:660": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 9,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "16.200000762939453",
+          "letterSpacing": "auto"
+        }
+      },
+      "font_0:683": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 10,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "14",
+          "letterSpacing": "0.07287000119686127px"
+        }
+      },
+      "paint_0:650": {
+        "value": [
+          "#81B8EB"
+        ]
+      },
+      "paint_0:656": {
+        "value": [
+          "#81B8EB"
+        ]
+      },
+      "paint_0:666": {
+        "value": [
+          "rgba(255, 255, 255, 0.01)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "2:846",
+        "name": "表格一",
+        "layoutStyle": {
+          "width": 289,
+          "height": 28,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "TEXT",
+            "id": "0:1302",
+            "name": "华夏中证电网设备主题ETF发起式联接C",
+            "layoutStyle": {
+              "width": 289,
+              "height": 28,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "effect": "effect_0:678",
+            "text": [
+              {
+                "text": "华夏中证电网设备主题ETF发起式联接C  025857\n以下费用在认购/申购/赎回基金过程中收取:",
+                "font": "font_0:683"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 49,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line"
+          },
+          {
+            "type": "PATH",
+            "id": "0:1298",
+            "name": "路径 12备份 6",
+            "layoutStyle": {
+              "width": 53.24046325683594,
+              "relativeX": null,
+              "relativeY": null
+            },
+            "path": [
+              {
+                "fill": "#81B8EB",
+                "data": "",
+                "transform": "matrix(6.123234262925839e-17,1,-1,6.123234262925839e-17,284.93310546875,-222.36376953125)"
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1297",
+            "name": "路径 12备份 5",
+            "layoutStyle": {
+              "width": 53.24046325683594,
+              "relativeX": null,
+              "relativeY": null
+            },
+            "path": [
+              {
+                "fill": "#81B8EB",
+                "data": "",
+                "transform": "matrix(6.123234262925839e-17,1,-1,6.123234262925839e-17,125.93310546875,-63.36376953125)"
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1296",
+            "name": "路径 12备份 3",
+            "layoutStyle": {
+              "width": 262.4305419921875,
+              "relativeX": 93.93359375,
+              "relativeY": 67
+            },
+            "path": [
+              {
+                "fill": "#81B8EB",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1295",
+            "name": "路径 12备份 2",
+            "layoutStyle": {
+              "width": 355.4305419921875,
+              "relativeX": 0.93359375,
+              "relativeY": 50.5
+            },
+            "path": [
+              {
+                "fill": "#81B8EB",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1294",
+            "name": "蒙版",
+            "layoutStyle": {
+              "width": 355,
+              "height": 53,
+              "relativeX": 1,
+              "relativeY": 31
+            },
+            "effect": "effect_0:670",
+            "path": [
+              {
+                "fill": "rgba(255, 255, 255, 0.01)",
+                "data": ""
+              },
+              {
+                "fill": "#81B8EB",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1293",
+            "name": "赎回费",
+            "layoutStyle": {
+              "width": 27,
+              "height": 13,
+              "relativeX": 34.873046875,
+              "relativeY": 60.994384765625
+            },
+            "text": [
+              {
+                "text": "赎回费",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 3,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1257",
+            "name": "风险提示备份",
+            "layoutStyle": {
+              "width": 357,
+              "height": 35,
+              "relativeX": 0,
+              "relativeY": 89
+            },
+            "text": [
+              {
+                "text": "注：投资者选择认购/申购C 类基金份额的，不收取认购费、申购费，从基金资产中计提销售服务费。",
+                "font": "font_0:648"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 46,
+                "color": "paint_0:650"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1292",
+            "name": "费用类型",
+            "layoutStyle": {
+              "width": 36,
+              "height": 13,
+              "relativeX": 30.373046875,
+              "relativeY": 36.69775390625
+            },
+            "text": [
+              {
+                "text": "费用类型",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 4,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1288",
+            "name": "份额(S)或金额(M)/持有期限(N)",
+            "layoutStyle": {
+              "width": 121,
+              "height": 13,
+              "relativeX": 112.94921875,
+              "relativeY": 36.258544921875
+            },
+            "text": [
+              {
+                "text": "份额(S)或金额(M)/持有期限(N)",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 19,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1289",
+            "name": "收费方式/费率",
+            "layoutStyle": {
+              "width": 58,
+              "height": 13,
+              "relativeX": 274.54296875,
+              "relativeY": 36.258544921875
+            },
+            "text": [
+              {
+                "text": "收费方式/费率",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 7,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1290",
+            "name": "1.50% 0.00%",
+            "layoutStyle": {
+              "width": 26,
+              "height": 33,
+              "relativeX": 290.54296875,
+              "relativeY": 52.55517578125
+            },
+            "text": [
+              {
+                "text": "1.50%\n0.00%",
+                "font": "font_0:660"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 11,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1291",
+            "name": "N<7天 N≥7天",
+            "layoutStyle": {
+              "width": 30,
+              "height": 33,
+              "relativeX": 158.44921875,
+              "relativeY": 52.55517578125
+            },
+            "text": [
+              {
+                "text": "N<7天\nN≥7天",
+                "font": "font_0:660"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 9,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 14,
+  "svgNodeCount": 1
+}

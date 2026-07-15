@@ -1,0 +1,418 @@
+{
+  "sectionIndex": 75,
+  "section": {
+    "id": "2:850",
+    "name": "表格四",
+    "type": "FRAME"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:670": {
+        "value": []
+      },
+      "effect_0:678": {
+        "value": []
+      },
+      "font_0:654": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 9,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "font_0:660": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 9,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "16.200000762939453",
+          "letterSpacing": "auto"
+        }
+      },
+      "font_0:683": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 10,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "14",
+          "letterSpacing": "0.07287000119686127px"
+        }
+      },
+      "paint_0:656": {
+        "value": [
+          "#81B8EB"
+        ]
+      },
+      "paint_0:666": {
+        "value": [
+          "rgba(255, 255, 255, 0.01)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "2:850",
+        "name": "表格四",
+        "layoutStyle": {
+          "width": 355,
+          "height": 70,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "PATH",
+            "id": "0:1277",
+            "name": "蒙版备份 4",
+            "layoutStyle": {
+              "width": 355,
+              "height": 70,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "effect": "effect_0:670",
+            "path": [
+              {
+                "fill": "rgba(255, 255, 255, 0.01)",
+                "data": ""
+              },
+              {
+                "fill": "#81B8EB",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1273",
+            "name": "管理费",
+            "layoutStyle": {
+              "width": 27,
+              "height": 13,
+              "relativeX": 33.873046875,
+              "relativeY": 22.994384765625
+            },
+            "text": [
+              {
+                "text": "管理费",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 3,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1274",
+            "name": "托管费",
+            "layoutStyle": {
+              "width": 27,
+              "height": 13,
+              "relativeX": 33.873046875,
+              "relativeY": 40
+            },
+            "text": [
+              {
+                "text": "托管费",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 3,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1275",
+            "name": "销售服务费",
+            "layoutStyle": {
+              "width": 45,
+              "height": 13,
+              "relativeX": 24.873046875,
+              "relativeY": 57
+            },
+            "text": [
+              {
+                "text": "销售服务费",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 5,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1270",
+            "name": "费用类别",
+            "layoutStyle": {
+              "width": 36,
+              "height": 13,
+              "relativeX": 29.373046875,
+              "relativeY": 5.69775390625
+            },
+            "text": [
+              {
+                "text": "费用类别",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 4,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1266",
+            "name": "基金管理人和销售机构 基金托管人 销售机",
+            "layoutStyle": {
+              "width": 90,
+              "height": 49,
+              "relativeX": 260,
+              "relativeY": 21
+            },
+            "text": [
+              {
+                "text": "基金管理人和销售机构\n基金托管人\n销售机构",
+                "font": "font_0:660"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 21,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1268",
+            "name": "0.15% 0.05% 0.20%",
+            "layoutStyle": {
+              "width": 26,
+              "height": 49,
+              "relativeX": 159,
+              "relativeY": 21
+            },
+            "text": [
+              {
+                "text": "0.15%\n0.05%\n0.20%",
+                "font": "font_0:660"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 17,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1264",
+            "name": "收取方",
+            "layoutStyle": {
+              "width": 27,
+              "height": 13,
+              "relativeX": 289.04296875,
+              "relativeY": 5.258544921875
+            },
+            "text": [
+              {
+                "text": "收取方",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 3,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1262",
+            "name": "收费方式/年费率或金额",
+            "layoutStyle": {
+              "width": 94,
+              "height": 13,
+              "relativeX": 125.44921875,
+              "relativeY": 5.258544921875
+            },
+            "text": [
+              {
+                "text": "收费方式/年费率或金额",
+                "font": "font_0:654"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 11,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line"
+          },
+          {
+            "type": "PATH",
+            "id": "0:1279",
+            "name": "路径 12备份 11",
+            "layoutStyle": {
+              "width": 355.4305419921875,
+              "relativeX": -0.06640625,
+              "relativeY": 19.5
+            },
+            "path": [
+              {
+                "fill": "#81B8EB",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1281",
+            "name": "路径 12备份 12",
+            "layoutStyle": {
+              "width": 355.4305419921875,
+              "relativeX": -0.06640625,
+              "relativeY": 52.5
+            },
+            "path": [
+              {
+                "fill": "#81B8EB",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1283",
+            "name": "路径 12备份 16",
+            "layoutStyle": {
+              "width": 355.4305419921875,
+              "relativeX": -0.06640625,
+              "relativeY": 36
+            },
+            "path": [
+              {
+                "fill": "#81B8EB",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1285",
+            "name": "路径 12备份 17",
+            "layoutStyle": {
+              "width": 70,
+              "relativeX": null,
+              "relativeY": null
+            },
+            "path": [
+              {
+                "fill": "#81B8EB",
+                "data": "",
+                "transform": "matrix(6.123234262925839e-17,1,-1,6.123234262925839e-17,93.93310546875,-93.36376953125)"
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1287",
+            "name": "路径 12备份 18",
+            "layoutStyle": {
+              "width": 70,
+              "relativeX": null,
+              "relativeY": null
+            },
+            "path": [
+              {
+                "fill": "#81B8EB",
+                "data": "",
+                "transform": "matrix(6.123234262925839e-17,1,-1,6.123234262925839e-17,252.93310546874997,-252.36376953125)"
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1301",
+            "name": "以下费用将从基金资产中扣除:",
+            "layoutStyle": {
+              "width": 289,
+              "height": 18,
+              "relativeX": -1,
+              "relativeY": -18
+            },
+            "effect": "effect_0:678",
+            "text": [
+              {
+                "text": "以下费用将从基金资产中扣除:",
+                "font": "font_0:683"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 14,
+                "color": "paint_0:656"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 16,
+  "svgNodeCount": 1
+}

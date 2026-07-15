@@ -1,0 +1,58 @@
+{
+  "sectionIndex": 6,
+  "section": {
+    "id": "0:1002",
+    "name": "2019 2020 2021 2022",
+    "type": "TEXT"
+  },
+  "dsl": {
+    "styles": {
+      "font_0:314": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 10,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "17.5",
+          "letterSpacing": "-0.20000000298023224px"
+        }
+      },
+      "paint_0:316": {
+        "value": [
+          "#959595"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:1002",
+        "name": "2019 2020 2021 2022",
+        "layoutStyle": {
+          "width": 23,
+          "height": 183,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "2019\n2020\n2021\n2022\n2023\n2024\n2025",
+            "font": "font_0:314"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 34,
+            "color": "paint_0:316"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1
+}

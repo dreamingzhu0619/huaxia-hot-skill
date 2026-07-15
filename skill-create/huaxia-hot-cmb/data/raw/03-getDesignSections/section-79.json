@@ -1,0 +1,68 @@
+{
+  "sectionIndex": 79,
+  "section": {
+    "id": "0:1331",
+    "name": "蒙版",
+    "type": "GROUP"
+  },
+  "dsl": {
+    "styles": {
+      "effect_0:253": {
+        "value": [
+          "box-shadow: 0px 1px 2px 2px #EAF5FF;"
+        ]
+      },
+      "paint_0:121": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:732": {
+        "value": [
+          "linear-gradient(180deg, #E0EDFF 0%, #FFFFFF 11%)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "GROUP",
+        "id": "0:1331",
+        "name": "蒙版",
+        "layoutStyle": {
+          "width": 355,
+          "height": 294.5000915527344,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "PATH",
+            "id": "0:1330",
+            "name": "蒙版",
+            "layoutStyle": {
+              "width": 355,
+              "height": 294.5000915527344,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "mask": "outline",
+            "effect": "effect_0:253",
+            "path": [
+              {
+                "fill": "linear-gradient(180deg, #E0EDFF 0%, #FFFFFF 11%)",
+                "data": ""
+              },
+              {
+                "fill": "#FFFFFF",
+                "data": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 2,
+  "svgNodeCount": 1
+}

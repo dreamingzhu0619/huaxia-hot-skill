@@ -1,0 +1,69 @@
+{
+  "groups": [
+    {
+      "groupId": "background",
+      "groupName": "背景",
+      "role": "背景",
+      "roleDescription": "整页背景和大面积装饰底层，不承载业务内容",
+      "moduleIndexes": [0],
+      "moduleNames": ["背景图"],
+      "judgementBasis": "模块名为背景图，内部无 TEXT，尺寸覆盖整页 1125x8108，属于纯装饰背景"
+    },
+    {
+      "groupId": "hero",
+      "groupName": "营销头图",
+      "role": "营销头图",
+      "roleDescription": "页面顶部主视觉，包含主题标题和装饰图片",
+      "moduleIndexes": [5],
+      "moduleNames": ["营销头图"],
+      "judgementBasis": "模块名为营销头图，位于 y=0 的首屏区域，内部文字为市场主题标题"
+    },
+    {
+      "groupId": "hotspotExpress",
+      "groupName": "热点速递",
+      "role": "热点速递",
+      "roleDescription": "热点资讯摘要和数据来源",
+      "moduleIndexes": [8],
+      "moduleNames": ["热点速递"],
+      "judgementBasis": "模块名为热点速递，内部含资讯正文和数据来源，符合热点资讯摘要模块特征"
+    },
+    {
+      "groupId": "productCard",
+      "groupName": "产品卡",
+      "role": "产品卡",
+      "roleDescription": "基金产品名称、代码、风险等级、收益指标和购买按钮",
+      "moduleIndexes": [1],
+      "moduleNames": ["产品卡"],
+      "judgementBasis": "模块名为产品卡，内部文字包含基金名、基金代码、风险等级、涨跌幅和 CTA"
+    },
+    {
+      "groupId": "recommendations",
+      "groupName": "产品推荐理由",
+      "role": "推荐理由",
+      "roleDescription": "投资推荐分析，每篇含推荐标题、正文、图表或数据可视化、数据来源",
+      "moduleIndexes": [2, 3, 4],
+      "moduleNames": ["产品推荐理由A", "产品推荐理由B", "产品推荐理由C"],
+      "judgementBasis": "三个模块名称均为产品推荐理由，内部结构均为推荐标题、分析正文、数据图表或对比数据、来源说明，语义上是同一类可重复推荐理由模块"
+    },
+    {
+      "groupId": "riskDisclosure",
+      "groupName": "风险警告",
+      "role": "风险提示",
+      "roleDescription": "费率表格、合规声明和风险提示文字",
+      "moduleIndexes": [7],
+      "moduleNames": ["风险警告"],
+      "judgementBasis": "模块名为风险警告，内部包含费用类别、费率和长篇合规风险提示，属于底部风险披露"
+    },
+    {
+      "groupId": "bankEnding",
+      "groupName": "银行结束语",
+      "role": "银行结束语",
+      "roleDescription": "银行品牌收尾 logo 和装饰图形",
+      "moduleIndexes": [6],
+      "moduleNames": ["银行结束语"],
+      "judgementBasis": "模块名为银行结束语，内部无 TEXT，主要由图形、路径和品牌装饰组成，属于固定收尾模块"
+    }
+  ],
+  "moduleOrder": [5, 8, 1, 2, 3, 4, 7, 6, 0],
+  "moduleOrderNote": "按模块 y 坐标升序排列；背景图覆盖整页，作为背景底层放在最后供后续 template/CSS 特殊处理"
+}
