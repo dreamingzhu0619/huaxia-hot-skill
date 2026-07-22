@@ -1,0 +1,50 @@
+{
+  "1-banner": {
+    "type": "template",
+    "modules": [
+      "06-矩形",
+      "05-椭圆形",
+      "04-6119285222备份",
+      "03-6119285222",
+      "02-位图",
+      "14-编组-71",
+      "15-编组-66",
+      "07-编组-56"
+    ]
+  },
+  "2-hotspot": {
+    "type": "content",
+    "modules": [
+      "17-编组-50"
+    ]
+  },
+  "3-products": {
+    "type": "template",
+    "modules": [
+      "11-编组-34备份",
+      "10-编组-68",
+      "09-编组-70",
+      "08-矩形备份",
+      "00-矩形"
+    ]
+  },
+  "4-investment-value": {
+    "type": "content",
+    "modules": [
+      "16-编组-47"
+    ]
+  },
+  "5-industry-logic": {
+    "type": "content",
+    "modules": [
+      "12-编组-54",
+      "01-矩形备份-32"
+    ]
+  },
+  "6-risk-warning": {
+    "type": "fixed",
+    "modules": [
+      "13-编组-72"
+    ]
+  }
+}

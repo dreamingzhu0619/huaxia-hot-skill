@@ -1,0 +1,51 @@
+{
+  "sectionIndex": 50,
+  "section": {
+    "id": "0:2164",
+    "name": "矩形备份",
+    "type": "PATH"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "effect_0:115": {
+        "value": [
+          "backdrop-filter: blur(8.16px);"
+        ]
+      },
+      "paint_0:113": {
+        "value": [
+          "rgba(255, 255, 255, 0.8)"
+        ]
+      },
+      "paint_0:1495": {
+        "value": [
+          "linear-gradient(180deg, #DCEBFF 4%, #FFFFFF 16%, rgba(255, 255, 255, 0.8) 100%)",
+          "linear-gradient(180deg, #DCEBFF 4%, #FFFFFF 16%, rgba(255, 255, 255, 0.8) 100%)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "PATH",
+        "id": "0:2164",
+        "name": "矩形备份",
+        "layoutStyle": {
+          "width": 351,
+          "height": 379,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "effect": "effect_0:115",
+        "svgKey": "S50:0:2164|0:2164",
+        "svgName": ""
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1,
+  "svgNodeCount": 1,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 49/66. MISSING 17 sections: [48,49,51,52,53,54,55,56,57,58... +7 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

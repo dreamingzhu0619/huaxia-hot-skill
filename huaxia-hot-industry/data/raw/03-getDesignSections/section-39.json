@@ -1,0 +1,120 @@
+{
+  "sectionIndex": 39,
+  "section": {
+    "id": "0:2024",
+    "name": "编组 27",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "font_0:1173": {
+        "value": {
+          "family": "MiSans",
+          "size": 13,
+          "style": "Semibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "auto",
+          "weight": "600"
+        }
+      },
+      "paint_0:10": {
+        "value": []
+      },
+      "paint_0:1342": {
+        "value": []
+      },
+      "paint_0:1346": {
+        "value": [
+          "#368CFF"
+        ]
+      },
+      "paint_0:1349": {
+        "value": [
+          "#318EEE"
+        ]
+      },
+      "paint_0:145": {
+        "value": [
+          "#3A3E45"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:2024",
+        "name": "编组 27",
+        "layoutStyle": {
+          "width": 83,
+          "height": 13,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "TEXT",
+            "id": "0:2025",
+            "name": "我国现状：",
+            "layoutStyle": {
+              "width": 65,
+              "height": 13,
+              "relativeX": 18,
+              "relativeY": 0
+            },
+            "fill": "paint_0:1342",
+            "text": [
+              {
+                "text": "我国现状：",
+                "font": "font_0:1173"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 5,
+                "color": "paint_0:145"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line",
+            "_placeholder": true
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2026",
+            "name": "编组 6备份 4",
+            "layoutStyle": {
+              "width": 11,
+              "height": 11,
+              "relativeX": 0,
+              "relativeY": 1
+            },
+            "_mergedVector": true,
+            "svgKey": "S39:编组 27|0:2026",
+            "svgName": "编组 27"
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "我国现状：",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 27"
+      }
+    ],
+    "placeholderTexts": [
+      "我国现状："
+    ]
+  },
+  "nodeCount": 3,
+  "svgNodeCount": 1,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 39/66. MISSING 27 sections: [38,40,41,42,43,44,45,46,47,48... +17 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

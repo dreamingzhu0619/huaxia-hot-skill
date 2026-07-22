@@ -1,158 +1,118 @@
-# Step 2 V3 重构总结 & 后续计划（2026-07-15）
+# Step 2 重构总结（2026-07-20）
 
-## 核心转向
+## 做了什么
 
-从"挖空预定义槽位"转向**"区分壳与内容区，标注可变文字的语义角色"**。
+### 1. 重新设计 Step 2 流程
 
-旧思路的问题：
-- 把图表区挖出来锁死 → 换一个场景想多放一张图就没地方
-- 对每个 TEXT 逐个分类 → 忽略了 GROUP 级别的固定性
-- role 分得太细 → 图表数据记了也没用
+文件：`references/step2-identify-slots.md`
 
-## 新 Step 2 做了什么
+**Phase 0：脚本选代表 + AI 判定 Frame 类型**
 
-`references/step2-identify-slots.md` 已更新为 V3 版本。
+| 类型 | 说明 | 处理 |
+|------|------|------|
+| 固定模块 | 无 TEXT 或全文固定（品牌标语/合规声明） | 直接输出 fullyFixed: true |
+| 模板型 | 产品信息表（产品卡、费率表）**banner 永远是模板型** | Phase 1a |
+| 内容型 | 图文内容（推荐理由、热点解读、市场分析） | Phase 1b |
 
-### 输出结构
+**Phase 1a：模板型 → TEXT 锚点**
 
+- 脚本提取 TEXT → AI 逐条判断 fixed/variable
+- 输出：fixedGroups + slots（平铺，无 zone）
+- 重复子模块由脚本自动检测（结构指纹对比容器类型），标记 repeatable
+
+**Phase 1b：内容型 → 几何分区 + AI 审阅**
+
+- 第一步：脚本纯几何分区（大面积 LAYER/PATH + 全局 z-order 遮挡 + 可见区域合并）
+- 第二步：AI 打开 `step2_content-zones.json`，对每个 zone 判 content（保留）或 fixed（删除）
+- 第三步：重新运行脚本，自动应用 AI 判断
+- 输出：zones（boundary + skeletonLayers，不列 slots）
+
+### 2. 重写了三个脚本 + 新增可视化脚本
+
+| 脚本 | 改动 |
+|------|------|
+| `step2_select_representatives.py` | 输出 step2_frame-types.json（moduleJson 路径 + 空 frameType） |
+| `step2_extract_texts.py` | 只处理模板型；重复检测仅容器类型参与 |
+| `step2_build_slots.py` | 按 frameType 三分支；全局 z-order 遮挡；5% 面积门槛；输出 content-zones 审阅；应用 AI 过滤 |
+| `step2_visualize_zones.py` | **新增**：生成 HTML 框线图展示 zone 分区 |
+
+### 3. 内容型几何分区的关键规则
+
+- 骨架候选：fill + 面积 ≥ 帧 5%（排除 badge、gradient overlay）
+- 遮挡：全局 z-order（跨层级）；蒙版不参与；IMAGE fill 在蒙版内不参与；小节点（< 5%）不参与遮挡
+- 可见面积 < 15% 排除
+- 合并用可见 rects（非原始 bounds）
+- 间隙 ≤ 15px 的相邻 zone 合并
+- zone 高度 < 帧 15% 排除
+- IMAGE fill 仅在蒙版内排除，蒙版外的 IMAGE 是正常背景
+
+### 4. 输出结构
+
+模板型：
 ```json
 {
-  "modules": [
-    {
-      "groupId": "productCard",
-      "contentArea": { "paddingTop": 70, "paddingBottom": 152, "paddingLeft": 63, "paddingRight": 63 },
-      "fixedGroups": [
-        { "groupId": "0:50", "type": "decoration", "reason": "纯装饰层" },
-        { "groupId": "0:53", "type": "fixedTexts", "childTexts": [{ "nodeId": "0:55", "text": "小试一笔" }] }
-      ],
-      "variableTexts": [
-        { "nodeId": "0:57", "text": "华夏中证红利低波动ETF...", "role": "frameTitle" },
-        { "nodeId": "0:84", "text": "中证红利低波动指数选取50只...", "role": "body" },
-        { "nodeId": "0:177", "text": "资料来源：华泰研究。", "role": "sourceNote" }
-      ]
-    }
-  ]
+  "frameType": "template",
+  "fixedGroups": [{ "role": "brand-badge", "nodeIds": [...] }],
+  "slots": [{ "nodeId": "...", "text": "..." }]
 }
 ```
 
-### 三个核心输出
+内容型：
+```json
+{
+  "frameType": "content",
+  "fixedGroups": [{ "role": "mask" }],
+  "zones": [{
+    "id": "zone-0",
+    "boundary": { "yStart": 1806, "yEnd": 1863 },
+    "skeletonLayers": [{ "nodeId": "0:77", "visibleRect": {...} }]
+  }]
+}
+```
 
-| 输出 | 含义 | 谁用 |
-|------|------|------|
-| `contentArea` | 内容区到 frame 四边的距离 | Step 3 → CSS padding，Step 4 → 模板 |
-| `fixedGroups` | 固定不变的壳（装饰容器 + 含固定文案的容器） | Step 3 → 提取壳样式，Step 4 → 写死 HTML |
-| `variableTexts` | 可变文字，每个标注 role | Step 3 → 按 nodeId 提取文字样式，Step 5 → 默认内容 |
+固定模块：
+```json
+{ "fullyFixed": true, "zones": [] }
+```
 
-### 四个 role
+### 5. 产物
 
-| role | 判断 | 出现次数 |
-|------|------|---------|
-| `frameTitle` | 内容区最顶部的可变文字 | 0~1 |
-| `sectionTitle` | 嵌入在 body 段落之间的可变文字 | 0~N |
-| `body` | 长文（>20字），不在顶部 | 0~N |
-| `sourceNote` | 含"数据来源""Wind""截至"等 | 0~N |
+```
+data/<project>/
+  step2_frame-types.json          ← Phase 0 输出
+  step2_text-judgments.json       ← Phase 1a 提取（仅模板型）
+  step2_content-zones.json        ← Phase 1b AI 审阅（仅内容型）
+  step2_slots-definition.json     ← 最终输出
+  step2_zone-visualization.html   ← 可视化
+```
 
-### 关键规则
+### 6. 在 CITC 和 CMB 上验证通过
 
-1. **先判断容器（GROUP/FRAME）级别的固定性**，再判断剩余 TEXT
-2. **同类模块只处理代表模块**（Step 1 归组的取第一个）
-3. **不记录 chartData**（图表数字不提取样式，不记录）
-4. **不预设内容区分组**（几个段落、几张图 → 留给下游 Agent）
-5. 小标题外面的装饰框 → fixedGroups[type=decoration]，Step 3 提取壳样式，CSS 不写死宽度
+| | CITC | CMB |
+|---|---|---|
+| 固定模块 | 2（背景、银行结束语） | 1（买基金来招行） |
+| 模板型 | 3（营销头图、产品卡、风险警告） | 3（头图banner、合规提示、相关产品） |
+| 内容型 | 2（热点速递、产品推荐理由） | 3（热点前线、市场解读、产品推荐理由） |
 
 ---
 
 ## 待做
 
-### Step 3（generate-css）需要重写
+### 脚本
+- [ ] 两个脚本的 `detect_repeats` 逻辑统一到共享模块
+- [ ] zone 里只有短标签（≤6 字）→ 自动标 fixed，减少 AI 审阅量
+- [ ] 遮挡计算 ancestor 检查性能优化
+- [ ] 阈值（5%/15%/15px）可配置
 
-现有文件：`references/step3-generate-css.md`
+### MD 文档
+- [ ] Phase 0 判断标准增加 few-shot
+- [ ] 几何分区规则与代码实现对齐
 
-需要调整为基于新 Step 2 的输出：
+### 设计决策（待确认）
+- [ ] 内容型 zone 内不区分标题/正文样式——Step 3 需从 TEXT font 属性自行判断
+- [ ] 阈值跨项目稳定性
 
-- **从 `contentArea`** → 生成 `.module-content { padding: ... }`
-- **从 `fixedGroups[type=decoration]`** → 提取壳的视觉属性（背景色、圆角、阴影、边框），生成 `.module-card`、`.section-title-shell` 等
-- **从 `variableTexts`** → 按 nodeId 去 JSON 里取 `textRuns[0].font.*`、`textColor`、`textAlign`，按 role 归类生成 class：
-  - `frameTitle` → `.content-frame-title`
-  - `sectionTitle` → `.content-section-title`
-  - `body` → `.content-body`
-  - `sourceNote` → `.content-source`
-- **从 `fixedGroups[type=fixedTexts]`** → 壳样式 + 文字样式，生成固定组件的 CSS
-
-规则：
-- 宽度：容器不写死 width，用 `inline-block` / `fit-content`
-- 尺度：÷3 换算
-- 合并同类 role 的样式（同一 role 的多个 nodeId 取公共值）
-
-### Step 4（generate-template）需要重写
-
-现有文件：`references/step4-generate-template.md`
-
-核心变化：模板里只有一个 `{{contentItems}}` 入口，不再有多个零散的 `{{slotName}}`。
-
-模板结构：
-```html
-<section data-od-id="groupId">
-  <!-- 壳：固定装饰 + 固定文案 -->
-  <div class="module-card">
-    <div class="module-content">
-      {{contentItems}}
-    </div>
-  </div>
-</section>
-```
-
-- `fixedGroups` → 壳的 HTML 写死
-- `contentArea.padding` → CSS padding
-- `variableTexts` 的 role → 模板不写死文字，留给 `{{contentItems}}`
-- 固定文本（如"小试一笔"）→ 直接写进 HTML
-
-### Step 5（generate-content-json）需要重写
-
-现有文件：`references/step5-generate-content-json.md`
-
-输出从旧的 slot 结构变为 `contentItems` 数组：
-
-```json
-{
-  "recommendationC": {
-    "contentItems": [
-      { "type": "text", "role": "frameTitle", "value": ""哑铃型"策略  重构市场估值体系" },
-      { "type": "text", "role": "body", "value": "从一季度持仓图谱看，险资坚定执行..." },
-      { "type": "chart", "count": 2, "layout": "equal-row", "value": ["红利资产占比超60%", "科技资产占比超31%"] },
-      { "type": "text", "role": "sourceNote", "value": "数据来源：Wind，截至2026.3.31" }
-    ]
-  }
-}
-```
-
-图表通过 `type: "chart"` 以自然语言描述插入在 contentItems 数组中，和文字混排。
-
-### Step 6（generate-output-skill）需要重写
-
-现有文件：`references/step6-generate-output-skill.md`
-
-适配新的 template.html 和 content.template.json 格式，README 说明新的 contentItems 结构。
-
----
-
-## 流水线对比
-
-| | 旧 | 新 |
-|---|---|---|
-| Step 1 | 模块分类 | **不变** |
-| Step 2 | 识别可变 slot（分类图表区/文字区） | **区分壳与内容区 + role 标注** |
-| Step 3 | 从所有节点提取 CSS | **从 contentArea + fixedGroups + variableTexts 提取 CSS** |
-| Step 4 | 多个 `{{slot}}` 模板 | **单 `{{contentItems}}` 入口模板** |
-| Step 5 | slot-by-slot 默认值 | **contentItems 数组默认值** |
-| Step 6 | 生成 SKILL.md | **适配新格式** |
-
----
-
-## 关键设计决策（已确认）
-
-1. 一个 frame 一个大的内容区，不预设内部划分
-2. 内容区里放几段文字、几张图 → 下游 Agent 通过对话决定
-3. 壳的样式固定提取，宽度不写死（自适应文字/内容）
-4. 图表不记录视觉样式，只以自然语言描述记录在 content.template.json
-5. 图表数据（数字/百分比）不记，因为图表要重画
+### 后续步骤
+- [ ] Step 3（CSS 生成）需适配新 Step 2 输出格式
+- [ ] Step 4（模板生成）
+- [ ] Step 5（内容 JSON 生成）

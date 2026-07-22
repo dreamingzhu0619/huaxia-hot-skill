@@ -1,0 +1,241 @@
+{
+  "sectionIndex": 51,
+  "section": {
+    "id": "0:2166",
+    "name": "编组 64",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "font_0:1504": {
+        "value": {
+          "family": "MiSans",
+          "size": 11,
+          "style": "Demibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "auto",
+          "weight": "600"
+        }
+      },
+      "paint_0:1052": {
+        "value": [
+          "linear-gradient(170deg, #FDFEFF 17%, #E0EFFF 52%, #D5E6FF 83%)"
+        ]
+      },
+      "paint_0:1054": {
+        "value": [
+          "#C1D9FF"
+        ]
+      },
+      "paint_0:1080": {
+        "value": [
+          "linear-gradient(180deg, #FFFCFC 0%, #FFEEEC 49%, #FFD6CF 100%)"
+        ]
+      },
+      "paint_0:1082": {
+        "value": [
+          "#FFD7D2"
+        ]
+      },
+      "paint_0:1145": {
+        "value": []
+      },
+      "paint_0:1506": {
+        "value": [
+          "#3561BA"
+        ]
+      },
+      "paint_0:1510": {
+        "value": [
+          "linear-gradient(180deg, #EC4D66 0%, #E02C1E 100%)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:2166",
+        "name": "编组 64",
+        "layoutStyle": {
+          "width": 323,
+          "height": 36,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "LAYER",
+            "id": "0:2167",
+            "name": "矩形",
+            "layoutStyle": {
+              "width": 103,
+              "height": 36,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "borderRadius": "4px",
+            "fill": "paint_0:1052",
+            "_color": "linear-gradient(170deg, #FDFEFF 17%, #E0EFFF 52%, #D5E6FF 83%)",
+            "strokeColor": "paint_0:1054",
+            "strokeType": "solid",
+            "strokeAlign": "inside",
+            "strokeWidth": "0.5px"
+          },
+          {
+            "type": "LAYER",
+            "id": "0:2168",
+            "name": "矩形备份 9",
+            "layoutStyle": {
+              "width": 103,
+              "height": 36,
+              "relativeX": 110,
+              "relativeY": 0
+            },
+            "borderRadius": "4px",
+            "fill": "paint_0:1052",
+            "_color": "linear-gradient(170deg, #FDFEFF 17%, #E0EFFF 52%, #D5E6FF 83%)",
+            "strokeColor": "paint_0:1054",
+            "strokeType": "solid",
+            "strokeAlign": "inside",
+            "strokeWidth": "0.5px"
+          },
+          {
+            "type": "LAYER",
+            "id": "0:2169",
+            "name": "矩形备份 10",
+            "layoutStyle": {
+              "width": 103,
+              "height": 36,
+              "relativeX": 220,
+              "relativeY": 0
+            },
+            "borderRadius": "4px",
+            "fill": "paint_0:1080",
+            "_color": "linear-gradient(180deg, #FFFCFC 0%, #FFEEEC 49%, #FFD6CF 100%)",
+            "strokeColor": "paint_0:1082",
+            "strokeType": "solid",
+            "strokeAlign": "inside",
+            "strokeWidth": "0.5268816947937012px"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:2170",
+            "name": "规模约7956亿美元 增长约22%",
+            "layoutStyle": {
+              "width": 94,
+              "height": 26,
+              "relativeX": 5,
+              "relativeY": 5.271140098571777
+            },
+            "fill": "paint_0:1145",
+            "text": [
+              {
+                "text": "规模约7956亿美元\n增长约22%",
+                "font": "font_0:1504"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 17,
+                "color": "paint_0:1506"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line",
+            "_placeholder": true
+          },
+          {
+            "type": "TEXT",
+            "id": "0:2171",
+            "name": "增速预测上调 或近90%",
+            "layoutStyle": {
+              "width": 66,
+              "height": 26,
+              "relativeX": 129,
+              "relativeY": 5.271140098571777
+            },
+            "fill": "paint_0:1145",
+            "text": [
+              {
+                "text": "增速预测上调\n或近90%",
+                "font": "font_0:1504"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 12,
+                "color": "paint_0:1506"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line",
+            "_placeholder": true
+          },
+          {
+            "type": "TEXT",
+            "id": "0:2172",
+            "name": "有望再增26.6% 近1.9万亿美元",
+            "layoutStyle": {
+              "width": 78,
+              "height": 26,
+              "relativeX": 233,
+              "relativeY": 5.271140098571777
+            },
+            "fill": "paint_0:1510",
+            "_color": "linear-gradient(180deg, #EC4D66 0%, #E02C1E 100%)",
+            "text": [
+              {
+                "text": "有望再增26.6%\n近1.9万亿美元",
+                "font": "font_0:1504"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 18,
+                "color": "paint_0:1510"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line",
+            "_placeholder": true
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "规模约7956亿美元\n增长约22%",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 64"
+      },
+      {
+        "text": "增速预测上调\n或近90%",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 64"
+      },
+      {
+        "text": "有望再增26.6%\n近1.9万亿美元",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 64"
+      }
+    ],
+    "placeholderTexts": [
+      "规模约7956亿美元\n增长约22%",
+      "增速预测上调\n或近90%",
+      "有望再增26.6%\n近1.9万亿美元"
+    ]
+  },
+  "nodeCount": 7,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 50/66. MISSING 16 sections: [48,49,52,53,54,55,56,57,58,59... +6 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

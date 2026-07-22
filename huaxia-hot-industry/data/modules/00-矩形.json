@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "moduleIndex": 0,
+    "moduleId": "0:1713",
+    "moduleName": "矩形",
+    "slug": "矩形",
+    "fileName": "00-矩形.json",
+    "position": {
+      "x": 0,
+      "y": 461,
+      "width": 375,
+      "height": 250
+    },
+    "nodeCount": 1,
+    "resolvedNodeCount": 1,
+    "textCount": 0,
+    "textsResolved": 0,
+    "sectionIndexes": [
+      0
+    ],
+    "styleCounts": {
+      "paints": 2,
+      "fonts": 0,
+      "effects": 0
+    },
+    "assetCounts": {
+      "bitmaps": 0,
+      "svgs": 0,
+      "d2cSvgIcons": 0,
+      "d2cExportImages": 0
+    },
+    "imageCount": 0,
+    "d2cMatched": true,
+    "d2cMatchDistance": 0.088,
+    "d2cNodeCssCount": 1,
+    "missingStyleRefs": []
+  },
+  "sections": [
+    {
+      "sectionIndex": 0,
+      "id": "0:1713",
+      "name": "矩形",
+      "type": "LAYER",
+      "nodeCount": 1,
+      "x": 0,
+      "y": 461,
+      "width": 375,
+      "height": 250,
+      "structureHash": "{\"t\":\"LAYER\",\"l\":{\"w\":375,\"h\":250}}",
+      "structureSiblingCount": 2
+    }
+  ],
+  "assets": {
+    "bitmaps": [],
+    "svgs": {}
+  },
+  "node": {
+    "id": "0:1713",
+    "name": "矩形",
+    "type": "LAYER",
+    "layoutStyle": {
+      "width": 375,
+      "height": 250,
+      "relativeX": 0,
+      "relativeY": 461,
+      "rotate": 0,
+      "rotateX": null
+    },
+    "bounds": {
+      "x": 0,
+      "y": 461,
+      "width": 375,
+      "height": 250
+    },
+    "opacity": null,
+    "fill": "#DFEFFC",
+    "effect": null,
+    "borderRadius": null,
+    "strokeAlign": "inside",
+    "strokeColor": null,
+    "strokeType": "solid",
+    "strokeWidth": "1px",
+    "mask": null,
+    "path": null,
+    "text": null,
+    "textRuns": null,
+    "textAlign": null,
+    "textMode": null,
+    "textColor": null,
+    "hasSvg": false,
+    "exportImage": null,
+    "styleRefs": {
+      "fill": "paint_0:8",
+      "strokeColor": "paint_0:10"
+    },
+    "componentDefinition": null,
+    "d2cCss": {
+      "-webkit-background-clip": null,
+      "-webkit-text-fill-color": null,
+      "background": "#DFEFFC",
+      "background-clip": null,
+      "background-image": null,
+      "border": null,
+      "border-bottom-left-radius": null,
+      "border-radius": null,
+      "border-top-left-radius": null,
+      "bottom": "75.31%",
+      "box-shadow": null,
+      "color": null,
+      "filter": null,
+      "flex": "none",
+      "font-family": null,
+      "font-size": null,
+      "height": "250px",
+      "left": "0%",
+      "letter-spacing": null,
+      "line-height": null,
+      "mix-blend-mode": null,
+      "object-fit": null,
+      "opacity": null,
+      "overflow": null,
+      "position": "absolute",
+      "right": "0%",
+      "text-align": null,
+      "text-fill-color": null,
+      "text-shadow": null,
+      "top": "16.01%",
+      "transform": null,
+      "transform-origin": null,
+      "width": "375px",
+      "z-index": "0"
+    },
+    "d2cMatch": "img-src",
+    "sources": [
+      "getDsl",
+      "getD2c"
+    ],
+    "captureStatus": "complete",
+    "children": []
+  },
+  "d2c": {
+    "html": "<div\n        style=\"width: 375px; height: 250px; flex: none; background: #DFEFFC; position: absolute; left: 0%; right: 0%; top: 16.01%; bottom: 75.31%; z-index: 0\"></div>",
+    "svgIcons": {},
+    "exportImages": {}
+  }
+}

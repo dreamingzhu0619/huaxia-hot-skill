@@ -1,0 +1,977 @@
+{
+  "capturedAt": "2026-07-16T10:03:59.619917+08:00",
+  "projectName": "huaxia-hot-industry",
+  "mcpPackage": "@mastergo/magic-mcp",
+  "apiBaseUrl": "https://mastergo.com",
+  "fileId": "198156230925326",
+  "layerId": "0:1711",
+  "sourceLayerId": "",
+  "shortLink": "",
+  "toolInventory": [
+    {
+      "name": "version_0_2_4",
+      "inputProps": []
+    },
+    {
+      "name": "mcp__getDesignSections",
+      "inputProps": [
+        "fileId",
+        "format",
+        "layerId",
+        "sectionIndex",
+        "shortLink",
+        "sourceLayerId"
+      ]
+    },
+    {
+      "name": "mcp__getDsl",
+      "inputProps": [
+        "fileId",
+        "format",
+        "layerId",
+        "shortLink",
+        "sourceLayerId"
+      ]
+    },
+    {
+      "name": "mcp__getD2c",
+      "inputProps": [
+        "contentId",
+        "documentId",
+        "outDir"
+      ]
+    },
+    {
+      "name": "mcp__C2d",
+      "inputProps": [
+        "fileId",
+        "filePath",
+        "layerId",
+        "shortLink"
+      ]
+    },
+    {
+      "name": "mcp__getComponentLink",
+      "inputProps": [
+        "url"
+      ]
+    },
+    {
+      "name": "mcp__getMeta",
+      "inputProps": [
+        "fileId",
+        "format",
+        "layerId",
+        "sourceLayerId"
+      ]
+    },
+    {
+      "name": "mcp__getComponentGenerator",
+      "inputProps": [
+        "fileId",
+        "layerId",
+        "rootPath",
+        "sourceLayerId"
+      ]
+    },
+    {
+      "name": "mcp__getFlutterGenerator",
+      "inputProps": [
+        "featureName",
+        "fileId",
+        "layerId",
+        "rootPath",
+        "sourceLayerId"
+      ]
+    },
+    {
+      "name": "mcp__extractSvg",
+      "inputProps": [
+        "backgroundColor",
+        "fileId",
+        "format",
+        "layerId",
+        "page",
+        "pageSize",
+        "shortLink",
+        "sourceLayerId"
+      ]
+    },
+    {
+      "name": "mcp__applyDesign",
+      "inputProps": [
+        "code",
+        "fileId",
+        "layerId",
+        "outDir",
+        "outputFileName",
+        "shortLink",
+        "sourceLayerId",
+        "targetLang"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "step": "1",
+      "tool": "getDsl",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json"
+      },
+      "componentLinks": 0
+    },
+    {
+      "step": "2",
+      "tool": "getMeta",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json"
+      }
+    },
+    {
+      "step": "3",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json"
+      },
+      "totalSections": 66
+    },
+    {
+      "step": "4.0",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 0
+      },
+      "sectionIndex": 0
+    },
+    {
+      "step": "4.1",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 1
+      },
+      "sectionIndex": 1
+    },
+    {
+      "step": "4.2",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 2
+      },
+      "sectionIndex": 2
+    },
+    {
+      "step": "4.3",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 3
+      },
+      "sectionIndex": 3
+    },
+    {
+      "step": "4.4",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 4
+      },
+      "sectionIndex": 4
+    },
+    {
+      "step": "4.5",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 5
+      },
+      "sectionIndex": 5
+    },
+    {
+      "step": "4.6",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 6
+      },
+      "sectionIndex": 6
+    },
+    {
+      "step": "4.7",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 7
+      },
+      "sectionIndex": 7
+    },
+    {
+      "step": "4.8",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 8
+      },
+      "sectionIndex": 8
+    },
+    {
+      "step": "4.9",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 9
+      },
+      "sectionIndex": 9
+    },
+    {
+      "step": "4.10",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 10
+      },
+      "sectionIndex": 10
+    },
+    {
+      "step": "4.11",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 11
+      },
+      "sectionIndex": 11
+    },
+    {
+      "step": "4.12",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 12
+      },
+      "sectionIndex": 12
+    },
+    {
+      "step": "4.13",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 13
+      },
+      "sectionIndex": 13
+    },
+    {
+      "step": "4.14",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 14
+      },
+      "sectionIndex": 14
+    },
+    {
+      "step": "4.15",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 15
+      },
+      "sectionIndex": 15
+    },
+    {
+      "step": "4.16",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 16
+      },
+      "sectionIndex": 16
+    },
+    {
+      "step": "4.17",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 17
+      },
+      "sectionIndex": 17
+    },
+    {
+      "step": "4.18",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 18
+      },
+      "sectionIndex": 18
+    },
+    {
+      "step": "4.19",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 19
+      },
+      "sectionIndex": 19
+    },
+    {
+      "step": "4.20",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 20
+      },
+      "sectionIndex": 20
+    },
+    {
+      "step": "4.21",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 21
+      },
+      "sectionIndex": 21
+    },
+    {
+      "step": "4.22",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 22
+      },
+      "sectionIndex": 22
+    },
+    {
+      "step": "4.23",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 23
+      },
+      "sectionIndex": 23
+    },
+    {
+      "step": "4.24",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 24
+      },
+      "sectionIndex": 24
+    },
+    {
+      "step": "4.25",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 25
+      },
+      "sectionIndex": 25
+    },
+    {
+      "step": "4.26",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 26
+      },
+      "sectionIndex": 26
+    },
+    {
+      "step": "4.27",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 27
+      },
+      "sectionIndex": 27
+    },
+    {
+      "step": "4.28",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 28
+      },
+      "sectionIndex": 28
+    },
+    {
+      "step": "4.29",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 29
+      },
+      "sectionIndex": 29
+    },
+    {
+      "step": "4.30",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 30
+      },
+      "sectionIndex": 30
+    },
+    {
+      "step": "4.31",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 31
+      },
+      "sectionIndex": 31
+    },
+    {
+      "step": "4.32",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 32
+      },
+      "sectionIndex": 32
+    },
+    {
+      "step": "4.33",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 33
+      },
+      "sectionIndex": 33
+    },
+    {
+      "step": "4.34",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 34
+      },
+      "sectionIndex": 34
+    },
+    {
+      "step": "4.35",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 35
+      },
+      "sectionIndex": 35
+    },
+    {
+      "step": "4.36",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 36
+      },
+      "sectionIndex": 36
+    },
+    {
+      "step": "4.37",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 37
+      },
+      "sectionIndex": 37
+    },
+    {
+      "step": "4.38",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 38
+      },
+      "sectionIndex": 38
+    },
+    {
+      "step": "4.39",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 39
+      },
+      "sectionIndex": 39
+    },
+    {
+      "step": "4.40",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 40
+      },
+      "sectionIndex": 40
+    },
+    {
+      "step": "4.41",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 41
+      },
+      "sectionIndex": 41
+    },
+    {
+      "step": "4.42",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 42
+      },
+      "sectionIndex": 42
+    },
+    {
+      "step": "4.43",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 43
+      },
+      "sectionIndex": 43
+    },
+    {
+      "step": "4.44",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 44
+      },
+      "sectionIndex": 44
+    },
+    {
+      "step": "4.45",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 45
+      },
+      "sectionIndex": 45
+    },
+    {
+      "step": "4.46",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 46
+      },
+      "sectionIndex": 46
+    },
+    {
+      "step": "4.47",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 47
+      },
+      "sectionIndex": 47
+    },
+    {
+      "step": "4.48",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 48
+      },
+      "sectionIndex": 48
+    },
+    {
+      "step": "4.49",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 49
+      },
+      "sectionIndex": 49
+    },
+    {
+      "step": "4.50",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 50
+      },
+      "sectionIndex": 50
+    },
+    {
+      "step": "4.51",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 51
+      },
+      "sectionIndex": 51
+    },
+    {
+      "step": "4.52",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 52
+      },
+      "sectionIndex": 52
+    },
+    {
+      "step": "4.53",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 53
+      },
+      "sectionIndex": 53
+    },
+    {
+      "step": "4.54",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 54
+      },
+      "sectionIndex": 54
+    },
+    {
+      "step": "4.55",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 55
+      },
+      "sectionIndex": 55
+    },
+    {
+      "step": "4.56",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 56
+      },
+      "sectionIndex": 56
+    },
+    {
+      "step": "4.57",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 57
+      },
+      "sectionIndex": 57
+    },
+    {
+      "step": "4.58",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 58
+      },
+      "sectionIndex": 58
+    },
+    {
+      "step": "4.59",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 59
+      },
+      "sectionIndex": 59
+    },
+    {
+      "step": "4.60",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 60
+      },
+      "sectionIndex": 60
+    },
+    {
+      "step": "4.61",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 61
+      },
+      "sectionIndex": 61
+    },
+    {
+      "step": "4.62",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 62
+      },
+      "sectionIndex": 62
+    },
+    {
+      "step": "4.63",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 63
+      },
+      "sectionIndex": 63
+    },
+    {
+      "step": "4.64",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 64
+      },
+      "sectionIndex": 64
+    },
+    {
+      "step": "4.65",
+      "tool": "getDesignSections",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json",
+        "sectionIndex": 65
+      },
+      "sectionIndex": 65
+    },
+    {
+      "step": "5a",
+      "tool": "getDesignSvgs",
+      "status": "MISSING",
+      "args": {}
+    },
+    {
+      "step": "5b",
+      "tool": "getDesignTexts",
+      "status": "MISSING",
+      "args": {}
+    },
+    {
+      "step": "5c",
+      "tool": "extractSvg",
+      "status": "ok",
+      "args": {
+        "fileId": "198156230925326",
+        "layerId": "0:1711",
+        "format": "json"
+      }
+    },
+    {
+      "step": "7",
+      "tool": "getD2c",
+      "status": "ok",
+      "args": {
+        "contentId": "198156230925326-0-1711",
+        "documentId": "198156230925326",
+        "outDir": "D:\\dreamingzhu_main\\研究生\\huaxia-hot-skill-create-v1\\huaxia-hot-industry\\data\\raw\\07-getD2c\\d2c-out"
+      },
+      "contentId": "198156230925326-0-1711",
+      "code": "00000"
+    }
+  ],
+  "totalSections": 66,
+  "componentDocumentLinks": [],
+  "unresolved": []
+}

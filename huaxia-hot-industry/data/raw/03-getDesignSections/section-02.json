@@ -1,0 +1,39 @@
+{
+  "sectionIndex": 2,
+  "section": {
+    "id": "0:1715",
+    "name": "位图",
+    "type": "LAYER"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "paint_1:4198": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/679ce8bbc623e8c8665521683574d952.png",
+            "filters": ""
+          }
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "LAYER",
+        "id": "0:1715",
+        "name": "位图",
+        "layoutStyle": {
+          "width": 420,
+          "height": 221,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "fill": "paint_1:4198"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 4/66. MISSING 62 sections: [4,5,6,7,8,9,10,11,12,13... +52 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

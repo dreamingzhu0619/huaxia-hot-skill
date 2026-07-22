@@ -1,32 +1,30 @@
 {
-  "version": "v3",
-  "description": "区分壳与内容区，标注可变文字的语义角色",
   "modules": [
     {
       "groupId": "background",
-      "groupName": "背景图",
+      "groupName": "背景",
       "moduleIndexes": [
         0
       ],
-      "contentArea": {
-        "paddingTop": 0,
-        "paddingBottom": 0,
-        "paddingLeft": 0,
-        "paddingRight": 0,
-        "note": "背景覆盖整页，内容区无边距。背景色/图由 fixedGroups 提取为 CSS"
-      },
+      "representativeIndex": 0,
+      "fullyFixed": true,
+      "frameId": "13:393",
+      "frameName": "背景图",
+      "frameWidth": 1125,
       "fixedGroups": [
         {
-          "groupId": "0:5",
-          "groupName": "颜色填充 1",
-          "type": "decoration",
-          "descendantIds": [
+          "groupId": "13:393",
+          "groupName": "背景图",
+          "role": "fully-fixed-frame",
+          "nodeIds": [
+            "13:393",
+            "0:4",
             "0:5"
           ],
-          "reason": "页面背景色填充（#FFDFAC），决定了整个 H5 的底色"
+          "reason": "完全固定 frame：无可变 TEXT"
         }
       ],
-      "variableTexts": []
+      "zones": []
     },
     {
       "groupId": "hero",
@@ -34,64 +32,80 @@
       "moduleIndexes": [
         5
       ],
-      "contentArea": {
-        "paddingTop": 215.25,
-        "paddingBottom": 514.34,
-        "paddingLeft": 53.14,
-        "paddingRight": 228.6,
-        "note": "所有值为设计稿原始 px，Step 3 统一 ÷3 换算"
-      },
+      "representativeIndex": 5,
+      "fullyFixed": false,
+      "frameId": "13:328",
+      "frameName": "营销头图",
+      "frameWidth": 1125,
       "fixedGroups": [
-        {
-          "groupId": "0:6",
-          "groupName": "图层 745",
-          "type": "decoration",
-          "descendantIds": [
-            "0:6"
-          ],
-          "reason": "头图背景底图（IMAGE），纯装饰"
-        },
         {
           "groupId": "0:7",
           "groupName": "图层 586",
-          "type": "decoration",
-          "descendantIds": [
+          "role": "decoration-bg",
+          "nodeIds": [
             "0:7",
             "13:327"
           ],
-          "reason": "品牌主视觉装饰图层组（含 IMAGE），固定不变"
-        },
+          "reason": "装饰容器（面积占比 2%）"
+        }
+      ],
+      "zones": [
         {
-          "groupId": "0:11",
-          "groupName": "Gradient Overlay（主标题）",
-          "type": "decoration",
-          "descendantIds": [
-            "0:11"
+          "id": "zone-0",
+          "boundary": {
+            "yStart": 0,
+            "yEnd": 939
+          },
+          "skeletonLayers": [
+            {
+              "nodeId": "0:6",
+              "name": "图层 745",
+              "visibleRect": {
+                "x": 0,
+                "y": 0,
+                "width": 1125,
+                "height": 48
+              }
+            },
+            {
+              "nodeId": "0:6",
+              "name": "图层 745",
+              "visibleRect": {
+                "x": 0,
+                "y": 130,
+                "width": 1125,
+                "height": 809
+              }
+            },
+            {
+              "nodeId": "0:6",
+              "name": "图层 745",
+              "visibleRect": {
+                "x": 0,
+                "y": 48,
+                "width": 38,
+                "height": 82
+              }
+            },
+            {
+              "nodeId": "0:6",
+              "name": "图层 745",
+              "visibleRect": {
+                "x": 339,
+                "y": 48,
+                "width": 786,
+                "height": 82
+              }
+            }
           ],
-          "reason": "主标题'市场开启震荡模式'8字的均匀渐变叠层，PATH.width/TEXT.width≈1，换标题后效果不变，固定文字样式"
+          "slots": [
+            {
+              "nodeId": "0:10",
+              "text": "市场开启震荡模式"
+            }
+          ]
         }
-      ],
-      "variableTexts": [
-        {
-          "nodeId": "0:10",
-          "text": "市场开启震荡模式",
-          "role": "frameTitle",
-          "reason": "头图主标题，位于内容区最顶部，随市场主题变化"
-        },
-        {
-          "nodeId": "0:13",
-          "text": "\"反脆弱\"红利低波",
-          "role": "sectionTitle",
-          "reason": "策略小标题（GROUP 内为 PATH 矢量文字。PATH 0:14 Gradient Overlay 仅凸显'反脆弱'3字，非均匀覆盖，不放入 fixedGroups），随当期策略变化"
-        },
-        {
-          "nodeId": "0:16",
-          "text": "\"反脆弱\"价值凸显",
-          "role": "sectionTitle",
-          "reason": "价值主张小标题（GROUP 内为 PATH 矢量文字。PATH 0:17 Gradient Overlay 仅凸显'反脆弱'3字，非均匀覆盖，不放入 fixedGroups），随当期营销主题变化"
-        }
-      ],
-      "note": "PATH 0:14/0:17（仅凸显'反脆弱'3字）+ PATH 0:312（红色氛围渐变，随主题变化）不放入 fixedGroups"
+      ]
     },
     {
       "groupId": "hotspotExpress",
@@ -99,87 +113,101 @@
       "moduleIndexes": [
         8
       ],
-      "contentArea": {
-        "paddingTop": 23.0,
-        "paddingBottom": 37.42,
-        "paddingLeft": 45.73,
-        "paddingRight": 58.02,
-        "note": "所有值为设计稿原始 px，Step 3 统一 ÷3 换算"
-      },
+      "representativeIndex": 8,
+      "fullyFixed": false,
+      "frameId": "13:386",
+      "frameName": "热点速递",
+      "frameWidth": 1081.75048828125,
       "fixedGroups": [
         {
-          "groupId": "0:20",
-          "groupName": "矩形 153 拷贝",
-          "type": "decoration",
-          "descendantIds": [
-            "0:20"
+          "groupId": "0:45",
+          "groupName": "热点速递",
+          "role": "brand-badge",
+          "nodeIds": [
+            "0:45",
+            "0:46",
+            "0:47"
           ],
-          "reason": "外层渐变边框底板，纯装饰"
+          "reason": "TEXT '热点速递' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:23",
+          "groupName": "Clip",
+          "role": "mask",
+          "nodeIds": [
+            "0:23",
+            "0:25",
+            "0:24"
+          ],
+          "reason": "蒙版组"
+        },
+        {
+          "groupId": "0:28",
+          "groupName": "Clip",
+          "role": "mask",
+          "nodeIds": [
+            "0:28",
+            "0:30",
+            "0:29"
+          ],
+          "reason": "蒙版组"
+        },
+        {
+          "groupId": "0:39",
+          "groupName": "Clip",
+          "role": "mask",
+          "nodeIds": [
+            "0:39",
+            "0:41",
+            "0:40"
+          ],
+          "reason": "蒙版组"
         },
         {
           "groupId": "0:21",
           "groupName": "矩形 153 拷贝 3",
-          "type": "decoration",
-          "descendantIds": [
+          "role": "decoration-bg",
+          "nodeIds": [
             "0:21",
             "0:22",
             "0:23",
-            "0:24",
-            "0:25"
+            "0:25",
+            "0:24"
           ],
-          "reason": "内层白色卡片底板 + 装饰图片，纯装饰"
+          "reason": "大面积纯装饰背景（面积占比 90%）"
         },
         {
           "groupId": "0:26",
           "groupName": "形状 5",
-          "type": "decoration",
-          "descendantIds": [
+          "role": "decoration-line",
+          "nodeIds": [
             "0:26",
             "0:27",
             "0:28",
-            "0:29",
-            "0:30"
+            "0:30",
+            "0:29"
           ],
-          "reason": "装饰形状 + 图片，纯装饰"
+          "reason": "小装饰线/图标（面积占比 0.9%）"
         },
         {
-          "groupId": "0:35",
-          "groupName": "热点速递 标签",
-          "type": "fixedTexts",
-          "descendantIds": [
+          "groupId": "0:36",
+          "groupName": "组 23",
+          "role": "decoration-bg",
+          "nodeIds": [
             "0:36",
             "0:37",
             "0:38",
             "0:39",
-            "0:40",
             "0:41",
+            "0:40",
             "0:42",
             "0:43",
             "0:44"
           ],
-          "reason": "模块标签徽章，装饰图标 + 固定标签文字",
-          "childTexts": [
-            {
-              "nodeId": "0:46",
-              "text": "热点速递"
-            }
-          ]
+          "reason": "装饰容器（面积占比 5%）"
         }
       ],
-      "variableTexts": [
-        {
-          "nodeId": "0:33",
-          "text": "根据AI推荐，近期红利低波策略因估值优势、牛市预期、市场震荡下投资者高低切换需求显现，低位资产受关注。最新数据显示，5月18日-22日，红利低波ETF近一周净流入1.61亿元，增量资金进入明显。券商看好红利低波赛道后市，中信证券认为，红利低波策略受益于\"长期资金+市场生态\"的新市场结构形成，长线配置价值将不断抬升。",
-          "role": "body",
-          "reason": "热点资讯正文长文，位于 frame 中段，随热点主题变化"
-        },
-        {
-          "nodeId": "0:49",
-          "text": "数据来源：Wind，截至2026.5.22。",
-          "role": "sourceNote",
-          "reason": "含\"数据来源\"关键词，随统计时间变化"
-        }
-      ]
+      "zones": []
     },
     {
       "groupId": "productCard",
@@ -187,97 +215,210 @@
       "moduleIndexes": [
         1
       ],
-      "contentArea": {
-        "paddingTop": 70.21,
-        "paddingBottom": 283.99,
-        "paddingLeft": 62.64,
-        "paddingRight": 64.38,
-        "note": "所有值为设计稿原始 px，Step 3 统一 ÷3 换算"
-      },
+      "representativeIndex": 1,
+      "fullyFixed": false,
+      "frameId": "13:390",
+      "frameName": "产品卡",
+      "frameWidth": 1075.02001953125,
       "fixedGroups": [
-        {
-          "groupId": "0:51",
-          "groupName": "矩形 23 拷贝 14",
-          "type": "decoration",
-          "descendantIds": [
-            "0:51"
-          ],
-          "reason": "外层渐变边框（金色渐变），纯装饰 LAYER"
-        },
-        {
-          "groupId": "0:52",
-          "groupName": "矩形 23 拷贝 15",
-          "type": "decoration",
-          "descendantIds": [
-            "0:52"
-          ],
-          "reason": "内层白色卡片底板（白色渐变 + 描边），纯装饰 LAYER"
-        },
         {
           "groupId": "0:53",
           "groupName": "按钮",
-          "type": "fixedTexts",
-          "descendantIds": [
-            "0:54"
+          "role": "brand-badge",
+          "nodeIds": [
+            "0:53",
+            "0:54",
+            "0:55"
           ],
-          "reason": "CTA 按钮组件，背景矩形 + 固定文案，整个 GROUP 固定",
-          "childTexts": [
-            {
-              "nodeId": "0:55",
-              "text": "小试一笔"
-            }
-          ]
-        },
-        {
-          "groupId": "0:61",
-          "groupName": "代码",
-          "type": "decoration",
-          "descendantIds": [
-            "0:62"
-          ],
-          "reason": "基金代码标签底板矩形，固定装饰（内部 TEXT 为可变基金代码）"
-        },
-        {
-          "groupId": "0:64",
-          "groupName": "风险等级",
-          "type": "decoration",
-          "descendantIds": [
-            "0:65"
-          ],
-          "reason": "风险等级标签底板矩形，固定装饰（内部 TEXT 为可变风险等级）"
+          "reason": "TEXT '小试一笔' 为固定文案，连带容器整体固定"
         },
         {
           "groupId": "4:0409",
-          "groupName": "近一年涨跌幅",
-          "type": "fixedTexts",
-          "descendantIds": [],
-          "reason": "指标名称标签，固定 UI 字段名，不随产品变化",
-          "childTexts": [
-            {
-              "nodeId": "4:0409",
-              "text": "近一年涨跌幅"
-            }
-          ]
+          "groupName": "输入文本",
+          "role": "fixed-texts",
+          "nodeIds": [
+            "4:0409"
+          ],
+          "reason": "TEXT '近一年涨跌幅' 为固定文案，连带容器整体固定"
         }
       ],
-      "variableTexts": [
+      "zones": [
         {
-          "nodeId": "0:57",
-          "text": "华夏中证红利低波动ETF发起式联接C",
-          "role": "frameTitle",
-          "reason": "产品全称，位于内容区最顶部，随推荐产品变化"
-        },
-        {
-          "nodeId": "0:63",
-          "text": "021483",
-          "role": "generic",
-          "reason": "基金代码，位于顶部标签内，随产品变化（非标题/正文/来源，属于产品属性字段）"
-        },
-        {
-          "nodeId": "0:66",
-          "text": "较高风险",
-          "role": "generic",
-          "reason": "风险等级标签文字，位于顶部，随产品变化（非标题/正文/来源，属于产品属性字段）"
+          "id": "zone-0",
+          "boundary": {
+            "yStart": 1182.010009765625,
+            "yEnd": 1703.989990234375
+          },
+          "skeletonLayers": [
+            {
+              "nodeId": "0:52",
+              "name": "矩形 23 拷贝 15",
+              "visibleRect": {
+                "x": 25.989999771118164,
+                "y": 1182.010009765625,
+                "width": 1073.02001953125,
+                "height": 70.2059326171875
+              }
+            },
+            {
+              "nodeId": "0:52",
+              "name": "矩形 23 拷贝 15",
+              "visibleRect": {
+                "x": 25.989999771118164,
+                "y": 1309.1572227478027,
+                "width": 1073.02001953125,
+                "height": 24.862796783447266
+              }
+            },
+            {
+              "nodeId": "0:52",
+              "name": "矩形 23 拷贝 15",
+              "visibleRect": {
+                "x": 25.989999771118164,
+                "y": 1334.02001953125,
+                "width": 356.6400146484375,
+                "height": 222.97998046875
+              }
+            },
+            {
+              "nodeId": "0:52",
+              "name": "矩形 23 拷贝 15",
+              "visibleRect": {
+                "x": 25.989999771118164,
+                "y": 1252.2159423828125,
+                "width": 61.63597869873047,
+                "height": 56.941280364990234
+              }
+            },
+            {
+              "nodeId": "0:52",
+              "name": "矩形 23 拷贝 15",
+              "visibleRect": {
+                "x": 1031.5415668487549,
+                "y": 1252.2159423828125,
+                "width": 67.46845245361328,
+                "height": 56.941280364990234
+              }
+            },
+            {
+              "nodeId": "0:52",
+              "name": "矩形 23 拷贝 15",
+              "visibleRect": {
+                "x": 25.989999771118164,
+                "y": 1665.0,
+                "width": 356.6400146484375,
+                "height": 38.989990234375
+              }
+            },
+            {
+              "nodeId": "0:52",
+              "name": "矩形 23 拷贝 15",
+              "visibleRect": {
+                "x": 25.989999771118164,
+                "y": 1557.0,
+                "width": 227.0,
+                "height": 108.0
+              }
+            },
+            {
+              "nodeId": "0:62",
+              "name": "矩形 16",
+              "visibleRect": {
+                "x": 382.63001441955566,
+                "y": 1334.02001953125,
+                "width": 156.75,
+                "height": 6.9500000000000455
+              }
+            },
+            {
+              "nodeId": "0:62",
+              "name": "矩形 16",
+              "visibleRect": {
+                "x": 382.63001441955566,
+                "y": 1372.97001953125,
+                "width": 156.75,
+                "height": 5.980000305175736
+              }
+            },
+            {
+              "nodeId": "0:62",
+              "name": "矩形 16",
+              "visibleRect": {
+                "x": 382.63001441955566,
+                "y": 1340.97001953125,
+                "width": 22.470000000000027,
+                "height": 32.0
+              }
+            },
+            {
+              "nodeId": "0:62",
+              "name": "矩形 16",
+              "visibleRect": {
+                "x": 518.1000144195557,
+                "y": 1340.97001953125,
+                "width": 21.279999999999973,
+                "height": 32.0
+              }
+            },
+            {
+              "nodeId": "0:65",
+              "name": "矩形 16 拷贝",
+              "visibleRect": {
+                "x": 556.5999851226807,
+                "y": 1334.489990234375,
+                "width": 161.80999755859375,
+                "height": 6.480000000000018
+              }
+            },
+            {
+              "nodeId": "0:65",
+              "name": "矩形 16 拷贝",
+              "visibleRect": {
+                "x": 556.5999851226807,
+                "y": 1372.969990234375,
+                "width": 161.80999755859375,
+                "height": 6.519999999999982
+              }
+            },
+            {
+              "nodeId": "0:65",
+              "name": "矩形 16 拷贝",
+              "visibleRect": {
+                "x": 556.5999851226807,
+                "y": 1340.969990234375,
+                "width": 17.5,
+                "height": 32.0
+              }
+            },
+            {
+              "nodeId": "0:65",
+              "name": "矩形 16 拷贝",
+              "visibleRect": {
+                "x": 703.0999851226807,
+                "y": 1340.969990234375,
+                "width": 15.30999755859375,
+                "height": 32.0
+              }
+            }
+          ],
+          "slots": [
+            {
+              "nodeId": "0:57",
+              "text": "华夏中证红利低波动ETF发起式联接C"
+            },
+            {
+              "nodeId": "0:66",
+              "text": "较高风险"
+            },
+            {
+              "nodeId": "0:63",
+              "text": "021483"
+            },
+            {
+              "nodeId": "4:269",
+              "text": "2.80%"
+            }
+          ]
         }
       ]
     },
@@ -289,97 +430,357 @@
         3,
         4
       ],
-      "contentArea": {
-        "paddingTop": 41.18,
-        "paddingBottom": 52.24,
-        "paddingLeft": 42.53,
-        "paddingRight": 46.0,
-        "note": "基于代表模块 index=2（产品推荐理由A）计算，同组 B/C 壳结构相同"
-      },
+      "representativeIndex": 2,
+      "fullyFixed": false,
+      "frameId": "13:387",
+      "frameName": "产品推荐理由A",
+      "frameWidth": 1076,
       "fixedGroups": [
+        {
+          "groupId": "0:89",
+          "groupName": "组 5801",
+          "role": "brand-badge",
+          "nodeIds": [
+            "0:89",
+            "0:90",
+            "0:91"
+          ],
+          "reason": "TEXT '低波动因子' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:88",
+          "groupName": "组 5802",
+          "role": "brand-badge",
+          "nodeIds": [
+            "0:88",
+            "0:89",
+            "0:90",
+            "0:91",
+            "0:92",
+            "0:93",
+            "0:94",
+            "0:95",
+            "0:96",
+            "0:97",
+            "0:98",
+            "0:101",
+            "0:102",
+            "0:103",
+            "0:104",
+            "0:105",
+            "0:106",
+            "0:109",
+            "0:110",
+            "0:111",
+            "0:112",
+            "0:113",
+            "0:114",
+            "0:117"
+          ],
+          "reason": "TEXT '市场行为维度\n（异常风险规避）' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:94",
+          "groupName": "组 5800",
+          "role": "brand-badge",
+          "nodeIds": [
+            "0:94",
+            "0:95",
+            "0:96",
+            "0:97",
+            "0:98",
+            "0:101"
+          ],
+          "reason": "TEXT '博彩效应' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:102",
+          "groupName": "组 5800 拷贝",
+          "role": "brand-badge",
+          "nodeIds": [
+            "0:102",
+            "0:103",
+            "0:104",
+            "0:105",
+            "0:106",
+            "0:109"
+          ],
+          "reason": "TEXT '机构效应' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:110",
+          "groupName": "组 5800 拷贝 2",
+          "role": "brand-badge",
+          "nodeIds": [
+            "0:110",
+            "0:111",
+            "0:112",
+            "0:113",
+            "0:114",
+            "0:117"
+          ],
+          "reason": "TEXT '代表性偏差' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:121",
+          "groupName": "组 5801",
+          "role": "brand-badge",
+          "nodeIds": [
+            "0:121",
+            "0:122",
+            "0:123"
+          ],
+          "reason": "TEXT '红利因子' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:120",
+          "groupName": "组 5802",
+          "role": "brand-badge",
+          "nodeIds": [
+            "0:120",
+            "0:121",
+            "0:122",
+            "0:123",
+            "0:124",
+            "0:125",
+            "0:126",
+            "0:127",
+            "0:128",
+            "0:129",
+            "0:132",
+            "0:133",
+            "0:134",
+            "0:135",
+            "0:136",
+            "0:137",
+            "0:140",
+            "0:141",
+            "0:142",
+            "0:143",
+            "0:144",
+            "0:145",
+            "0:148"
+          ],
+          "reason": "TEXT '企业质量维度\n（长期投资价值）' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:125",
+          "groupName": "组 5800",
+          "role": "brand-badge",
+          "nodeIds": [
+            "0:125",
+            "0:126",
+            "0:127",
+            "0:128",
+            "0:129",
+            "0:132"
+          ],
+          "reason": "TEXT '公司业绩稳定' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:133",
+          "groupName": "组 5800 拷贝",
+          "role": "brand-badge",
+          "nodeIds": [
+            "0:133",
+            "0:134",
+            "0:135",
+            "0:136",
+            "0:137",
+            "0:140"
+          ],
+          "reason": "TEXT '留存收益充足' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:141",
+          "groupName": "组 5800 拷贝 2",
+          "role": "brand-badge",
+          "nodeIds": [
+            "0:141",
+            "0:142",
+            "0:143",
+            "0:144",
+            "0:145",
+            "0:148"
+          ],
+          "reason": "TEXT '经营预期良好' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:150",
+          "groupName": "代码",
+          "role": "brand-badge",
+          "nodeIds": [
+            "0:150",
+            "0:151",
+            "0:152"
+          ],
+          "reason": "TEXT '压舱石' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:153",
+          "groupName": "代码 拷贝",
+          "role": "brand-badge",
+          "nodeIds": [
+            "0:153",
+            "0:154",
+            "0:155"
+          ],
+          "reason": "TEXT '保险杠' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:157",
+          "groupName": "➕",
+          "role": "fixed-texts",
+          "nodeIds": [
+            "0:157",
+            "0:158"
+          ],
+          "reason": "TEXT '➕' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:162",
+          "groupName": "红利低波组合",
+          "role": "fixed-texts",
+          "nodeIds": [
+            "0:162",
+            "0:163"
+          ],
+          "reason": "TEXT '红利低波组合' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:171",
+          "groupName": "红利低波组合的投资逻辑",
+          "role": "fixed-texts",
+          "nodeIds": [
+            "0:171",
+            "0:172"
+          ],
+          "reason": "TEXT '红利低波组合的投资逻辑' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:71",
+          "groupName": "Clip",
+          "role": "mask",
+          "nodeIds": [
+            "0:71",
+            "0:73",
+            "0:72"
+          ],
+          "reason": "蒙版组"
+        },
         {
           "groupId": "0:69",
           "groupName": "矩形 1000",
-          "type": "decoration",
-          "descendantIds": [
+          "role": "decoration-bg",
+          "nodeIds": [
             "0:69",
             "0:70",
             "0:71",
-            "0:72",
-            "0:73"
+            "0:73",
+            "0:72"
           ],
-          "reason": "外层红色渐变底框 + Clip 蒙版图片，纯装饰 GROUP"
+          "reason": "大面积纯装饰背景（面积占比 93%）"
         },
         {
-          "groupId": "0:74",
-          "groupName": "矩形 1000 拷贝 2",
-          "type": "decoration",
-          "descendantIds": [
-            "0:74"
+          "groupId": "0:166",
+          "groupName": "图层 748",
+          "role": "decoration-line",
+          "nodeIds": [
+            "0:166",
+            "0:167"
           ],
-          "reason": "金色渐变装饰带，纯装饰 LAYER"
+          "reason": "小装饰线/图标（面积占比 0.3%）"
         },
         {
-          "groupId": "0:83",
-          "groupName": "矩形 1000 拷贝",
-          "type": "decoration",
-          "descendantIds": [
-            "0:83"
+          "groupId": "0:168",
+          "groupName": "图层 748 拷贝",
+          "role": "decoration-line",
+          "nodeIds": [
+            "0:168",
+            "0:169"
           ],
-          "reason": "内层白色卡片底板，纯装饰 LAYER"
-        },
-        {
-          "groupId": "0:85",
-          "groupName": "组 5817",
-          "type": "decoration",
-          "descendantIds": [
-            "0:85"
-          ],
-          "reason": "图表可视化区域（因子对比图），整个 GROUP 为图表组件，由下游 Agent 重新绘制"
-        },
-        {
-          "groupId": "0:77",
-          "groupName": "Gradient Overlay（主标题）",
-          "type": "decoration",
-          "descendantIds": [
-            "0:77"
-          ],
-          "reason": "主标题'左手红利 右手低波'的均匀渐变叠层，PATH.width/TEXT.width=99.2%，换标题后效果不变"
-        },
-        {
-          "groupId": "0:81",
-          "groupName": "Gradient Overlay（副标题）",
-          "type": "decoration",
-          "descendantIds": [
-            "0:81"
-          ],
-          "reason": "副标题'攻守兼备的组合底仓'的均匀渐变叠层，PATH.width/TEXT.width=99.5%，换标题后效果不变"
+          "reason": "小装饰线/图标（面积占比 0.3%）"
         }
       ],
-      "variableTexts": [
+      "zones": [
         {
-          "nodeId": "0:76",
-          "text": "左手红利 右手低波",
-          "role": "frameTitle",
-          "reason": "推荐理由总标题，位于内容区最顶部，随推荐主题变化"
+          "id": "zone-0",
+          "boundary": {
+            "yStart": 1806.6100463867188,
+            "yEnd": 1863.6100463867188
+          },
+          "skeletonLayers": [
+            {
+              "nodeId": "0:77",
+              "name": "Gradient Overlay",
+              "visibleRect": {
+                "x": 327.5879955291748,
+                "y": 1806.6100463867188,
+                "width": 472.9859924316406,
+                "height": 57
+              }
+            }
+          ],
+          "slots": [
+            {
+              "nodeId": "0:76",
+              "text": "左手红利 右手低波"
+            }
+          ]
         },
         {
-          "nodeId": "0:80",
-          "text": "攻守兼备的组合底仓",
-          "role": "sectionTitle",
-          "reason": "副标题，位于 frameTitle 下方、body 上方，随推荐策略变化"
+          "id": "zone-1",
+          "boundary": {
+            "yStart": 1874.2680473327637,
+            "yEnd": 1931.2680473327637
+          },
+          "skeletonLayers": [
+            {
+              "nodeId": "0:81",
+              "name": "Gradient Overlay",
+              "visibleRect": {
+                "x": 308.69002056121826,
+                "y": 1874.2680473327637,
+                "width": 513,
+                "height": 57
+              }
+            }
+          ],
+          "slots": [
+            {
+              "nodeId": "0:80",
+              "text": "攻守兼备的组合底仓"
+            }
+          ]
         },
         {
-          "nodeId": "0:84",
-          "text": "中证红利低波动指数选取50只流动性好、连续分红、红利支付率适中、每股股息正增长、股息率高且波动率低的股票，采用股息率加权。指数以\"红利+低波动\"为核心策略，在保留高股息属性基础上，额外叠加低波动筛选。",
-          "role": "body",
-          "reason": "推荐理由正文长文（>20字），位于 frame 中段，随产品和行业热点变化"
-        },
-        {
-          "nodeId": "0:177",
-          "text": "资料来源：华泰研究。",
-          "role": "sourceNote",
-          "reason": "含\"资料来源\"关键词，随数据来源变化"
+          "id": "zone-2",
+          "boundary": {
+            "yStart": 1952.77001953125,
+            "yEnd": 2816.0599975585938
+          },
+          "skeletonLayers": [
+            {
+              "nodeId": "0:83",
+              "name": "矩形 1000 拷贝",
+              "visibleRect": {
+                "x": 25,
+                "y": 1952.77001953125,
+                "width": 1076,
+                "height": 863.2899780273438
+              }
+            }
+          ],
+          "slots": [
+            {
+              "nodeId": "0:84",
+              "text": "中证红利低波动指数选取50只流动性好、连续分红、红利支付率适中、每股股息正增长、股息率高且波动率低的股票，采用股息率加权。\n指数以“红利+低波动”为核心策略，在保留高股息属性基础上，额外叠加低波动筛选。"
+            },
+            {
+              "nodeId": "0:177",
+              "text": "资料来源：华泰研究。"
+            }
+          ]
         }
       ]
     },
@@ -389,179 +790,127 @@
       "moduleIndexes": [
         7
       ],
-      "contentArea": {
-        "paddingTop": 0.0,
-        "paddingBottom": 0.0,
-        "paddingLeft": 0,
-        "paddingRight": 0,
-        "note": "费率文字紧贴 frame 边缘，内容区无边距。paddingRight=-2.29（部分描边超出）取 0"
-      },
+      "representativeIndex": 7,
+      "fullyFixed": false,
+      "frameId": "13:391",
+      "frameName": "风险警告",
+      "frameWidth": 1057,
       "fixedGroups": [
         {
           "groupId": "0:401",
-          "groupName": "风险提示：基金非存款...",
-          "type": "fixedTexts",
-          "descendantIds": [],
-          "reason": "合规风险提示声明长文，监管要求固定内容，不随产品变化",
-          "childTexts": [
-            {
-              "nodeId": "0:401",
-              "text": "风险提示：基金非存款，产品有风险，投资须谨慎..."
-            }
-          ]
-        },
-        {
-          "groupId": "0:411",
-          "groupName": "组 21",
-          "type": "decoration",
-          "descendantIds": [
-            "0:411",
-            "0:412",
-            "0:413",
-            "0:414",
-            "0:415",
-            "0:416",
-            "0:417",
-            "0:418",
-            "0:419",
-            "0:420"
+          "groupName": "风险提示：基金非存款，产品有风险，投资须谨慎。本产品由华夏基金发行与管理，中信银行作为代销机构不承担产品的投资和兑付责任。以上内容仅供参考，不预示未来表现，也不作为任何投资建议。其中的观点和预测代表当时观点，今后可能发生改变，未经同意请勿引用或转载。\n基金管理人承诺以诚实信用、勤勉尽责的原则管理和运用基金资产但不保证本基金一定盈利，也不保证最低收益。本基金的过往业绩及其净值高低并不预示其未来业绩表现，基金管理人管理的其他基金的业绩并不构成对本基金业绩表现的保证。基金管理人/基金销售机构提醒您基金投资的“买者",
+          "role": "fixed-texts",
+          "nodeIds": [
+            "0:401"
           ],
-          "reason": "费率表格装饰（矩形衬底 + 分隔线），纯装饰"
-        },
-        {
-          "groupId": "0:426",
-          "groupName": "组 2",
-          "type": "decoration",
-          "descendantIds": [
-            "0:426",
-            "0:427",
-            "0:428",
-            "0:429"
-          ],
-          "reason": "表格行装饰矩形，纯装饰"
-        },
-        {
-          "groupId": "0:430",
-          "groupName": "组 4",
-          "type": "decoration",
-          "descendantIds": [
-            "0:430",
-            "0:431",
-            "0:432",
-            "0:433"
-          ],
-          "reason": "表格行装饰矩形 + 分隔线，纯装饰"
-        },
-        {
-          "groupId": "0:434",
-          "groupName": "组 23",
-          "type": "decoration",
-          "descendantIds": [
-            "0:434",
-            "0:435",
-            "0:436",
-            "0:437"
-          ],
-          "reason": "表格行装饰矩形 + 分隔线，纯装饰"
-        },
-        {
-          "groupId": "0:438",
-          "groupName": "直线 2",
-          "type": "decoration",
-          "descendantIds": [
-            "0:438",
-            "0:439",
-            "0:440",
-            "0:315"
-          ],
-          "reason": "表格底部分隔线 + 装饰矩形 + Color Overlay，纯装饰"
-        },
-        {
-          "groupId": "0:408",
-          "groupName": "费用类别",
-          "type": "fixedTexts",
-          "descendantIds": [],
-          "reason": "费率表格字段标签，固定 UI 表头，不随产品变化",
-          "childTexts": [
-            {
-              "nodeId": "0:408",
-              "text": "费用类别"
-            }
-          ]
+          "reason": "TEXT '风险提示：基金非存款，产品有风险，投资须谨慎。本产品由华夏基金发行与管理，中信银行作为代销机构不承担产品的投资和兑付责任。以上内容仅供参考，不预示未来表现，也不作为任何投资建议。其中的观点和预测代表当时观点，今后可能发生改变，未经同意请勿引用或转载。\n基金管理人承诺以诚实信用、勤勉尽责的原则管理和运用基金资产但不保证本基金一定盈利，也不保证最低收益。本基金的过往业绩及其净值高低并不预示其未来业绩表现，基金管理人管理的其他基金的业绩并不构成对本基金业绩表现的保证。基金管理人/基金销售机构提醒您基金投资的“买者自负”原则，在做出投资决策后，基金运营状况与基金净值变化引致的投资风险，由您自行负担。基金管理人、基金托管人、基金销售机构及相关机构不对基金投资收益做出任何承诺或保证。您在做出投资决策之前，请仔细阅读基金合同、基金招募说明书和基金产品资料概要等产品法律文件和风险揭示书，充分认识本基金的风险收益特征和产品特性，认真考虑本基金存在的各项风险因素，并根据自身的投资目的、投资期限、投资经验、资产状况等因素充分考虑自身的风险承受能力，在了解产品情况及销售适当性意见的基础上，理性判断并谨慎做出投资决策。华夏基金基金客服热线：电话400-818-6666。\n详询您的理财经理或我行客服电话95558。' 为固定文案，连带容器整体固定"
         },
         {
           "groupId": "0:404",
           "groupName": "收费方式/年费率",
-          "type": "fixedTexts",
-          "descendantIds": [],
-          "reason": "费率表格字段标签，固定 UI 表头",
-          "childTexts": [
-            {
-              "nodeId": "0:404",
-              "text": "收费方式/年费率"
-            }
-          ]
+          "role": "fixed-texts",
+          "nodeIds": [
+            "0:404"
+          ],
+          "reason": "TEXT '收费方式/年费率' 为固定文案，连带容器整体固定"
         },
         {
           "groupId": "0:407",
           "groupName": "管理费",
-          "type": "fixedTexts",
-          "descendantIds": [],
-          "reason": "费率表格字段标签，固定 UI 表头",
-          "childTexts": [
-            {
-              "nodeId": "0:407",
-              "text": "管理费"
-            }
-          ]
+          "role": "fixed-texts",
+          "nodeIds": [
+            "0:407"
+          ],
+          "reason": "TEXT '管理费' 为固定文案，连带容器整体固定"
         },
         {
-          "groupId": "0:410",
-          "groupName": "托管费",
-          "type": "fixedTexts",
-          "descendantIds": [],
-          "reason": "费率表格字段标签，固定 UI 表头",
-          "childTexts": [
-            {
-              "nodeId": "0:410",
-              "text": "托管费"
-            }
-          ]
+          "groupId": "0:408",
+          "groupName": "费用类别",
+          "role": "fixed-texts",
+          "nodeIds": [
+            "0:408"
+          ],
+          "reason": "TEXT '费用类别' 为固定文案，连带容器整体固定"
         },
         {
           "groupId": "0:409",
           "groupName": "销售服务费",
-          "type": "fixedTexts",
-          "descendantIds": [],
-          "reason": "费率表格字段标签，固定 UI 表头",
-          "childTexts": [
-            {
-              "nodeId": "0:409",
-              "text": "销售服务费"
-            }
-          ]
+          "role": "fixed-texts",
+          "nodeIds": [
+            "0:409"
+          ],
+          "reason": "TEXT '销售服务费' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:410",
+          "groupName": "托管费",
+          "role": "fixed-texts",
+          "nodeIds": [
+            "0:410"
+          ],
+          "reason": "TEXT '托管费' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:411",
+          "groupName": "组 21",
+          "role": "decoration-bg",
+          "nodeIds": [
+            "0:411",
+            "0:412",
+            "0:413",
+            "0:415",
+            "0:414",
+            "0:416",
+            "0:417",
+            "0:419",
+            "0:418",
+            "0:420",
+            "0:421",
+            "0:422",
+            "0:425",
+            "0:423",
+            "0:424"
+          ],
+          "reason": "装饰容器（面积占比 13%）"
+        },
+        {
+          "groupId": "0:426",
+          "groupName": "组 2",
+          "role": "decoration-bg",
+          "nodeIds": [
+            "0:426",
+            "0:427",
+            "0:429",
+            "0:428"
+          ],
+          "reason": "装饰容器（面积占比 17%）"
+        },
+        {
+          "groupId": "0:430",
+          "groupName": "组 4",
+          "role": "decoration-bg",
+          "nodeIds": [
+            "0:430",
+            "0:431",
+            "0:433",
+            "0:432"
+          ],
+          "reason": "装饰容器（面积占比 17%）"
+        },
+        {
+          "groupId": "0:434",
+          "groupName": "组 23",
+          "role": "decoration-bg",
+          "nodeIds": [
+            "0:434",
+            "0:435",
+            "0:437",
+            "0:436"
+          ],
+          "reason": "装饰容器（面积占比 17%）"
         }
       ],
-      "variableTexts": [
-        {
-          "nodeId": "0:403",
-          "text": "0.15%",
-          "role": "body",
-          "reason": "管理费率数值，随产品变化"
-        },
-        {
-          "nodeId": "0:405",
-          "text": "0.20%",
-          "role": "body",
-          "reason": "销售服务费率数值，随产品变化"
-        },
-        {
-          "nodeId": "0:406",
-          "text": "0.05%",
-          "role": "body",
-          "reason": "托管费率数值，随产品变化"
-        }
-      ]
+      "zones": []
     },
     {
       "groupId": "bankEnding",
@@ -569,26 +918,75 @@
       "moduleIndexes": [
         6
       ],
-      "contentArea": {
-        "paddingTop": 0,
-        "paddingBottom": 0,
-        "paddingLeft": 0,
-        "paddingRight": 0,
-        "note": "银行品牌收尾模块，无内容区，全部为固定装饰"
-      },
+      "representativeIndex": 6,
+      "fullyFixed": true,
+      "frameId": "13:392",
+      "frameName": "银行结束语",
+      "frameWidth": 380.6289978027344,
       "fixedGroups": [
         {
-          "groupId": "0:349",
+          "groupId": "13:392",
           "groupName": "银行结束语",
-          "type": "decoration",
-          "descendantIds": [
-            "0:349"
+          "role": "fully-fixed-frame",
+          "nodeIds": [
+            "13:392",
+            "0:349",
+            "0:350",
+            "0:351",
+            "0:352",
+            "0:353",
+            "0:354",
+            "0:355",
+            "0:356",
+            "0:357",
+            "0:358",
+            "0:359",
+            "0:360",
+            "0:361",
+            "0:362",
+            "0:363",
+            "0:364",
+            "0:365",
+            "0:366",
+            "0:367",
+            "0:368",
+            "0:369",
+            "0:370",
+            "0:371",
+            "0:372",
+            "0:373",
+            "0:374",
+            "0:375",
+            "0:376",
+            "0:377",
+            "0:378",
+            "0:379",
+            "0:380",
+            "0:381",
+            "0:382",
+            "0:383",
+            "0:384",
+            "0:385",
+            "0:386",
+            "0:387",
+            "0:388",
+            "0:389",
+            "0:390",
+            "0:391",
+            "0:392",
+            "0:393",
+            "0:394",
+            "0:395",
+            "0:396",
+            "0:397",
+            "0:398",
+            "0:399",
+            "0:400"
           ],
-          "reason": "银行品牌收尾 logo 图形组（PATH + LAYER），全部为矢量装饰，固定不变"
+          "reason": "完全固定 frame：无可变 TEXT"
         }
       ],
-      "variableTexts": []
+      "zones": []
     }
-  ],
-  "excludedModules": []
+  ]
 }

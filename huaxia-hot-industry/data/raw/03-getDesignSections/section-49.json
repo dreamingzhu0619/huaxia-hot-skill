@@ -1,0 +1,179 @@
+{
+  "sectionIndex": 49,
+  "section": {
+    "id": "0:2133",
+    "name": "编组 66",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "paint_0:66": {
+        "value": [
+          "linear-gradient(180deg, #FF7F9C -7%, #F03A56 39%, #F2263E 70%, #FFA79E 100%)"
+        ]
+      },
+      "paint_0:68": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:85": {
+        "value": [
+          "linear-gradient(141deg, #FD5D74 -6%, rgba(255, 255, 255, 0) 100%)"
+        ]
+      },
+      "paint_0:87": {
+        "value": [
+          "linear-gradient(171deg, #FFFFFF 2%, rgba(255, 255, 255, 0) 94%)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:2133",
+        "name": "编组 66",
+        "layoutStyle": {
+          "width": 191,
+          "height": 40,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "GROUP",
+            "id": "0:2134",
+            "name": "半导体",
+            "layoutStyle": {
+              "width": 131.03488159179688,
+              "height": 40,
+              "relativeX": 29.13458824157715,
+              "relativeY": -0.7692354917526245
+            },
+            "children": [
+              {
+                "type": "PATH",
+                "id": "0:2135",
+                "name": "形状结合",
+                "layoutStyle": {
+                  "width": 131.03488159179688,
+                  "height": 40,
+                  "relativeX": 0,
+                  "relativeY": 4.708766937255859e-06
+                },
+                "path": [
+                  {
+                    "fill": "url(#grad_paint_0_66)",
+                    "data": ""
+                  },
+                  {
+                    "fill": "#FFFFFF",
+                    "data": ""
+                  }
+                ],
+                "svgKey": "S49:半导体|0:2135",
+                "svgName": "半导体"
+              }
+            ]
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2148",
+            "name": "编组 10",
+            "layoutStyle": {
+              "width": 191,
+              "height": 33.33333206176758,
+              "relativeX": 0,
+              "relativeY": 6.666666507720947
+            },
+            "children": [
+              {
+                "type": "GROUP",
+                "id": "0:2149",
+                "name": "maisui-zuo-3",
+                "layoutStyle": {
+                  "width": 23.072998046875,
+                  "height": 33.33333206176758,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "PATH",
+                    "id": "0:2150",
+                    "name": "形状结合",
+                    "layoutStyle": {
+                      "width": 23.072998046875,
+                      "height": 33.33333206176758,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "opacity": 0.699999988079071,
+                    "path": [
+                      {
+                        "fill": "url(#grad_paint_0_85)",
+                        "data": ""
+                      },
+                      {
+                        "fill": "url(#grad_paint_0_87)",
+                        "data": ""
+                      }
+                    ],
+                    "svgKey": "S49:maisui-zuo-3|0:2150",
+                    "svgName": "maisui-zuo-3"
+                  }
+                ]
+              },
+              {
+                "type": "GROUP",
+                "id": "0:2156",
+                "name": "maisui-zuo-3备份",
+                "layoutStyle": {
+                  "width": 23.072998046875,
+                  "height": 33.33333206176758,
+                  "relativeX": 167.93,
+                  "relativeY": 0,
+                  "rotate": 180,
+                  "rotateX": 180
+                },
+                "children": [
+                  {
+                    "type": "PATH",
+                    "id": "0:2157",
+                    "name": "形状结合",
+                    "layoutStyle": {
+                      "width": 23.072998046875,
+                      "height": 33.33333206176758,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "opacity": 0.699999988079071,
+                    "path": [
+                      {
+                        "fill": "url(#grad_paint_0_85)",
+                        "data": ""
+                      },
+                      {
+                        "fill": "url(#grad_paint_0_87)",
+                        "data": ""
+                      }
+                    ],
+                    "svgKey": "S49:maisui-zuo-3备份|0:2157",
+                    "svgName": "maisui-zuo-3备份"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 8,
+  "svgNodeCount": 3,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 52/66. MISSING 14 sections: [52,53,54,55,56,57,58,59,60,61,62,63,64,65]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

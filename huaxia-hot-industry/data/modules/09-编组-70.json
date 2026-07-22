@@ -1,0 +1,692 @@
+{
+  "meta": {
+    "moduleIndex": 9,
+    "moduleId": "0:1753",
+    "moduleName": "编组 70",
+    "slug": "编组-70",
+    "fileName": "09-编组-70.json",
+    "position": {
+      "x": 22,
+      "y": 340,
+      "width": 331,
+      "height": 38
+    },
+    "nodeCount": 7,
+    "resolvedNodeCount": 7,
+    "textCount": 1,
+    "textsResolved": 0,
+    "sectionIndexes": [
+      9
+    ],
+    "styleCounts": {
+      "paints": 5,
+      "fonts": 1,
+      "effects": 0
+    },
+    "assetCounts": {
+      "bitmaps": 1,
+      "svgs": 2,
+      "d2cSvgIcons": 2,
+      "d2cExportImages": 1
+    },
+    "imageCount": 3,
+    "d2cMatched": true,
+    "d2cMatchDistance": 0.141,
+    "d2cNodeCssCount": 3,
+    "missingStyleRefs": []
+  },
+  "sections": [
+    {
+      "sectionIndex": 9,
+      "id": "0:1753",
+      "name": "编组 70",
+      "type": "FRAME",
+      "nodeCount": 7,
+      "x": 22,
+      "y": 340,
+      "width": 331,
+      "height": 38,
+      "textPreview": "半导体行业波动显著，机遇与风险并存。对于",
+      "structureSiblingCount": 1
+    }
+  ],
+  "assets": {
+    "bitmaps": [
+      {
+        "styleKey": "paint_1:4160",
+        "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/d14a066e49d47b16a8c75d66deb571a0.png"
+      }
+    ],
+    "svgs": {
+      "0:1754": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 331 38\" width=\"331\" height=\"38\" shape-rendering=\"crispEdges\">\n  <defs><linearGradient id=\"grad_paint_0_121\" x1=\"0.5000\" y1=\"1.0000\" x2=\"0.5000\" y2=\"0.0000\"><stop offset=\"0\" stop-color=\"#FFFFFF\"/><stop offset=\"0.46\" stop-color=\"#FBFDFF\"/><stop offset=\"1\" stop-color=\"#F3F8FF\"/></linearGradient><linearGradient id=\"grad_paint_0_123\" x1=\"1.0000\" y1=\"0.5000\" x2=\"-0.0000\" y2=\"0.5000\"><stop offset=\"0\" stop-color=\"rgb(108,176,255)\" stop-opacity=\"0\"/><stop offset=\"0.48\" stop-color=\"rgb(217,233,255)\" stop-opacity=\"0.7272\"/><stop offset=\"0.88\" stop-color=\"rgb(222,235,255)\" stop-opacity=\"0\"/></linearGradient></defs>\n  <path d=\"M8,10.622727L19.484669,10.622727C24.795927,10.622727,29.935415,8.7409439,33.990959,5.3113637C38.046501,1.8817832,43.185993,3.053946e-15,48.49725,2.8531235e-15L323,-7.5260199e-15C327.41827,-7.6930785e-15,331,3.5817213,331,8L331,29.999998C331,34.418278,327.41827,38,323,38L8.0000076,38C3.5817213,38,-9.0144888e-16,34.418278,-2.0134428e-15,30L-4.8768786e-15,18.622728C-5.9888728e-15,14.204448,3.5817213,10.622727,8,10.622727\" fill=\"url(#grad_paint_0_121)\" fill-rule=\"evenodd\"/>\n  <path d=\"M8,10.622727L19.484669,10.622727C24.795927,10.622727,29.935415,8.7409439,33.990959,5.3113637C38.046501,1.8817832,43.185993,0,48.49725,0L323,0C327.41827,0,331,3.5817213,331,8L331,29.999998C331,34.418278,327.41827,38,323,38L8.0000076,38C3.5817213,38,0,34.418278,0,30L0,18.622728C0,14.204448,3.5817213,10.622727,8,10.622727Z\nM8,11.622728Q5.1005034,11.622728,3.0502524,13.672979Q1,15.723231,1,18.62273L1.0000007,30Q1.0000004,32.899498,3.0502534,34.949749Q5.1005068,37,8.0000076,37L323,37Q325.89951,37,327.94977,34.949749Q330,32.899498,330,29.999998L330,8Q330,5.1005039,327.94977,3.0502524Q325.89951,1,323,1L48.49725,1Q40.637886,1,34.636681,6.0749397Q28.076309,11.622728,19.484669,11.622728L8,11.622728Z\" fill=\"url(#grad_paint_0_123)\" fill-rule=\"evenodd\"/>\n</svg>",
+      "0:1757": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"8.78 22.96 8.19 1.02\" width=\"8.19\" height=\"1.02\" shape-rendering=\"crispEdges\">\n  <path d=\"M12.96170477644043,23.978614904541015Q15.17084357644043,23.978614904541015,16.96170427644043,23.478614864541015Q15.17084357644043,22.978614885581017,12.96170477644043,22.978614885581017C10.75256557644043,22.978614885581017,8.77540397644043,22.963164721541016,8.77540397644043,23.239307104541016C8.77540397644043,23.515449464541014,10.75256557644043,23.978614904541015,12.96170477644043,23.978614904541015Z\" fill=\"#86B1E9\" fill-rule=\"evenodd\"/>\n</svg>"
+    }
+  },
+  "node": {
+    "id": "0:1753",
+    "name": "编组 70",
+    "type": "FRAME",
+    "layoutStyle": {
+      "width": 331,
+      "height": 38,
+      "relativeX": 22,
+      "relativeY": 340,
+      "rotate": 0,
+      "rotateX": null
+    },
+    "bounds": {
+      "x": 22,
+      "y": 340,
+      "width": 331,
+      "height": 38
+    },
+    "opacity": null,
+    "fill": null,
+    "effect": null,
+    "borderRadius": null,
+    "strokeAlign": null,
+    "strokeColor": null,
+    "strokeType": null,
+    "strokeWidth": null,
+    "mask": null,
+    "path": null,
+    "text": null,
+    "textRuns": null,
+    "textAlign": null,
+    "textMode": null,
+    "textColor": null,
+    "hasSvg": false,
+    "exportImage": null,
+    "styleRefs": null,
+    "componentDefinition": null,
+    "d2cCss": {
+      "-webkit-background-clip": null,
+      "-webkit-text-fill-color": null,
+      "background": null,
+      "background-clip": null,
+      "background-image": null,
+      "border": null,
+      "border-bottom-left-radius": null,
+      "border-radius": null,
+      "border-top-left-radius": null,
+      "bottom": "86.88%",
+      "box-shadow": null,
+      "color": null,
+      "filter": null,
+      "flex": "none",
+      "font-family": null,
+      "font-size": null,
+      "height": "38px",
+      "left": "5.87%",
+      "letter-spacing": null,
+      "line-height": null,
+      "mix-blend-mode": null,
+      "object-fit": null,
+      "opacity": null,
+      "overflow": null,
+      "position": "absolute",
+      "right": "5.87%",
+      "text-align": null,
+      "text-fill-color": null,
+      "text-shadow": null,
+      "top": "11.81%",
+      "transform": null,
+      "transform-origin": null,
+      "width": "331px",
+      "z-index": "9"
+    },
+    "d2cMatch": "img-src",
+    "sources": [
+      "getDsl",
+      "getD2c"
+    ],
+    "captureStatus": "complete",
+    "children": [
+      {
+        "id": "0:1754",
+        "name": "编组 67",
+        "type": "FRAME",
+        "layoutStyle": {
+          "width": 331,
+          "height": 38,
+          "relativeX": 0,
+          "relativeY": 0,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 22,
+          "y": 340,
+          "width": 331,
+          "height": 38
+        },
+        "opacity": null,
+        "fill": null,
+        "effect": null,
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": null,
+        "text": null,
+        "textRuns": null,
+        "textAlign": null,
+        "textMode": null,
+        "textColor": null,
+        "hasSvg": true,
+        "exportImage": null,
+        "styleRefs": null,
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": null,
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": null,
+          "font-family": null,
+          "font-size": null,
+          "height": null,
+          "left": null,
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": null,
+          "right": null,
+          "text-align": null,
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": null,
+          "transform": null,
+          "transform-origin": null,
+          "width": null,
+          "z-index": null
+        },
+        "d2cMatch": null,
+        "sources": [
+          "getDsl",
+          "extractSvg"
+        ],
+        "captureStatus": "complete",
+        "children": [
+          {
+            "id": "0:1755",
+            "name": "矩形",
+            "type": "PATH",
+            "layoutStyle": {
+              "width": 331,
+              "height": 38,
+              "relativeX": 0,
+              "relativeY": 0,
+              "rotate": 0,
+              "rotateX": null
+            },
+            "bounds": {
+              "x": 22,
+              "y": 340,
+              "width": 331,
+              "height": 38
+            },
+            "opacity": null,
+            "fill": "linear-gradient(0deg, #FFFFFF 0%, #FBFDFF 46%, #F3F8FF 100%)",
+            "effect": null,
+            "borderRadius": null,
+            "strokeAlign": null,
+            "strokeColor": null,
+            "strokeType": null,
+            "strokeWidth": null,
+            "mask": null,
+            "path": [
+              {
+                "data": "M8,10.622727L19.484669,10.622727C24.795927,10.622727,29.935415,8.7409439,33.990959,5.3113637C38.046501,1.8817832,43.185993,3.053946e-15,48.49725,2.8531235e-15L323,-7.5260199e-15C327.41827,-7.6930785e-15,331,3.5817213,331,8L331,29.999998C331,34.418278,327.41827,38,323,38L8.0000076,38C3.5817213,38,-9.0144888e-16,34.418278,-2.0134428e-15,30L-4.8768786e-15,18.622728C-5.9888728e-15,14.204448,3.5817213,10.622727,8,10.622727",
+                "fill": "linear-gradient(0deg, #FFFFFF 0%, #FBFDFF 46%, #F3F8FF 100%)",
+                "transform": null
+              },
+              {
+                "data": "M8,10.622727L19.484669,10.622727C24.795927,10.622727,29.935415,8.7409439,33.990959,5.3113637C38.046501,1.8817832,43.185993,0,48.49725,0L323,0C327.41827,0,331,3.5817213,331,8L331,29.999998C331,34.418278,327.41827,38,323,38L8.0000076,38C3.5817213,38,0,34.418278,0,30L0,18.622728C0,14.204448,3.5817213,10.622727,8,10.622727ZM8,11.622728Q5.1005034,11.622728,3.0502524,13.672979Q1,15.723231,1,18.62273L1.0000007,30Q1.0000004,32.899498,3.0502534,34.949749Q5.1005068,37,8.0000076,37L323,37Q325.89951,37,327.94977,34.949749Q330,32.899498,330,29.999998L330,8Q330,5.1005039,327.94977,3.0502524Q325.89951,1,323,1L48.49725,1Q40.637886,1,34.636681,6.0749397Q28.076309,11.622728,19.484669,11.622728L8,11.622728Z",
+                "fill": "linear-gradient(270deg, rgba(108, 176, 255, 0) 0%, rgba(217, 233, 255, 0.7272) 48%, rgba(222, 235, 255, 0) 88%)",
+                "transform": null
+              }
+            ],
+            "text": null,
+            "textRuns": null,
+            "textAlign": null,
+            "textMode": null,
+            "textColor": null,
+            "hasSvg": false,
+            "exportImage": null,
+            "styleRefs": null,
+            "componentDefinition": null,
+            "d2cCss": {
+              "-webkit-background-clip": null,
+              "-webkit-text-fill-color": null,
+              "background": null,
+              "background-clip": null,
+              "background-image": null,
+              "border": null,
+              "border-bottom-left-radius": null,
+              "border-radius": null,
+              "border-top-left-radius": null,
+              "bottom": null,
+              "box-shadow": null,
+              "color": null,
+              "filter": null,
+              "flex": null,
+              "font-family": null,
+              "font-size": null,
+              "height": null,
+              "left": null,
+              "letter-spacing": null,
+              "line-height": null,
+              "mix-blend-mode": null,
+              "object-fit": null,
+              "opacity": null,
+              "overflow": null,
+              "position": null,
+              "right": null,
+              "text-align": null,
+              "text-fill-color": null,
+              "text-shadow": null,
+              "top": null,
+              "transform": null,
+              "transform-origin": null,
+              "width": null,
+              "z-index": null
+            },
+            "d2cMatch": null,
+            "sources": [
+              "getDsl"
+            ],
+            "captureStatus": "complete",
+            "children": []
+          },
+          {
+            "id": "0:1756",
+            "name": "半导体行业波动显著，机遇与风险并存。对于",
+            "type": "TEXT",
+            "layoutStyle": {
+              "width": 284,
+              "height": 26,
+              "relativeX": 39,
+              "relativeY": 6,
+              "rotate": 0,
+              "rotateX": null
+            },
+            "bounds": {
+              "x": 61,
+              "y": 346,
+              "width": 284,
+              "height": 26
+            },
+            "opacity": null,
+            "fill": null,
+            "effect": null,
+            "borderRadius": null,
+            "strokeAlign": null,
+            "strokeColor": null,
+            "strokeType": null,
+            "strokeWidth": null,
+            "mask": null,
+            "path": null,
+            "text": "半导体行业波动显著，机遇与风险并存。对于波动承受有限的投资者，不妨以小仓位先行参与，或通过定投分批买入。",
+            "textRuns": [
+              {
+                "text": "半导体行业波动显著，机遇与风险并存。对于波动承受有限的投资者，不妨以小仓位先行参与，或通过定投分批买入。",
+                "font": {
+                  "family": "MiSans",
+                  "size": 11,
+                  "style": "Medium",
+                  "lineHeight": "13",
+                  "letterSpacing": "-0.20000000298023224px",
+                  "case": "none",
+                  "decoration": "none"
+                },
+                "color": "#485F94"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "auto-height",
+            "textColor": [
+              {
+                "start": 0,
+                "end": 52,
+                "color": "#485F94"
+              }
+            ],
+            "hasSvg": false,
+            "exportImage": null,
+            "styleRefs": {
+              "font": [
+                "font_0:126"
+              ],
+              "textColors": [
+                "paint_0:128"
+              ]
+            },
+            "componentDefinition": null,
+            "d2cCss": {
+              "-webkit-background-clip": null,
+              "-webkit-text-fill-color": null,
+              "background": null,
+              "background-clip": null,
+              "background-image": null,
+              "border": null,
+              "border-bottom-left-radius": null,
+              "border-radius": null,
+              "border-top-left-radius": null,
+              "bottom": null,
+              "box-shadow": null,
+              "color": null,
+              "filter": null,
+              "flex": null,
+              "font-family": null,
+              "font-size": null,
+              "height": null,
+              "left": null,
+              "letter-spacing": null,
+              "line-height": null,
+              "mix-blend-mode": null,
+              "object-fit": null,
+              "opacity": null,
+              "overflow": null,
+              "position": null,
+              "right": null,
+              "text-align": null,
+              "text-fill-color": null,
+              "text-shadow": null,
+              "top": null,
+              "transform": null,
+              "transform-origin": null,
+              "width": null,
+              "z-index": null
+            },
+            "d2cMatch": null,
+            "sources": [
+              "getDsl"
+            ],
+            "captureStatus": "complete",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0:1757",
+        "name": "编组 69",
+        "type": "FRAME",
+        "layoutStyle": {
+          "width": 23.55080795288086,
+          "height": 24.478614807128906,
+          "relativeX": 7.22459602355957,
+          "relativeY": 7.260692119598389,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 29.22459602355957,
+          "y": 347.2606921195984,
+          "width": 23.55080795288086,
+          "height": 24.478614807128906
+        },
+        "opacity": null,
+        "fill": null,
+        "effect": null,
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": null,
+        "text": null,
+        "textRuns": null,
+        "textAlign": null,
+        "textMode": null,
+        "textColor": null,
+        "hasSvg": true,
+        "exportImage": null,
+        "styleRefs": null,
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": "16.47%",
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": "none",
+          "font-family": null,
+          "font-size": null,
+          "height": "24.48px",
+          "left": "2.18%",
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": "absolute",
+          "right": "90.7%",
+          "text-align": null,
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": "19.11%",
+          "transform": null,
+          "transform-origin": null,
+          "width": "23.55px",
+          "z-index": "1"
+        },
+        "d2cMatch": "img-src",
+        "sources": [
+          "getDsl",
+          "getD2c",
+          "extractSvg"
+        ],
+        "captureStatus": "complete",
+        "children": [
+          {
+            "id": "0:1758",
+            "name": "椭圆形",
+            "type": "PATH",
+            "layoutStyle": {
+              "width": 8.186300277709961,
+              "height": 1.0001565217971802,
+              "relativeX": 8.77540397644043,
+              "relativeY": 22.978458404541016,
+              "rotate": 0,
+              "rotateX": null
+            },
+            "bounds": {
+              "x": 38.0,
+              "y": 370.2391505241394,
+              "width": 8.186300277709961,
+              "height": 1.0001565217971802
+            },
+            "opacity": null,
+            "fill": "#86B1E9",
+            "effect": null,
+            "borderRadius": null,
+            "strokeAlign": null,
+            "strokeColor": null,
+            "strokeType": null,
+            "strokeWidth": null,
+            "mask": null,
+            "path": [
+              {
+                "data": "M12.96170477644043,23.978614904541015Q15.17084357644043,23.978614904541015,16.96170427644043,23.478614864541015Q15.17084357644043,22.978614885581017,12.96170477644043,22.978614885581017C10.75256557644043,22.978614885581017,8.77540397644043,22.963164721541016,8.77540397644043,23.239307104541016C8.77540397644043,23.515449464541014,10.75256557644043,23.978614904541015,12.96170477644043,23.978614904541015Z",
+                "fill": "#86B1E9",
+                "transform": null
+              }
+            ],
+            "text": null,
+            "textRuns": null,
+            "textAlign": null,
+            "textMode": null,
+            "textColor": null,
+            "hasSvg": false,
+            "exportImage": null,
+            "styleRefs": null,
+            "componentDefinition": null,
+            "d2cCss": {
+              "-webkit-background-clip": null,
+              "-webkit-text-fill-color": null,
+              "background": null,
+              "background-clip": null,
+              "background-image": null,
+              "border": null,
+              "border-bottom-left-radius": null,
+              "border-radius": null,
+              "border-top-left-radius": null,
+              "bottom": "0%",
+              "box-shadow": null,
+              "color": null,
+              "filter": null,
+              "flex": null,
+              "font-family": null,
+              "font-size": null,
+              "height": null,
+              "left": "0%",
+              "letter-spacing": null,
+              "line-height": null,
+              "mix-blend-mode": null,
+              "object-fit": null,
+              "opacity": null,
+              "overflow": null,
+              "position": "absolute",
+              "right": "0%",
+              "text-align": null,
+              "text-fill-color": null,
+              "text-shadow": null,
+              "top": "0%",
+              "transform": null,
+              "transform-origin": null,
+              "width": null,
+              "z-index": "0"
+            },
+            "d2cMatch": "img-src",
+            "sources": [
+              "getDsl",
+              "getD2c"
+            ],
+            "captureStatus": "complete",
+            "children": []
+          },
+          {
+            "id": "0:1759",
+            "name": "位图",
+            "type": "LAYER",
+            "layoutStyle": {
+              "width": 22,
+              "height": 23,
+              "relativeX": 0.78,
+              "relativeY": 0.74,
+              "rotate": -4,
+              "rotateX": null
+            },
+            "bounds": {
+              "x": 30.00459602355957,
+              "y": 348.0006921195984,
+              "width": 22,
+              "height": 23
+            },
+            "opacity": null,
+            "fill": {
+              "type": "IMAGE",
+              "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/d14a066e49d47b16a8c75d66deb571a0.png"
+            },
+            "effect": null,
+            "borderRadius": null,
+            "strokeAlign": null,
+            "strokeColor": null,
+            "strokeType": null,
+            "strokeWidth": null,
+            "mask": null,
+            "path": null,
+            "text": null,
+            "textRuns": null,
+            "textAlign": null,
+            "textMode": null,
+            "textColor": null,
+            "hasSvg": false,
+            "exportImage": null,
+            "styleRefs": {
+              "fill": "paint_1:4160"
+            },
+            "componentDefinition": null,
+            "d2cCss": {
+              "-webkit-background-clip": null,
+              "-webkit-text-fill-color": null,
+              "background": null,
+              "background-clip": null,
+              "background-image": null,
+              "border": null,
+              "border-bottom-left-radius": null,
+              "border-radius": null,
+              "border-top-left-radius": null,
+              "bottom": null,
+              "box-shadow": null,
+              "color": null,
+              "filter": null,
+              "flex": null,
+              "font-family": null,
+              "font-size": null,
+              "height": null,
+              "left": null,
+              "letter-spacing": null,
+              "line-height": null,
+              "mix-blend-mode": null,
+              "object-fit": null,
+              "opacity": null,
+              "overflow": null,
+              "position": null,
+              "right": null,
+              "text-align": null,
+              "text-fill-color": null,
+              "text-shadow": null,
+              "top": null,
+              "transform": null,
+              "transform-origin": null,
+              "width": null,
+              "z-index": null
+            },
+            "d2cMatch": null,
+            "sources": [
+              "getDsl"
+            ],
+            "captureStatus": "complete",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "d2c": {
+    "html": "<div\n        style=\"width: 331px; height: 38px; flex: none; position: absolute; left: 5.87%; right: 5.87%; top: 11.81%; bottom: 86.88%; z-index: 9\">\n        <div\n          style=\"width: 331px; height: 38px; flex: none; position: absolute; left: 0%; right: 0%; top: 0%; bottom: 0%; z-index: 0\">\n          <div\n            style=\"position: absolute; left: 0%; right: 0%; top: 0%; bottom: 0%; z-index: 0\">\n            <img src=\"./asset/icons/svg_a0878ad1.svg\" />\n          </div>\n          <p\n            style=\"width: 284px; color: #485F94; font-size: 11px; font-family: MiSans; font-weight: 500; line-height: 13px; letter-spacing: -0.2px; position: absolute; left: 11.78%; right: 2.42%; top: calc(100% - 38px + 6px); z-index: 1\">\n            半导体行业波动显著，机遇与风险并存。对于波动承受有限的投资者，不妨以小仓位先行参与，或通过定投分批买入。\n          </p>\n        </div>\n        <div\n          style=\"width: 23.55px; height: 24.48px; flex: none; position: absolute; left: 2.18%; right: 90.7%; top: 19.11%; bottom: 16.47%; z-index: 1\">\n          <div\n            style=\"position: absolute; left: 37.28%; right: 27.98%; top: 93.87%; bottom: 2.04%; z-index: 0\">\n            <img src=\"./asset/icons/svg_94929185.svg\" />\n          </div>\n          <img\n            src=\"./asset/images/d14a066e49d47b16a8c75d66deb571a0.png\"\n            title=\"位图\"\n            style=\"flex: none; position: absolute; transform: rotate(-4deg); transform-origin: 0 0; left: 0%; right: 6.58%; top: 6.25%; bottom: -0.25%; z-index: 1; width: 22px; height: 23px; object-fit: cover\" />\n        </div>\n      </div>",
+    "svgIcons": {
+      "svg_94929185.svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"none\" version=\"1.1\" width=\"8.19\" height=\"1\" viewBox=\"0 0 8.186300277709961 1.0001565217971802\"><path d=\"M4.1863008,1.0001565Q6.3954396,1.0001565,8.1863003,0.50015646Q6.3954396,0.00015648104,4.1863008,0.00015648104C1.9771616,0.00015648104,0,-0.015293683,0,0.2608487C0,0.53699106,1.9771616,1.0001565,4.1863008,1.0001565Z\" fill-rule=\"evenodd\" fill=\"#86B1E9\" fill-opacity=\"1\"/></svg>",
+      "svg_a0878ad1.svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"none\" version=\"1.1\" width=\"331\" height=\"38\" viewBox=\"0 0 331 38\"><defs><linearGradient x1=\"0.5\" y1=\"1\" x2=\"0.5\" y2=\"1.734723475976807e-17\" id=\"master_svg0_0_122\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\"/><stop offset=\"46.49937152862549%\" stop-color=\"#FBFDFF\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#F3F8FF\" stop-opacity=\"1\"/></linearGradient><linearGradient x1=\"1\" y1=\"0.5\" x2=\"0.11128184754885972\" y2=\"0.5002891277479193\" id=\"master_svg1_0_124\"><stop offset=\"0%\" stop-color=\"#6CB0FF\" stop-opacity=\"0\"/><stop offset=\"54.711270332336426%\" stop-color=\"#D9E9FF\" stop-opacity=\"0.7271907925605774\"/><stop offset=\"100%\" stop-color=\"#DEEBFF\" stop-opacity=\"0\"/></linearGradient></defs><path d=\"M8.000001,10.622727L19.484669,10.622727C24.795927,10.622727,29.935415,8.7409439,33.990959,5.3113637C38.046501,1.8817832,43.185993,3.053946e-15,48.49725,2.8531235e-15L323,-7.5260199e-15C327.41827,-7.6930785e-15,331,3.5817223,331,8.000001L331,29.999998C331,34.418278,327.41827,38,323,38L8.0000076,38C3.5817223,38,-9.0144888e-16,34.418278,-2.0134428e-15,30L-4.8768786e-15,18.622728C-5.9888728e-15,14.20445,3.5817223,10.622727,8.000001,10.622727\" fill-rule=\"evenodd\" fill=\"url(#master_svg0_0_122)\" fill-opacity=\"1\"/><path d=\"M8.000001,10.622727L19.484669,10.622727C24.795927,10.622727,29.935415,8.7409439,33.990959,5.3113637C38.046501,1.8817832,43.185993,0,48.49725,0L323,0C327.41827,0,331,3.5817223,331,8.000001L331,29.999998C331,34.418278,327.41827,38,323,38L8.0000076,38C3.5817223,38,0,34.418278,0,30L0,18.622728C0,14.20445,3.5817223,10.622727,8.000001,10.622727ZM8.0000019,11.622728Q5.1005054,11.622728,3.0502529,13.67298Q1,15.723234,1,18.62273L1,30Q1,32.899498,3.0502534,34.949749Q5.1005073,37,8.0000076,37L323,37Q325.89951,37,327.94977,34.949749Q330,32.899498,330,29.999998L330,8.0000019Q330,5.1005049,327.94977,3.0502529Q325.89951,1,323,1L48.49725,1Q40.637886,1,34.636681,6.0749397Q28.076309,11.622728,19.484669,11.622728L8.0000019,11.622728Z\" fill-rule=\"evenodd\" fill=\"url(#master_svg1_0_124)\" fill-opacity=\"1\"/></svg>"
+    },
+    "exportImages": {
+      "d14a066e49d47b16a8c75d66deb571a0.png": "https://image-resource.mastergo.com/158383838066578/194424914768480/d14a066e49d47b16a8c75d66deb571a0.png"
+    }
+  }
+}

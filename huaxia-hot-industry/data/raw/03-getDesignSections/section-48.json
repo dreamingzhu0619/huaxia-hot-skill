@@ -1,0 +1,123 @@
+{
+  "sectionIndex": 48,
+  "section": {
+    "id": "0:2113",
+    "name": "编组 71",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "effect_0:32": {
+        "value": [
+          "backdrop-filter: blur(5.44px);"
+        ]
+      },
+      "paint_0:27": {
+        "value": [
+          "rgba(255, 255, 255, 0.4)",
+          "rgba(255, 255, 255, 0.4)"
+        ]
+      },
+      "paint_0:30": {
+        "value": [
+          "#B8CBED"
+        ]
+      },
+      "paint_0:37": {
+        "value": [
+          "linear-gradient(178deg, #2A60B4 5%, #5799E8 69%, #B3C9F3 101%)"
+        ]
+      },
+      "paint_0:40": {
+        "value": [
+          "linear-gradient(180deg, #FFFFFF 0%, #FFFFFF 100%)"
+        ]
+      },
+      "paint_0:59": {
+        "value": [
+          "linear-gradient(182deg, #FFB8BF -2%, #F23D46 26%, #FF6685 56%, rgba(147, 194, 255, 0) 99%)"
+        ]
+      },
+      "paint_0:61": {
+        "value": [
+          "linear-gradient(180deg, #FFFFFF 65%, rgba(255, 255, 255, 0) 89%)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:2113",
+        "name": "编组 71",
+        "layoutStyle": {
+          "width": 82,
+          "height": 23,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "LAYER",
+            "id": "0:2114",
+            "name": "矩形",
+            "layoutStyle": {
+              "width": 82,
+              "height": 23,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "borderRadius": "13px",
+            "fill": "paint_0:27",
+            "_color": "rgba(255, 255, 255, 0.4)",
+            "strokeColor": "paint_0:30",
+            "strokeType": "solid",
+            "strokeAlign": "inside",
+            "strokeWidth": "0.699999988079071px",
+            "effect": "effect_0:32"
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2115",
+            "name": "编组 9",
+            "layoutStyle": {
+              "width": 61,
+              "height": 16,
+              "relativeX": 10.807350158691406,
+              "relativeY": 3
+            },
+            "path": [
+              {
+                "fill": "url(#grad_paint_0_37)",
+                "data": ""
+              },
+              {
+                "fill": "url(#grad_paint_0_40)",
+                "data": ""
+              },
+              {
+                "fill": "url(#grad_paint_0_59)",
+                "data": "",
+                "fillType": 1
+              },
+              {
+                "fill": "url(#grad_paint_0_61)",
+                "data": "",
+                "fillType": 1
+              }
+            ],
+            "_mergedVector": true,
+            "svgKey": "S48:编组 71|0:2115",
+            "svgName": "编组 71"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 3,
+  "svgNodeCount": 1,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 51/66. MISSING 15 sections: [49,52,53,54,55,56,57,58,59,60,61,62,63,64,65]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

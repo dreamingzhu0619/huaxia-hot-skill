@@ -1,0 +1,148 @@
+{
+  "sectionIndex": 47,
+  "section": {
+    "id": "0:2110",
+    "name": "编组 72",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "font_0:454": {
+        "value": {
+          "family": "MiSans",
+          "size": 10,
+          "style": "Regular",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto",
+          "weight": "400"
+        }
+      },
+      "font_0:456": {
+        "value": {
+          "family": "MiSans",
+          "size": 10,
+          "style": "Semibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto",
+          "weight": "600"
+        }
+      },
+      "paint_0:458": {
+        "value": [
+          "#5F7FAB"
+        ]
+      },
+      "paint_0:460": {
+        "value": [
+          "#466998"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:2110",
+        "name": "编组 72",
+        "layoutStyle": {
+          "width": 339,
+          "height": 160,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "TEXT",
+            "id": "0:2111",
+            "name": "风险提示：观点仅供参考，不构成投资建议，",
+            "layoutStyle": {
+              "width": 339,
+              "height": 143,
+              "relativeX": 0,
+              "relativeY": 17
+            },
+            "text": [
+              {
+                "text": "T47|0:2111",
+                "font": "font_0:454"
+              },
+              {
+                "text": "T47|0:2111",
+                "font": "font_0:456"
+              },
+              {
+                "text": "T47|0:2111",
+                "font": "font_0:454"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 5,
+                "color": "paint_0:458"
+              },
+              {
+                "start": 5,
+                "end": 77,
+                "color": "paint_0:460"
+              },
+              {
+                "start": 77,
+                "end": 344,
+                "color": "paint_0:458"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "auto-height"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:2112",
+            "name": "基金销售费率详见产品详情页中的\"交易规则",
+            "layoutStyle": {
+              "width": 339,
+              "height": 13,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "text": [
+              {
+                "text": "基金销售费率详见产品详情页中的\"交易规则\"",
+                "font": "font_0:454"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 21,
+                "color": "paint_0:458"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "auto-height"
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "T47|0:2111T47|0:2111T47|0:2111",
+        "parentType": "FRAME",
+        "parentName": "编组 72"
+      },
+      {
+        "text": "基金销售费率详见产品详情页中的\"交易规则\"",
+        "parentType": "FRAME",
+        "parentName": "编组 72"
+      }
+    ]
+  },
+  "nodeCount": 3,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 48/66. MISSING 18 sections: [48,49,50,51,52,53,54,55,56,57... +8 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

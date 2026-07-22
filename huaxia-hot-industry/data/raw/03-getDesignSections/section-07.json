@@ -1,0 +1,306 @@
+{
+  "sectionIndex": 7,
+  "section": {
+    "id": "0:1720",
+    "name": "编组 56",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "font_0:837": {
+        "value": {
+          "family": "MiSans",
+          "size": 12,
+          "style": "Regular",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "-0.30000001192092896px",
+          "weight": "400"
+        }
+      },
+      "paint_0:831": {
+        "value": [
+          "linear-gradient(270deg, rgba(252, 253, 255, 0) 0%, rgba(250, 251, 254, 0.2505) 9%, rgba(250, 251, 254, 0.6) 50%, rgba(250, 251, 254, 0.29) 90%, rgba(248, 249, 254, 0) 100%)"
+        ]
+      },
+      "paint_0:833": {
+        "value": [
+          "linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 49%, rgba(255, 255, 255, 0) 100%)"
+        ]
+      },
+      "paint_0:839": {
+        "value": [
+          "#3C58A0"
+        ]
+      },
+      "paint_0:843": {
+        "value": [
+          "linear-gradient(162deg, #6E96E5 -17%, #425892 111%)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1720",
+        "name": "编组 56",
+        "layoutStyle": {
+          "width": 330,
+          "height": 22,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "LAYER",
+            "id": "0:1721",
+            "name": "矩形",
+            "layoutStyle": {
+              "width": 330,
+              "height": 22,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "fill": "paint_0:831",
+            "_color": "linear-gradient(270deg, rgba(252, 253, 255, 0) 0%, rgba(250, 251, 254, 0.2505) 9%, rgba(250, 251, 254, 0.6) 50%, rgba(250, 251, 254, 0.29) 90%, rgba(248, 249, 254, 0) 100%)",
+            "strokeColor": "paint_0:833",
+            "strokeType": "solid",
+            "strokeAlign": "inside",
+            "strokeWidth": "1px"
+          },
+          {
+            "type": "FRAME",
+            "id": "0:1722",
+            "name": "编组 55",
+            "layoutStyle": {
+              "width": 87,
+              "height": 16,
+              "relativeX": 26,
+              "relativeY": 2.572190999984741
+            },
+            "children": [
+              {
+                "type": "TEXT",
+                "id": "0:1723",
+                "name": "捕捉热点事件",
+                "layoutStyle": {
+                  "width": 71,
+                  "height": 16,
+                  "relativeX": 16,
+                  "relativeY": 0
+                },
+                "text": [
+                  {
+                    "text": "捕捉热点事件",
+                    "font": "font_0:837"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 6,
+                    "color": "paint_0:839"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              },
+              {
+                "type": "GROUP",
+                "id": "0:1724",
+                "name": "duigou-3备份",
+                "layoutStyle": {
+                  "width": 12,
+                  "height": 12,
+                  "relativeX": 0,
+                  "relativeY": 2.427809000015259
+                },
+                "children": [
+                  {
+                    "type": "PATH",
+                    "id": "0:1725",
+                    "name": "形状结合",
+                    "layoutStyle": {
+                      "width": 12,
+                      "height": 12,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "svgKey": "S7:duigou-3备份|0:1725",
+                    "svgName": "duigou-3备份"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "FRAME",
+            "id": "0:1732",
+            "name": "编组 38",
+            "layoutStyle": {
+              "width": 87,
+              "height": 16,
+              "relativeX": 123,
+              "relativeY": 3
+            },
+            "children": [
+              {
+                "type": "TEXT",
+                "id": "0:1733",
+                "name": "拆解产业逻辑",
+                "layoutStyle": {
+                  "width": 71,
+                  "height": 16,
+                  "relativeX": 16,
+                  "relativeY": 0
+                },
+                "text": [
+                  {
+                    "text": "拆解产业逻辑",
+                    "font": "font_0:837"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 6,
+                    "color": "paint_0:839"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              },
+              {
+                "type": "GROUP",
+                "id": "0:1734",
+                "name": "duigou-3",
+                "layoutStyle": {
+                  "width": 12,
+                  "height": 12,
+                  "relativeX": 0,
+                  "relativeY": 2.427809000015259
+                },
+                "children": [
+                  {
+                    "type": "PATH",
+                    "id": "0:1735",
+                    "name": "形状结合",
+                    "layoutStyle": {
+                      "width": 12,
+                      "height": 12,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "svgKey": "S7:duigou-3|0:1735",
+                    "svgName": "duigou-3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "FRAME",
+            "id": "0:1742",
+            "name": "编组 39",
+            "layoutStyle": {
+              "width": 87,
+              "height": 16,
+              "relativeX": 220,
+              "relativeY": 2.572190999984741
+            },
+            "children": [
+              {
+                "type": "TEXT",
+                "id": "0:1743",
+                "name": "精选关联产品",
+                "layoutStyle": {
+                  "width": 71,
+                  "height": 16,
+                  "relativeX": 16,
+                  "relativeY": 0
+                },
+                "text": [
+                  {
+                    "text": "精选关联产品",
+                    "font": "font_0:837"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 6,
+                    "color": "paint_0:839"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              },
+              {
+                "type": "GROUP",
+                "id": "0:1744",
+                "name": "duigou-3备份 2",
+                "layoutStyle": {
+                  "width": 12,
+                  "height": 12,
+                  "relativeX": 0,
+                  "relativeY": 2.427809000015259
+                },
+                "children": [
+                  {
+                    "type": "PATH",
+                    "id": "0:1745",
+                    "name": "形状结合",
+                    "layoutStyle": {
+                      "width": 12,
+                      "height": 12,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "svgKey": "S7:duigou-3备份 2|0:1745",
+                    "svgName": "duigou-3备份 2"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "捕捉热点事件",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 55"
+      },
+      {
+        "text": "拆解产业逻辑",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 38"
+      },
+      {
+        "text": "精选关联产品",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 39"
+      }
+    ],
+    "placeholderTexts": [
+      "捕捉热点事件",
+      "拆解产业逻辑",
+      "精选关联产品"
+    ]
+  },
+  "nodeCount": 14,
+  "svgNodeCount": 3,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 7/66. MISSING 59 sections: [5,8,9,10,11,12,13,14,15,16... +49 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

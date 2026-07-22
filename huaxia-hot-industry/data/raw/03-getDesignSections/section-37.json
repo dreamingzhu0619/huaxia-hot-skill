@@ -1,0 +1,64 @@
+{
+  "sectionIndex": 37,
+  "section": {
+    "id": "0:2013",
+    "name": "编组备份 3",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 4,
+  "dsl": {
+    "styles": {
+      "paint_0:1311": {
+        "value": [
+          "#B4D7FD"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:2013",
+        "name": "编组备份 3",
+        "layoutStyle": {
+          "width": 24,
+          "height": 24,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "PATH",
+            "id": "0:2014",
+            "name": "形状",
+            "layoutStyle": {
+              "width": 24,
+              "height": 24,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "path": []
+          },
+          {
+            "type": "PATH",
+            "id": "0:2020",
+            "name": "路径",
+            "layoutStyle": {
+              "width": 4.828786849975586,
+              "height": 7.657631874084473,
+              "relativeX": 10,
+              "relativeY": 8.171183586120605
+            },
+            "svgKey": "S37:编组备份 3|0:2020",
+            "svgName": "编组备份 3"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 3,
+  "svgNodeCount": 1,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 37/66. MISSING 29 sections: [36,38,39,40,41,42,43,44,45,46... +19 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

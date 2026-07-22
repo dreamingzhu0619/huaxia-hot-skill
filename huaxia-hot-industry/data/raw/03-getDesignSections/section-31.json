@@ -1,0 +1,48 @@
+{
+  "sectionIndex": 31,
+  "section": {
+    "id": "0:1960",
+    "name": "矩形备份 20",
+    "type": "PATH"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "effect_0:1220": {
+        "value": []
+      },
+      "paint_0:1218": {
+        "value": [
+          "linear-gradient(270deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 92%)"
+        ]
+      },
+      "paint_0:1270": {
+        "value": [
+          "linear-gradient(250deg, #BAD7FF -22%, rgba(181, 224, 255, 0.3994) 64%, rgba(255, 255, 255, 0) 102%)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "PATH",
+        "id": "0:1960",
+        "name": "矩形备份 20",
+        "layoutStyle": {
+          "width": 266,
+          "height": 39,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "effect": "effect_0:1220",
+        "svgKey": "S31:0:1960|0:1960",
+        "svgName": ""
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1,
+  "svgNodeCount": 1,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 32/66. MISSING 34 sections: [32,33,34,35,36,37,38,39,40,41... +24 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

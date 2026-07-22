@@ -1,0 +1,72 @@
+{
+  "sectionIndex": 63,
+  "section": {
+    "id": "0:2262",
+    "name": "19140",
+    "type": "TEXT"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "font_0:1649": {
+        "value": {
+          "family": "MiSans",
+          "size": 11.5,
+          "style": "Demibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "-0.20000000298023224px",
+          "weight": "600"
+        }
+      },
+      "paint_0:179": {
+        "value": [
+          "#F23346"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:2262",
+        "name": "19140",
+        "layoutStyle": {
+          "width": 32,
+          "height": 15,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "19140",
+            "font": "font_0:1649"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 5,
+            "color": "paint_0:179"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line",
+        "_placeholder": true
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "19140",
+        "_placeholder": true
+      }
+    ],
+    "placeholderTexts": [
+      "19140"
+    ]
+  },
+  "nodeCount": 1,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 62/66. MISSING 4 sections: [61,62,64,65]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

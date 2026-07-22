@@ -1,0 +1,47 @@
+{
+  "sectionIndex": 27,
+  "section": {
+    "id": "0:1948",
+    "name": "矩形备份 21",
+    "type": "LAYER"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "paint_0:1136": {
+        "value": [
+          "linear-gradient(352deg, #F3F8FF 18%, #FBFDFF 39%, #FFFFFF 76%, #FFF7E8 82%)"
+        ]
+      },
+      "paint_0:1138": {
+        "value": [
+          "linear-gradient(180deg, rgba(255, 255, 255, 0.0634) 4%, #DEEBFF 100%)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "LAYER",
+        "id": "0:1948",
+        "name": "矩形备份 21",
+        "layoutStyle": {
+          "width": 323,
+          "height": 76,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "borderRadius": "8px",
+        "fill": "paint_0:1136",
+        "_color": "linear-gradient(352deg, #F3F8FF 18%, #FBFDFF 39%, #FFFFFF 76%, #FFF7E8 82%)",
+        "strokeColor": "paint_0:1138",
+        "strokeType": "solid",
+        "strokeAlign": "inside",
+        "strokeWidth": "0.5px"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 26/66. MISSING 40 sections: [24,25,28,29,30,31,32,33,34,35... +30 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

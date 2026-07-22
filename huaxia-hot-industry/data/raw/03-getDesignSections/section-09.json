@@ -1,0 +1,177 @@
+{
+  "sectionIndex": 9,
+  "section": {
+    "id": "0:1753",
+    "name": "编组 70",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "font_0:126": {
+        "value": {
+          "family": "MiSans",
+          "size": 11,
+          "style": "Medium",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "-0.20000000298023224px",
+          "weight": "500"
+        }
+      },
+      "paint_0:121": {
+        "value": [
+          "linear-gradient(0deg, #FFFFFF 0%, #FBFDFF 46%, #F3F8FF 100%)"
+        ]
+      },
+      "paint_0:123": {
+        "value": [
+          "linear-gradient(270deg, rgba(108, 176, 255, 0) 0%, rgba(217, 233, 255, 0.7272) 48%, rgba(222, 235, 255, 0) 88%)"
+        ]
+      },
+      "paint_0:128": {
+        "value": [
+          "#485F94"
+        ]
+      },
+      "paint_0:132": {
+        "value": [
+          "#86B1E9"
+        ]
+      },
+      "paint_1:4160": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/d14a066e49d47b16a8c75d66deb571a0.png",
+            "filters": ""
+          }
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1753",
+        "name": "编组 70",
+        "layoutStyle": {
+          "width": 331,
+          "height": 38,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "FRAME",
+            "id": "0:1754",
+            "name": "编组 67",
+            "layoutStyle": {
+              "width": 331,
+              "height": 38,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "PATH",
+                "id": "0:1755",
+                "name": "矩形",
+                "layoutStyle": {
+                  "width": 331,
+                  "height": 38,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "svgKey": "S9:编组 67|0:1755",
+                "svgName": "编组 67"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:1756",
+                "name": "半导体行业波动显著，机遇与风险并存。对于",
+                "layoutStyle": {
+                  "width": 284,
+                  "height": 26,
+                  "relativeX": 39,
+                  "relativeY": 6
+                },
+                "text": [
+                  {
+                    "text": "T9|0:1756",
+                    "font": "font_0:126"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 52,
+                    "color": "paint_0:128"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "auto-height"
+              }
+            ]
+          },
+          {
+            "type": "FRAME",
+            "id": "0:1757",
+            "name": "编组 69",
+            "layoutStyle": {
+              "width": 23.55080795288086,
+              "height": 24.478614807128906,
+              "relativeX": 7.22459602355957,
+              "relativeY": 7.260692119598389
+            },
+            "children": [
+              {
+                "type": "PATH",
+                "id": "0:1758",
+                "name": "椭圆形",
+                "layoutStyle": {
+                  "width": 8.186300277709961,
+                  "height": 1.0001565217971802,
+                  "relativeX": 8.77540397644043,
+                  "relativeY": 22.978458404541016
+                },
+                "path": [
+                  {
+                    "fill": "#86B1E9",
+                    "data": "",
+                    "fillType": 1
+                  }
+                ]
+              },
+              {
+                "type": "LAYER",
+                "id": "0:1759",
+                "name": "位图",
+                "layoutStyle": {
+                  "width": 22,
+                  "height": 23,
+                  "relativeX": 0.78,
+                  "relativeY": 0.74,
+                  "rotate": -4
+                },
+                "fill": "paint_1:4160"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "半导体行业波动显著，机遇与风险并存。对于波动承受有限的投资者，不妨以小仓位先行参与，或通过定投分批买入。",
+        "parentType": "FRAME",
+        "parentName": "编组 67"
+      }
+    ]
+  },
+  "nodeCount": 7,
+  "svgNodeCount": 1,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 12/66. MISSING 54 sections: [12,13,14,15,16,17,18,19,20,21... +44 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

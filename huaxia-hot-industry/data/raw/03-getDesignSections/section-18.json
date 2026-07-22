@@ -1,0 +1,67 @@
+{
+  "sectionIndex": 18,
+  "section": {
+    "id": "0:1855",
+    "name": "半导体导电性介于导体与绝缘体之间，且可人",
+    "type": "TEXT"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "font_0:996": {
+        "value": {
+          "family": "MiSans",
+          "size": 12.5,
+          "style": "Regular",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "16",
+          "letterSpacing": "-0.4000000059604645px",
+          "weight": "400"
+        }
+      },
+      "paint_0:145": {
+        "value": [
+          "#3A3E45"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:1855",
+        "name": "半导体导电性介于导体与绝缘体之间，且可人",
+        "layoutStyle": {
+          "width": 319,
+          "height": 48,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "T18|0:1855",
+            "font": "font_0:996"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 60,
+            "color": "paint_0:145"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "auto-height"
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "半导体导电性介于导体与绝缘体之间，且可人为调控，凭借这一特性，硅、锗、砷化镓等半导体材料成为芯片制造不可或缺的核心原料。"
+      }
+    ]
+  },
+  "nodeCount": 1,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 19/66. MISSING 47 sections: [16,20,21,22,23,24,25,26,27,28... +37 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

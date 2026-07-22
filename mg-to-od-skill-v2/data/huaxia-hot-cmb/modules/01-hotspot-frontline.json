@@ -1,0 +1,1136 @@
+{
+  "meta": {
+    "moduleIndex": 1,
+    "moduleId": "2:794",
+    "moduleName": "热点前线",
+    "slug": "hotspot-frontline",
+    "fileName": "01-hotspot-frontline.json",
+    "position": {
+      "x": 10,
+      "y": 154.76441955566406,
+      "width": 355,
+      "height": 236.23558044433594
+    },
+    "nodeCount": 11,
+    "resolvedNodeCount": 11,
+    "textCount": 3,
+    "textsResolved": 0,
+    "sectionIndexes": [
+      1
+    ],
+    "styleCounts": {
+      "paints": 9,
+      "fonts": 3,
+      "effects": 5
+    },
+    "assetCounts": {
+      "bitmaps": 0,
+      "svgs": 1,
+      "d2cSvgIcons": 1,
+      "d2cExportImages": 0
+    },
+    "imageCount": 1,
+    "d2cMatched": true,
+    "d2cMatchDistance": 0.004,
+    "d2cNodeCssCount": 4,
+    "missingStyleRefs": []
+  },
+  "sections": [
+    {
+      "sectionIndex": 1,
+      "id": "2:794",
+      "name": "热点前线",
+      "type": "FRAME",
+      "nodeCount": 11,
+      "x": 10,
+      "y": 154.76,
+      "width": 355,
+      "height": 236.23558044433594
+    }
+  ],
+  "assets": {
+    "bitmaps": [],
+    "svgs": {
+      "0:950": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"-31.00000000000023 -8 387.0732700000002 242.07327\" width=\"387.0732700000002\" height=\"242.07327\" shape-rendering=\"crispEdges\"><defs><linearGradient id=\"grad_0_950_0\" x1=\"0.5\" y1=\"0.0\" x2=\"0.5\" y2=\"1.0\"><stop offset=\"0%\" stop-color=\"#E0EDFF\" stop-opacity=\"1\"/><stop offset=\"11%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\"/></linearGradient><linearGradient id=\"grad_0_950_1\" x1=\"0.5\" y1=\"1.0\" x2=\"0.5\" y2=\"0.0\"><stop offset=\"18%\" stop-color=\"#4F9CF0\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#75C3F8\" stop-opacity=\"1\"/></linearGradient><linearGradient id=\"grad_0_950_2\" x1=\"0.5\" y1=\"1.0\" x2=\"0.5\" y2=\"0.0\"><stop offset=\"18%\" stop-color=\"#4F9CF0\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#75C3F8\" stop-opacity=\"1\"/></linearGradient><linearGradient id=\"grad_0_950_3\" x1=\"0.7575\" y1=\"0.0714\" x2=\"0.2425\" y2=\"0.9286\"><stop offset=\"8%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\"/><stop offset=\"58%\" stop-color=\"rgb(255, 224, 177)\" stop-opacity=\"0\"/></linearGradient><linearGradient id=\"grad_0_950_4\" x1=\"0.7575\" y1=\"0.0714\" x2=\"0.2425\" y2=\"0.9286\"><stop offset=\"8%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\"/><stop offset=\"58%\" stop-color=\"rgb(255, 224, 177)\" stop-opacity=\"0\"/></linearGradient></defs>\n  <path d=\"M10.097191,2.8462755e-13L344.9028,-8.7396094e-14C348.43716,-9.1323359e-14,350.24429,0.0071459413,351.58942,0.70439374C352.74719,1.3045354,353.69547,2.2527995,354.29559,3.4105935C354.99283,4.7557149,355,6.5628376,355,10.097191L355,222.90282C355,226.43716,354.99283,228.24428,354.29559,229.5894C353.69547,230.74719,352.74719,231.69547,351.58942,232.29561C350.24429,232.99286,348.43716,233,344.9028,233L10.097194,233C6.5628376,233,4.7557073,232.99284,3.4105935,232.29561C2.2527995,231.69547,1.3045354,230.74719,0.70439374,229.5894C0.0071531534,228.24429,4.8264657e-15,226.43716,7.4257176e-15,222.9028L1.639281e-13,10.097185C1.6652736e-13,6.5628376,0.0071544647,4.7557082,0.70439374,3.4105935C1.3045354,2.2527995,2.2527995,1.3045354,3.4105935,0.70439374C4.7557082,0.0071544647,6.5628376,2.885548e-13,10.097191,2.8462755e-13\" fill=\"url(#grad_0_950_0)\"/>\n  <path fill-rule=\"evenodd\" d=\"M-1.0732558,10.097185L-1.0732558,222.9028Q-1.0732558,228.49213,-0.24846144,230.08331Q0.83207959,232.16791,2.9166887,233.24847Q4.5079002,234.07327,10.097194,234.07327L344.9028,234.07327Q350.49219,234.07327,352.08334,233.24847Q354.16794,232.16791,355.24844,230.0833Q356.07327,228.49202,356.07327,222.90282L356.07327,10.097191Q356.07327,4.5079541,355.24844,2.9166934Q354.16794,0.83210415,352.08334,-0.24845952Q350.49216,-1.0732558,344.9028,-1.0732558L10.097191,-1.0732558Q4.5078797,-1.0732558,2.916683,-0.24845991Q0.83208823,0.83208793,-0.24846002,2.9166815Q-1.0732558,4.5078793,-1.0732558,10.097185ZM344.9028,0L10.097191,0C6.5628376,0,4.7557082,0.0071544647,3.4105935,0.70439374C2.2527995,1.3045354,1.3045354,2.2527995,0.70439374,3.4105935C0.0071544647,4.7557082,0,6.5628376,0,10.097185L0,222.9028C0,226.43716,0.0071531534,228.24429,0.70439374,229.5894C1.3045354,230.74719,2.2527995,231.69547,3.4105935,232.29561C4.7557073,232.99284,6.5628376,233,10.097194,233L344.9028,233C348.43716,233,350.24429,232.99286,351.58942,232.29561C352.74719,231.69547,353.69547,230.74719,354.29559,229.5894C354.99283,228.24428,355,226.43716,355,222.90282L355,10.097191C355,6.5628376,354.99283,4.7557149,354.29559,3.4105935C353.69547,2.2527995,352.74719,1.3045354,351.58942,0.70439374C350.24429,0.0071459413,348.43716,0,344.9028,0Z\" fill=\"#FFFFFF\"/>\n  <path d=\"M-31.00000000000023,-1Q40.277198999999996,-0.88759884,122,-1Q114.15101999999999,-0.86931138,109.3595,6.772069Q104.72142,13.711655,99.51015000000001,20.851322C97.31358,23.860735,96.18081,25.356903,94.75528,26.433632C93.50433,27.378494,92.08607,28.081511,90.57569,28.510551C88.85721,28.998709,86.97023,29,83.2305,29L-11.434197999999999,29C-15.868027,29,-18.130762,28.99197,-19.877414,28.147663C-21.38622,27.418327,-22.6536674,26.259354,-23.5147295,24.821646C-24.511527100000002,23.157301,-24.7214322,20.904308,-25.1170721,16.488169L-26.2066932,4.3258038Q-27.8383706,0.09929169999999998,-31.00000000000023,-1Z\" fill=\"url(#grad_0_950_1)\"/>\n  <path d=\"M-31.00000000000023,-1Q40.277198999999996,-0.88759884,122,-1Q114.15101999999999,-0.86931138,109.3595,6.772069Q104.72142,13.711655,99.51015000000001,20.851322C97.31358,23.860735,96.18081,25.356903,94.75528,26.433632C93.50433,27.378494,92.08607,28.081511,90.57569,28.510551C88.85721,28.998709,86.97023,29,83.2305,29L-11.434197999999999,29C-15.868027,29,-18.130762,28.99197,-19.877414,28.147663C-21.38622,27.418327,-22.6536674,26.259354,-23.5147295,24.821646C-24.511527100000002,23.157301,-24.7214322,20.904308,-25.1170721,16.488169L-26.2066932,4.3258038Q-27.8383706,0.09929169999999998,-31.00000000000023,-1Z\" fill=\"url(#grad_0_950_2)\"/>\n  <path d=\"M81.037552,-8L48.99999999999999,39L60.177523,39L92,-8L81.037552,-8Z\" fill=\"url(#grad_0_950_3)\" transform=\"matrix(-1,0,0,1,98,0)\"/>\n  <path d=\"M111.405672,-8L80.00000000000001,39L107.805159,39L139,-8L111.405672,-8Z\" fill=\"url(#grad_0_950_4)\" transform=\"matrix(-1,0,0,1,160,0)\"/>\n</svg>"
+    }
+  },
+  "node": {
+    "id": "2:794",
+    "name": "热点前线",
+    "type": "FRAME",
+    "layoutStyle": {
+      "width": 355,
+      "height": 236.23558044433594,
+      "relativeX": 10,
+      "relativeY": 154.76441955566406,
+      "rotate": 0,
+      "rotateX": null
+    },
+    "bounds": {
+      "x": 10,
+      "y": 154.76441955566406,
+      "width": 355,
+      "height": 236.23558044433594
+    },
+    "opacity": null,
+    "fill": null,
+    "effect": null,
+    "borderRadius": null,
+    "strokeAlign": null,
+    "strokeColor": null,
+    "strokeType": null,
+    "strokeWidth": null,
+    "mask": null,
+    "path": null,
+    "text": null,
+    "textRuns": null,
+    "textAlign": null,
+    "textMode": null,
+    "textColor": null,
+    "hasSvg": false,
+    "exportImage": null,
+    "styleRefs": null,
+    "componentDefinition": null,
+    "d2cCss": {
+      "-webkit-background-clip": null,
+      "-webkit-text-fill-color": null,
+      "background": null,
+      "background-clip": null,
+      "background-image": null,
+      "border": null,
+      "border-bottom-left-radius": null,
+      "border-radius": null,
+      "border-top-left-radius": null,
+      "bottom": null,
+      "box-shadow": null,
+      "color": null,
+      "filter": null,
+      "flex": "none",
+      "font-family": null,
+      "font-size": null,
+      "height": "236.24px",
+      "left": "10px",
+      "letter-spacing": null,
+      "line-height": null,
+      "mix-blend-mode": null,
+      "object-fit": null,
+      "opacity": null,
+      "overflow": null,
+      "position": "absolute",
+      "right": null,
+      "text-align": null,
+      "text-fill-color": null,
+      "text-shadow": null,
+      "top": "154.76px",
+      "transform": null,
+      "transform-origin": null,
+      "width": "355px",
+      "z-index": "1"
+    },
+    "d2cMatch": "img-src",
+    "sources": [
+      "getDsl",
+      "getD2c"
+    ],
+    "captureStatus": "complete",
+    "children": [
+      {
+        "id": "0:950",
+        "name": "矩形",
+        "type": "FRAME",
+        "layoutStyle": {
+          "width": 355,
+          "height": 233,
+          "relativeX": 0,
+          "relativeY": 3.2355804443359375,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 10,
+          "y": 158.0,
+          "width": 355,
+          "height": 233
+        },
+        "opacity": null,
+        "fill": null,
+        "effect": null,
+        "borderRadius": "10.1px",
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": null,
+        "text": null,
+        "textRuns": null,
+        "textAlign": null,
+        "textMode": null,
+        "textColor": null,
+        "hasSvg": true,
+        "exportImage": null,
+        "styleRefs": null,
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": null,
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": null,
+          "font-family": null,
+          "font-size": null,
+          "height": null,
+          "left": null,
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": "hidden",
+          "position": null,
+          "right": null,
+          "text-align": null,
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": null,
+          "transform": null,
+          "transform-origin": null,
+          "width": null,
+          "z-index": null
+        },
+        "d2cMatch": null,
+        "sources": [
+          "getDsl",
+          "extractSvg"
+        ],
+        "captureStatus": "complete",
+        "children": [
+          {
+            "id": "0:951",
+            "name": "蒙版",
+            "type": "PATH",
+            "layoutStyle": {
+              "width": 355,
+              "height": 233,
+              "relativeX": 0,
+              "relativeY": 0,
+              "rotate": 0,
+              "rotateX": null
+            },
+            "bounds": {
+              "x": 10,
+              "y": 158.0,
+              "width": 355,
+              "height": 233
+            },
+            "opacity": null,
+            "fill": "linear-gradient(180deg, #E0EDFF 0%, #FFFFFF 11%)",
+            "effect": {
+              "boxShadow": [
+                "box-shadow: 0px 1px 2px 2px #EAF5FF;"
+              ],
+              "filter": [],
+              "backdropFilter": [],
+              "raw": [
+                "box-shadow: 0px 1px 2px 2px #EAF5FF;"
+              ]
+            },
+            "borderRadius": null,
+            "strokeAlign": null,
+            "strokeColor": null,
+            "strokeType": null,
+            "strokeWidth": null,
+            "mask": "outline",
+            "path": [
+              {
+                "data": "M10.097191,2.8462755e-13L344.9028,-8.7396094e-14C348.43716,-9.1323359e-14,350.24429,0.0071459413,351.58942,0.70439374C352.74719,1.3045354,353.69547,2.2527995,354.29559,3.4105935C354.99283,4.7557149,355,6.5628376,355,10.097191L355,222.90282C355,226.43716,354.99283,228.24428,354.29559,229.5894C353.69547,230.74719,352.74719,231.69547,351.58942,232.29561C350.24429,232.99286,348.43716,233,344.9028,233L10.097194,233C6.5628376,233,4.7557073,232.99284,3.4105935,232.29561C2.2527995,231.69547,1.3045354,230.74719,0.70439374,229.5894C0.0071531534,228.24429,4.8264657e-15,226.43716,7.4257176e-15,222.9028L1.639281e-13,10.097185C1.6652736e-13,6.5628376,0.0071544647,4.7557082,0.70439374,3.4105935C1.3045354,2.2527995,2.2527995,1.3045354,3.4105935,0.70439374C4.7557082,0.0071544647,6.5628376,2.885548e-13,10.097191,2.8462755e-13",
+                "fill": "linear-gradient(180deg, #E0EDFF 0%, #FFFFFF 11%)",
+                "transform": null
+              },
+              {
+                "data": "M-1.0732558,10.097185L-1.0732558,222.9028Q-1.0732558,228.49213,-0.24846144,230.08331Q0.83207959,232.16791,2.9166887,233.24847Q4.5079002,234.07327,10.097194,234.07327L344.9028,234.07327Q350.49219,234.07327,352.08334,233.24847Q354.16794,232.16791,355.24844,230.0833Q356.07327,228.49202,356.07327,222.90282L356.07327,10.097191Q356.07327,4.5079541,355.24844,2.9166934Q354.16794,0.83210415,352.08334,-0.24845952Q350.49216,-1.0732558,344.9028,-1.0732558L10.097191,-1.0732558Q4.5078797,-1.0732558,2.916683,-0.24845991Q0.83208823,0.83208793,-0.24846002,2.9166815Q-1.0732558,4.5078793,-1.0732558,10.097185ZM344.9028,0L10.097191,0C6.5628376,0,4.7557082,0.0071544647,3.4105935,0.70439374C2.2527995,1.3045354,1.3045354,2.2527995,0.70439374,3.4105935C0.0071544647,4.7557082,0,6.5628376,0,10.097185L0,222.9028C0,226.43716,0.0071531534,228.24429,0.70439374,229.5894C1.3045354,230.74719,2.2527995,231.69547,3.4105935,232.29561C4.7557073,232.99284,6.5628376,233,10.097194,233L344.9028,233C348.43716,233,350.24429,232.99286,351.58942,232.29561C352.74719,231.69547,353.69547,230.74719,354.29559,229.5894C354.99283,228.24428,355,226.43716,355,222.90282L355,10.097191C355,6.5628376,354.99283,4.7557149,354.29559,3.4105935C353.69547,2.2527995,352.74719,1.3045354,351.58942,0.70439374C350.24429,0.0071459413,348.43716,0,344.9028,0Z",
+                "fill": "#FFFFFF",
+                "transform": null
+              }
+            ],
+            "text": null,
+            "textRuns": null,
+            "textAlign": null,
+            "textMode": null,
+            "textColor": null,
+            "hasSvg": false,
+            "exportImage": null,
+            "styleRefs": {
+              "effect": "effect_0:127"
+            },
+            "componentDefinition": null,
+            "d2cCss": {
+              "-webkit-background-clip": null,
+              "-webkit-text-fill-color": null,
+              "background": null,
+              "background-clip": null,
+              "background-image": null,
+              "border": null,
+              "border-bottom-left-radius": null,
+              "border-radius": null,
+              "border-top-left-radius": null,
+              "bottom": null,
+              "box-shadow": null,
+              "color": null,
+              "filter": null,
+              "flex": null,
+              "font-family": null,
+              "font-size": null,
+              "height": null,
+              "left": null,
+              "letter-spacing": null,
+              "line-height": null,
+              "mix-blend-mode": null,
+              "object-fit": null,
+              "opacity": null,
+              "overflow": null,
+              "position": null,
+              "right": null,
+              "text-align": null,
+              "text-fill-color": null,
+              "text-shadow": null,
+              "top": null,
+              "transform": null,
+              "transform-origin": null,
+              "width": null,
+              "z-index": null
+            },
+            "d2cMatch": null,
+            "sources": [
+              "getDsl"
+            ],
+            "captureStatus": "complete",
+            "children": []
+          },
+          {
+            "id": "0:952",
+            "name": "矩形备份 7",
+            "type": "PATH",
+            "layoutStyle": {
+              "width": 153,
+              "height": 30,
+              "relativeX": -31,
+              "relativeY": -1,
+              "rotate": 0,
+              "rotateX": null
+            },
+            "bounds": {
+              "x": -21,
+              "y": 157.0,
+              "width": 153,
+              "height": 30
+            },
+            "opacity": null,
+            "fill": [
+              "linear-gradient(180deg, #75C4F8 0%, #4F9CF0 76%)",
+              "linear-gradient(0deg, #4F9CF0 18%, #75C3F8 100%)"
+            ],
+            "effect": {
+              "boxShadow": [
+                "box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5);",
+                "box-shadow: 0px 1px 0px 0px #FFFFFF;"
+              ],
+              "filter": [
+                "filter: blur(9.72px);"
+              ],
+              "backdropFilter": [],
+              "raw": [
+                "box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5);",
+                "box-shadow: 0px 1px 0px 0px #FFFFFF;",
+                "filter: blur(9.72px);"
+              ]
+            },
+            "borderRadius": null,
+            "strokeAlign": null,
+            "strokeColor": null,
+            "strokeType": null,
+            "strokeWidth": null,
+            "mask": null,
+            "path": [
+              {
+                "data": "M-31.00000000000023,-1Q40.277198999999996,-0.88759884,122,-1Q114.15101999999999,-0.86931138,109.3595,6.772069Q104.72142,13.711655,99.51015000000001,20.851322C97.31358,23.860735,96.18081,25.356903,94.75528,26.433632C93.50433,27.378494,92.08607,28.081511,90.57569,28.510551C88.85721,28.998709,86.97023,29,83.2305,29L-11.434197999999999,29C-15.868027,29,-18.130762,28.99197,-19.877414,28.147663C-21.38622,27.418327,-22.6536674,26.259354,-23.5147295,24.821646C-24.511527100000002,23.157301,-24.7214322,20.904308,-25.1170721,16.488169L-26.2066932,4.3258038Q-27.8383706,0.09929169999999998,-31.00000000000023,-1Z",
+                "fill": [
+                  "linear-gradient(180deg, #75C4F8 0%, #4F9CF0 76%)",
+                  "linear-gradient(0deg, #4F9CF0 18%, #75C3F8 100%)"
+                ],
+                "transform": null
+              }
+            ],
+            "text": null,
+            "textRuns": null,
+            "textAlign": null,
+            "textMode": null,
+            "textColor": null,
+            "hasSvg": false,
+            "exportImage": null,
+            "styleRefs": {
+              "effect": "effect_0:137"
+            },
+            "componentDefinition": null,
+            "d2cCss": {
+              "-webkit-background-clip": null,
+              "-webkit-text-fill-color": null,
+              "background": null,
+              "background-clip": null,
+              "background-image": null,
+              "border": null,
+              "border-bottom-left-radius": null,
+              "border-radius": null,
+              "border-top-left-radius": null,
+              "bottom": null,
+              "box-shadow": null,
+              "color": "#999999",
+              "filter": null,
+              "flex": null,
+              "font-family": "FZLTHJW--GB1",
+              "font-size": "9px",
+              "height": null,
+              "left": "calc(100% - 355px + 28px)",
+              "letter-spacing": "-0.11px",
+              "line-height": "11px",
+              "mix-blend-mode": null,
+              "object-fit": null,
+              "opacity": null,
+              "overflow": null,
+              "position": "absolute",
+              "right": null,
+              "text-align": "center",
+              "text-fill-color": null,
+              "text-shadow": null,
+              "top": "calc(100% - 236.24px + 201.24px)",
+              "transform": null,
+              "transform-origin": null,
+              "width": "299px",
+              "z-index": "3"
+            },
+            "d2cMatch": "img-src",
+            "sources": [
+              "getDsl",
+              "getD2c"
+            ],
+            "captureStatus": "complete",
+            "children": []
+          },
+          {
+            "id": "0:953",
+            "name": "矩形备份 8",
+            "type": "PATH",
+            "layoutStyle": {
+              "width": 153,
+              "height": 30,
+              "relativeX": -31,
+              "relativeY": -1,
+              "rotate": 0,
+              "rotateX": null
+            },
+            "bounds": {
+              "x": -21,
+              "y": 157.0,
+              "width": 153,
+              "height": 30
+            },
+            "opacity": null,
+            "fill": "linear-gradient(0deg, #4F9CF0 18%, #75C3F8 100%)",
+            "effect": {
+              "boxShadow": [
+                "box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5);",
+                "box-shadow: 0px 1px 0px 0px #FFFFFF;"
+              ],
+              "filter": [],
+              "backdropFilter": [],
+              "raw": [
+                "box-shadow: inset 0px 1px 3px 0px rgba(255, 255, 255, 0.5);",
+                "box-shadow: 0px 1px 0px 0px #FFFFFF;"
+              ]
+            },
+            "borderRadius": null,
+            "strokeAlign": null,
+            "strokeColor": null,
+            "strokeType": null,
+            "strokeWidth": null,
+            "mask": null,
+            "path": [
+              {
+                "data": "M-31.00000000000023,-1Q40.277198999999996,-0.88759884,122,-1Q114.15101999999999,-0.86931138,109.3595,6.772069Q104.72142,13.711655,99.51015000000001,20.851322C97.31358,23.860735,96.18081,25.356903,94.75528,26.433632C93.50433,27.378494,92.08607,28.081511,90.57569,28.510551C88.85721,28.998709,86.97023,29,83.2305,29L-11.434197999999999,29C-15.868027,29,-18.130762,28.99197,-19.877414,28.147663C-21.38622,27.418327,-22.6536674,26.259354,-23.5147295,24.821646C-24.511527100000002,23.157301,-24.7214322,20.904308,-25.1170721,16.488169L-26.2066932,4.3258038Q-27.8383706,0.09929169999999998,-31.00000000000023,-1Z",
+                "fill": "linear-gradient(0deg, #4F9CF0 18%, #75C3F8 100%)",
+                "transform": null
+              }
+            ],
+            "text": null,
+            "textRuns": null,
+            "textAlign": null,
+            "textMode": null,
+            "textColor": null,
+            "hasSvg": false,
+            "exportImage": null,
+            "styleRefs": {
+              "effect": "effect_0:147"
+            },
+            "componentDefinition": null,
+            "d2cCss": {
+              "-webkit-background-clip": null,
+              "-webkit-text-fill-color": null,
+              "background": null,
+              "background-clip": null,
+              "background-image": null,
+              "border": null,
+              "border-bottom-left-radius": null,
+              "border-radius": null,
+              "border-top-left-radius": null,
+              "bottom": null,
+              "box-shadow": null,
+              "color": null,
+              "filter": null,
+              "flex": null,
+              "font-family": null,
+              "font-size": null,
+              "height": null,
+              "left": null,
+              "letter-spacing": null,
+              "line-height": null,
+              "mix-blend-mode": null,
+              "object-fit": null,
+              "opacity": null,
+              "overflow": null,
+              "position": null,
+              "right": null,
+              "text-align": null,
+              "text-fill-color": null,
+              "text-shadow": null,
+              "top": null,
+              "transform": null,
+              "transform-origin": null,
+              "width": null,
+              "z-index": null
+            },
+            "d2cMatch": null,
+            "sources": [
+              "getDsl"
+            ],
+            "captureStatus": "complete",
+            "children": []
+          },
+          {
+            "id": "0:954",
+            "name": "路径 5",
+            "type": "PATH",
+            "layoutStyle": {
+              "width": 43,
+              "height": 47,
+              "relativeX": 6,
+              "relativeY": -8,
+              "rotate": 0,
+              "rotateX": null
+            },
+            "bounds": {
+              "x": 16,
+              "y": 150.0,
+              "width": 43,
+              "height": 47
+            },
+            "opacity": 0.14746005833148956,
+            "fill": "linear-gradient(211deg, #FFFFFF 8%, rgba(255, 224, 177, 0) 58%)",
+            "effect": null,
+            "borderRadius": null,
+            "strokeAlign": null,
+            "strokeColor": null,
+            "strokeType": null,
+            "strokeWidth": null,
+            "mask": null,
+            "path": [
+              {
+                "data": "M81.037552,-8L48.99999999999999,39L60.177523,39L92,-8L81.037552,-8Z",
+                "fill": "linear-gradient(211deg, #FFFFFF 8%, rgba(255, 224, 177, 0) 58%)",
+                "transform": "matrix(-1,0,0,1,98,0)"
+              }
+            ],
+            "text": null,
+            "textRuns": null,
+            "textAlign": null,
+            "textMode": null,
+            "textColor": null,
+            "hasSvg": false,
+            "exportImage": null,
+            "styleRefs": null,
+            "componentDefinition": null,
+            "d2cCss": {
+              "-webkit-background-clip": null,
+              "-webkit-text-fill-color": null,
+              "background": null,
+              "background-clip": null,
+              "background-image": null,
+              "border": null,
+              "border-bottom-left-radius": null,
+              "border-radius": null,
+              "border-top-left-radius": null,
+              "bottom": null,
+              "box-shadow": null,
+              "color": null,
+              "filter": null,
+              "flex": null,
+              "font-family": null,
+              "font-size": null,
+              "height": null,
+              "left": null,
+              "letter-spacing": null,
+              "line-height": null,
+              "mix-blend-mode": null,
+              "object-fit": null,
+              "opacity": null,
+              "overflow": null,
+              "position": null,
+              "right": null,
+              "text-align": null,
+              "text-fill-color": null,
+              "text-shadow": null,
+              "top": null,
+              "transform": null,
+              "transform-origin": null,
+              "width": null,
+              "z-index": null
+            },
+            "d2cMatch": null,
+            "sources": [
+              "getDsl"
+            ],
+            "captureStatus": "complete",
+            "children": []
+          },
+          {
+            "id": "0:955",
+            "name": "路径 5备份",
+            "type": "PATH",
+            "layoutStyle": {
+              "width": 59,
+              "height": 47,
+              "relativeX": 21,
+              "relativeY": -8,
+              "rotate": 0,
+              "rotateX": null
+            },
+            "bounds": {
+              "x": 31,
+              "y": 150.0,
+              "width": 59,
+              "height": 47
+            },
+            "opacity": 0.14746005833148956,
+            "fill": "linear-gradient(211deg, #FFFFFF 8%, rgba(255, 224, 177, 0) 58%)",
+            "effect": null,
+            "borderRadius": null,
+            "strokeAlign": null,
+            "strokeColor": null,
+            "strokeType": null,
+            "strokeWidth": null,
+            "mask": null,
+            "path": [
+              {
+                "data": "M111.405672,-8L80.00000000000001,39L107.805159,39L139,-8L111.405672,-8Z",
+                "fill": "linear-gradient(211deg, #FFFFFF 8%, rgba(255, 224, 177, 0) 58%)",
+                "transform": "matrix(-1,0,0,1,160,0)"
+              }
+            ],
+            "text": null,
+            "textRuns": null,
+            "textAlign": null,
+            "textMode": null,
+            "textColor": null,
+            "hasSvg": false,
+            "exportImage": null,
+            "styleRefs": null,
+            "componentDefinition": null,
+            "d2cCss": {
+              "-webkit-background-clip": null,
+              "-webkit-text-fill-color": null,
+              "background": null,
+              "background-clip": null,
+              "background-image": null,
+              "border": null,
+              "border-bottom-left-radius": null,
+              "border-radius": null,
+              "border-top-left-radius": null,
+              "bottom": null,
+              "box-shadow": null,
+              "color": null,
+              "filter": null,
+              "flex": null,
+              "font-family": null,
+              "font-size": null,
+              "height": null,
+              "left": null,
+              "letter-spacing": null,
+              "line-height": null,
+              "mix-blend-mode": null,
+              "object-fit": null,
+              "opacity": null,
+              "overflow": null,
+              "position": null,
+              "right": null,
+              "text-align": null,
+              "text-fill-color": null,
+              "text-shadow": null,
+              "top": null,
+              "transform": null,
+              "transform-origin": null,
+              "width": null,
+              "z-index": null
+            },
+            "d2cMatch": null,
+            "sources": [
+              "getDsl"
+            ],
+            "captureStatus": "complete",
+            "children": []
+          },
+          {
+            "id": "0:956",
+            "name": "椭圆形",
+            "type": "SVG_ELLIPSE",
+            "layoutStyle": {
+              "width": 71,
+              "height": 22,
+              "relativeX": -21,
+              "relativeY": -7,
+              "rotate": 0,
+              "rotateX": null
+            },
+            "bounds": {
+              "x": -11,
+              "y": 151.0,
+              "width": 71,
+              "height": 22
+            },
+            "opacity": 0.6499999761581421,
+            "fill": "#6CE8FF",
+            "effect": {
+              "boxShadow": [],
+              "filter": [
+                "filter: blur(24.48px);"
+              ],
+              "backdropFilter": [],
+              "raw": [
+                "filter: blur(24.48px);"
+              ]
+            },
+            "borderRadius": null,
+            "strokeAlign": "inside",
+            "strokeColor": null,
+            "strokeType": "solid",
+            "strokeWidth": null,
+            "mask": null,
+            "path": null,
+            "text": null,
+            "textRuns": null,
+            "textAlign": null,
+            "textMode": null,
+            "textColor": null,
+            "hasSvg": false,
+            "exportImage": null,
+            "styleRefs": {
+              "fill": "paint_0:155",
+              "effect": "effect_0:158",
+              "strokeColor": "paint_0:11"
+            },
+            "componentDefinition": null,
+            "d2cCss": {
+              "-webkit-background-clip": null,
+              "-webkit-text-fill-color": null,
+              "background": null,
+              "background-clip": null,
+              "background-image": null,
+              "border": null,
+              "border-bottom-left-radius": null,
+              "border-radius": null,
+              "border-top-left-radius": null,
+              "bottom": "0%",
+              "box-shadow": null,
+              "color": null,
+              "filter": null,
+              "flex": null,
+              "font-family": null,
+              "font-size": null,
+              "height": null,
+              "left": "0%",
+              "letter-spacing": null,
+              "line-height": null,
+              "mix-blend-mode": null,
+              "object-fit": null,
+              "opacity": null,
+              "overflow": null,
+              "position": "absolute",
+              "right": "0%",
+              "text-align": null,
+              "text-fill-color": null,
+              "text-shadow": null,
+              "top": "1.37%",
+              "transform": null,
+              "transform-origin": null,
+              "width": null,
+              "z-index": "0"
+            },
+            "d2cMatch": "img-src",
+            "sources": [
+              "getDsl",
+              "getD2c"
+            ],
+            "captureStatus": "complete",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0:957",
+        "name": "热点前线",
+        "type": "TEXT",
+        "layoutStyle": {
+          "width": 102,
+          "height": 38,
+          "relativeX": 1.0078125,
+          "relativeY": 0,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 11.0078125,
+          "y": 154.76441955566406,
+          "width": 102,
+          "height": 38
+        },
+        "opacity": null,
+        "fill": null,
+        "effect": {
+          "boxShadow": [
+            "box-shadow: 0px 2px 3px 0px #4F9EF1;"
+          ],
+          "filter": [],
+          "backdropFilter": [],
+          "raw": [
+            "box-shadow: 0px 2px 3px 0px #4F9EF1;"
+          ]
+        },
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": null,
+        "text": "热点前线",
+        "textRuns": [
+          {
+            "text": "热点前线",
+            "font": {
+              "family": "FZZDHJW--GB1",
+              "size": 20,
+              "style": "0",
+              "lineHeight": "37.5639533996582",
+              "letterSpacing": "auto",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#FFFFFF"
+          }
+        ],
+        "textAlign": "center",
+        "textMode": "auto-height",
+        "textColor": [
+          {
+            "start": 0,
+            "end": 4,
+            "color": "#FFFFFF"
+          }
+        ],
+        "hasSvg": false,
+        "exportImage": null,
+        "styleRefs": {
+          "effect": "effect_0:164",
+          "font": [
+            "font_0:166"
+          ],
+          "textColors": [
+            "paint_0:121"
+          ]
+        },
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": null,
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": null,
+          "font-family": null,
+          "font-size": null,
+          "height": null,
+          "left": null,
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": null,
+          "right": null,
+          "text-align": null,
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": null,
+          "transform": null,
+          "transform-origin": null,
+          "width": null,
+          "z-index": null
+        },
+        "d2cMatch": null,
+        "sources": [
+          "getDsl"
+        ],
+        "captureStatus": "complete",
+        "children": []
+      },
+      {
+        "id": "0:958",
+        "name": "截止3月5日收盘，电网设备概念股走强，中证电网设备主题指数上涨4.1%。展望2026年，电新行业有望延续积极趋势。国家电网“十五五”4万亿元固定资产投资落地，较“十四五”提升40%，叠加新能源大基地外送与跨区消纳需求，电网资本开支进入明确扩张期。此外，海外需求高增叠加国内电网投资增长有望带动电力设备放量，电网设备板块有望维持高景气。",
+        "type": "TEXT",
+        "layoutStyle": {
+          "width": 321,
+          "height": 161,
+          "relativeX": 17,
+          "relativeY": 40.23558044433594,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 27,
+          "y": 195.0,
+          "width": 321,
+          "height": 161
+        },
+        "opacity": null,
+        "fill": null,
+        "effect": null,
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": null,
+        "text": "截止3月5日收盘，电网设备概念股走强，中证电网设备主题指数上涨4.1%。展望2026年，电新行业有望延续积极趋势。国家电网“十五五”4万亿元固定资产投资落地，较“十四五”提升40%，叠加新能源大基地外送与跨区消纳需求，电网资本开支进入明确扩张期。此外，海外需求高增叠加国内电网投资增长有望带动电力设备放量，电网设备板块有望维持高景气。",
+        "textRuns": [
+          {
+            "text": "截止3月5日收盘，电网设备概念股走强，中证电网设备主题指数上涨4.1%。展望2026年，电新行业有望延续积极趋势。国家电网“十五五”4万亿元固定资产投资落地，较“十四五”提升40%，叠加新能源大基地外送与跨区消纳需求，电网资本开支进入明确扩张期。此外，海外需求高增叠加国内电网投资增长有望带动电力设备放量，电网设备板块有望维持高景气。",
+            "font": {
+              "family": "FZLTHJW--GB1",
+              "size": 14,
+              "style": "0",
+              "lineHeight": "20",
+              "letterSpacing": "-0.10000000149011612px",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#333333"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line",
+        "textColor": [
+          {
+            "start": 0,
+            "end": 167,
+            "color": "#333333"
+          }
+        ],
+        "hasSvg": false,
+        "exportImage": null,
+        "styleRefs": {
+          "font": [
+            "font_0:169"
+          ],
+          "textColors": [
+            "paint_0:171"
+          ]
+        },
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": "14.82%",
+          "box-shadow": null,
+          "color": "#333333",
+          "filter": null,
+          "flex": null,
+          "font-family": "FZLTHJW--GB1",
+          "font-size": "14px",
+          "height": null,
+          "left": "4.79%",
+          "letter-spacing": "-0.1px",
+          "line-height": "20px",
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": "absolute",
+          "right": "4.79%",
+          "text-align": "justify",
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": "17.03%",
+          "transform": null,
+          "transform-origin": null,
+          "width": "321px",
+          "z-index": "2"
+        },
+        "d2cMatch": "img-src",
+        "sources": [
+          "getDsl",
+          "getD2c"
+        ],
+        "captureStatus": "complete",
+        "children": []
+      },
+      {
+        "id": "0:1318",
+        "name": "信息来源：东方财富资讯，日期截止2026.3.5",
+        "type": "TEXT",
+        "layoutStyle": {
+          "width": 299,
+          "height": 14,
+          "relativeX": 28,
+          "relativeY": 201.23558044433594,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 38,
+          "y": 356.0,
+          "width": 299,
+          "height": 14
+        },
+        "opacity": null,
+        "fill": null,
+        "effect": null,
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": null,
+        "text": "信息来源：东方财富资讯，日期截止2026.3.5",
+        "textRuns": [
+          {
+            "text": "信息来源：东方财富资讯，日期截止2026.3.5",
+            "font": {
+              "family": "FZLTHJW--GB1",
+              "size": 9,
+              "style": "0",
+              "lineHeight": "11",
+              "letterSpacing": "-0.11249999701976776px",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#999999"
+          }
+        ],
+        "textAlign": "center",
+        "textMode": "single-line",
+        "textColor": [
+          {
+            "start": 0,
+            "end": 24,
+            "color": "#999999"
+          }
+        ],
+        "hasSvg": false,
+        "exportImage": null,
+        "styleRefs": {
+          "font": [
+            "font_0:243"
+          ],
+          "textColors": [
+            "paint_0:245"
+          ]
+        },
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": null,
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": null,
+          "font-family": null,
+          "font-size": null,
+          "height": null,
+          "left": null,
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": null,
+          "right": null,
+          "text-align": null,
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": null,
+          "transform": null,
+          "transform-origin": null,
+          "width": null,
+          "z-index": null
+        },
+        "d2cMatch": null,
+        "sources": [
+          "getDsl"
+        ],
+        "captureStatus": "complete",
+        "children": []
+      }
+    ]
+  },
+  "d2c": {
+    "html": "<div\n        style=\"width: 355px; height: 236.24px; flex: none; position: absolute; left: 10px; top: 154.76px; z-index: 1\">\n        <div\n          style=\"position: absolute; left: 0%; right: 0%; top: 1.37%; bottom: 0%; z-index: 0\">\n          <img src=\"./asset/icons/svg_72d2d20e.svg\" />\n        </div>\n        <p\n          style=\"width: 102px; color: #FFFFFF; font-size: 20px; font-family: FZZDHJW--GB1; text-align: center; line-height: 37.56px; text-shadow: 0px 2px 3px #4F9EF1; position: absolute; left: calc(100% - 355px + 1.01px); top: calc(100% - 236.24px + 0px); z-index: 1\">\n          热点前线\n        </p>\n        <div\n          style=\"width: 321px; color: #333333; font-size: 14px; font-family: FZLTHJW--GB1; text-align: justify; line-height: 20px; letter-spacing: -0.1px; position: absolute; left: 4.79%; right: 4.79%; top: 17.03%; bottom: 14.82%; z-index: 2\">\n          截止3月5日收盘，电网设备概念股走强，中证电网设备主题指数上涨4.1%。展望2026年，电新行业有望延续积极趋势。国家电网“十五五”4万亿元固定资产投资落地，较“十四五”提升40%，叠加新能源大基地外送与跨区消纳需求，电网资本开支进入明确扩张期。此外，海外需求高增叠加国内电网投资增长有望带动电力设备放量，电网设备板块有望维持高景气。\n        </div>\n        <div\n          style=\"width: 299px; color: #999999; font-size: 9px; font-family: FZLTHJW--GB1; text-align: center; line-height: 11px; letter-spacing: -0.11px; position: absolute; left: calc(100% - 355px + 28px); top: calc(100% - 236.24px + 201.24px); z-index: 3\">\n          信息来源：东方财富资讯，日期截止2026.3.5\n        </div>\n      </div>",
+    "svgIcons": {
+      "svg_72d2d20e.svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"none\" version=\"1.1\" width=\"355\" height=\"233\" viewBox=\"0 0 363.1484375 241.1465301513672\"><defs><filter id=\"master_svg0_0_951\" filterUnits=\"objectBoundingBox\" color-interpolation-filters=\"sRGB\" x=\"-0.016901408450704224\" y=\"-0.02145922746781116\" width=\"1.0338028169014084\" height=\"1.0515021459227467\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feMorphology radius=\"2\" operator=\"dilate\"/><feOffset dy=\"1\" dx=\"0\"/><feGaussianBlur stdDeviation=\"1\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 0.9180824756622314 0 0 0 0 0.96047043800354 0 0 0 0 1 0 0 0 1 0\"/><feBlend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow\"/><feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow\" result=\"shape\"/></filter><linearGradient x1=\"0.45910465717315674\" y1=\"0\" x2=\"0.45910465717315674\" y2=\"0.11668512970209122\" id=\"master_svg1_0_126\"><stop offset=\"0%\" stop-color=\"#E0EDFF\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\"/></linearGradient><filter id=\"master_svg2_0_951\" filterUnits=\"objectBoundingBox\" color-interpolation-filters=\"sRGB\" x=\"-0.016901408450704224\" y=\"-0.02145922746781116\" width=\"1.0338028169014084\" height=\"1.0515021459227467\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feMorphology radius=\"2\" operator=\"dilate\"/><feOffset dy=\"1\" dx=\"0\"/><feGaussianBlur stdDeviation=\"1\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 0.9180824756622314 0 0 0 0 0.96047043800354 0 0 0 0 1 0 0 0 1 0\"/><feBlend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow\"/><feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow\" result=\"shape\"/></filter><mask id=\"master_svg3_0_951\" style=\"mask-type:luminance\" maskUnits=\"userSpaceOnUse\" x=\"-26.92578125\" y=\"-4.9267425537109375\" width=\"386\" height=\"241\"><path d=\"M14.17141175,3.073257446289347L348.97701875,3.073257446288975C352.51137875,3.073257446288971,354.31850875,3.0804033279890626,355.66363875,3.7776513662890627C356.82140875,4.377793146289062,357.76968875,5.326057446289063,358.36980875,6.483851646289063C359.06704875,7.828972846289062,359.07421875,9.636096946289062,359.07421875,13.170450446289063L359.07421875,225.97605744628908C359.07421875,229.51041744628907,359.06704875,231.31753744628907,358.36980875,232.66265744628907C357.76968875,233.82044744628905,356.82140875,234.76872744628906,355.66363875,235.36886744628907C354.31850875,236.06611744628907,352.51137875,236.07325744628906,348.97701875,236.07325744628906L14.17141275,236.07325744628906C10.63705735,236.07325744628906,8.82992645,236.06609744628906,7.48481275,235.36886744628907C6.327018450000001,234.76872744628906,5.3787543499999995,233.82044744628905,4.77861261,232.66265744628907C4.0813719034,231.31754744628907,4.074218750000004,229.51041744628907,4.074218750000007,225.97605744628908L4.074218750000164,13.170455446289063C4.074218750000166,9.636096946289062,4.0813733339,7.828966646289063,4.77861261,6.483851646289063C5.3787543499999995,5.326057446289063,6.327018450000001,4.377793146289062,7.48481275,3.7776513662890627C8.82992745,3.0804120897890623,10.63705735,3.073257446289351,14.17141175,3.073257446289347\" fill-rule=\"evenodd\" fill=\"#FFFFFF\" fill-opacity=\"1\" filter=\"url(#master_svg2_0_951)\"/></mask><filter id=\"master_svg4_0_952\" filterUnits=\"objectBoundingBox\" color-interpolation-filters=\"sRGB\" x=\"-0.12706078423394096\" y=\"-0.6480099995930989\" width=\"1.254121568467882\" height=\"2.296019999186198\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feOffset dy=\"1\" dx=\"0\"/><feGaussianBlur stdDeviation=\"0\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0\"/><feBlend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow\"/><feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow\" result=\"shape\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" result=\"hardAlpha\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feOffset dy=\"1\" dx=\"0\"/><feGaussianBlur stdDeviation=\"1.5\"/><feComposite in2=\"hardAlpha\" operator=\"arithmetic\" k2=\"-1\" k3=\"1\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0\"/><feBlend mode=\"normal\" in2=\"shape\" result=\"effect2_innerShadow\"/><feGaussianBlur stdDeviation=\"4.860074996948242\" result=\"effect3_foregroundBlur\"/></filter><linearGradient x1=\"0.5\" y1=\"0\" x2=\"0.5\" y2=\"0.7660638689994812\" id=\"master_svg5_0_133\"><stop offset=\"0%\" stop-color=\"#75C4F8\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#4F9CF0\" stop-opacity=\"1\"/></linearGradient><linearGradient x1=\"0.539856493473053\" y1=\"0.8155282139778137\" x2=\"0.539856493473053\" y2=\"0\" id=\"master_svg6_0_134\"><stop offset=\"0%\" stop-color=\"#4F9CF0\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#75C3F8\" stop-opacity=\"1\"/></linearGradient><filter id=\"master_svg7_0_953\" filterUnits=\"objectBoundingBox\" color-interpolation-filters=\"sRGB\" x=\"0\" y=\"0\" width=\"1\" height=\"1.0333333333333334\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feOffset dy=\"1\" dx=\"0\"/><feGaussianBlur stdDeviation=\"0\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0\"/><feBlend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow\"/><feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow\" result=\"shape\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" result=\"hardAlpha\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feOffset dy=\"1\" dx=\"0\"/><feGaussianBlur stdDeviation=\"1.5\"/><feComposite in2=\"hardAlpha\" operator=\"arithmetic\" k2=\"-1\" k3=\"1\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0\"/><feBlend mode=\"normal\" in2=\"shape\" result=\"effect2_innerShadow\"/></filter><linearGradient x1=\"0.539856493473053\" y1=\"0.8155282139778137\" x2=\"0.539856493473053\" y2=\"0\" id=\"master_svg8_0_143\"><stop offset=\"0%\" stop-color=\"#4F9CF0\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#75C3F8\" stop-opacity=\"1\"/></linearGradient><linearGradient x1=\"0.7679015398025513\" y1=\"0\" x2=\"0.4463068497587143\" y2=\"0.5950006832762832\" id=\"master_svg9_0_152\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#FFE0B1\" stop-opacity=\"0\"/></linearGradient><linearGradient x1=\"0.7679015398025513\" y1=\"0\" x2=\"0.29578091484354985\" y2=\"0.4639748673951007\" id=\"master_svga_0_152\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#FFE0B1\" stop-opacity=\"0\"/></linearGradient><filter id=\"master_svgb_0_956\" filterUnits=\"objectBoundingBox\" color-interpolation-filters=\"sRGB\" x=\"-0.6895774518939811\" y=\"-2.225454503839666\" width=\"2.379154903787962\" height=\"5.450909007679332\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"BackgroundImageFix\" result=\"shape\"/><feGaussianBlur stdDeviation=\"12.239999771118164\" result=\"effect1_foregroundBlur\"/></filter></defs><g mask=\"url(#master_svg3_0_951)\"><g filter=\"url(#master_svg0_0_951)\"><path d=\"M14.17141175,3.073257446289347L348.97701875,3.073257446288975C352.51137875,3.073257446288971,354.31850875,3.0804033279890626,355.66363875,3.7776513662890627C356.82140875,4.377793146289062,357.76968875,5.326057446289063,358.36980875,6.483851646289063C359.06704875,7.828972846289062,359.07421875,9.636096946289062,359.07421875,13.170450446289063L359.07421875,225.97605744628908C359.07421875,229.51041744628907,359.06704875,231.31753744628907,358.36980875,232.66265744628907C357.76968875,233.82044744628905,356.82140875,234.76872744628906,355.66363875,235.36886744628907C354.31850875,236.06611744628907,352.51137875,236.07325744628906,348.97701875,236.07325744628906L14.17141275,236.07325744628906C10.63705735,236.07325744628906,8.82992645,236.06609744628906,7.48481275,235.36886744628907C6.327018450000001,234.76872744628906,5.3787543499999995,233.82044744628905,4.77861261,232.66265744628907C4.0813719034,231.31754744628907,4.074218750000004,229.51041744628907,4.074218750000007,225.97605744628908L4.074218750000164,13.170455446289063C4.074218750000166,9.636096946289062,4.0813733339,7.828966646289063,4.77861261,6.483851646289063C5.3787543499999995,5.326057446289063,6.327018450000001,4.377793146289062,7.48481275,3.7776513662890627C8.82992745,3.0804120897890623,10.63705735,3.073257446289351,14.17141175,3.073257446289347\" fill-rule=\"evenodd\" fill=\"url(#master_svg1_0_126)\" fill-opacity=\"1\"/><path d=\"M14.17141175,2.0000016462890624L348.97701875,2.0000016462890624Q354.56637875,2.0000016462890624,356.15755875,2.8247981862890623Q358.24215875,3.9053622462890623,359.32265875,5.989951346289063Q360.14748875,7.581212046289062,360.14748875,13.170450446289063L360.14748875,225.97605744628908Q360.14748875,231.56527744628906,359.32265875,233.15655744628907Q358.24215875,235.24116744628907,356.15755875,236.32172744628906Q354.56640875,237.14652744628907,348.97701875,237.14652744628907L14.17141275,237.14652744628907Q8.58212045,237.14652744628907,6.99090885,236.32172744628906Q4.90629935,235.24116744628907,3.82575715,233.15656744628907Q3.00096295,231.56538744628907,3.00096295,225.97605744628908L3.00096295,13.170455446289063Q3.00096295,7.581138646289062,3.82575919,5.989941846289062Q4.90630752,3.9053453762890626,6.99090245,2.8247980662890626Q8.58209995,2.0000014462890627,14.17141175,2.0000016462890624ZM348.97701875,3.0732574462890625L14.17141175,3.0732574462890625C10.63705735,3.0732574462890625,8.82992745,3.0804120897890623,7.48481275,3.7776513662890627C6.327018450000001,4.377793146289062,5.3787543499999995,5.326057446289063,4.77861261,6.483851646289063C4.0813733339,7.828966646289063,4.07421875,9.636096946289062,4.07421875,13.170455446289063L4.07421875,225.97605744628908C4.07421875,229.51041744628907,4.0813719034,231.31754744628907,4.77861261,232.66265744628907C5.3787543499999995,233.82044744628905,6.327018450000001,234.76872744628906,7.48481275,235.36886744628907C8.82992645,236.06609744628906,10.63705735,236.07325744628906,14.17141275,236.07325744628906L348.97701875,236.07325744628906C352.51137875,236.07325744628906,354.31850875,236.06611744628907,355.66363875,235.36886744628907C356.82140875,234.76872744628906,357.76968875,233.82044744628905,358.36980875,232.66265744628907C359.06704875,231.31753744628907,359.07421875,229.51041744628907,359.07421875,225.97605744628908L359.07421875,13.170450446289063C359.07421875,9.636096946289062,359.06704875,7.828972846289062,358.36980875,6.483851646289063C357.76968875,5.326057446289063,356.82140875,4.377793146289062,355.66363875,3.7776513662890627C354.31850875,3.0804033279890626,352.51137875,3.0732574462890625,348.97701875,3.0732574462890625Z\" fill-rule=\"evenodd\" fill=\"#FFFFFF\" fill-opacity=\"1\"/></g><g filter=\"url(#master_svg4_0_952)\"><path d=\"M-26.92578125000023,2.0732574462890625Q44.351417749999996,2.1856586062890626,126.07421875,2.0732574462890625Q118.22523874999999,2.2039460662890624,113.43371875,9.845326446289063Q108.79563875,16.784912446289063,103.58436875000001,23.924579446289062C101.38779875,26.93399244628906,100.25502875,28.43016044628906,98.82949875,29.506889446289062C97.57854875,30.451751446289062,96.16028875,31.15476844628906,94.64990875,31.583808446289062C92.93142875,32.07196644628907,91.04444875,32.07325744628906,87.30471875,32.07325744628906L-7.3599792499999985,32.07325744628906C-11.79380825,32.07325744628906,-14.05654325,32.06522744628906,-15.80319525,31.220920446289064C-17.31200125,30.491584446289064,-18.57944865,29.33261144628906,-19.44051075,27.894903446289064C-20.437308350000002,26.230558446289063,-20.64721345,23.977565446289063,-21.04285335,19.56142644628906L-22.13247445,7.399061246289063Q-23.76415185,3.1725491462890627,-26.92578125000023,2.0732574462890625Z\" fill-rule=\"evenodd\" fill=\"url(#master_svg5_0_133)\" fill-opacity=\"1\"/><path d=\"M-26.92578125000023,2.0732574462890625Q44.351417749999996,2.1856586062890626,126.07421875,2.0732574462890625Q118.22523874999999,2.2039460662890624,113.43371875,9.845326446289063Q108.79563875,16.784912446289063,103.58436875000001,23.924579446289062C101.38779875,26.93399244628906,100.25502875,28.43016044628906,98.82949875,29.506889446289062C97.57854875,30.451751446289062,96.16028875,31.15476844628906,94.64990875,31.583808446289062C92.93142875,32.07196644628907,91.04444875,32.07325744628906,87.30471875,32.07325744628906L-7.3599792499999985,32.07325744628906C-11.79380825,32.07325744628906,-14.05654325,32.06522744628906,-15.80319525,31.220920446289064C-17.31200125,30.491584446289064,-18.57944865,29.33261144628906,-19.44051075,27.894903446289064C-20.437308350000002,26.230558446289063,-20.64721345,23.977565446289063,-21.04285335,19.56142644628906L-22.13247445,7.399061246289063Q-23.76415185,3.1725491462890627,-26.92578125000023,2.0732574462890625Z\" fill-rule=\"evenodd\" fill=\"url(#master_svg6_0_134)\" fill-opacity=\"1\"/></g><path d=\"M-26.92578125000023,2.0732574462890625Q44.351417749999996,2.1856586062890626,126.07421875,2.0732574462890625Q118.22523874999999,2.2039460662890624,113.43371875,9.845326446289063Q108.79563875,16.784912446289063,103.58436875000001,23.924579446289062C101.38779875,26.93399244628906,100.25502875,28.43016044628906,98.82949875,29.506889446289062C97.57854875,30.451751446289062,96.16028875,31.15476844628906,94.64990875,31.583808446289062C92.93142875,32.07196644628907,91.04444875,32.07325744628906,87.30471875,32.07325744628906L-7.3599792499999985,32.07325744628906C-11.79380825,32.07325744628906,-14.05654325,32.06522744628906,-15.80319525,31.220920446289064C-17.31200125,30.491584446289064,-18.57944865,29.33261144628906,-19.44051075,27.894903446289064C-20.437308350000002,26.230558446289063,-20.64721345,23.977565446289063,-21.04285335,19.56142644628906L-22.13247445,7.399061246289063Q-23.76415185,3.1725491462890627,-26.92578125000023,2.0732574462890625Z\" fill-rule=\"evenodd\" fill=\"url(#master_svg8_0_143)\" fill-opacity=\"1\" filter=\"url(#master_svg7_0_953)\"/><path d=\"M85.11177075,-4.9267425537109375L53.07421874999999,42.07325744628906L64.25174175000001,42.07325744628906L96.07421875,-4.9267425537109375L85.11177075,-4.9267425537109375Z\" fill-rule=\"evenodd\" fill=\"url(#master_svg9_0_152)\" fill-opacity=\"1\"/><path d=\"M115.47989075,-4.9267425537109375L84.07421875000001,42.07325744628906L111.87937775,42.07325744628906L143.07421875,-4.9267425537109375L115.47989075,-4.9267425537109375Z\" fill-rule=\"evenodd\" fill=\"url(#master_svga_0_152)\" fill-opacity=\"1\"/><ellipse cx=\"18.57421875\" cy=\"7.0732574462890625\" rx=\"35.5\" ry=\"11\" fill=\"#6CE8FF\" fill-opacity=\"1\" filter=\"url(#master_svgb_0_956)\"/></g></svg>"
+    },
+    "exportImages": {}
+  }
+}

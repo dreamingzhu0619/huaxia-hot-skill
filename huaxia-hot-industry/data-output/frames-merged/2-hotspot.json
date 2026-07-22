@@ -1,0 +1,1294 @@
+{
+  "meta": {
+    "frameId": "2-hotspot",
+    "type": "content",
+    "moduleNames": [
+      "17-编组-50.json"
+    ],
+    "moduleCount": 1,
+    "bounds": {
+      "x": 12,
+      "y": 172,
+      "width": 351,
+      "height": 114
+    },
+    "sectionIndexes": [
+      65
+    ],
+    "totalNodes": 13,
+    "totalTexts": 3,
+    "moduleOrder": [
+      "17-编组-50.json"
+    ]
+  },
+  "modules": [
+    {
+      "fileName": "17-编组-50.json",
+      "moduleIndex": 17,
+      "zIndex": 17,
+      "moduleId": "0:2264",
+      "moduleName": "编组 50",
+      "position": {
+        "x": 12,
+        "y": 172,
+        "width": 351,
+        "height": 114
+      },
+      "nodeCount": 13,
+      "textCount": 3,
+      "sectionIndexes": [
+        65
+      ],
+      "node": {
+        "id": "0:2264",
+        "name": "编组 50",
+        "type": "FRAME",
+        "layoutStyle": {
+          "width": 351,
+          "height": 114,
+          "relativeX": 12,
+          "relativeY": 172,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 12,
+          "y": 172,
+          "width": 351,
+          "height": 114
+        },
+        "opacity": null,
+        "fill": null,
+        "effect": null,
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": null,
+        "text": null,
+        "textRuns": null,
+        "textAlign": null,
+        "textMode": null,
+        "textColor": null,
+        "hasSvg": true,
+        "exportImage": null,
+        "styleRefs": null,
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": null,
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": null,
+          "font-family": null,
+          "font-size": null,
+          "height": null,
+          "left": null,
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": null,
+          "right": null,
+          "text-align": null,
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": null,
+          "transform": null,
+          "transform-origin": null,
+          "width": null,
+          "z-index": null
+        },
+        "d2cMatch": null,
+        "sources": [
+          "getDsl",
+          "extractSvg"
+        ],
+        "captureStatus": "complete",
+        "children": [
+          {
+            "id": "0:2265",
+            "name": "编组 49",
+            "type": "FRAME",
+            "layoutStyle": {
+              "width": 351,
+              "height": 114,
+              "relativeX": 0,
+              "relativeY": 0,
+              "rotate": 0,
+              "rotateX": null
+            },
+            "bounds": {
+              "x": 12,
+              "y": 172,
+              "width": 351,
+              "height": 114
+            },
+            "opacity": null,
+            "fill": null,
+            "effect": null,
+            "borderRadius": null,
+            "strokeAlign": null,
+            "strokeColor": null,
+            "strokeType": null,
+            "strokeWidth": null,
+            "mask": null,
+            "path": null,
+            "text": null,
+            "textRuns": null,
+            "textAlign": null,
+            "textMode": null,
+            "textColor": null,
+            "hasSvg": false,
+            "exportImage": null,
+            "styleRefs": null,
+            "componentDefinition": null,
+            "d2cCss": {
+              "-webkit-background-clip": null,
+              "-webkit-text-fill-color": null,
+              "background": null,
+              "background-clip": null,
+              "background-image": null,
+              "border": null,
+              "border-bottom-left-radius": null,
+              "border-radius": null,
+              "border-top-left-radius": null,
+              "bottom": null,
+              "box-shadow": null,
+              "color": null,
+              "filter": null,
+              "flex": null,
+              "font-family": null,
+              "font-size": null,
+              "height": null,
+              "left": null,
+              "letter-spacing": null,
+              "line-height": null,
+              "mix-blend-mode": null,
+              "object-fit": null,
+              "opacity": null,
+              "overflow": null,
+              "position": null,
+              "right": null,
+              "text-align": null,
+              "text-fill-color": null,
+              "text-shadow": null,
+              "top": null,
+              "transform": null,
+              "transform-origin": null,
+              "width": null,
+              "z-index": null
+            },
+            "d2cMatch": null,
+            "sources": [
+              "getDsl"
+            ],
+            "captureStatus": "complete",
+            "children": [
+              {
+                "id": "0:2266",
+                "name": "编组",
+                "type": "FRAME",
+                "layoutStyle": {
+                  "width": 351,
+                  "height": 114,
+                  "relativeX": 0,
+                  "relativeY": 0,
+                  "rotate": 0,
+                  "rotateX": null
+                },
+                "bounds": {
+                  "x": 12,
+                  "y": 172,
+                  "width": 351,
+                  "height": 114
+                },
+                "opacity": null,
+                "fill": null,
+                "effect": null,
+                "borderRadius": null,
+                "strokeAlign": null,
+                "strokeColor": null,
+                "strokeType": null,
+                "strokeWidth": null,
+                "mask": null,
+                "path": null,
+                "text": null,
+                "textRuns": null,
+                "textAlign": null,
+                "textMode": null,
+                "textColor": null,
+                "hasSvg": true,
+                "exportImage": null,
+                "styleRefs": null,
+                "componentDefinition": null,
+                "d2cCss": {
+                  "-webkit-background-clip": null,
+                  "-webkit-text-fill-color": null,
+                  "background": null,
+                  "background-clip": null,
+                  "background-image": null,
+                  "border": null,
+                  "border-bottom-left-radius": null,
+                  "border-radius": null,
+                  "border-top-left-radius": null,
+                  "bottom": null,
+                  "box-shadow": null,
+                  "color": null,
+                  "filter": null,
+                  "flex": null,
+                  "font-family": null,
+                  "font-size": null,
+                  "height": null,
+                  "left": null,
+                  "letter-spacing": null,
+                  "line-height": null,
+                  "mix-blend-mode": null,
+                  "object-fit": null,
+                  "opacity": null,
+                  "overflow": null,
+                  "position": null,
+                  "right": null,
+                  "text-align": null,
+                  "text-fill-color": null,
+                  "text-shadow": null,
+                  "top": null,
+                  "transform": null,
+                  "transform-origin": null,
+                  "width": null,
+                  "z-index": null
+                },
+                "d2cMatch": null,
+                "sources": [
+                  "getDsl",
+                  "extractSvg"
+                ],
+                "captureStatus": "complete",
+                "children": [
+                  {
+                    "id": "0:2267",
+                    "name": "形状结合",
+                    "type": "PATH",
+                    "layoutStyle": {
+                      "width": 351,
+                      "height": 114,
+                      "relativeX": 0,
+                      "relativeY": 0,
+                      "rotate": 0,
+                      "rotateX": null
+                    },
+                    "bounds": {
+                      "x": 12,
+                      "y": 172,
+                      "width": 351,
+                      "height": 114
+                    },
+                    "opacity": null,
+                    "fill": [
+                      "linear-gradient(180deg, rgba(239, 246, 255, 0.1) -2%, rgba(255, 255, 255, 0.95) 25%, rgba(255, 255, 255, 0.8) 100%)",
+                      "linear-gradient(180deg, rgba(239, 246, 255, 0.1) -2%, rgba(255, 255, 255, 0.95) 25%, rgba(255, 255, 255, 0.8) 100%)"
+                    ],
+                    "effect": {
+                      "boxShadow": [
+                        "box-shadow: inset 1px 1px 2px 0px rgba(255, 255, 255, 0.9555);"
+                      ],
+                      "filter": [],
+                      "backdropFilter": [
+                        "backdrop-filter: blur(8.16px);"
+                      ],
+                      "raw": [
+                        "box-shadow: inset 1px 1px 2px 0px rgba(255, 255, 255, 0.9555);",
+                        "backdrop-filter: blur(8.16px);"
+                      ]
+                    },
+                    "borderRadius": null,
+                    "strokeAlign": null,
+                    "strokeColor": null,
+                    "strokeType": null,
+                    "strokeWidth": null,
+                    "mask": null,
+                    "path": [
+                      {
+                        "data": "M338.19998,0L12.799999,0C8.3195744,0,6.0287132,0.0090696812,4.3235388,0.89294541C2.8558273,1.6537325,1.6537325,2.8558273,0.89294541,4.3235388C0.0090696812,6.0287132,0,8.3195744,0,12.800003L0,101.2C0,105.68043,0.0090700984,107.97128,0.89294541,109.67646C1.6537325,111.14417,2.8558273,112.34627,4.3235388,113.10706C6.0287123,113.99093,8.3195744,114,12.800001,114L314.68793,114Q342.82776,97.770874,346.91388,95.344498Q351,92.918121,351,91.040977L351,12.8C351,8.3195744,350.99094,6.0287051,350.10706,4.3235388C349.34625,2.8558273,348.14417,1.6537325,346.67645,0.89294541C344.97128,0.0090700984,342.68042,0,338.19998,0ZM12.459261,11.5C12.459261,10.119287,11.339972,9,9.9592609,9C8.5785484,9,7.4592605,10.119287,7.4592605,11.5L7.4592605,32.5C7.4592605,33.880714,8.5785484,35,9.9592609,35C11.339972,35,12.459261,33.880714,12.459261,32.5L12.459261,11.5Z",
+                        "fill": [
+                          "linear-gradient(180deg, rgba(239, 246, 255, 0.1) -2%, rgba(255, 255, 255, 0.95) 25%, rgba(255, 255, 255, 0.8) 100%)",
+                          "linear-gradient(180deg, rgba(239, 246, 255, 0.1) -2%, rgba(255, 255, 255, 0.95) 25%, rgba(255, 255, 255, 0.8) 100%)"
+                        ],
+                        "transform": null
+                      },
+                      {
+                        "data": "M12.799999,0L338.19998,0C342.68042,0,344.97128,0.0090700984,346.67645,0.89294541C348.14417,1.6537324,349.34622,2.8558273,350.10706,4.3235388C350.99094,6.0287051,351,8.3195744,351,12.8L351,91.04097Q351,92.918121,346.91385,95.344498Q342.82773,97.770866,314.68793,114L12.800001,114C8.3195744,114,6.0287123,113.99092,4.3235388,113.10706C2.8558273,112.34626,1.6537324,111.14417,0.89294541,109.67646C0.0090700984,107.97128,0,105.68043,0,101.2L0,12.800003C0,8.3195744,0.0090696812,6.0287132,0.89294541,4.3235388C1.6537324,2.8558273,2.8558273,1.6537324,4.3235388,0.89294541C6.0287132,0.0090696812,8.3195744,0,12.799999,0ZM314.49991,113.3L346.56314,94.738678Q350.29999,92.519669,350.29999,91.04097L350.29999,12.8Q350.29999,8.9231892,350.18741,7.579483Q350.02957,5.6951432,349.48557,4.6456828Q348.41653,2.583375,346.35431,1.5144163Q345.30487,0.97043586,343.4205,0.81257606Q342.07669,0.70000011,338.19998,0.69999999L12.799999,0.69999999Q8.9233007,0.69999999,7.5794864,0.81257588Q5.6951275,0.97043496,4.6456776,1.5144166Q2.5833981,2.5833979,1.5144168,4.6456776Q0.97043496,5.6951275,0.81257582,7.5794873Q0.69999993,8.9233027,0.69999993,12.800003L0.69999999,101.2Q0.69999999,105.07669,0.812576,106.42051Q0.97043556,108.30487,1.5144167,109.35432Q2.5833924,111.41659,4.645678,112.48558Q5.6951222,113.02956,7.5794864,113.18742Q8.9233408,113.3,12.800001,113.3L314.49991,113.3ZM13.159261,32.5L13.159261,11.5Q13.159261,10.174517,12.222002,9.237258Q11.284743,8.2999992,9.9592609,8.2999992Q8.6337776,8.2999992,7.6965189,9.237258Q6.7592602,10.174517,6.7592602,11.5L6.7592602,32.5Q6.7592602,33.825485,7.6965189,34.762745Q8.6337757,35.700001,9.9592609,35.700001Q11.284744,35.700001,12.222002,34.762745Q13.159261,33.825485,13.159261,32.5ZM9.9592609,9C11.339972,9,12.459261,10.119287,12.459261,11.5L12.459261,32.5C12.459261,33.880714,11.339972,35,9.9592609,35C8.5785484,35,7.45926,33.880714,7.45926,32.5L7.45926,11.5C7.45926,10.119287,8.5785484,9,9.9592609,9Z",
+                        "fill": "rgba(255, 255, 255, 0.8)",
+                        "transform": null
+                      }
+                    ],
+                    "text": null,
+                    "textRuns": null,
+                    "textAlign": null,
+                    "textMode": null,
+                    "textColor": null,
+                    "hasSvg": false,
+                    "exportImage": null,
+                    "styleRefs": {
+                      "effect": "effect_0:1656"
+                    },
+                    "componentDefinition": null,
+                    "d2cCss": {
+                      "-webkit-background-clip": null,
+                      "-webkit-text-fill-color": null,
+                      "background": null,
+                      "background-clip": null,
+                      "background-image": null,
+                      "border": null,
+                      "border-bottom-left-radius": null,
+                      "border-radius": null,
+                      "border-top-left-radius": null,
+                      "bottom": null,
+                      "box-shadow": null,
+                      "color": null,
+                      "filter": null,
+                      "flex": null,
+                      "font-family": null,
+                      "font-size": null,
+                      "height": null,
+                      "left": null,
+                      "letter-spacing": null,
+                      "line-height": null,
+                      "mix-blend-mode": null,
+                      "object-fit": null,
+                      "opacity": null,
+                      "overflow": null,
+                      "position": null,
+                      "right": null,
+                      "text-align": null,
+                      "text-fill-color": null,
+                      "text-shadow": null,
+                      "top": null,
+                      "transform": null,
+                      "transform-origin": null,
+                      "width": null,
+                      "z-index": null
+                    },
+                    "d2cMatch": null,
+                    "sources": [
+                      "getDsl"
+                    ],
+                    "captureStatus": "complete",
+                    "children": []
+                  },
+                  {
+                    "id": "0:2273",
+                    "name": "SEMI报告显示，2026年Q1全球半导",
+                    "type": "TEXT",
+                    "layoutStyle": {
+                      "width": 325,
+                      "height": 64,
+                      "relativeX": 12,
+                      "relativeY": 41,
+                      "rotate": 0,
+                      "rotateX": null
+                    },
+                    "bounds": {
+                      "x": 24,
+                      "y": 213,
+                      "width": 325,
+                      "height": 64
+                    },
+                    "opacity": null,
+                    "fill": null,
+                    "effect": null,
+                    "borderRadius": null,
+                    "strokeAlign": null,
+                    "strokeColor": null,
+                    "strokeType": null,
+                    "strokeWidth": null,
+                    "mask": null,
+                    "path": null,
+                    "text": "SEMI报告显示，2026年Q1全球半导体设备销售额达365.5亿美元，同比增长14%，创单季历史新高。AI相关投资持续驱动先进逻辑、DRAM及先进封装产能扩张，半导体景气上行，产业链相关环节或迎布局机遇。",
+                    "textRuns": [
+                      {
+                        "text": "SEMI报告显示，2026年Q1全球半导体设备销售额达365.5亿美元，同比增长14%，创单季历史新高。AI相关投资持续驱动先进逻辑、DRAM及先进封装产能扩张，半导体景气上行，产业链相关环节或迎布局机遇。",
+                        "font": {
+                          "family": "FZLTHJW--GB1",
+                          "size": 11.5,
+                          "style": "0",
+                          "lineHeight": "16",
+                          "letterSpacing": "-0.20000000298023224px",
+                          "case": "none",
+                          "decoration": "none"
+                        },
+                        "color": "#45536B"
+                      }
+                    ],
+                    "textAlign": "left",
+                    "textMode": "auto-height",
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 103,
+                        "color": "#45536B"
+                      }
+                    ],
+                    "hasSvg": false,
+                    "exportImage": null,
+                    "styleRefs": {
+                      "font": [
+                        "font_0:1675"
+                      ],
+                      "textColors": [
+                        "paint_0:1184"
+                      ]
+                    },
+                    "componentDefinition": null,
+                    "d2cCss": {
+                      "-webkit-background-clip": null,
+                      "-webkit-text-fill-color": null,
+                      "background": null,
+                      "background-clip": null,
+                      "background-image": null,
+                      "border": null,
+                      "border-bottom-left-radius": null,
+                      "border-radius": null,
+                      "border-top-left-radius": null,
+                      "bottom": null,
+                      "box-shadow": null,
+                      "color": null,
+                      "filter": null,
+                      "flex": null,
+                      "font-family": null,
+                      "font-size": null,
+                      "height": null,
+                      "left": null,
+                      "letter-spacing": null,
+                      "line-height": null,
+                      "mix-blend-mode": null,
+                      "object-fit": null,
+                      "opacity": null,
+                      "overflow": null,
+                      "position": null,
+                      "right": null,
+                      "text-align": null,
+                      "text-fill-color": null,
+                      "text-shadow": null,
+                      "top": null,
+                      "transform": null,
+                      "transform-origin": null,
+                      "width": null,
+                      "z-index": null
+                    },
+                    "d2cMatch": null,
+                    "sources": [
+                      "getDsl"
+                    ],
+                    "captureStatus": "complete",
+                    "children": []
+                  },
+                  {
+                    "id": "0:2274",
+                    "name": "资料来源：财联社，发布于2026.06.",
+                    "type": "TEXT",
+                    "layoutStyle": {
+                      "width": 148,
+                      "height": 9,
+                      "relativeX": 135,
+                      "relativeY": 94,
+                      "rotate": 0,
+                      "rotateX": null
+                    },
+                    "bounds": {
+                      "x": 147,
+                      "y": 266,
+                      "width": 148,
+                      "height": 9
+                    },
+                    "opacity": null,
+                    "fill": null,
+                    "effect": null,
+                    "borderRadius": null,
+                    "strokeAlign": null,
+                    "strokeColor": null,
+                    "strokeType": null,
+                    "strokeWidth": null,
+                    "mask": null,
+                    "path": null,
+                    "text": "资料来源：财联社，发布于2026.06.14",
+                    "textRuns": [
+                      {
+                        "text": "资料来源：财联社，发布于2026.06.14",
+                        "font": {
+                          "family": "FZLTHJW--GB1",
+                          "size": 9,
+                          "style": "0",
+                          "lineHeight": "9",
+                          "letterSpacing": "-0.30000001192092896px",
+                          "case": "none",
+                          "decoration": "none"
+                        },
+                        "color": "#A1A9B3"
+                      }
+                    ],
+                    "textAlign": "left",
+                    "textMode": "single-line",
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 22,
+                        "color": "#A1A9B3"
+                      }
+                    ],
+                    "hasSvg": false,
+                    "exportImage": null,
+                    "styleRefs": {
+                      "font": [
+                        "font_0:1678"
+                      ],
+                      "textColors": [
+                        "paint_0:1573"
+                      ]
+                    },
+                    "componentDefinition": null,
+                    "d2cCss": {
+                      "-webkit-background-clip": null,
+                      "-webkit-text-fill-color": null,
+                      "background": null,
+                      "background-clip": null,
+                      "background-image": null,
+                      "border": null,
+                      "border-bottom-left-radius": null,
+                      "border-radius": null,
+                      "border-top-left-radius": null,
+                      "bottom": null,
+                      "box-shadow": null,
+                      "color": null,
+                      "filter": null,
+                      "flex": null,
+                      "font-family": null,
+                      "font-size": null,
+                      "height": null,
+                      "left": null,
+                      "letter-spacing": null,
+                      "line-height": null,
+                      "mix-blend-mode": null,
+                      "object-fit": null,
+                      "opacity": null,
+                      "overflow": null,
+                      "position": null,
+                      "right": null,
+                      "text-align": null,
+                      "text-fill-color": null,
+                      "text-shadow": null,
+                      "top": null,
+                      "transform": null,
+                      "transform-origin": null,
+                      "width": null,
+                      "z-index": null
+                    },
+                    "d2cMatch": null,
+                    "sources": [
+                      "getDsl"
+                    ],
+                    "captureStatus": "complete",
+                    "children": []
+                  },
+                  {
+                    "id": "0:2275",
+                    "name": "365亿美元！半导体设备销售创新高",
+                    "type": "TEXT",
+                    "layoutStyle": {
+                      "width": 210,
+                      "height": 15,
+                      "relativeX": 103,
+                      "relativeY": 15,
+                      "rotate": 0,
+                      "rotateX": null
+                    },
+                    "bounds": {
+                      "x": 115,
+                      "y": 187,
+                      "width": 210,
+                      "height": 15
+                    },
+                    "opacity": null,
+                    "fill": null,
+                    "effect": null,
+                    "borderRadius": null,
+                    "strokeAlign": null,
+                    "strokeColor": null,
+                    "strokeType": null,
+                    "strokeWidth": null,
+                    "mask": null,
+                    "path": null,
+                    "text": "365亿美元！半导体设备销售创新高",
+                    "textRuns": [
+                      {
+                        "text": "365亿美元！半导体设备销售创新高",
+                        "font": {
+                          "family": "MiSans",
+                          "size": 13.5,
+                          "style": "Semibold",
+                          "lineHeight": "15",
+                          "letterSpacing": "-0.30000001192092896px",
+                          "case": "none",
+                          "decoration": "none"
+                        },
+                        "color": "#2E3D65"
+                      }
+                    ],
+                    "textAlign": "left",
+                    "textMode": "single-line",
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 17,
+                        "color": "#2E3D65"
+                      }
+                    ],
+                    "hasSvg": false,
+                    "exportImage": null,
+                    "styleRefs": {
+                      "font": [
+                        "font_0:1681"
+                      ],
+                      "textColors": [
+                        "paint_0:1683"
+                      ]
+                    },
+                    "componentDefinition": null,
+                    "d2cCss": {
+                      "-webkit-background-clip": null,
+                      "-webkit-text-fill-color": null,
+                      "background": null,
+                      "background-clip": null,
+                      "background-image": null,
+                      "border": null,
+                      "border-bottom-left-radius": null,
+                      "border-radius": null,
+                      "border-top-left-radius": null,
+                      "bottom": null,
+                      "box-shadow": null,
+                      "color": null,
+                      "filter": null,
+                      "flex": null,
+                      "font-family": null,
+                      "font-size": null,
+                      "height": null,
+                      "left": null,
+                      "letter-spacing": null,
+                      "line-height": null,
+                      "mix-blend-mode": null,
+                      "object-fit": null,
+                      "opacity": null,
+                      "overflow": null,
+                      "position": null,
+                      "right": null,
+                      "text-align": null,
+                      "text-fill-color": null,
+                      "text-shadow": null,
+                      "top": null,
+                      "transform": null,
+                      "transform-origin": null,
+                      "width": null,
+                      "z-index": null
+                    },
+                    "d2cMatch": null,
+                    "sources": [
+                      "getDsl"
+                    ],
+                    "captureStatus": "complete",
+                    "children": []
+                  },
+                  {
+                    "id": "0:2276",
+                    "name": "矩形",
+                    "type": "PATH",
+                    "layoutStyle": {
+                      "width": 87,
+                      "height": 23,
+                      "relativeX": 9,
+                      "relativeY": 10,
+                      "rotate": 0,
+                      "rotateX": null
+                    },
+                    "bounds": {
+                      "x": 21,
+                      "y": 182,
+                      "width": 87,
+                      "height": 23
+                    },
+                    "opacity": null,
+                    "fill": "linear-gradient(270deg, #FFE5D8 -4%, #F74545 17%, #F85845 76%, #FE9271 94%, #FFEBE3 98%, #FFFFFF 100%)",
+                    "effect": {
+                      "boxShadow": [
+                        "box-shadow: inset 0px 1px 3px 0px rgba(255, 247, 237, 0.8492);"
+                      ],
+                      "filter": [],
+                      "backdropFilter": [],
+                      "raw": [
+                        "box-shadow: inset 0px 1px 3px 0px rgba(255, 247, 237, 0.8492);"
+                      ]
+                    },
+                    "borderRadius": null,
+                    "strokeAlign": null,
+                    "strokeColor": null,
+                    "strokeType": null,
+                    "strokeWidth": null,
+                    "mask": null,
+                    "path": [
+                      {
+                        "data": "M13.8000002,9.999999999999986L86.044586,9.999999999999766C87.480415,9.999999999999762,88.207451,10.0013408661,88.840744,10.22148675C89.394783,10.41408125,89.900299,10.72650683,90.320335,11.1359231C90.800461,11.6039078,91.126793,12.2535861,91.768913,13.5378332L95.252235,20.504474000000002C95.525917,21.051830000000002,95.663742,21.328393,95.713875,21.614967C95.757904,21.866654,95.753296,22.12462,95.700317,22.374575999999998C95.639992,22.65918,95.492371,22.930643,95.199333,23.467883999999998L91.819283,29.664654C91.157448,30.878017,90.821518,31.491392,90.346085,31.932384C89.929733,32.318577000000005,89.435425,32.612017,88.897018,32.792603C88.282211,32.998813999999996,87.58287,33,86.200745,33L13.7999983,33C12.1198401,33,11.2607675,32.996599,10.6213272,32.665146C10.070935200000001,32.379850000000005,9.62014973,31.929066,9.33485451,31.378674C9.0034012198,30.739233,9,29.880159,9,28.200001L9,14.8000002C9,13.1198401,9.0034011006,12.2607675,9.33485451,11.6213272C9.62014973,11.070935200000001,10.070935200000001,10.62014973,10.6213272,10.33485451C11.2607675,10.0034011006,12.1198401,9.999999999999991,13.8000002,9.999999999999986",
+                        "fill": "linear-gradient(270deg, #FFE5D8 -4%, #F74545 17%, #F85845 76%, #FE9271 94%, #FFEBE3 98%, #FFFFFF 100%)",
+                        "transform": null
+                      }
+                    ],
+                    "text": null,
+                    "textRuns": null,
+                    "textAlign": null,
+                    "textMode": null,
+                    "textColor": null,
+                    "hasSvg": false,
+                    "exportImage": null,
+                    "styleRefs": {
+                      "effect": "effect_0:1161"
+                    },
+                    "componentDefinition": null,
+                    "d2cCss": {
+                      "-webkit-background-clip": null,
+                      "-webkit-text-fill-color": null,
+                      "background": null,
+                      "background-clip": null,
+                      "background-image": null,
+                      "border": null,
+                      "border-bottom-left-radius": null,
+                      "border-radius": null,
+                      "border-top-left-radius": null,
+                      "bottom": null,
+                      "box-shadow": null,
+                      "color": null,
+                      "filter": null,
+                      "flex": null,
+                      "font-family": null,
+                      "font-size": null,
+                      "height": null,
+                      "left": null,
+                      "letter-spacing": null,
+                      "line-height": null,
+                      "mix-blend-mode": null,
+                      "object-fit": null,
+                      "opacity": null,
+                      "overflow": null,
+                      "position": null,
+                      "right": null,
+                      "text-align": null,
+                      "text-fill-color": null,
+                      "text-shadow": null,
+                      "top": null,
+                      "transform": null,
+                      "transform-origin": null,
+                      "width": null,
+                      "z-index": null
+                    },
+                    "d2cMatch": null,
+                    "sources": [
+                      "getDsl"
+                    ],
+                    "captureStatus": "complete",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0:2277",
+                "name": "位图",
+                "type": "LAYER",
+                "layoutStyle": {
+                  "width": 55,
+                  "height": 13,
+                  "relativeX": 31,
+                  "relativeY": 15.422911643981934,
+                  "rotate": 0,
+                  "rotateX": null
+                },
+                "bounds": {
+                  "x": 43,
+                  "y": 187.42291164398193,
+                  "width": 55,
+                  "height": 13
+                },
+                "opacity": null,
+                "fill": {
+                  "type": "IMAGE",
+                  "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/6eb5228a1001f3f9c31dee65e93780d8.png"
+                },
+                "effect": {
+                  "boxShadow": [
+                    "box-shadow: 0px 1px 2px 0px rgba(225, 28, 42, 0.5);"
+                  ],
+                  "filter": [],
+                  "backdropFilter": [],
+                  "raw": [
+                    "box-shadow: 0px 1px 2px 0px rgba(225, 28, 42, 0.5);"
+                  ]
+                },
+                "borderRadius": null,
+                "strokeAlign": null,
+                "strokeColor": null,
+                "strokeType": null,
+                "strokeWidth": null,
+                "mask": null,
+                "path": null,
+                "text": null,
+                "textRuns": null,
+                "textAlign": null,
+                "textMode": null,
+                "textColor": null,
+                "hasSvg": false,
+                "exportImage": null,
+                "styleRefs": {
+                  "fill": "paint_1:4176",
+                  "effect": "effect_0:1693"
+                },
+                "componentDefinition": null,
+                "d2cCss": {
+                  "-webkit-background-clip": null,
+                  "-webkit-text-fill-color": null,
+                  "background": null,
+                  "background-clip": null,
+                  "background-image": null,
+                  "border": null,
+                  "border-bottom-left-radius": null,
+                  "border-radius": null,
+                  "border-top-left-radius": null,
+                  "bottom": null,
+                  "box-shadow": null,
+                  "color": null,
+                  "filter": null,
+                  "flex": null,
+                  "font-family": null,
+                  "font-size": null,
+                  "height": null,
+                  "left": null,
+                  "letter-spacing": null,
+                  "line-height": null,
+                  "mix-blend-mode": null,
+                  "object-fit": null,
+                  "opacity": null,
+                  "overflow": null,
+                  "position": null,
+                  "right": null,
+                  "text-align": null,
+                  "text-fill-color": null,
+                  "text-shadow": null,
+                  "top": null,
+                  "transform": null,
+                  "transform-origin": null,
+                  "width": null,
+                  "z-index": null
+                },
+                "d2cMatch": null,
+                "sources": [
+                  "getDsl"
+                ],
+                "captureStatus": "complete",
+                "children": []
+              },
+              {
+                "id": "0:2278",
+                "name": "编组 48",
+                "type": "FRAME",
+                "layoutStyle": {
+                  "width": 14,
+                  "height": 17,
+                  "relativeX": 15,
+                  "relativeY": 13,
+                  "rotate": 0,
+                  "rotateX": null
+                },
+                "bounds": {
+                  "x": 27,
+                  "y": 185,
+                  "width": 14,
+                  "height": 17
+                },
+                "opacity": null,
+                "fill": null,
+                "effect": null,
+                "borderRadius": null,
+                "strokeAlign": null,
+                "strokeColor": null,
+                "strokeType": null,
+                "strokeWidth": null,
+                "mask": null,
+                "path": null,
+                "text": null,
+                "textRuns": null,
+                "textAlign": null,
+                "textMode": null,
+                "textColor": null,
+                "hasSvg": false,
+                "exportImage": null,
+                "styleRefs": null,
+                "componentDefinition": null,
+                "d2cCss": {
+                  "-webkit-background-clip": null,
+                  "-webkit-text-fill-color": null,
+                  "background": null,
+                  "background-clip": null,
+                  "background-image": null,
+                  "border": null,
+                  "border-bottom-left-radius": null,
+                  "border-radius": null,
+                  "border-top-left-radius": null,
+                  "bottom": null,
+                  "box-shadow": null,
+                  "color": null,
+                  "filter": null,
+                  "flex": null,
+                  "font-family": null,
+                  "font-size": null,
+                  "height": null,
+                  "left": null,
+                  "letter-spacing": null,
+                  "line-height": null,
+                  "mix-blend-mode": null,
+                  "object-fit": null,
+                  "opacity": null,
+                  "overflow": null,
+                  "position": null,
+                  "right": null,
+                  "text-align": null,
+                  "text-fill-color": null,
+                  "text-shadow": null,
+                  "top": null,
+                  "transform": null,
+                  "transform-origin": null,
+                  "width": null,
+                  "z-index": null
+                },
+                "d2cMatch": null,
+                "sources": [
+                  "getDsl"
+                ],
+                "captureStatus": "complete",
+                "children": [
+                  {
+                    "id": "0:2279",
+                    "name": "椭圆形",
+                    "type": "SVG_ELLIPSE",
+                    "layoutStyle": {
+                      "width": 9,
+                      "height": 2,
+                      "relativeX": 4,
+                      "relativeY": 15,
+                      "rotate": 0,
+                      "rotateX": null
+                    },
+                    "bounds": {
+                      "x": 31,
+                      "y": 200,
+                      "width": 9,
+                      "height": 2
+                    },
+                    "opacity": null,
+                    "fill": "#E41F0E",
+                    "effect": null,
+                    "borderRadius": null,
+                    "strokeAlign": "inside",
+                    "strokeColor": null,
+                    "strokeType": "solid",
+                    "strokeWidth": "1px",
+                    "mask": null,
+                    "path": null,
+                    "text": null,
+                    "textRuns": null,
+                    "textAlign": null,
+                    "textMode": null,
+                    "textColor": null,
+                    "hasSvg": false,
+                    "exportImage": null,
+                    "styleRefs": {
+                      "fill": "paint_0:1697",
+                      "strokeColor": "paint_0:10"
+                    },
+                    "componentDefinition": null,
+                    "d2cCss": {
+                      "-webkit-background-clip": null,
+                      "-webkit-text-fill-color": null,
+                      "background": null,
+                      "background-clip": null,
+                      "background-image": null,
+                      "border": null,
+                      "border-bottom-left-radius": null,
+                      "border-radius": null,
+                      "border-top-left-radius": null,
+                      "bottom": null,
+                      "box-shadow": null,
+                      "color": null,
+                      "filter": null,
+                      "flex": null,
+                      "font-family": null,
+                      "font-size": null,
+                      "height": null,
+                      "left": null,
+                      "letter-spacing": null,
+                      "line-height": null,
+                      "mix-blend-mode": null,
+                      "object-fit": null,
+                      "opacity": null,
+                      "overflow": null,
+                      "position": null,
+                      "right": null,
+                      "text-align": null,
+                      "text-fill-color": null,
+                      "text-shadow": null,
+                      "top": null,
+                      "transform": null,
+                      "transform-origin": null,
+                      "width": null,
+                      "z-index": null
+                    },
+                    "d2cMatch": null,
+                    "sources": [
+                      "getDsl"
+                    ],
+                    "captureStatus": "complete",
+                    "children": []
+                  },
+                  {
+                    "id": "0:2280",
+                    "name": "位图",
+                    "type": "LAYER",
+                    "layoutStyle": {
+                      "width": 14,
+                      "height": 16,
+                      "relativeX": 0,
+                      "relativeY": 0,
+                      "rotate": 0,
+                      "rotateX": null
+                    },
+                    "bounds": {
+                      "x": 27,
+                      "y": 185,
+                      "width": 14,
+                      "height": 16
+                    },
+                    "opacity": null,
+                    "fill": {
+                      "type": "IMAGE",
+                      "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/3522dfd6989b919c5d99934fb0ecd748.png"
+                    },
+                    "effect": null,
+                    "borderRadius": null,
+                    "strokeAlign": null,
+                    "strokeColor": null,
+                    "strokeType": null,
+                    "strokeWidth": null,
+                    "mask": null,
+                    "path": null,
+                    "text": null,
+                    "textRuns": null,
+                    "textAlign": null,
+                    "textMode": null,
+                    "textColor": null,
+                    "hasSvg": false,
+                    "exportImage": null,
+                    "styleRefs": {
+                      "fill": "paint_1:4208"
+                    },
+                    "componentDefinition": null,
+                    "d2cCss": {
+                      "-webkit-background-clip": null,
+                      "-webkit-text-fill-color": null,
+                      "background": null,
+                      "background-clip": null,
+                      "background-image": null,
+                      "border": null,
+                      "border-bottom-left-radius": null,
+                      "border-radius": null,
+                      "border-top-left-radius": null,
+                      "bottom": null,
+                      "box-shadow": null,
+                      "color": null,
+                      "filter": null,
+                      "flex": null,
+                      "font-family": null,
+                      "font-size": null,
+                      "height": null,
+                      "left": null,
+                      "letter-spacing": null,
+                      "line-height": null,
+                      "mix-blend-mode": null,
+                      "object-fit": null,
+                      "opacity": null,
+                      "overflow": null,
+                      "position": null,
+                      "right": null,
+                      "text-align": null,
+                      "text-fill-color": null,
+                      "text-shadow": null,
+                      "top": null,
+                      "transform": null,
+                      "transform-origin": null,
+                      "width": null,
+                      "z-index": null
+                    },
+                    "d2cMatch": null,
+                    "sources": [
+                      "getDsl"
+                    ],
+                    "captureStatus": "complete",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "0:2281",
+            "name": "路径 18",
+            "type": "PATH",
+            "layoutStyle": {
+              "width": 38,
+              "height": 24,
+              "relativeX": 313,
+              "relativeY": 90,
+              "rotate": 0,
+              "rotateX": null
+            },
+            "bounds": {
+              "x": 325,
+              "y": 262,
+              "width": 38,
+              "height": 24
+            },
+            "opacity": null,
+            "fill": "linear-gradient(216deg, #CAD7FF 40%, #FFFFFF 58%)",
+            "effect": {
+              "boxShadow": [
+                "box-shadow: inset 1px 2px 2px 0px #FFFFFF;",
+                "box-shadow: -1px 2px 8px 0px rgba(163, 191, 251, 0.4);"
+              ],
+              "filter": [],
+              "backdropFilter": [],
+              "raw": [
+                "box-shadow: inset 1px 2px 2px 0px #FFFFFF;",
+                "box-shadow: -1px 2px 8px 0px rgba(163, 191, 251, 0.4);"
+              ]
+            },
+            "borderRadius": null,
+            "strokeAlign": null,
+            "strokeColor": null,
+            "strokeType": null,
+            "strokeWidth": null,
+            "mask": null,
+            "path": [
+              {
+                "data": "M317.9853172,115.2726912L346.878948,131.053551C349.419586,132.441174,351,135.105118,351,138Q348.838745,133.346327,346.586277,134.331829C344.333813,135.317331,337.943598,139.069233,335.093229,137.222271C333.68067,136.306971,330.172421,128.897793,323.354053,121.0843301Q319.9153509,117.1437738,312.9999999999992,114.0000000000002C314.7421367,113.99999999999997,316.4563637,114.43762141,317.9853172,115.2726912",
+                "fill": "linear-gradient(216deg, #CAD7FF 40%, #FFFFFF 58%)",
+                "transform": "matrix(1,0,0,-1,0,228)"
+              }
+            ],
+            "text": null,
+            "textRuns": null,
+            "textAlign": null,
+            "textMode": null,
+            "textColor": null,
+            "hasSvg": false,
+            "exportImage": null,
+            "styleRefs": {
+              "effect": "effect_0:1708"
+            },
+            "componentDefinition": null,
+            "d2cCss": {
+              "-webkit-background-clip": null,
+              "-webkit-text-fill-color": null,
+              "background": null,
+              "background-clip": null,
+              "background-image": null,
+              "border": null,
+              "border-bottom-left-radius": null,
+              "border-radius": null,
+              "border-top-left-radius": null,
+              "bottom": null,
+              "box-shadow": null,
+              "color": null,
+              "filter": null,
+              "flex": null,
+              "font-family": null,
+              "font-size": null,
+              "height": null,
+              "left": null,
+              "letter-spacing": null,
+              "line-height": null,
+              "mix-blend-mode": null,
+              "object-fit": null,
+              "opacity": null,
+              "overflow": null,
+              "position": null,
+              "right": null,
+              "text-align": null,
+              "text-fill-color": null,
+              "text-shadow": null,
+              "top": null,
+              "transform": null,
+              "transform-origin": null,
+              "width": null,
+              "z-index": null
+            },
+            "d2cMatch": null,
+            "sources": [
+              "getDsl"
+            ],
+            "captureStatus": "complete",
+            "children": []
+          }
+        ]
+      },
+      "sections": [
+        {
+          "sectionIndex": 65,
+          "id": "0:2264",
+          "name": "编组 50",
+          "type": "FRAME",
+          "nodeCount": 18,
+          "x": 12,
+          "y": 172,
+          "width": 351,
+          "height": 114,
+          "textPreview": "SEMI报告显示，2026年Q1全球半导",
+          "structureSiblingCount": 1
+        }
+      ],
+      "d2c": null
+    }
+  ],
+  "assets": {
+    "bitmaps": [
+      {
+        "styleKey": "paint_1:4176",
+        "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/6eb5228a1001f3f9c31dee65e93780d8.png"
+      },
+      {
+        "styleKey": "paint_1:4208",
+        "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/3522dfd6989b919c5d99934fb0ecd748.png"
+      }
+    ],
+    "svgs": {
+      "0:2266": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 351 114\" width=\"351\" height=\"114\" shape-rendering=\"crispEdges\">\n  <defs><linearGradient id=\"grad_paint_0_1659\" x1=\"0.5000\" y1=\"-0.0000\" x2=\"0.5000\" y2=\"1.0000\"><stop offset=\"0.25\" stop-color=\"rgb(255,255,255)\" stop-opacity=\"0.95\"/><stop offset=\"1\" stop-color=\"rgb(255,255,255)\" stop-opacity=\"0.8\"/></linearGradient><linearGradient id=\"grad_paint_0_1686\" x1=\"1.0000\" y1=\"0.5000\" x2=\"-0.0000\" y2=\"0.5000\"><stop offset=\"0.17\" stop-color=\"#F74545\"/><stop offset=\"0.76\" stop-color=\"#F85845\"/><stop offset=\"0.94\" stop-color=\"#FE9271\"/><stop offset=\"0.98\" stop-color=\"#FFEBE3\"/><stop offset=\"1\" stop-color=\"#FFFFFF\"/></linearGradient></defs>\n  <path d=\"M338.19998,0L12.799999,0C8.3195744,0,6.0287132,0.0090696812,4.3235388,0.89294541C2.8558273,1.6537325,1.6537325,2.8558273,0.89294541,4.3235388C0.0090696812,6.0287132,0,8.3195744,0,12.800003L0,101.2C0,105.68043,0.0090700984,107.97128,0.89294541,109.67646C1.6537325,111.14417,2.8558273,112.34627,4.3235388,113.10706C6.0287123,113.99093,8.3195744,114,12.800001,114L314.68793,114Q342.82776,97.770874,346.91388,95.344498Q351,92.918121,351,91.040977L351,12.8C351,8.3195744,350.99094,6.0287051,350.10706,4.3235388C349.34625,2.8558273,348.14417,1.6537325,346.67645,0.89294541C344.97128,0.0090700984,342.68042,0,338.19998,0Z\nM12.459261,11.5C12.459261,10.119287,11.339972,9,9.9592609,9C8.5785484,9,7.4592605,10.119287,7.4592605,11.5L7.4592605,32.5C7.4592605,33.880714,8.5785484,35,9.9592609,35C11.339972,35,12.459261,33.880714,12.459261,32.5L12.459261,11.5Z\" fill=\"url(#grad_paint_0_1659)\"/>\n  <path d=\"M12.799999,0L338.19998,0C342.68042,0,344.97128,0.0090700984,346.67645,0.89294541C348.14417,1.6537324,349.34622,2.8558273,350.10706,4.3235388C350.99094,6.0287051,351,8.3195744,351,12.8L351,91.04097Q351,92.918121,346.91385,95.344498Q342.82773,97.770866,314.68793,114L12.800001,114C8.3195744,114,6.0287123,113.99092,4.3235388,113.10706C2.8558273,112.34626,1.6537324,111.14417,0.89294541,109.67646C0.0090700984,107.97128,0,105.68043,0,101.2L0,12.800003C0,8.3195744,0.0090696812,6.0287132,0.89294541,4.3235388C1.6537324,2.8558273,2.8558273,1.6537324,4.3235388,0.89294541C6.0287132,0.0090696812,8.3195744,0,12.799999,0Z\nM314.49991,113.3L346.56314,94.738678Q350.29999,92.519669,350.29999,91.04097L350.29999,12.8Q350.29999,8.9231892,350.18741,7.579483Q350.02957,5.6951432,349.48557,4.6456828Q348.41653,2.583375,346.35431,1.5144163Q345.30487,0.97043586,343.4205,0.81257606Q342.07669,0.70000011,338.19998,0.69999999L12.799999,0.69999999Q8.9233007,0.69999999,7.5794864,0.81257588Q5.6951275,0.97043496,4.6456776,1.5144166Q2.5833981,2.5833979,1.5144168,4.6456776Q0.97043496,5.6951275,0.81257582,7.5794873Q0.69999993,8.9233027,0.69999993,12.800003L0.69999999,101.2Q0.69999999,105.07669,0.812576,106.42051Q0.97043556,108.30487,1.5144167,109.35432Q2.5833924,111.41659,4.645678,112.48558Q5.6951222,113.02956,7.5794864,113.18742Q8.9233408,113.3,12.800001,113.3L314.49991,113.3Z\nM13.159261,32.5L13.159261,11.5Q13.159261,10.174517,12.222002,9.237258Q11.284743,8.2999992,9.9592609,8.2999992Q8.6337776,8.2999992,7.6965189,9.237258Q6.7592602,10.174517,6.7592602,11.5L6.7592602,32.5Q6.7592602,33.825485,7.6965189,34.762745Q8.6337757,35.700001,9.9592609,35.700001Q11.284744,35.700001,12.222002,34.762745Q13.159261,33.825485,13.159261,32.5Z\nM9.9592609,9C11.339972,9,12.459261,10.119287,12.459261,11.5L12.459261,32.5C12.459261,33.880714,11.339972,35,9.9592609,35C8.5785484,35,7.45926,33.880714,7.45926,32.5L7.45926,11.5C7.45926,10.119287,8.5785484,9,9.9592609,9Z\" fill=\"rgba(255, 255, 255, 0.8)\"/>\n  <path d=\"M13.8000002,9.999999999999986L86.044586,9.999999999999766C87.480415,9.999999999999762,88.207451,10.0013408661,88.840744,10.22148675C89.394783,10.41408125,89.900299,10.72650683,90.320335,11.1359231C90.800461,11.6039078,91.126793,12.2535861,91.768913,13.5378332L95.252235,20.504474000000002C95.525917,21.051830000000002,95.663742,21.328393,95.713875,21.614967C95.757904,21.866654,95.753296,22.12462,95.700317,22.374575999999998C95.639992,22.65918,95.492371,22.930643,95.199333,23.467883999999998L91.819283,29.664654C91.157448,30.878017,90.821518,31.491392,90.346085,31.932384C89.929733,32.318577000000005,89.435425,32.612017,88.897018,32.792603C88.282211,32.998813999999996,87.58287,33,86.200745,33L13.7999983,33C12.1198401,33,11.2607675,32.996599,10.6213272,32.665146C10.070935200000001,32.379850000000005,9.62014973,31.929066,9.33485451,31.378674C9.0034012198,30.739233,9,29.880159,9,28.200001L9,14.8000002C9,13.1198401,9.0034011006,12.2607675,9.33485451,11.6213272C9.62014973,11.070935200000001,10.070935200000001,10.62014973,10.6213272,10.33485451C11.2607675,10.0034011006,12.1198401,9.999999999999991,13.8000002,9.999999999999986\" fill=\"url(#grad_paint_0_1686)\" fill-rule=\"evenodd\"/>\n</svg>",
+      "0:2264": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"313 88.93 38 25.07\" width=\"38\" height=\"25.07\" shape-rendering=\"crispEdges\">\n  <defs><linearGradient id=\"grad_paint_0_1703\" x1=\"0.9105\" y1=\"-0.0650\" x2=\"0.0895\" y2=\"1.0650\"><stop offset=\"0.4\" stop-color=\"#CAD7FF\"/><stop offset=\"0.58\" stop-color=\"#FFFFFF\"/></linearGradient></defs>\n  <path d=\"M317.9853172,115.2726912L346.878948,131.053551C349.419586,132.441174,351,135.105118,351,138Q348.838745,133.346327,346.586277,134.331829C344.333813,135.317331,337.943598,139.069233,335.093229,137.222271C333.68067,136.306971,330.172421,128.897793,323.354053,121.0843301Q319.9153509,117.1437738,312.9999999999992,114.0000000000002C314.7421367,113.99999999999997,316.4563637,114.43762141,317.9853172,115.2726912\" fill=\"url(#grad_paint_0_1703)\" fill-rule=\"evenodd\" transform=\"matrix(1,0,0,-1,0,228)\"/>\n</svg>"
+    }
+  },
+  "d2c": null
+}

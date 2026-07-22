@@ -1,0 +1,92 @@
+{
+  "1-banner": [
+    {
+      "repeatKey": "编组 55",
+      "count": 3,
+      "parentId": "0:1720",
+      "parentName": "编组 56",
+      "slots": [
+        {
+          "name": "slot_0",
+          "path": "0",
+          "exampleValues": [
+            "捕捉热点事件",
+            "拆解产业逻辑",
+            "精选关联产品"
+          ],
+          "displayName": "捕捉热点事件"
+        }
+      ]
+    }
+  ],
+  "3-products": [
+    {
+      "repeatKey": "编组 43",
+      "count": 3,
+      "parentId": "0:1760",
+      "parentName": "编组 68",
+      "slots": [
+        {
+          "name": "slot_0",
+          "path": "0/0/0/0",
+          "exampleValues": [
+            "永赢先锋半导体智选C",
+            "华夏半导体龙头C",
+            "银华集成电路C"
+          ],
+          "displayName": "永赢先锋半导体智选C"
+        },
+        {
+          "name": "slot_1",
+          "path": "0/0/0/1/1",
+          "exampleValues": [
+            "025209",
+            "016501",
+            "013841"
+          ],
+          "displayName": "025209"
+        },
+        {
+          "name": "slot_2",
+          "path": "0/0/0/2/1",
+          "exampleValues": [
+            "R4中高风险",
+            "R4中高风险",
+            "R4中高风险"
+          ],
+          "displayName": "R4中高风险"
+        },
+        {
+          "name": "slot_3",
+          "path": "0/0/1/0",
+          "exampleValues": [
+            "近1年涨跌幅",
+            "近1年涨跌幅",
+            "近1年涨跌幅"
+          ],
+          "displayName": "近1年涨跌幅"
+        },
+        {
+          "name": "slot_4",
+          "path": "0/0/1/1",
+          "exampleValues": [
+            "详情 >",
+            "详情 >",
+            "详情 >"
+          ],
+          "displayName": "详情 >"
+        },
+        {
+          "name": "slot_5",
+          "path": "0/1/0/4",
+          "exampleValues": [
+            "买入",
+            "买入",
+            "买入"
+          ],
+          "displayName": "买入"
+        }
+      ]
+    }
+  ]
+}

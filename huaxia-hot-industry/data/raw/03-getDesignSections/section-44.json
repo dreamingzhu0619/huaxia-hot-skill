@@ -1,0 +1,481 @@
+{
+  "sectionIndex": 44,
+  "section": {
+    "id": "0:2055",
+    "name": "编组 26",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "effect_0:1161": {
+        "value": [
+          "box-shadow: inset 0px 1px 3px 0px rgba(255, 247, 237, 0.8492);"
+        ]
+      },
+      "effect_0:1192": {
+        "value": [
+          "box-shadow: 0px 1px 3px 0px rgba(164, 78, 35, 0.6818);"
+        ]
+      },
+      "font_0:1148": {
+        "value": {
+          "family": "MiSans",
+          "size": 12.5,
+          "style": "Demibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "auto",
+          "weight": "600"
+        }
+      },
+      "font_0:1173": {
+        "value": {
+          "family": "MiSans",
+          "size": 13,
+          "style": "Semibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "auto",
+          "weight": "600"
+        }
+      },
+      "font_0:1194": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 13,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "auto"
+        }
+      },
+      "font_0:1354": {
+        "value": {
+          "family": "MiSans",
+          "size": 11,
+          "style": "Regular",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "14",
+          "letterSpacing": "-0.30000001192092896px",
+          "weight": "400"
+        }
+      },
+      "font_0:1413": {
+        "value": {
+          "family": "MiSans",
+          "size": 11,
+          "style": "Regular",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "14",
+          "letterSpacing": "auto",
+          "weight": "400"
+        }
+      },
+      "paint_0:10": {
+        "value": []
+      },
+      "paint_0:1136": {
+        "value": [
+          "linear-gradient(354deg, #F3F8FF 11%, #FBFDFF 36%, #FFFFFF 82%, #FFF7E8 89%)"
+        ]
+      },
+      "paint_0:1138": {
+        "value": [
+          "linear-gradient(180deg, rgba(255, 255, 255, 0.0634) 4%, #DEEBFF 100%)"
+        ]
+      },
+      "paint_0:1141": {
+        "value": [
+          "linear-gradient(270deg, #FFFAF1 0%, #FFF6E5 38%, #FFE8BE 99%)"
+        ]
+      },
+      "paint_0:1145": {
+        "value": []
+      },
+      "paint_0:1150": {
+        "value": [
+          "#864217"
+        ]
+      },
+      "paint_0:1153": {
+        "value": [
+          "linear-gradient(270deg, #FFDBA6 -7%, #EEB977 11%, #E5A656 38%, #E2AF68 82%, #FFFAF3 95%, #FFEDCB 104%)"
+        ]
+      },
+      "paint_0:1159": {
+        "value": [
+          "linear-gradient(266deg, #FFFFFF 8%, rgba(255, 255, 255, 0.5919) 106%)"
+        ]
+      },
+      "paint_0:1170": {
+        "value": []
+      },
+      "paint_0:1184": {
+        "value": [
+          "#45536B"
+        ]
+      },
+      "paint_0:1198": {
+        "value": [
+          "#E94452"
+        ]
+      },
+      "paint_0:1201": {
+        "value": [
+          "#F44448"
+        ]
+      },
+      "paint_0:1342": {
+        "value": []
+      },
+      "paint_0:1346": {
+        "value": [
+          "#368CFF"
+        ]
+      },
+      "paint_0:1349": {
+        "value": [
+          "#318EEE"
+        ]
+      },
+      "paint_0:145": {
+        "value": [
+          "#3A3E45"
+        ]
+      },
+      "paint_0:446": {
+        "value": [
+          "rgba(255, 255, 255, 0.01)"
+        ]
+      },
+      "paint_0:68": {
+        "value": [
+          "#FFFFFF"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:2055",
+        "name": "编组 26",
+        "layoutStyle": {
+          "width": 323,
+          "height": 118,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "LAYER",
+            "id": "0:2056",
+            "name": "矩形备份 24",
+            "layoutStyle": {
+              "width": 323,
+              "height": 110,
+              "relativeX": 0,
+              "relativeY": 8
+            },
+            "borderRadius": "8px",
+            "fill": "paint_0:1136",
+            "_color": "linear-gradient(354deg, #F3F8FF 11%, #FBFDFF 36%, #FFFFFF 82%, #FFF7E8 89%)",
+            "strokeColor": "paint_0:1138",
+            "strokeType": "solid",
+            "strokeAlign": "inside",
+            "strokeWidth": "0.5px"
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2057",
+            "name": "编组 25备份 2",
+            "layoutStyle": {
+              "width": 299,
+              "height": 41,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:2058",
+                "name": "矩形",
+                "layoutStyle": {
+                  "width": 244,
+                  "height": 27,
+                  "relativeX": 55,
+                  "relativeY": 0
+                },
+                "fill": "paint_0:1141",
+                "_color": "linear-gradient(270deg, #FFFAF1 0%, #FFF6E5 38%, #FFE8BE 99%)",
+                "strokeColor": "paint_0:10",
+                "strokeType": "solid",
+                "strokeAlign": "inside",
+                "strokeWidth": "1px"
+              },
+              {
+                "type": "PATH",
+                "id": "0:2059",
+                "name": "矩形备份 22",
+                "layoutStyle": {
+                  "width": 94.00236511230469,
+                  "height": 41,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "effect": "effect_0:1161",
+                "svgKey": "S44:编组 25备份 2|0:2059",
+                "svgName": "编组 25备份 2"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2060",
+                "name": "封装与测试",
+                "layoutStyle": {
+                  "width": 65,
+                  "height": 13,
+                  "relativeX": 13,
+                  "relativeY": 9
+                },
+                "fill": "paint_0:446",
+                "_color": "rgba(255, 255, 255, 0.01)",
+                "effect": "effect_0:1192",
+                "text": [
+                  {
+                    "text": "封装与测试",
+                    "font": "font_0:1194"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 5,
+                    "color": "paint_0:68"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2061",
+                "name": "从“配角”进阶为“关键”",
+                "layoutStyle": {
+                  "width": 122,
+                  "height": 13,
+                  "relativeX": 102,
+                  "relativeY": 8
+                },
+                "fill": "paint_0:1145",
+                "text": [
+                  {
+                    "text": "从“配角”进阶为“关键”",
+                    "font": "font_0:1148"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 12,
+                    "color": "paint_0:1150"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "id": "0:2062",
+            "name": "传统封装",
+            "layoutStyle": {
+              "width": 52,
+              "height": 13,
+              "relativeX": 32,
+              "relativeY": 40
+            },
+            "fill": "paint_0:1342",
+            "text": [
+              {
+                "text": "传统封装",
+                "font": "font_0:1173"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 4,
+                "color": "paint_0:145"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line",
+            "_placeholder": true
+          },
+          {
+            "type": "TEXT",
+            "id": "0:2063",
+            "name": "先进封装",
+            "layoutStyle": {
+              "width": 52,
+              "height": 13,
+              "relativeX": 32,
+              "relativeY": 79
+            },
+            "fill": "paint_0:1170",
+            "text": [
+              {
+                "text": "先进封装",
+                "font": "font_0:1173"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 4,
+                "color": "paint_0:145"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line",
+            "_placeholder": true
+          },
+          {
+            "type": "TEXT",
+            "id": "0:2064",
+            "name": "把芯片\"包装\"起来，技术成熟、成本较低、",
+            "layoutStyle": {
+              "width": 311,
+              "height": 14,
+              "relativeX": 12,
+              "relativeY": 56
+            },
+            "text": [
+              {
+                "text": "把芯片\"包装\"起来，技术成熟、成本较低、可靠性较高。",
+                "font": "font_0:1413"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 26,
+                "color": "paint_0:1184"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "auto-height"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:2065",
+            "name": "主要有2.5D(平铺) 3D(堆叠)等方",
+            "layoutStyle": {
+              "width": 310,
+              "height": 14,
+              "relativeX": 12,
+              "relativeY": 95
+            },
+            "text": [
+              {
+                "text": "主要有2.5D(平铺) 3D(堆叠)等方式，是提升芯片性能的关键路径。",
+                "font": "font_0:1354"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 35,
+                "color": "paint_0:1184"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line"
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2066",
+            "name": "编组 6备份 2",
+            "layoutStyle": {
+              "width": 11,
+              "height": 11,
+              "relativeX": 14,
+              "relativeY": 41
+            },
+            "_mergedVector": true,
+            "svgKey": "S44:编组 26|0:2066",
+            "svgName": "编组 26"
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2069",
+            "name": "编组 6备份 5",
+            "layoutStyle": {
+              "width": 11,
+              "height": 11,
+              "relativeX": 14,
+              "relativeY": 80
+            },
+            "_mergedVector": true
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "封装与测试",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 25备份 2"
+      },
+      {
+        "text": "从“配角”进阶为“关键”",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 25备份 2"
+      },
+      {
+        "text": "传统封装",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 26"
+      },
+      {
+        "text": "先进封装",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 26"
+      },
+      {
+        "text": "把芯片\"包装\"起来，技术成熟、成本较低、可靠性较高。",
+        "parentType": "FRAME",
+        "parentName": "编组 26"
+      },
+      {
+        "text": "主要有2.5D(平铺) 3D(堆叠)等方式，是提升芯片性能的关键路径。",
+        "parentType": "FRAME",
+        "parentName": "编组 26"
+      }
+    ],
+    "placeholderTexts": [
+      "封装与测试",
+      "从“配角”进阶为“关键”",
+      "传统封装",
+      "先进封装"
+    ]
+  },
+  "nodeCount": 13,
+  "svgNodeCount": 3,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 46/66. MISSING 20 sections: [45,47,48,49,50,51,52,53,54,55... +10 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

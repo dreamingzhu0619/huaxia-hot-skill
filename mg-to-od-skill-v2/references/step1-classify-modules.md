@@ -90,6 +90,10 @@
 
 如果当前设计稿出现了不在此列表中的模块类型，按实际内容判断即可。
 
+## 输出
+
+写入 `data/<project>/output/modules-classification.json`。
+
 ## 输出格式
 
 ```json

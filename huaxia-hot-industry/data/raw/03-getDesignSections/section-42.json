@@ -1,0 +1,208 @@
+{
+  "sectionIndex": 42,
+  "section": {
+    "id": "0:2042",
+    "name": "编组 7备份 5",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "font_0:1373": {
+        "value": {
+          "family": "MiSans",
+          "size": 11,
+          "style": "Medium",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "12",
+          "letterSpacing": "auto",
+          "weight": "500"
+        }
+      },
+      "font_0:1378": {
+        "value": {
+          "family": "MiSans",
+          "size": 10,
+          "style": "Regular",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "-0.5px",
+          "weight": "400"
+        }
+      },
+      "paint_0:1367": {
+        "value": [
+          "linear-gradient(144deg, #5397EF 30%, rgba(162, 226, 248, 0) 77%)"
+        ]
+      },
+      "paint_0:1375": {
+        "value": [
+          "#3C63AC"
+        ]
+      },
+      "paint_0:1380": {
+        "value": [
+          "#476496"
+        ]
+      },
+      "paint_0:1384": {
+        "value": [
+          "linear-gradient(180deg, #E0EFFF 4%, #E0EFFF 26%, #FFFFFF 27%, #F1F8FF 100%)"
+        ]
+      },
+      "paint_1:4238": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/24da2ff65ad8bd51d014e9dd15293b6a.png",
+            "filters": ""
+          }
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:2042",
+        "name": "编组 7备份 5",
+        "layoutStyle": {
+          "width": 97,
+          "height": 140,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "PATH",
+            "id": "0:2043",
+            "name": "矩形",
+            "layoutStyle": {
+              "width": 97,
+              "height": 140,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "svgKey": "S42:编组 7备份 5|0:2043",
+            "svgName": "编组 7备份 5"
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2044",
+            "name": "编组 29",
+            "layoutStyle": {
+              "width": 79.03868103027344,
+              "height": 63.967811584472656,
+              "relativeX": 12,
+              "relativeY": 48
+            },
+            "children": [
+              {
+                "type": "PATH",
+                "id": "0:2045",
+                "name": "路径 8备份",
+                "layoutStyle": {
+                  "width": 57.0386848449707,
+                  "height": 25.57524299621582,
+                  "relativeX": 22,
+                  "relativeY": 38.3925666809082
+                }
+              },
+              {
+                "type": "LAYER",
+                "id": "0:2046",
+                "name": "位图",
+                "layoutStyle": {
+                  "width": 73,
+                  "height": 61,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "fill": "paint_1:4238"
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "id": "0:2047",
+            "name": "局部突破但产能不足",
+            "layoutStyle": {
+              "width": 86,
+              "height": 13,
+              "relativeX": 6,
+              "relativeY": 114
+            },
+            "opacity": 0.699999988079071,
+            "text": [
+              {
+                "text": "局部突破但产能不足",
+                "font": "font_0:1378"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 9,
+                "color": "paint_0:1380"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line",
+            "_placeholder": true
+          },
+          {
+            "type": "TEXT",
+            "id": "0:2048",
+            "name": "先进制程 (14nm-7nm)",
+            "layoutStyle": {
+              "width": 63,
+              "height": 24,
+              "relativeX": 17.5,
+              "relativeY": 7
+            },
+            "text": [
+              {
+                "text": "先进制程 \n(14nm-7nm)",
+                "font": "font_0:1373"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 16,
+                "color": "paint_0:1375"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line",
+            "_placeholder": true
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "局部突破但产能不足",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 7备份 5"
+      },
+      {
+        "text": "先进制程 \n(14nm-7nm)",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 7备份 5"
+      }
+    ],
+    "placeholderTexts": [
+      "局部突破但产能不足",
+      "先进制程 \n(14nm-7nm)"
+    ]
+  },
+  "nodeCount": 7,
+  "svgNodeCount": 2,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 44/66. MISSING 22 sections: [44,45,46,47,48,49,50,51,52,53... +12 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

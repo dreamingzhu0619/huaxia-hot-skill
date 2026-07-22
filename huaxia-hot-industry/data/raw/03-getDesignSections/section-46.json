@@ -1,0 +1,234 @@
+{
+  "sectionIndex": 46,
+  "section": {
+    "id": "0:2100",
+    "name": "编组 58备份 2",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "effect_0:1025": {
+        "value": [
+          "box-shadow: 0px 1px 3px 0px #1C74BE;"
+        ]
+      },
+      "font_0:1007": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 15,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "font_0:1027": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 15,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "0.30000001192092896px"
+        }
+      },
+      "paint_0:1001": {
+        "value": []
+      },
+      "paint_0:1004": {
+        "value": [
+          "linear-gradient(175deg, #7FA8E8 -29%, #2C52AB 85%)"
+        ]
+      },
+      "paint_0:1016": {
+        "value": [
+          "linear-gradient(270deg, #78B7F1 0%, #088BF1 100%)"
+        ]
+      },
+      "paint_0:1019": {
+        "value": [
+          "linear-gradient(261deg, #80B8FA 1%, #4788F0 24%, #78B5FF 75%)"
+        ]
+      },
+      "paint_0:1022": {
+        "value": [
+          "#5498EA"
+        ]
+      },
+      "paint_0:446": {
+        "value": [
+          "rgba(255, 255, 255, 0.01)"
+        ]
+      },
+      "paint_0:68": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:999": {
+        "value": [
+          "linear-gradient(90deg, #F8FBFF 3%, #6EA0EE 17%, #A0C5FF 50%, #6A9AED 84%, rgba(255, 255, 255, 0.3621) 99%)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:2100",
+        "name": "编组 58备份 2",
+        "layoutStyle": {
+          "width": 228,
+          "height": 33,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "FRAME",
+            "id": "0:2101",
+            "name": "编组 53",
+            "layoutStyle": {
+              "width": 176,
+              "height": 28,
+              "relativeX": 52,
+              "relativeY": 3
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:2102",
+                "name": "矩形",
+                "layoutStyle": {
+                  "width": 176,
+                  "height": 28,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "opacity": 0.1599999964237213,
+                "fill": "paint_0:999",
+                "_color": "linear-gradient(90deg, #F8FBFF 3%, #6EA0EE 17%, #A0C5FF 50%, #6A9AED 84%, rgba(255, 255, 255, 0.3621) 99%)",
+                "strokeColor": "paint_0:1001",
+                "strokeType": "solid",
+                "strokeAlign": "inside",
+                "strokeWidth": "1px"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2103",
+                "name": "下游 - 应用市场",
+                "layoutStyle": {
+                  "width": 102,
+                  "height": 22,
+                  "relativeX": 37,
+                  "relativeY": 5
+                },
+                "fill": "paint_0:1004",
+                "_color": "linear-gradient(175deg, #7FA8E8 -29%, #2C52AB 85%)",
+                "text": [
+                  {
+                    "text": "下游 - 应用市场",
+                    "font": "font_0:1007"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 9,
+                    "color": "paint_0:1004"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              }
+            ]
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2104",
+            "name": "编组 57",
+            "layoutStyle": {
+              "width": 79,
+              "height": 33,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "FRAME",
+                "id": "0:2105",
+                "name": "编组 20",
+                "layoutStyle": {
+                  "width": 79,
+                  "height": 33,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "_mergedVector": true,
+                "svgKey": "S46:编组 58备份 2|0:2105",
+                "svgName": "编组 58备份 2"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2109",
+                "name": "需求源泉",
+                "layoutStyle": {
+                  "width": 61,
+                  "height": 22,
+                  "relativeX": 11,
+                  "relativeY": 7
+                },
+                "fill": "paint_0:446",
+                "_color": "rgba(255, 255, 255, 0.01)",
+                "effect": "effect_0:1025",
+                "text": [
+                  {
+                    "text": "需求源泉",
+                    "font": "font_0:1027"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:68"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "下游 - 应用市场",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 53"
+      },
+      {
+        "text": "需求源泉",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 57"
+      }
+    ],
+    "placeholderTexts": [
+      "下游 - 应用市场",
+      "需求源泉"
+    ]
+  },
+  "nodeCount": 7,
+  "svgNodeCount": 1,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 45/66. MISSING 21 sections: [44,45,47,48,49,50,51,52,53,54... +11 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

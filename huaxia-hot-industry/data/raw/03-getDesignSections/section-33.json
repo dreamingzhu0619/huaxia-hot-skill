@@ -1,0 +1,518 @@
+{
+  "sectionIndex": 33,
+  "section": {
+    "id": "0:1963",
+    "name": "编组 8",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "font_0:1250": {
+        "value": {
+          "family": "MiSans",
+          "size": 11.5,
+          "style": "Medium",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "0.9583333134651184px",
+          "weight": "500"
+        }
+      },
+      "paint_0:1052": {
+        "value": [
+          "linear-gradient(176deg, #FDFEFF 8%, #E0EFFF 53%, #D5E6FF 96%)"
+        ]
+      },
+      "paint_0:1054": {
+        "value": [
+          "#C1D9FF"
+        ]
+      },
+      "paint_0:1252": {
+        "value": [
+          "#3C63AC"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1963",
+        "name": "编组 8",
+        "layoutStyle": {
+          "width": 295,
+          "height": 36,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "GROUP",
+            "id": "0:1964",
+            "name": "编组 21",
+            "layoutStyle": {
+              "width": 43,
+              "height": 36,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "GROUP",
+                "id": "0:1965",
+                "name": "编组 7",
+                "layoutStyle": {
+                  "width": 43,
+                  "height": 36,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "FRAME",
+                    "id": "0:1966",
+                    "name": "编组 22",
+                    "layoutStyle": {
+                      "width": 43,
+                      "height": 36,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "children": [
+                      {
+                        "type": "LAYER",
+                        "id": "0:1967",
+                        "name": "矩形",
+                        "layoutStyle": {
+                          "width": 43,
+                          "height": 36,
+                          "relativeX": 0,
+                          "relativeY": 0
+                        },
+                        "borderRadius": "4px",
+                        "fill": "paint_0:1052",
+                        "_color": "linear-gradient(176deg, #FDFEFF 8%, #E0EFFF 53%, #D5E6FF 96%)",
+                        "strokeColor": "paint_0:1054",
+                        "strokeType": "solid",
+                        "strokeAlign": "inside",
+                        "strokeWidth": "0.5px"
+                      },
+                      {
+                        "type": "TEXT",
+                        "id": "0:1968",
+                        "name": "规格 设计",
+                        "layoutStyle": {
+                          "width": 24,
+                          "height": 26,
+                          "relativeX": 10,
+                          "relativeY": 5
+                        },
+                        "text": [
+                          {
+                            "text": "规格\n设计",
+                            "font": "font_0:1250"
+                          }
+                        ],
+                        "textColor": [
+                          {
+                            "start": 0,
+                            "end": 5,
+                            "color": "paint_0:1252"
+                          }
+                        ],
+                        "textAlign": "left",
+                        "textMode": "single-line",
+                        "_placeholder": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "GROUP",
+            "id": "0:1969",
+            "name": "编组 21备份",
+            "layoutStyle": {
+              "width": 43,
+              "height": 36,
+              "relativeX": 63,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "GROUP",
+                "id": "0:1970",
+                "name": "编组 7",
+                "layoutStyle": {
+                  "width": 43,
+                  "height": 36,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "FRAME",
+                    "id": "0:1971",
+                    "name": "编组 22",
+                    "layoutStyle": {
+                      "width": 43,
+                      "height": 36,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "children": [
+                      {
+                        "type": "LAYER",
+                        "id": "0:1972",
+                        "name": "矩形",
+                        "layoutStyle": {
+                          "width": 43,
+                          "height": 36,
+                          "relativeX": 0,
+                          "relativeY": 0
+                        },
+                        "borderRadius": "4px",
+                        "fill": "paint_0:1052",
+                        "_color": "linear-gradient(176deg, #FDFEFF 8%, #E0EFFF 53%, #D5E6FF 96%)",
+                        "strokeColor": "paint_0:1054",
+                        "strokeType": "solid",
+                        "strokeAlign": "inside",
+                        "strokeWidth": "0.5px"
+                      },
+                      {
+                        "type": "TEXT",
+                        "id": "0:1973",
+                        "name": "系统 设计",
+                        "layoutStyle": {
+                          "width": 24,
+                          "height": 26,
+                          "relativeX": 9,
+                          "relativeY": 5
+                        },
+                        "text": [
+                          {
+                            "text": "系统\n设计",
+                            "font": "font_0:1250"
+                          }
+                        ],
+                        "textColor": [
+                          {
+                            "start": 0,
+                            "end": 5,
+                            "color": "paint_0:1252"
+                          }
+                        ],
+                        "textAlign": "left",
+                        "textMode": "single-line",
+                        "_placeholder": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "GROUP",
+            "id": "0:1974",
+            "name": "编组 21备份 2",
+            "layoutStyle": {
+              "width": 43,
+              "height": 36,
+              "relativeX": 126,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "GROUP",
+                "id": "0:1975",
+                "name": "编组 7",
+                "layoutStyle": {
+                  "width": 43,
+                  "height": 36,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "FRAME",
+                    "id": "0:1976",
+                    "name": "编组 22",
+                    "layoutStyle": {
+                      "width": 43,
+                      "height": 36,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "children": [
+                      {
+                        "type": "LAYER",
+                        "id": "0:1977",
+                        "name": "矩形",
+                        "layoutStyle": {
+                          "width": 43,
+                          "height": 36,
+                          "relativeX": 0,
+                          "relativeY": 0
+                        },
+                        "borderRadius": "4px",
+                        "fill": "paint_0:1052",
+                        "_color": "linear-gradient(176deg, #FDFEFF 8%, #E0EFFF 53%, #D5E6FF 96%)",
+                        "strokeColor": "paint_0:1054",
+                        "strokeType": "solid",
+                        "strokeAlign": "inside",
+                        "strokeWidth": "0.5px"
+                      },
+                      {
+                        "type": "TEXT",
+                        "id": "0:1978",
+                        "name": "前端 设计",
+                        "layoutStyle": {
+                          "width": 24,
+                          "height": 26,
+                          "relativeX": 9,
+                          "relativeY": 5
+                        },
+                        "text": [
+                          {
+                            "text": "前端\n设计",
+                            "font": "font_0:1250"
+                          }
+                        ],
+                        "textColor": [
+                          {
+                            "start": 0,
+                            "end": 5,
+                            "color": "paint_0:1252"
+                          }
+                        ],
+                        "textAlign": "left",
+                        "textMode": "single-line",
+                        "_placeholder": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "GROUP",
+            "id": "0:1979",
+            "name": "编组 21备份 3",
+            "layoutStyle": {
+              "width": 43,
+              "height": 36,
+              "relativeX": 189,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "GROUP",
+                "id": "0:1980",
+                "name": "编组 7",
+                "layoutStyle": {
+                  "width": 43,
+                  "height": 36,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "FRAME",
+                    "id": "0:1981",
+                    "name": "编组 22",
+                    "layoutStyle": {
+                      "width": 43,
+                      "height": 36,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "children": [
+                      {
+                        "type": "LAYER",
+                        "id": "0:1982",
+                        "name": "矩形",
+                        "layoutStyle": {
+                          "width": 43,
+                          "height": 36,
+                          "relativeX": 0,
+                          "relativeY": 0
+                        },
+                        "borderRadius": "4px",
+                        "fill": "paint_0:1052",
+                        "_color": "linear-gradient(176deg, #FDFEFF 8%, #E0EFFF 53%, #D5E6FF 96%)",
+                        "strokeColor": "paint_0:1054",
+                        "strokeType": "solid",
+                        "strokeAlign": "inside",
+                        "strokeWidth": "0.5px"
+                      },
+                      {
+                        "type": "TEXT",
+                        "id": "0:1983",
+                        "name": "后端 设计",
+                        "layoutStyle": {
+                          "width": 24,
+                          "height": 26,
+                          "relativeX": 9,
+                          "relativeY": 5
+                        },
+                        "text": [
+                          {
+                            "text": "后端\n设计",
+                            "font": "font_0:1250"
+                          }
+                        ],
+                        "textColor": [
+                          {
+                            "start": 0,
+                            "end": 5,
+                            "color": "paint_0:1252"
+                          }
+                        ],
+                        "textAlign": "left",
+                        "textMode": "single-line",
+                        "_placeholder": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "GROUP",
+            "id": "0:1984",
+            "name": "编组 21备份 4",
+            "layoutStyle": {
+              "width": 43,
+              "height": 36,
+              "relativeX": 252,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "GROUP",
+                "id": "0:1985",
+                "name": "编组 7",
+                "layoutStyle": {
+                  "width": 43,
+                  "height": 36,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "FRAME",
+                    "id": "0:1986",
+                    "name": "编组 22",
+                    "layoutStyle": {
+                      "width": 43,
+                      "height": 36,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "children": [
+                      {
+                        "type": "LAYER",
+                        "id": "0:1987",
+                        "name": "矩形",
+                        "layoutStyle": {
+                          "width": 43,
+                          "height": 36,
+                          "relativeX": 0,
+                          "relativeY": 0
+                        },
+                        "borderRadius": "4px",
+                        "fill": "paint_0:1052",
+                        "_color": "linear-gradient(176deg, #FDFEFF 8%, #E0EFFF 53%, #D5E6FF 96%)",
+                        "strokeColor": "paint_0:1054",
+                        "strokeType": "solid",
+                        "strokeAlign": "inside",
+                        "strokeWidth": "0.5px"
+                      },
+                      {
+                        "type": "TEXT",
+                        "id": "0:1988",
+                        "name": "流片",
+                        "layoutStyle": {
+                          "width": 24,
+                          "height": 13,
+                          "relativeX": 9.5,
+                          "relativeY": 12
+                        },
+                        "text": [
+                          {
+                            "text": "流片",
+                            "font": "font_0:1250"
+                          }
+                        ],
+                        "textColor": [
+                          {
+                            "start": 0,
+                            "end": 2,
+                            "color": "paint_0:1252"
+                          }
+                        ],
+                        "textAlign": "left",
+                        "textMode": "single-line",
+                        "_placeholder": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "规格\n设计",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 22"
+      },
+      {
+        "text": "系统\n设计",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 22"
+      },
+      {
+        "text": "前端\n设计",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 22"
+      },
+      {
+        "text": "后端\n设计",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 22"
+      },
+      {
+        "text": "流片",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 22"
+      }
+    ],
+    "placeholderTexts": [
+      "规格\n设计",
+      "系统\n设计",
+      "前端\n设计",
+      "后端\n设计",
+      "流片"
+    ]
+  },
+  "nodeCount": 26,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 34/66. MISSING 32 sections: [34,35,36,37,38,39,40,41,42,43... +22 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

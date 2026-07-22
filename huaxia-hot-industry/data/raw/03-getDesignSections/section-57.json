@@ -1,0 +1,64 @@
+{
+  "sectionIndex": 57,
+  "section": {
+    "id": "0:2196",
+    "name": "编组备份 4",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 3,
+  "dsl": {
+    "styles": {
+      "paint_0:68": {
+        "value": [
+          "#FFFFFF"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:2196",
+        "name": "编组备份 4",
+        "layoutStyle": {
+          "width": 20,
+          "height": 20,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "PATH",
+            "id": "0:2197",
+            "name": "形状",
+            "layoutStyle": {
+              "width": 20,
+              "height": 20,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "path": []
+          },
+          {
+            "type": "PATH",
+            "id": "0:2203",
+            "name": "形状",
+            "layoutStyle": {
+              "width": 8.73813247680664,
+              "height": 6.347017765045166,
+              "relativeX": 5.6310811042785645,
+              "relativeY": 6.73995304107666
+            },
+            "svgKey": "S57:编组备份 4|0:2203",
+            "svgName": "编组备份 4"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 3,
+  "svgNodeCount": 1,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 59/66. MISSING 7 sections: [56,60,61,62,63,64,65]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

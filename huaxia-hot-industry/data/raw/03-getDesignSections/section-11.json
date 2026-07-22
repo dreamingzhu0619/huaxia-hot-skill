@@ -1,0 +1,170 @@
+{
+  "sectionIndex": 11,
+  "section": {
+    "id": "0:1767",
+    "name": "编组 41",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "effect_0:428": {
+        "value": []
+      },
+      "font_0:417": {
+        "value": {
+          "family": "MiSans",
+          "size": 13,
+          "style": "Bold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto",
+          "weight": "700"
+        }
+      },
+      "font_0:420": {
+        "value": {
+          "family": "MiSans",
+          "size": 11,
+          "style": "Medium",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto",
+          "weight": "500"
+        }
+      },
+      "paint_0:424": {
+        "value": [
+          "linear-gradient(180deg, rgba(60, 131, 242, 0.2) 9%, rgba(245, 251, 255, 0.2) 100%)"
+        ]
+      },
+      "paint_0:426": {
+        "value": [
+          "linear-gradient(180deg, #FFFFFF 0%, #D1DFFC 100%)"
+        ]
+      },
+      "paint_0:431": {
+        "value": [
+          "#4670C8"
+        ]
+      },
+      "paint_0:434": {
+        "value": [
+          "#859ED7"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1767",
+        "name": "编组 41",
+        "layoutStyle": {
+          "width": 157,
+          "height": 44,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "LAYER",
+            "id": "0:1768",
+            "name": "矩形备份 2",
+            "layoutStyle": {
+              "width": 157,
+              "height": 44,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "borderRadius": "8px",
+            "fill": "paint_0:424",
+            "_color": "linear-gradient(180deg, rgba(60, 131, 242, 0.2) 9%, rgba(245, 251, 255, 0.2) 100%)",
+            "strokeColor": "paint_0:426",
+            "strokeType": "solid",
+            "strokeAlign": "inside",
+            "strokeWidth": "1px",
+            "effect": "effect_0:428"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1769",
+            "name": "紧密跟踪",
+            "layoutStyle": {
+              "width": 52,
+              "height": 17,
+              "relativeX": 14,
+              "relativeY": 6
+            },
+            "text": [
+              {
+                "text": "紧密跟踪",
+                "font": "font_0:417"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 4,
+                "color": "paint_0:431"
+              }
+            ],
+            "textAlign": "right",
+            "textMode": "single-line",
+            "_placeholder": true
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1770",
+            "name": "被动复制 持仓透明",
+            "layoutStyle": {
+              "width": 92,
+              "height": 15,
+              "relativeX": 14,
+              "relativeY": 24
+            },
+            "text": [
+              {
+                "text": "被动复制 持仓透明",
+                "font": "font_0:420"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 9,
+                "color": "paint_0:434"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line",
+            "_placeholder": true
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "紧密跟踪",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 41"
+      },
+      {
+        "text": "被动复制 持仓透明",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 41"
+      }
+    ],
+    "placeholderTexts": [
+      "紧密跟踪",
+      "被动复制 持仓透明"
+    ]
+  },
+  "nodeCount": 4,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 9/66. MISSING 57 sections: [8,9,10,12,13,14,15,16,17,18... +47 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

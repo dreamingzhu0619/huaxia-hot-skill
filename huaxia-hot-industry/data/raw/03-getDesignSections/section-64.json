@@ -1,0 +1,72 @@
+{
+  "sectionIndex": 64,
+  "section": {
+    "id": "0:2263",
+    "name": "15112",
+    "type": "TEXT"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "font_0:1649": {
+        "value": {
+          "family": "MiSans",
+          "size": 11.5,
+          "style": "Demibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "-0.20000000298023224px",
+          "weight": "600"
+        }
+      },
+      "paint_0:179": {
+        "value": [
+          "#F23346"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:2263",
+        "name": "15112",
+        "layoutStyle": {
+          "width": 30,
+          "height": 15,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "15112",
+            "font": "font_0:1649"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 5,
+            "color": "paint_0:179"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line",
+        "_placeholder": true
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "15112",
+        "_placeholder": true
+      }
+    ],
+    "placeholderTexts": [
+      "15112"
+    ]
+  },
+  "nodeCount": 1,
+  "componentDocumentLinks": [],
+  "fetchProgress": "ALL 66 sections fetched. You can now generate the complete HTML."
+}

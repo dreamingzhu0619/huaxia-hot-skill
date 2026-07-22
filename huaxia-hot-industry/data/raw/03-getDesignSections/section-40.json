@@ -1,0 +1,168 @@
+{
+  "sectionIndex": 40,
+  "section": {
+    "id": "0:2029",
+    "name": "编组 27备份",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "font_0:1173": {
+        "value": {
+          "family": "MiSans",
+          "size": 13,
+          "style": "Semibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "auto",
+          "weight": "600"
+        }
+      },
+      "font_0:1354": {
+        "value": {
+          "family": "MiSans",
+          "size": 11,
+          "style": "Regular",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "14",
+          "letterSpacing": "-0.30000001192092896px",
+          "weight": "400"
+        }
+      },
+      "paint_0:10": {
+        "value": []
+      },
+      "paint_0:1170": {
+        "value": []
+      },
+      "paint_0:1184": {
+        "value": [
+          "#45536B"
+        ]
+      },
+      "paint_0:1198": {
+        "value": [
+          "#E94452"
+        ]
+      },
+      "paint_0:1201": {
+        "value": [
+          "#F44448"
+        ]
+      },
+      "paint_0:145": {
+        "value": [
+          "#3A3E45"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:2029",
+        "name": "编组 27备份",
+        "layoutStyle": {
+          "width": 311,
+          "height": 33,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "TEXT",
+            "id": "0:2030",
+            "name": "发展难点：",
+            "layoutStyle": {
+              "width": 65,
+              "height": 13,
+              "relativeX": 20,
+              "relativeY": 0
+            },
+            "fill": "paint_0:1170",
+            "text": [
+              {
+                "text": "发展难点：",
+                "font": "font_0:1173"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 5,
+                "color": "paint_0:145"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line",
+            "_placeholder": true
+          },
+          {
+            "type": "TEXT",
+            "id": "0:2031",
+            "name": "主要受制于光刻机、高端材料、核心零部件、",
+            "layoutStyle": {
+              "width": 311,
+              "height": 14,
+              "relativeX": 0,
+              "relativeY": 19
+            },
+            "text": [
+              {
+                "text": "主要受制于光刻机、高端材料、核心零部件、先进工艺四大瓶颈",
+                "font": "font_0:1354"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 28,
+                "color": "paint_0:1184"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "auto-height"
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2032",
+            "name": "编组 6",
+            "layoutStyle": {
+              "width": 11,
+              "height": 11,
+              "relativeX": 2,
+              "relativeY": 1
+            },
+            "_mergedVector": true,
+            "svgKey": "S40:编组 27备份|0:2032",
+            "svgName": "编组 27备份"
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "发展难点：",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 27备份"
+      },
+      {
+        "text": "主要受制于光刻机、高端材料、核心零部件、先进工艺四大瓶颈",
+        "parentType": "FRAME",
+        "parentName": "编组 27备份"
+      }
+    ],
+    "placeholderTexts": [
+      "发展难点："
+    ]
+  },
+  "nodeCount": 4,
+  "svgNodeCount": 1,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 41/66. MISSING 25 sections: [41,42,43,44,45,46,47,48,49,50... +15 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

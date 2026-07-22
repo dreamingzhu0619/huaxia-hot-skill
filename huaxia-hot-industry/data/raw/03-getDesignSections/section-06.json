@@ -1,0 +1,39 @@
+{
+  "sectionIndex": 6,
+  "section": {
+    "id": "0:1719",
+    "name": "矩形",
+    "type": "PATH"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "paint_0:827": {
+        "value": [
+          "linear-gradient(180deg, #D8E7FD 0%, #DFEBFE 100%)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "PATH",
+        "id": "0:1719",
+        "name": "矩形",
+        "layoutStyle": {
+          "width": 375,
+          "height": 110,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "svgKey": "S6:0:1719|0:1719",
+        "svgName": ""
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1,
+  "svgNodeCount": 1,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 6/66. MISSING 60 sections: [5,7,8,9,10,11,12,13,14,15... +50 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

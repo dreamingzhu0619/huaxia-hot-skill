@@ -1,0 +1,40 @@
+{
+  "sectionIndex": 3,
+  "section": {
+    "id": "0:1716",
+    "name": "6119285222",
+    "type": "LAYER"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "paint_1:3576": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/32bc444d08371c656d6a7c8001517ad6.png",
+            "filters": ""
+          }
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "LAYER",
+        "id": "0:1716",
+        "name": "6119285222",
+        "layoutStyle": {
+          "width": 269,
+          "height": 209,
+          "relativeX": 0,
+          "relativeY": 0,
+          "rotate": 20
+        },
+        "fill": "paint_1:3576"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 1/66. MISSING 65 sections: [0,1,2,4,5,6,7,8,9,10... +55 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

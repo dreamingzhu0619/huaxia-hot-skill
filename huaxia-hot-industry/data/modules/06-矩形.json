@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "moduleIndex": 6,
+    "moduleId": "0:1719",
+    "moduleName": "矩形",
+    "slug": "矩形",
+    "fileName": "06-矩形.json",
+    "position": {
+      "x": 0,
+      "y": 135,
+      "width": 375,
+      "height": 110
+    },
+    "nodeCount": 1,
+    "resolvedNodeCount": 1,
+    "textCount": 0,
+    "textsResolved": 0,
+    "sectionIndexes": [
+      6
+    ],
+    "styleCounts": {
+      "paints": 1,
+      "fonts": 0,
+      "effects": 0
+    },
+    "assetCounts": {
+      "bitmaps": 0,
+      "svgs": 0,
+      "d2cSvgIcons": 4,
+      "d2cExportImages": 2
+    },
+    "imageCount": 0,
+    "d2cMatched": true,
+    "d2cMatchDistance": 48.936,
+    "d2cNodeCssCount": 1,
+    "missingStyleRefs": []
+  },
+  "sections": [
+    {
+      "sectionIndex": 6,
+      "id": "0:1719",
+      "name": "矩形",
+      "type": "PATH",
+      "nodeCount": 1,
+      "x": 0,
+      "y": 135,
+      "width": 375,
+      "height": 110,
+      "structureSiblingCount": 1
+    }
+  ],
+  "assets": {
+    "bitmaps": [],
+    "svgs": {}
+  },
+  "node": {
+    "id": "0:1719",
+    "name": "矩形",
+    "type": "PATH",
+    "layoutStyle": {
+      "width": 375,
+      "height": 110,
+      "relativeX": 0,
+      "relativeY": 135,
+      "rotate": 0,
+      "rotateX": null
+    },
+    "bounds": {
+      "x": 0,
+      "y": 135,
+      "width": 375,
+      "height": 110
+    },
+    "opacity": null,
+    "fill": "linear-gradient(180deg, #D8E7FD 0%, #DFEBFE 100%)",
+    "effect": null,
+    "borderRadius": null,
+    "strokeAlign": null,
+    "strokeColor": null,
+    "strokeType": null,
+    "strokeWidth": null,
+    "mask": null,
+    "path": [
+      {
+        "data": "M-2.0874838e-13,135Q123.20457,157.14347800000002,188,157.14347800000002Q252.79543,157.14347800000002,375,135L375,245L0,245L-2.0874838e-13,135Z",
+        "fill": "linear-gradient(180deg, #D8E7FD 0%, #DFEBFE 100%)",
+        "transform": null
+      }
+    ],
+    "text": null,
+    "textRuns": null,
+    "textAlign": null,
+    "textMode": null,
+    "textColor": null,
+    "hasSvg": false,
+    "exportImage": null,
+    "styleRefs": null,
+    "componentDefinition": null,
+    "d2cCss": {
+      "-webkit-background-clip": null,
+      "-webkit-text-fill-color": null,
+      "background": null,
+      "background-clip": null,
+      "background-image": null,
+      "border": null,
+      "border-bottom-left-radius": null,
+      "border-radius": null,
+      "border-top-left-radius": null,
+      "bottom": "90.07%",
+      "box-shadow": null,
+      "color": null,
+      "filter": null,
+      "flex": "none",
+      "font-family": null,
+      "font-size": null,
+      "height": "114px",
+      "left": "3.2%",
+      "letter-spacing": null,
+      "line-height": null,
+      "mix-blend-mode": null,
+      "object-fit": null,
+      "opacity": null,
+      "overflow": null,
+      "position": "absolute",
+      "right": "3.2%",
+      "text-align": null,
+      "text-fill-color": null,
+      "text-shadow": null,
+      "top": "5.97%",
+      "transform": null,
+      "transform-origin": null,
+      "width": "351px",
+      "z-index": "17"
+    },
+    "d2cMatch": "img-src",
+    "sources": [
+      "getDsl",
+      "getD2c"
+    ],
+    "captureStatus": "complete",
+    "children": []
+  },
+  "d2c": {
+    "html": "<div\n        style=\"width: 351px; height: 114px; flex: none; position: absolute; left: 3.2%; right: 3.2%; top: 5.97%; bottom: 90.07%; z-index: 17\">\n        <div\n          style=\"width: 351px; height: 114px; flex: none; position: absolute; left: 0%; right: 0%; top: 0%; bottom: 0%; z-index: 0\">\n          <div\n            style=\"width: 351px; height: 114px; flex: none; position: absolute; left: 0%; right: 0%; top: 0%; bottom: 0%; z-index: 0\">\n            <div style=\"position: absolute; left: 0px; top: 0px; z-index: 0\">\n              <img src=\"./asset/icons/svg_a1293347.svg\" />\n            </div>\n            <p\n              style=\"width: 325px; color: #45536B; font-size: 11.5px; font-family: FZLTHJW--GB1; text-align: justify; line-height: 16px; letter-spacing: -0.2px; position: absolute; left: calc(100% - 351px + 12px); top: calc(100% - 114px + 41px); z-index: 1\">\n              SEMI报告显示，2026年Q1全球半导体设备销售额达365.5亿美元，同比增长14%，创单季历史新高。AI相关投资持续驱动先进逻辑、DRAM及先进封装产能扩张，半导体景气上行，产业链相关环节或迎布局机遇。\n            </p>\n            <p\n              style=\"color: #A1A9B3; font-size: 9px; font-family: FZLTHJW--GB1; text-align: justify; line-height: 9px; letter-spacing: -0.3px; position: absolute; left: calc(100% - 351px + 135px); top: calc(100% - 114px + 94px); z-index: 2\">\n              资料来源：财联社，发布于2026.06.14\n            </p>\n            <p\n              style=\"color: #2E3D65; font-size: 13.5px; font-family: MiSans; text-align: justify; font-weight: 600; line-height: 15px; letter-spacing: -0.3px; position: absolute; left: calc(100% - 351px + 103px); top: calc(100% - 114px + 15px); z-index: 3\">\n              365亿美元！半导体设备销售创新高\n            </p>\n            <div\n              style=\"position: absolute; left: 2.56%; right: 72.65%; top: 8.77%; bottom: 71.05%; z-index: 4\">\n              <img src=\"./asset/icons/svg_ee3f257e.svg\" />\n            </div>\n          </div>\n          <img\n            src=\"./asset/images/6eb5228a1001f3f9c31dee65e93780d8.png\"\n            title=\"位图\"\n            style=\"flex: none; box-shadow: 0px 1px 2px 0px rgba(225,28,42,0.5); position: absolute; left: 8.83%; right: 75.5%; top: 13.53%; bottom: 75.07%; z-index: 1; width: 55px; height: 13px; object-fit: cover\" />\n          <div\n            style=\"width: 14px; height: 17px; flex: none; position: absolute; left: 4.27%; right: 91.74%; top: 11.4%; bottom: 73.68%; z-index: 2\">\n            <div\n              style=\"position: absolute; left: 28.57%; right: 7.14%; top: 88.24%; bottom: 0%; z-index: 0\">\n              <img src=\"./asset/icons/svg_ede85815.svg\" />\n            </div>\n            <img\n              src=\"./asset/images/3522dfd6989b919c5d99934fb0ecd748.png\"\n              title=\"位图\"\n              style=\"flex: none; position: absolute; left: 0%; right: 0%; top: 0%; bottom: 5.88%; z-index: 1; width: 14px; height: 16px; object-fit: cover\" />\n          </div>\n        </div>\n        <div\n          style=\"position: absolute; left: 89.17%; right: 0%; top: 100%; bottom: -21.05%; z-index: 1\">\n          <img src=\"./asset/icons/svg_169e0a9f.svg\" />\n        </div>\n      </div>",
+    "svgIcons": {
+      "svg_169e0a9f.svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"none\" version=\"1.1\" width=\"38\" height=\"24\" viewBox=\"0 0 70 56\"><defs><filter id=\"master_svg0_0_2281\" filterUnits=\"objectBoundingBox\" color-interpolation-filters=\"sRGB\" x=\"-0.4473684210526316\" y=\"-0.5833333333333334\" width=\"1.8421052631578947\" height=\"2.3333333333333335\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feOffset dy=\"2\" dx=\"-1\"/><feGaussianBlur stdDeviation=\"4\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 0.6390873789787292 0 0 0 0 0.7505549788475037 0 0 0 0 0.9833843111991882 0 0 0 0.4000000059604645 0\"/><feBlend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow\"/><feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow\" result=\"shape\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" result=\"hardAlpha\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feOffset dy=\"2\" dx=\"1\"/><feGaussianBlur stdDeviation=\"1\"/><feComposite in2=\"hardAlpha\" operator=\"arithmetic\" k2=\"-1\" k3=\"1\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0\"/><feBlend mode=\"normal\" in2=\"shape\" result=\"effect2_innerShadow\"/></filter><linearGradient x1=\"0.6692492365837097\" y1=\"0.5\" x2=\"0.4836385458899955\" y2=\"0.6633581479441009\" id=\"master_svg1_0_1704\"><stop offset=\"0%\" stop-color=\"#CAD7FF\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\"/></linearGradient></defs><path d=\"M21.9853172,43.2726912L50.878948,59.053551C53.419586,60.441174000000004,55,63.105118000000004,55,66Q52.838745,61.346327,50.586277,62.331829C48.333813,63.317330999999996,41.943598,67.069233,39.093229,65.222271C37.68067,64.306971,34.172421,56.897793,27.354053,49.0843301Q23.9153509,45.1437738,16.999999999999215,42.0000000000002C18.7421367,41.99999999999998,20.4563637,42.43762141,21.9853172,43.2726912\" fill-rule=\"evenodd\" fill=\"url(#master_svg1_0_1704)\" fill-opacity=\"1\" transform=\"matrix(1,0,0,-1,0,84)\" filter=\"url(#master_svg0_0_2281)\"/></svg>",
+      "svg_a1293347.svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"none\" version=\"1.1\" width=\"351\" height=\"114\" viewBox=\"0 0 351 114\"><defs><filter id=\"master_svg0_0_2267\" filterUnits=\"objectBoundingBox\" color-interpolation-filters=\"sRGB\" x=\"0\" y=\"0\" width=\"1\" height=\"1\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"BackgroundImageFix\" result=\"shape\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" result=\"hardAlpha\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feOffset dy=\"1\" dx=\"1\"/><feGaussianBlur stdDeviation=\"1\"/><feComposite in2=\"hardAlpha\" operator=\"arithmetic\" k2=\"-1\" k3=\"1\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.9555015563964844 0\"/><feBlend mode=\"normal\" in2=\"shape\" result=\"effect1_innerShadow\"/></filter><clipPath id=\"bgblur_master_svg1_0_2267_clip_path\"><rect x=\"0\" y=\"0\" width=\"351\" height=\"114\"/></clipPath><linearGradient x1=\"0.5\" y1=\"-2.5153490401663703e-17\" x2=\"0.5\" y2=\"1\" id=\"master_svg2_0_1660\"><stop offset=\"0%\" stop-color=\"#EFF6FF\" stop-opacity=\"0.10000000149011612\"/><stop offset=\"25.560414791107178%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.949999988079071\"/><stop offset=\"100%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.800000011920929\"/></linearGradient><linearGradient x1=\"0.5\" y1=\"-2.5153490401663703e-17\" x2=\"0.5\" y2=\"1\" id=\"master_svg3_0_1661\"><stop offset=\"0%\" stop-color=\"#EFF6FF\" stop-opacity=\"0.10000000149011612\"/><stop offset=\"25.560414791107178%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.949999988079071\"/><stop offset=\"100%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.800000011920929\"/></linearGradient></defs><g filter=\"url(#master_svg0_0_2267)\"><foreignObject x=\"0\" y=\"0\" width=\"351\" height=\"114\"><div xmlns=\"http://www.w3.org/1999/xhtml\" style=\"backdrop-filter:blur(4.079999923706055px);-webkit-backdrop-filter:blur(4.079999923706055px);clip-path:url(#bgblur_master_svg1_0_2267_clip_path);height:100%;width:100%\"></div></foreignObject><path d=\"M338.19998,0L12.800002,0C8.3195744,0,6.0287142,0.00906986,4.3235397,0.89294559C2.8558278,1.6537329,1.6537329,2.8558278,0.89294559,4.3235397C0.00906986,6.0287142,0,8.3195744,0,12.800003L0,101.2C0,105.68043,0.0090700388,107.97128,0.89294559,109.67646C1.6537329,111.14417,2.8558278,112.34627,4.3235397,113.10706C6.0287137,113.99093,8.3195744,114,12.800001,114L314.68793,114Q342.82776,97.770874,346.91388,95.344498Q351,92.918121,351,91.040977L351,12.800001C351,8.3195744,350.99094,6.0287066,350.10706,4.3235397C349.34625,2.8558278,348.14417,1.6537329,346.67645,0.89294559C344.97128,0.0090700388,342.68042,0,338.19998,0ZM12.459259,11.5C12.459259,10.119288,11.339972,9,9.959259,9C8.5785475,9,7.459259,10.119288,7.459259,11.5L7.459259,32.5C7.459259,33.880714,8.5785475,35,9.959259,35C11.339972,35,12.459259,33.880714,12.459259,32.5L12.459259,11.5Z\" fill-rule=\"evenodd\" fill=\"url(#master_svg2_0_1660)\" fill-opacity=\"1\"/><path d=\"M338.19998,0L12.800002,0C8.3195744,0,6.0287142,0.00906986,4.3235397,0.89294559C2.8558278,1.6537329,1.6537329,2.8558278,0.89294559,4.3235397C0.00906986,6.0287142,0,8.3195744,0,12.800003L0,101.2C0,105.68043,0.0090700388,107.97128,0.89294559,109.67646C1.6537329,111.14417,2.8558278,112.34627,4.3235397,113.10706C6.0287137,113.99093,8.3195744,114,12.800001,114L314.68793,114Q342.82776,97.770874,346.91388,95.344498Q351,92.918121,351,91.040977L351,12.800001C351,8.3195744,350.99094,6.0287066,350.10706,4.3235397C349.34625,2.8558278,348.14417,1.6537329,346.67645,0.89294559C344.97128,0.0090700388,342.68042,0,338.19998,0ZM12.459259,11.5C12.459259,10.119288,11.339972,9,9.959259,9C8.5785475,9,7.459259,10.119288,7.459259,11.5L7.459259,32.5C7.459259,33.880714,8.5785475,35,9.959259,35C11.339972,35,12.459259,33.880714,12.459259,32.5L12.459259,11.5Z\" fill-rule=\"evenodd\" fill=\"url(#master_svg3_0_1661)\" fill-opacity=\"1\"/><path d=\"M12.800002,0L338.19998,0C342.68042,0,344.97128,0.0090700388,346.67645,0.89294559C348.14417,1.6537329,349.34622,2.8558278,350.10706,4.3235397C350.99094,6.0287066,351,8.3195744,351,12.800001L351,91.04097Q351,92.918121,346.91385,95.344498Q342.82773,97.770866,314.68793,114L12.800001,114C8.3195744,114,6.0287132,113.99092,4.3235397,113.10706C2.8558278,112.34626,1.6537329,111.14417,0.89294559,109.67646C0.0090700388,107.97128,0,105.68043,0,101.2L0,12.800003C0,8.3195744,0.00906986,6.0287137,0.89294559,4.3235397C1.6537329,2.8558278,2.8558278,1.6537329,4.3235397,0.89294559C6.0287137,0.00906986,8.3195744,0,12.800002,0ZM314.49991,113.3L346.56314,94.738678Q350.29999,92.519669,350.29999,91.04097L350.29999,12.800001Q350.29999,8.9231901,350.18741,7.5794835Q350.02957,5.6951423,349.48557,4.6456814Q348.41653,2.5833755,346.35431,1.5144167Q345.30487,0.97043586,343.4205,0.812576Q342.07666,0.69999993,338.19998,0.69999999L12.800002,0.69999999Q8.9233017,0.69999999,7.5794873,0.81257594Q5.6951284,0.97043508,4.645678,1.5144167Q2.5833986,2.5833981,1.5144174,4.6456785Q0.97043496,5.6951289,0.81257588,7.5794873Q0.69999981,8.9233046,0.69999981,12.800003L0.69999999,101.2Q0.69999999,105.07669,0.812576,106.42051Q0.97043568,108.30487,1.5144167,109.35432Q2.5833929,111.41659,4.6456795,112.48558Q5.6951232,113.02956,7.5794873,113.18742Q8.9233418,113.3,12.800001,113.3L314.49991,113.3ZM13.159259,32.5L13.159259,11.5Q13.159259,10.174517,12.222,9.237258Q11.284741,8.2999992,9.959259,8.2999992Q8.6337748,8.2999992,7.696517,9.237258Q6.7592592,10.174517,6.7592602,11.500001L6.7592587,32.5Q6.7592587,33.825485,7.696517,34.762745Q8.6337738,35.700001,9.959259,35.700001Q11.284743,35.700001,12.222,34.762745Q13.159259,33.825485,13.159259,32.5ZM9.959259,9C11.339972,9,12.459259,10.119288,12.459259,11.5L12.459259,32.5C12.459259,33.880714,11.339972,35,9.959259,35C8.5785475,35,7.459259,33.880714,7.459259,32.5L7.459259,11.5C7.459259,10.119288,8.5785475,9,9.959259,9Z\" fill-rule=\"evenodd\" fill=\"#FFFFFF\" fill-opacity=\"0.800000011920929\"/></g></svg>",
+      "svg_ede85815.svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"none\" version=\"1.1\" width=\"9\" height=\"2\" viewBox=\"0 0 9 2\"><ellipse cx=\"4.5\" cy=\"1\" rx=\"4.5\" ry=\"1\" fill=\"#E41F0E\" fill-opacity=\"1\"/></svg>",
+      "svg_ee3f257e.svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"none\" version=\"1.1\" width=\"87\" height=\"23\" viewBox=\"0 0 87 23\"><defs><filter id=\"master_svg0_0_2276\" filterUnits=\"objectBoundingBox\" color-interpolation-filters=\"sRGB\" x=\"0\" y=\"0\" width=\"1\" height=\"1\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"BackgroundImageFix\" result=\"shape\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" result=\"hardAlpha\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feOffset dy=\"1\" dx=\"0\"/><feGaussianBlur stdDeviation=\"1.5\"/><feComposite in2=\"hardAlpha\" operator=\"arithmetic\" k2=\"-1\" k3=\"1\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 1 0 0 0 0 0.9675249457359314 0 0 0 0 0.9287347793579102 0 0 0 0.8492133021354675 0\"/><feBlend mode=\"normal\" in2=\"shape\" result=\"effect1_innerShadow\"/></filter><linearGradient x1=\"1.0495431423187256\" y1=\"0.4915525019168854\" x2=\"-0.005605446174740791\" y2=\"0.4915525019168854\" id=\"master_svg1_0_1687\"><stop offset=\"0%\" stop-color=\"#FFE5D8\" stop-opacity=\"1\"/><stop offset=\"21.01803869009018%\" stop-color=\"#F74545\" stop-opacity=\"1\"/><stop offset=\"77.45654582977295%\" stop-color=\"#F85845\" stop-opacity=\"1\"/><stop offset=\"94.37187910079956%\" stop-color=\"#FE9271\" stop-opacity=\"1\"/><stop offset=\"97.91861176490784%\" stop-color=\"#FFEBE3\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\"/></linearGradient></defs><path d=\"M4.8000007,-1.4571062e-14L77.044586,-2.3387943e-13C78.480415,-2.3823809e-13,79.207451,0.0013408661,79.840744,0.22148675C80.394783,0.41408125,80.900299,0.72650683,81.320335,1.1359231C81.800461,1.6039078,82.126793,2.2535861,82.768913,3.5378332L86.252235,10.504475C86.525917,11.051831,86.663742,11.328393,86.713875,11.614967C86.757904,11.866654,86.753296,12.124619,86.700317,12.374575C86.639992,12.659179,86.492371,12.930642,86.199333,13.467884L82.819283,19.664654C82.157448,20.878017,81.821518,21.491392,81.346085,21.932384C80.929733,22.318577,80.435425,22.612017,79.897018,22.792603C79.282211,22.998814,78.58287,23,77.200745,23L4.8000031,23C3.1198406,23,2.2607679,22.996599,1.6213276,22.665146C1.0709356,22.37985,0.62014997,21.929066,0.33485466,21.378674C0.0034012794,20.739233,0,19.880159,0,18.199999L0,4.8000002C0,3.1198406,0.00340119,2.2607675,0.33485466,1.6213273C0.62014997,1.0709354,1.0709356,0.62014979,1.6213276,0.33485454C2.2607679,0.0034011602,3.1198406,-9.4707059e-15,4.8000007,-1.4571062e-14\" fill-rule=\"evenodd\" fill=\"url(#master_svg1_0_1687)\" fill-opacity=\"1\" filter=\"url(#master_svg0_0_2276)\"/></svg>"
+    },
+    "exportImages": {
+      "6eb5228a1001f3f9c31dee65e93780d8.png": "https://image-resource.mastergo.com/158383838066578/194424914768480/6eb5228a1001f3f9c31dee65e93780d8.png",
+      "3522dfd6989b919c5d99934fb0ecd748.png": "https://image-resource.mastergo.com/158383838066578/194424914768480/3522dfd6989b919c5d99934fb0ecd748.png"
+    }
+  }
+}

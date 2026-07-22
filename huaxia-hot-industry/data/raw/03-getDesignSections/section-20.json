@@ -1,0 +1,73 @@
+{
+  "sectionIndex": 20,
+  "section": {
+    "id": "0:1857",
+    "name": "半导体是什么？",
+    "type": "TEXT"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "font_0:1007": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 15,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "paint_0:1004": {
+        "value": [
+          "linear-gradient(175deg, #7FA8E8 -27%, #2C52AB 84%)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:1857",
+        "name": "半导体是什么？",
+        "layoutStyle": {
+          "width": 105,
+          "height": 22,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "fill": "paint_0:1004",
+        "_color": "linear-gradient(175deg, #7FA8E8 -27%, #2C52AB 84%)",
+        "text": [
+          {
+            "text": "半导体是什么？",
+            "font": "font_0:1007"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 7,
+            "color": "paint_0:1004"
+          }
+        ],
+        "textAlign": "center",
+        "textMode": "single-line",
+        "_placeholder": true
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "半导体是什么？",
+        "_placeholder": true
+      }
+    ],
+    "placeholderTexts": [
+      "半导体是什么？"
+    ]
+  },
+  "nodeCount": 1,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 21/66. MISSING 45 sections: [21,22,23,24,25,26,27,28,29,30... +35 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

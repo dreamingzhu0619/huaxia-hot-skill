@@ -1,0 +1,210 @@
+{
+  "sectionIndex": 29,
+  "section": {
+    "id": "0:1950",
+    "name": "编组 25",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "effect_0:1161": {
+        "value": [
+          "box-shadow: inset 0px 1px 3px 0px rgba(255, 247, 237, 0.8492);"
+        ]
+      },
+      "effect_0:1192": {
+        "value": [
+          "box-shadow: 0px 1px 3px 0px rgba(164, 78, 35, 0.6818);"
+        ]
+      },
+      "font_0:1148": {
+        "value": {
+          "family": "MiSans",
+          "size": 12.5,
+          "style": "Demibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "auto",
+          "weight": "600"
+        }
+      },
+      "font_0:1194": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 13,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "auto"
+        }
+      },
+      "paint_0:10": {
+        "value": []
+      },
+      "paint_0:1141": {
+        "value": [
+          "linear-gradient(270deg, #FFFAF1 0%, #FFF6E5 38%, #FFE8BE 99%)"
+        ]
+      },
+      "paint_0:1145": {
+        "value": []
+      },
+      "paint_0:1150": {
+        "value": [
+          "#864217"
+        ]
+      },
+      "paint_0:1153": {
+        "value": [
+          "linear-gradient(270deg, #FFDBA6 -7%, #EEB977 11%, #E5A656 38%, #E2AF68 82%, #FFFAF3 95%, #FFEDCB 104%)"
+        ]
+      },
+      "paint_0:1159": {
+        "value": [
+          "linear-gradient(265deg, #FFFFFF 9%, rgba(255, 255, 255, 0.5919) 105%)"
+        ]
+      },
+      "paint_0:446": {
+        "value": [
+          "rgba(255, 255, 255, 0.01)"
+        ]
+      },
+      "paint_0:68": {
+        "value": [
+          "#FFFFFF"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1950",
+        "name": "编组 25",
+        "layoutStyle": {
+          "width": 324,
+          "height": 41,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "LAYER",
+            "id": "0:1951",
+            "name": "矩形",
+            "layoutStyle": {
+              "width": 269,
+              "height": 27,
+              "relativeX": 55,
+              "relativeY": 0
+            },
+            "fill": "paint_0:1141",
+            "_color": "linear-gradient(270deg, #FFFAF1 0%, #FFF6E5 38%, #FFE8BE 99%)",
+            "strokeColor": "paint_0:10",
+            "strokeType": "solid",
+            "strokeAlign": "inside",
+            "strokeWidth": "1px"
+          },
+          {
+            "type": "PATH",
+            "id": "0:1952",
+            "name": "矩形备份 22",
+            "layoutStyle": {
+              "width": 82.00236511230469,
+              "height": 41,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "effect": "effect_0:1161",
+            "svgKey": "S29:编组 25|0:1952",
+            "svgName": "编组 25"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1953",
+            "name": "芯片设计",
+            "layoutStyle": {
+              "width": 52,
+              "height": 13,
+              "relativeX": 14,
+              "relativeY": 9
+            },
+            "fill": "paint_0:446",
+            "_color": "rgba(255, 255, 255, 0.01)",
+            "effect": "effect_0:1192",
+            "text": [
+              {
+                "text": "芯片设计",
+                "font": "font_0:1194"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 4,
+                "color": "paint_0:68"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line",
+            "_placeholder": true
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1954",
+            "name": "绘制能给工厂造芯片的\"精密蓝图\"",
+            "layoutStyle": {
+              "width": 186,
+              "height": 13,
+              "relativeX": 90,
+              "relativeY": 8
+            },
+            "fill": "paint_0:1145",
+            "text": [
+              {
+                "text": "绘制能给工厂造芯片的\"精密蓝图\"",
+                "font": "font_0:1148"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 16,
+                "color": "paint_0:1150"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line",
+            "_placeholder": true
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "芯片设计",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 25"
+      },
+      {
+        "text": "绘制能给工厂造芯片的\"精密蓝图\"",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 25"
+      }
+    ],
+    "placeholderTexts": [
+      "芯片设计",
+      "绘制能给工厂造芯片的\"精密蓝图\""
+    ]
+  },
+  "nodeCount": 5,
+  "svgNodeCount": 1,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 31/66. MISSING 35 sections: [31,32,33,34,35,36,37,38,39,40... +25 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

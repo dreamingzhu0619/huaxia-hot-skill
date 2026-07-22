@@ -1,0 +1,82 @@
+{
+  "sectionIndex": 59,
+  "section": {
+    "id": "0:2216",
+    "name": "编组 62",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "font_0:1571": {
+        "value": {
+          "family": "MiSans",
+          "size": 9,
+          "style": "Regular",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "11",
+          "letterSpacing": "-0.30000001192092896px",
+          "weight": "400"
+        }
+      },
+      "paint_0:1573": {
+        "value": [
+          "#A1A9B3"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:2216",
+        "name": "编组 62",
+        "layoutStyle": {
+          "width": 319,
+          "height": 22,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "TEXT",
+            "id": "0:2217",
+            "name": "数据来源：WSTS春季预测，截至2026",
+            "layoutStyle": {
+              "width": 319,
+              "height": 22,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "text": [
+              {
+                "text": "T59|0:2217",
+                "font": "font_0:1571"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 77,
+                "color": "paint_0:1573"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "auto-height"
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "数据来源：WSTS春季预测，截至20260602。其中2026年存储芯片规模预计增长约3.5倍至8039亿美元，逻辑芯片预计增长37.3%至4113亿美元",
+        "parentType": "FRAME",
+        "parentName": "编组 62"
+      }
+    ]
+  },
+  "nodeCount": 2,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 57/66. MISSING 9 sections: [56,57,58,60,61,62,63,64,65]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

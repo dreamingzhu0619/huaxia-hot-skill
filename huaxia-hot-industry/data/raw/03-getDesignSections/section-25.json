@@ -1,0 +1,1090 @@
+{
+  "sectionIndex": 25,
+  "section": {
+    "id": "0:1912",
+    "name": "编组 59",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "effect_0:1161": {
+        "value": [
+          "box-shadow: inset 0px 1px 3px 0px rgba(255, 247, 237, 0.8492);"
+        ]
+      },
+      "effect_0:1192": {
+        "value": [
+          "box-shadow: 0px 1px 3px 0px rgba(164, 78, 35, 0.6818);"
+        ]
+      },
+      "effect_0:1220": {
+        "value": []
+      },
+      "effect_0:1233": {
+        "value": [
+          "filter: blur(2.13px);"
+        ]
+      },
+      "font_0:1148": {
+        "value": {
+          "family": "MiSans",
+          "size": 12.5,
+          "style": "Demibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "auto",
+          "weight": "600"
+        }
+      },
+      "font_0:1173": {
+        "value": {
+          "family": "MiSans",
+          "size": 13,
+          "style": "Semibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "auto",
+          "weight": "600"
+        }
+      },
+      "font_0:1176": {
+        "value": {
+          "family": "MiSans",
+          "size": 11.5,
+          "style": "Regular",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "12",
+          "letterSpacing": "auto",
+          "weight": "400"
+        }
+      },
+      "font_0:1178": {
+        "value": {
+          "family": "MiSans",
+          "size": 16,
+          "style": "Semibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "12",
+          "letterSpacing": "auto",
+          "weight": "600"
+        }
+      },
+      "font_0:1180": {
+        "value": {
+          "family": "MiSans",
+          "size": 11.5,
+          "style": "Semibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "12",
+          "letterSpacing": "auto",
+          "weight": "600"
+        }
+      },
+      "font_0:1182": {
+        "value": {
+          "family": "MiSans",
+          "size": 11.5,
+          "style": "Demibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "12",
+          "letterSpacing": "auto",
+          "weight": "600"
+        }
+      },
+      "font_0:1187": {
+        "value": {
+          "family": "MiSans",
+          "size": 8,
+          "style": "Regular",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "9",
+          "letterSpacing": "auto",
+          "weight": "400"
+        }
+      },
+      "font_0:1194": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 13,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "auto"
+        }
+      },
+      "font_0:1205": {
+        "value": {
+          "family": "MiSans",
+          "size": 11.5,
+          "style": "Regular",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "12",
+          "letterSpacing": "-0.20000000298023224px",
+          "weight": "400"
+        }
+      },
+      "font_0:1207": {
+        "value": {
+          "family": "MiSans",
+          "size": 16,
+          "style": "Semibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "12",
+          "letterSpacing": "-0.2133333384990692px",
+          "weight": "600"
+        }
+      },
+      "font_0:1209": {
+        "value": {
+          "family": "MiSans",
+          "size": 11.5,
+          "style": "Semibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "12",
+          "letterSpacing": "-0.15333333611488342px",
+          "weight": "600"
+        }
+      },
+      "font_0:1211": {
+        "value": {
+          "family": "MiSans",
+          "size": 11.5,
+          "style": "Demibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "12",
+          "letterSpacing": "-0.20000000298023224px",
+          "weight": "600"
+        }
+      },
+      "font_0:1223": {
+        "value": {
+          "family": "MiSans",
+          "size": 11,
+          "style": "Medium",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "12",
+          "letterSpacing": "-0.4000000059604645px",
+          "weight": "500"
+        }
+      },
+      "font_0:1225": {
+        "value": {
+          "family": "MiSans",
+          "size": 11,
+          "style": "Demibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "12",
+          "letterSpacing": "-0.4000000059604645px",
+          "weight": "600"
+        }
+      },
+      "paint_0:10": {
+        "value": []
+      },
+      "paint_0:1092": {
+        "value": [
+          "linear-gradient(143deg, #5388CC 41%, rgba(162, 226, 248, 0) 72%)"
+        ]
+      },
+      "paint_0:1133": {
+        "value": [
+          "linear-gradient(4deg, #FFFFFF 25%, #EEF8FF 70%, #D2E4FF 145%)"
+        ]
+      },
+      "paint_0:1136": {
+        "value": [
+          "linear-gradient(352deg, #F3F8FF 17%, #FBFDFF 39%, #FFFFFF 77%, #FFF7E8 83%)"
+        ]
+      },
+      "paint_0:1138": {
+        "value": [
+          "linear-gradient(180deg, rgba(255, 255, 255, 0.0634) 4%, #DEEBFF 100%)"
+        ]
+      },
+      "paint_0:1141": {
+        "value": [
+          "linear-gradient(270deg, #FFFAF1 0%, #FFF6E5 38%, #FFE8BE 99%)"
+        ]
+      },
+      "paint_0:1145": {
+        "value": []
+      },
+      "paint_0:1150": {
+        "value": [
+          "#864217"
+        ]
+      },
+      "paint_0:1153": {
+        "value": [
+          "linear-gradient(270deg, #FFDBA6 -7%, #EEB977 11%, #E5A656 38%, #E2AF68 82%, #FFFAF3 95%, #FFEDCB 104%)"
+        ]
+      },
+      "paint_0:1159": {
+        "value": [
+          "linear-gradient(266deg, #FFFFFF 8%, rgba(255, 255, 255, 0.5919) 106%)"
+        ]
+      },
+      "paint_0:1170": {
+        "value": []
+      },
+      "paint_0:1184": {
+        "value": [
+          "#45536B"
+        ]
+      },
+      "paint_0:1189": {
+        "value": [
+          "#3A4756"
+        ]
+      },
+      "paint_0:1198": {
+        "value": [
+          "#E94452"
+        ]
+      },
+      "paint_0:1201": {
+        "value": [
+          "#F44448"
+        ]
+      },
+      "paint_0:1216": {
+        "value": [
+          "linear-gradient(257deg, #BAD7FF -16%, rgba(181, 224, 255, 0.3994) 61%, rgba(255, 255, 255, 0) 95%)"
+        ]
+      },
+      "paint_0:1218": {
+        "value": [
+          "linear-gradient(270deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 92%)"
+        ]
+      },
+      "paint_0:1227": {
+        "value": [
+          "#2352A0"
+        ]
+      },
+      "paint_0:1229": {
+        "value": [
+          "#F32B4E"
+        ]
+      },
+      "paint_0:145": {
+        "value": [
+          "#3A3E45"
+        ]
+      },
+      "paint_0:179": {
+        "value": [
+          "#F23346"
+        ]
+      },
+      "paint_0:446": {
+        "value": [
+          "rgba(255, 255, 255, 0.01)"
+        ]
+      },
+      "paint_0:68": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_1:4182": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/efacb2d4f3f59d47d689c8a288be365e.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:4256": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/82e4645d2a6c2dcef0a13738a27a7336.png",
+            "filters": ""
+          }
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1912",
+        "name": "编组 59",
+        "layoutStyle": {
+          "width": 347,
+          "height": 243,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "FRAME",
+            "id": "0:1913",
+            "name": "编组 35",
+            "layoutStyle": {
+              "width": 347,
+              "height": 243,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:1914",
+                "name": "矩形备份 4",
+                "layoutStyle": {
+                  "width": 347,
+                  "height": 119,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "borderRadius": "12px",
+                "fill": "paint_0:1133",
+                "_color": "linear-gradient(4deg, #FFFFFF 25%, #EEF8FF 70%, #D2E4FF 145%)",
+                "strokeColor": "paint_0:68",
+                "strokeType": "solid",
+                "strokeAlign": "inside",
+                "strokeWidth": "1px"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:1915",
+                "name": "矩形备份 15",
+                "layoutStyle": {
+                  "width": 323,
+                  "height": 80,
+                  "relativeX": 12,
+                  "relativeY": 65
+                },
+                "borderRadius": "8px",
+                "fill": "paint_0:1136",
+                "_color": "linear-gradient(352deg, #F3F8FF 17%, #FBFDFF 39%, #FFFFFF 77%, #FFF7E8 83%)",
+                "strokeColor": "paint_0:1138",
+                "strokeType": "solid",
+                "strokeAlign": "inside",
+                "strokeWidth": "0.5px"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:1916",
+                "name": "矩形备份 28",
+                "layoutStyle": {
+                  "width": 244,
+                  "height": 27,
+                  "relativeX": 67,
+                  "relativeY": 55
+                },
+                "fill": "paint_0:1141",
+                "_color": "linear-gradient(270deg, #FFFAF1 0%, #FFF6E5 38%, #FFE8BE 99%)",
+                "strokeColor": "paint_0:10",
+                "strokeType": "solid",
+                "strokeAlign": "inside",
+                "strokeWidth": "1px"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:1917",
+                "name": "技术垄断带来超高利润",
+                "layoutStyle": {
+                  "width": 125,
+                  "height": 13,
+                  "relativeX": 111,
+                  "relativeY": 63
+                },
+                "fill": "paint_0:1145",
+                "text": [
+                  {
+                    "text": "技术垄断带来超高利润",
+                    "font": "font_0:1148"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 10,
+                    "color": "paint_0:1150"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              },
+              {
+                "type": "PATH",
+                "id": "0:1918",
+                "name": "矩形备份 5",
+                "layoutStyle": {
+                  "width": 93.32366943359375,
+                  "height": 41,
+                  "relativeX": 12,
+                  "relativeY": 54
+                },
+                "effect": "effect_0:1161",
+                "path": [
+                  {
+                    "fill": "url(#grad_paint_0_1153)",
+                    "data": "",
+                    "fillType": 1
+                  },
+                  {
+                    "fill": "url(#grad_paint_0_1159)",
+                    "data": "",
+                    "fillType": 1
+                  }
+                ],
+                "svgKey": "S25:编组 35|0:1918",
+                "svgName": "编组 35"
+              },
+              {
+                "type": "FRAME",
+                "id": "0:1919",
+                "name": "编组 23",
+                "layoutStyle": {
+                  "width": 323,
+                  "height": 92,
+                  "relativeX": 12,
+                  "relativeY": 151
+                },
+                "children": [
+                  {
+                    "type": "LAYER",
+                    "id": "0:1920",
+                    "name": "矩形备份 16",
+                    "layoutStyle": {
+                      "width": 323,
+                      "height": 80,
+                      "relativeX": 0,
+                      "relativeY": 12
+                    },
+                    "borderRadius": "8px",
+                    "fill": "paint_0:1136",
+                    "_color": "linear-gradient(352deg, #F3F8FF 17%, #FBFDFF 39%, #FFFFFF 77%, #FFF7E8 83%)",
+                    "strokeColor": "paint_0:1138",
+                    "strokeType": "solid",
+                    "strokeAlign": "inside",
+                    "strokeWidth": "0.5px"
+                  },
+                  {
+                    "type": "LAYER",
+                    "id": "0:1921",
+                    "name": "矩形备份 29",
+                    "layoutStyle": {
+                      "width": 244,
+                      "height": 27,
+                      "relativeX": 55,
+                      "relativeY": 0
+                    },
+                    "fill": "paint_0:1141",
+                    "_color": "linear-gradient(270deg, #FFFAF1 0%, #FFF6E5 38%, #FFE8BE 99%)",
+                    "strokeColor": "paint_0:10",
+                    "strokeType": "solid",
+                    "strokeAlign": "inside",
+                    "strokeWidth": "1px"
+                  },
+                  {
+                    "type": "TEXT",
+                    "id": "0:1922",
+                    "name": "制造环节自主可控的前提",
+                    "layoutStyle": {
+                      "width": 138,
+                      "height": 13,
+                      "relativeX": 99,
+                      "relativeY": 8
+                    },
+                    "fill": "paint_0:1145",
+                    "text": [
+                      {
+                        "text": "制造环节自主可控的前提",
+                        "font": "font_0:1148"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 11,
+                        "color": "paint_0:1150"
+                      }
+                    ],
+                    "textAlign": "left",
+                    "textMode": "single-line",
+                    "_placeholder": true
+                  },
+                  {
+                    "type": "PATH",
+                    "id": "0:1923",
+                    "name": "矩形备份 17",
+                    "layoutStyle": {
+                      "width": 93.32366943359375,
+                      "height": 41,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "effect": "effect_0:1161",
+                    "path": [
+                      {
+                        "fill": "url(#grad_paint_0_1153)",
+                        "data": "",
+                        "fillType": 1
+                      },
+                      {
+                        "fill": "url(#grad_paint_0_1159)",
+                        "data": "",
+                        "fillType": 1
+                      }
+                    ],
+                    "svgKey": "S25:编组 23|0:1923",
+                    "svgName": "编组 23"
+                  },
+                  {
+                    "type": "FRAME",
+                    "id": "0:1924",
+                    "name": "编组 6备份",
+                    "layoutStyle": {
+                      "width": 183,
+                      "height": 46,
+                      "relativeX": 12,
+                      "relativeY": 40
+                    },
+                    "children": [
+                      {
+                        "type": "TEXT",
+                        "id": "0:1925",
+                        "name": "市场规模",
+                        "layoutStyle": {
+                          "width": 52,
+                          "height": 13,
+                          "relativeX": 15,
+                          "relativeY": 0
+                        },
+                        "fill": "paint_0:1170",
+                        "text": [
+                          {
+                            "text": "市场规模",
+                            "font": "font_0:1173"
+                          }
+                        ],
+                        "textColor": [
+                          {
+                            "start": 0,
+                            "end": 4,
+                            "color": "paint_0:145"
+                          }
+                        ],
+                        "textAlign": "left",
+                        "textMode": "single-line",
+                        "_placeholder": true
+                      },
+                      {
+                        "type": "TEXT",
+                        "id": "0:1926",
+                        "name": "2024年全球市场规模：675亿美元",
+                        "layoutStyle": {
+                          "width": 184,
+                          "height": 12,
+                          "relativeX": 0,
+                          "relativeY": 16
+                        },
+                        "text": [
+                          {
+                            "text": "2024年全球市场规模：",
+                            "font": "font_0:1176"
+                          },
+                          {
+                            "text": "675",
+                            "font": "font_0:1178"
+                          },
+                          {
+                            "text": "亿",
+                            "font": "font_0:1180"
+                          },
+                          {
+                            "text": "美元",
+                            "font": "font_0:1182"
+                          }
+                        ],
+                        "textColor": [
+                          {
+                            "start": 0,
+                            "end": 12,
+                            "color": "paint_0:1184"
+                          },
+                          {
+                            "start": 12,
+                            "end": 18,
+                            "color": "paint_0:179"
+                          }
+                        ],
+                        "textAlign": "left",
+                        "textMode": "single-line",
+                        "_placeholder": true
+                      },
+                      {
+                        "type": "TEXT",
+                        "id": "0:1927",
+                        "name": "数据来源：SEMI，截至2024.12.",
+                        "layoutStyle": {
+                          "width": 122,
+                          "height": 9,
+                          "relativeX": 0,
+                          "relativeY": 37
+                        },
+                        "opacity": 0.3499999940395355,
+                        "text": [
+                          {
+                            "text": "数据来源：SEMI，截至2024.12.31",
+                            "font": "font_0:1187"
+                          }
+                        ],
+                        "textColor": [
+                          {
+                            "start": 0,
+                            "end": 22,
+                            "color": "paint_0:1189"
+                          }
+                        ],
+                        "textAlign": "left",
+                        "textMode": "single-line"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "TEXT",
+                    "id": "0:1928",
+                    "name": "半导体材料",
+                    "layoutStyle": {
+                      "width": 65,
+                      "height": 13,
+                      "relativeX": 14,
+                      "relativeY": 9
+                    },
+                    "fill": "paint_0:446",
+                    "_color": "rgba(255, 255, 255, 0.01)",
+                    "effect": "effect_0:1192",
+                    "text": [
+                      {
+                        "text": "半导体材料 ",
+                        "font": "font_0:1194"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 6,
+                        "color": "paint_0:68"
+                      }
+                    ],
+                    "textAlign": "left",
+                    "textMode": "single-line",
+                    "_placeholder": true
+                  },
+                  {
+                    "type": "FRAME",
+                    "id": "0:1929",
+                    "name": "编组 6",
+                    "layoutStyle": {
+                      "width": 11,
+                      "height": 11,
+                      "relativeX": 11,
+                      "relativeY": 41
+                    },
+                    "path": [
+                      {
+                        "fill": "#E94452",
+                        "data": ""
+                      },
+                      {
+                        "fill": "#F44448",
+                        "data": ""
+                      }
+                    ],
+                    "_mergedVector": true
+                  }
+                ]
+              },
+              {
+                "type": "TEXT",
+                "id": "0:1932",
+                "name": "半导体设备",
+                "layoutStyle": {
+                  "width": 65,
+                  "height": 13,
+                  "relativeX": 27,
+                  "relativeY": 63
+                },
+                "fill": "paint_0:446",
+                "_color": "rgba(255, 255, 255, 0.01)",
+                "effect": "effect_0:1192",
+                "text": [
+                  {
+                    "text": "半导体设备",
+                    "font": "font_0:1194"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 5,
+                    "color": "paint_0:68"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              },
+              {
+                "type": "TEXT",
+                "id": "0:1933",
+                "name": "2025年全球半导体设备市场规模达135",
+                "layoutStyle": {
+                  "width": 243,
+                  "height": 12,
+                  "relativeX": 25,
+                  "relativeY": 110
+                },
+                "text": [
+                  {
+                    "text": "2025年全球半导体设备市场规模达",
+                    "font": "font_0:1205"
+                  },
+                  {
+                    "text": "1351",
+                    "font": "font_0:1207"
+                  },
+                  {
+                    "text": "亿",
+                    "font": "font_0:1209"
+                  },
+                  {
+                    "text": "美元",
+                    "font": "font_0:1211"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 17,
+                    "color": "paint_0:1184"
+                  },
+                  {
+                    "start": 17,
+                    "end": 24,
+                    "color": "paint_0:179"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:1934",
+                "name": "数据来源：SEMI",
+                "layoutStyle": {
+                  "width": 59,
+                  "height": 9,
+                  "relativeX": 24,
+                  "relativeY": 129
+                },
+                "opacity": 0.3499999940395355,
+                "text": [
+                  {
+                    "text": "数据来源：SEMI",
+                    "font": "font_0:1187"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 9,
+                    "color": "paint_0:1189"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              },
+              {
+                "type": "TEXT",
+                "id": "0:1935",
+                "name": "市场规模",
+                "layoutStyle": {
+                  "width": 52,
+                  "height": 13,
+                  "relativeX": 39,
+                  "relativeY": 93
+                },
+                "fill": "paint_0:1170",
+                "text": [
+                  {
+                    "text": "市场规模",
+                    "font": "font_0:1173"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:145"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              },
+              {
+                "type": "PATH",
+                "id": "0:1936",
+                "name": "矩形",
+                "layoutStyle": {
+                  "width": 269,
+                  "height": 27,
+                  "relativeX": 65.78,
+                  "relativeY": 15
+                },
+                "effect": "effect_0:1220",
+                "path": [
+                  {
+                    "fill": "url(#grad_paint_0_1216)",
+                    "data": "",
+                    "transform": "matrix(-1,0,0,1,669.5529174804688,0)",
+                    "fillType": 1
+                  },
+                  {
+                    "fill": "url(#grad_paint_0_1218)",
+                    "data": "",
+                    "transform": "matrix(-1,0,0,1,669.5529174804688,0)",
+                    "fillType": 1
+                  }
+                ]
+              },
+              {
+                "type": "TEXT",
+                "id": "0:1937",
+                "name": "决定了能不能造芯片，关注技术卡脖子、国产",
+                "layoutStyle": {
+                  "width": 255,
+                  "height": 12,
+                  "relativeX": 78,
+                  "relativeY": 23
+                },
+                "text": [
+                  {
+                    "text": "决定了能不能造芯片，关注",
+                    "font": "font_0:1223"
+                  },
+                  {
+                    "text": "技术卡脖子、国产替代进度",
+                    "font": "font_0:1225"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 12,
+                    "color": "paint_0:1227"
+                  },
+                  {
+                    "start": 12,
+                    "end": 24,
+                    "color": "paint_0:1229"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line"
+              },
+              {
+                "type": "FRAME",
+                "id": "0:1938",
+                "name": "编组 13",
+                "layoutStyle": {
+                  "width": 51,
+                  "height": 37,
+                  "relativeX": 16,
+                  "relativeY": 10
+                },
+                "children": [
+                  {
+                    "type": "PATH",
+                    "id": "0:1939",
+                    "name": "路径 4",
+                    "layoutStyle": {
+                      "width": 34.377174377441406,
+                      "height": 18.462594985961914,
+                      "relativeX": 16.622827529907227,
+                      "relativeY": 18.537405014038086
+                    },
+                    "effect": "effect_0:1233",
+                    "path": [
+                      {
+                        "fill": "url(#grad_paint_0_1092)",
+                        "data": "",
+                        "fillType": 1
+                      }
+                    ],
+                    "svgKey": "S25:编组 13|0:1939",
+                    "svgName": "编组 13"
+                  },
+                  {
+                    "type": "LAYER",
+                    "id": "0:1940",
+                    "name": "位图",
+                    "layoutStyle": {
+                      "width": 45.47237014770508,
+                      "height": 34.617183685302734,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "fill": "paint_1:4182"
+                  }
+                ]
+              },
+              {
+                "type": "FRAME",
+                "id": "0:1941",
+                "name": "编组 6备份 2",
+                "layoutStyle": {
+                  "width": 11,
+                  "height": 11,
+                  "relativeX": 23,
+                  "relativeY": 94
+                },
+                "path": [
+                  {
+                    "fill": "#E94452",
+                    "data": ""
+                  },
+                  {
+                    "fill": "#F44448",
+                    "data": ""
+                  }
+                ],
+                "_mergedVector": true
+              }
+            ]
+          },
+          {
+            "type": "LAYER",
+            "id": "0:1944",
+            "name": "箭头",
+            "layoutStyle": {
+              "width": 28,
+              "height": 28,
+              "relativeX": 197.49,
+              "relativeY": 199.09,
+              "rotate": 94,
+              "rotateX": 180
+            },
+            "fill": "paint_1:4256"
+          },
+          {
+            "type": "LAYER",
+            "id": "0:1945",
+            "name": "箭头备份",
+            "layoutStyle": {
+              "width": 28,
+              "height": 28,
+              "relativeX": 256.49,
+              "relativeY": 103.09,
+              "rotate": 94,
+              "rotateX": 180
+            },
+            "fill": "paint_1:4256"
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "技术垄断带来超高利润",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 35"
+      },
+      {
+        "text": "制造环节自主可控的前提",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 23"
+      },
+      {
+        "text": "市场规模",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 6备份"
+      },
+      {
+        "text": "2024年全球市场规模：675亿美元",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 6备份"
+      },
+      {
+        "text": "数据来源：SEMI，截至2024.12.31",
+        "parentType": "FRAME",
+        "parentName": "编组 6备份"
+      },
+      {
+        "text": "半导体材料 ",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 23"
+      },
+      {
+        "text": "半导体设备",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 35"
+      },
+      {
+        "text": "2025年全球半导体设备市场规模达1351亿美元",
+        "parentType": "FRAME",
+        "parentName": "编组 35"
+      },
+      {
+        "text": "数据来源：SEMI",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 35"
+      },
+      {
+        "text": "市场规模",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 35"
+      },
+      {
+        "text": "决定了能不能造芯片，关注技术卡脖子、国产替代进度",
+        "parentType": "FRAME",
+        "parentName": "编组 35"
+      }
+    ],
+    "placeholderTexts": [
+      "技术垄断带来超高利润",
+      "制造环节自主可控的前提",
+      "市场规模",
+      "2024年全球市场规模：675亿美元",
+      "半导体材料",
+      "半导体设备",
+      "数据来源：SEMI"
+    ]
+  },
+  "nodeCount": 30,
+  "svgNodeCount": 6,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 28/66. MISSING 38 sections: [28,29,30,31,32,33,34,35,36,37... +28 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

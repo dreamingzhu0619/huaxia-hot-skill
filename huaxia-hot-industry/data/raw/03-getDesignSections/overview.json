@@ -1,0 +1,1605 @@
+{
+  "sections": [
+    {
+      "id": "0:1713",
+      "name": "矩形",
+      "type": "LAYER",
+      "nodeCount": 1,
+      "x": 0,
+      "y": 461,
+      "width": 375,
+      "height": 250,
+      "structureHash": "{\"t\":\"LAYER\",\"l\":{\"w\":375,\"h\":250}}",
+      "structureSiblingCount": 2
+    },
+    {
+      "id": "0:1714",
+      "name": "矩形备份 32",
+      "type": "LAYER",
+      "nodeCount": 1,
+      "x": 0,
+      "y": 1448,
+      "width": 375,
+      "height": 250,
+      "structureHash": "{\"t\":\"LAYER\",\"l\":{\"w\":375,\"h\":250}}",
+      "structureSiblingCount": 2
+    },
+    {
+      "id": "0:1715",
+      "name": "位图",
+      "type": "LAYER",
+      "nodeCount": 1,
+      "x": -23,
+      "y": -9,
+      "width": 420,
+      "height": 221,
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1716",
+      "name": "6119285222",
+      "type": "LAYER",
+      "nodeCount": 1,
+      "x": 109,
+      "y": -8,
+      "width": 269,
+      "height": 209,
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1717",
+      "name": "6119285222备份",
+      "type": "LAYER",
+      "nodeCount": 1,
+      "x": 1,
+      "y": 12,
+      "width": 211,
+      "height": 164,
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1718",
+      "name": "椭圆形",
+      "type": "SVG_ELLIPSE",
+      "nodeCount": 1,
+      "x": 96,
+      "y": 96,
+      "width": 183,
+      "height": 50,
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1719",
+      "name": "矩形",
+      "type": "PATH",
+      "nodeCount": 1,
+      "x": 0,
+      "y": 135,
+      "width": 375,
+      "height": 110,
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1720",
+      "name": "编组 56",
+      "type": "FRAME",
+      "nodeCount": 32,
+      "x": 23,
+      "y": 136,
+      "width": 330,
+      "height": 22,
+      "textPreview": "捕捉热点事件",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1752",
+      "name": "矩形备份",
+      "type": "PATH",
+      "nodeCount": 1,
+      "x": 12,
+      "y": 296,
+      "width": 351,
+      "height": 440,
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1753",
+      "name": "编组 70",
+      "type": "FRAME",
+      "nodeCount": 7,
+      "x": 22,
+      "y": 340,
+      "width": 331,
+      "height": 38,
+      "textPreview": "半导体行业波动显著，机遇与风险并存。对于",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1761",
+      "name": "编组 51",
+      "type": "FRAME",
+      "nodeCount": 6,
+      "x": 26,
+      "y": 388,
+      "width": 157,
+      "height": 44,
+      "textPreview": "追求超额",
+      "containerId": "0:1760",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1767",
+      "name": "编组 41",
+      "type": "FRAME",
+      "nodeCount": 4,
+      "x": 192,
+      "y": 388,
+      "width": 157,
+      "height": 44,
+      "textPreview": "紧密跟踪",
+      "containerId": "0:1760",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1771",
+      "name": "编组 43",
+      "type": "FRAME",
+      "nodeCount": 22,
+      "x": 28,
+      "y": 448,
+      "width": 319,
+      "height": 76.58187103271484,
+      "textPreview": "永赢先锋半导体智选C",
+      "containerId": "0:1760",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1794",
+      "name": "编组 43备份 2",
+      "type": "FRAME",
+      "nodeCount": 22,
+      "x": 28,
+      "y": 534,
+      "width": 319,
+      "height": 76,
+      "textPreview": "华夏半导体龙头C",
+      "containerId": "0:1760",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1817",
+      "name": "编组 43备份 3",
+      "type": "FRAME",
+      "nodeCount": 22,
+      "x": 28,
+      "y": 621,
+      "width": 319,
+      "height": 76,
+      "textPreview": "银华集成电路C",
+      "containerId": "0:1760",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1840",
+      "name": "编组 46",
+      "type": "FRAME",
+      "nodeCount": 10,
+      "x": 154,
+      "y": 706,
+      "width": 68,
+      "height": 18,
+      "textPreview": "查看更多",
+      "containerId": "0:1760",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1850",
+      "name": "编组 34备份",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 93,
+      "y": 296,
+      "width": 190,
+      "height": 34,
+      "textPreview": "关联产品",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1854",
+      "name": "矩形备份 3",
+      "type": "LAYER",
+      "nodeCount": 1,
+      "x": 12,
+      "y": 1135,
+      "width": 351,
+      "height": 1542,
+      "containerId": "0:1853",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1855",
+      "name": "半导体导电性介于导体与绝缘体之间，且可人",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 28,
+      "y": 1228,
+      "width": 319,
+      "height": 48,
+      "textPreview": "半导体导电性介于导体与绝缘体之间，且可人",
+      "containerId": "0:1853",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1856",
+      "name": "矩形备份 31",
+      "type": "LAYER",
+      "nodeCount": 1,
+      "x": 98,
+      "y": 1190,
+      "width": 180,
+      "height": 28,
+      "containerId": "0:1853",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1857",
+      "name": "半导体是什么？",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 139,
+      "y": 1195,
+      "width": 105,
+      "height": 22,
+      "textPreview": "半导体是什么？",
+      "containerId": "0:1853",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1858",
+      "name": "编组 58",
+      "type": "FRAME",
+      "nodeCount": 10,
+      "x": 75,
+      "y": 1394,
+      "width": 228,
+      "height": 33,
+      "textPreview": "上游 - 设备与材料",
+      "containerId": "0:1853",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1868",
+      "name": "编组 58备份",
+      "type": "FRAME",
+      "nodeCount": 10,
+      "x": 46,
+      "y": 1702,
+      "width": 308,
+      "height": 33,
+      "textPreview": "中游 - 芯片设计、制造与封测",
+      "containerId": "0:1853",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1878",
+      "name": "编组 18",
+      "type": "FRAME",
+      "nodeCount": 31,
+      "x": 19,
+      "y": 1286,
+      "width": 336,
+      "height": 98,
+      "textPreview": "绝缘体",
+      "containerId": "0:1853",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1909",
+      "name": "编组 34",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 68,
+      "y": 1135,
+      "width": 240,
+      "height": 34,
+      "textPreview": "深度解读半导体",
+      "containerId": "0:1853",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1912",
+      "name": "编组 59",
+      "type": "FRAME",
+      "nodeCount": 34,
+      "x": 14,
+      "y": 1435,
+      "width": 347,
+      "height": 243,
+      "textPreview": "技术垄断带来超高利润",
+      "containerId": "0:1853",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1947",
+      "name": "矩形备份 18",
+      "type": "LAYER",
+      "nodeCount": 1,
+      "x": 14,
+      "y": 1743,
+      "width": 347,
+      "height": 119,
+      "containerId": "0:1946",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1948",
+      "name": "矩形备份 21",
+      "type": "LAYER",
+      "nodeCount": 1,
+      "x": 26,
+      "y": 1819,
+      "width": 323,
+      "height": 76,
+      "containerId": "0:1946",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1949",
+      "name": "矩形备份 23",
+      "type": "LAYER",
+      "nodeCount": 1,
+      "x": 26,
+      "y": 1918,
+      "width": 323,
+      "height": 241,
+      "containerId": "0:1946",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1950",
+      "name": "编组 25",
+      "type": "FRAME",
+      "nodeCount": 5,
+      "x": 26,
+      "y": 1808,
+      "width": 324,
+      "height": 41,
+      "textPreview": "芯片设计",
+      "containerId": "0:1946",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1955",
+      "name": "编组 25备份",
+      "type": "FRAME",
+      "nodeCount": 5,
+      "x": 26,
+      "y": 1905,
+      "width": 291,
+      "height": 41,
+      "textPreview": "芯片制造",
+      "containerId": "0:1946",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1960",
+      "name": "矩形备份 20",
+      "type": "PATH",
+      "nodeCount": 1,
+      "x": 80.78,
+      "y": 1757,
+      "width": 266,
+      "height": 39,
+      "containerId": "0:1946",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1961",
+      "name": "决定了芯片性能强不强，关注工艺迭代、产能",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 96,
+      "y": 1764,
+      "width": 255,
+      "height": 26,
+      "textPreview": "决定了芯片性能强不强，关注工艺迭代、产能",
+      "containerId": "0:1946",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1963",
+      "name": "编组 8",
+      "type": "FRAME",
+      "nodeCount": 26,
+      "x": 40,
+      "y": 1849,
+      "width": 295,
+      "height": 36,
+      "textPreview": "规格\n设计",
+      "containerId": "0:1962",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:1989",
+      "name": "编组",
+      "type": "FRAME",
+      "nodeCount": 8,
+      "x": 81,
+      "y": 1855,
+      "width": 24,
+      "height": 24,
+      "structureHash": "{\"t\":\"FRAME\",\"l\":{\"w\":24,\"h\":24},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":24,\"h\":24},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":0,\"h\":0},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":24,\"h\":24}},{\"t\":\"PATH\"},{\"t\":\"PATH\"},{\"t\":\"PATH\"}]}]},{\"t\":\"PATH\",\"l\":{\"w\":4.828786849975586,\"h\":7.657631874084473}}]}",
+      "containerId": "0:1962",
+      "structureSiblingCount": 4
+    },
+    {
+      "id": "0:1997",
+      "name": "编组备份",
+      "type": "FRAME",
+      "nodeCount": 8,
+      "x": 144,
+      "y": 1855,
+      "width": 24,
+      "height": 24,
+      "structureHash": "{\"t\":\"FRAME\",\"l\":{\"w\":24,\"h\":24},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":24,\"h\":24},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":0,\"h\":0},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":24,\"h\":24}},{\"t\":\"PATH\"},{\"t\":\"PATH\"},{\"t\":\"PATH\"}]}]},{\"t\":\"PATH\",\"l\":{\"w\":4.828786849975586,\"h\":7.657631874084473}}]}",
+      "containerId": "0:1962",
+      "structureSiblingCount": 4
+    },
+    {
+      "id": "0:2005",
+      "name": "编组备份 2",
+      "type": "FRAME",
+      "nodeCount": 8,
+      "x": 207,
+      "y": 1855,
+      "width": 24,
+      "height": 24,
+      "structureHash": "{\"t\":\"FRAME\",\"l\":{\"w\":24,\"h\":24},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":24,\"h\":24},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":0,\"h\":0},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":24,\"h\":24}},{\"t\":\"PATH\"},{\"t\":\"PATH\"},{\"t\":\"PATH\"}]}]},{\"t\":\"PATH\",\"l\":{\"w\":4.828786849975586,\"h\":7.657631874084473}}]}",
+      "containerId": "0:1962",
+      "structureSiblingCount": 4
+    },
+    {
+      "id": "0:2013",
+      "name": "编组备份 3",
+      "type": "FRAME",
+      "nodeCount": 8,
+      "x": 270,
+      "y": 1855,
+      "width": 24,
+      "height": 24,
+      "structureHash": "{\"t\":\"FRAME\",\"l\":{\"w\":24,\"h\":24},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":24,\"h\":24},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":0,\"h\":0},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":24,\"h\":24}},{\"t\":\"PATH\"},{\"t\":\"PATH\"},{\"t\":\"PATH\"}]}]},{\"t\":\"PATH\",\"l\":{\"w\":4.828786849975586,\"h\":7.657631874084473}}]}",
+      "containerId": "0:1962",
+      "structureSiblingCount": 4
+    },
+    {
+      "id": "0:2021",
+      "name": "编组 13备份",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 30,
+      "y": 1758,
+      "width": 51,
+      "height": 37,
+      "containerId": "0:1946",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2024",
+      "name": "编组 27",
+      "type": "FRAME",
+      "nodeCount": 5,
+      "x": 40,
+      "y": 1947,
+      "width": 83,
+      "height": 13,
+      "textPreview": "我国现状：",
+      "containerId": "0:1946",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2029",
+      "name": "编组 27备份",
+      "type": "FRAME",
+      "nodeCount": 6,
+      "x": 38,
+      "y": 2116,
+      "width": 311,
+      "height": 33,
+      "textPreview": "发展难点：",
+      "containerId": "0:1946",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2035",
+      "name": "编组 7",
+      "type": "FRAME",
+      "nodeCount": 7,
+      "x": 32,
+      "y": 1967,
+      "width": 97,
+      "height": 140,
+      "textPreview": "成熟制程 \n(‌≥‌28nm)",
+      "containerId": "0:1946",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2042",
+      "name": "编组 7备份 5",
+      "type": "FRAME",
+      "nodeCount": 7,
+      "x": 139,
+      "y": 1967,
+      "width": 97,
+      "height": 140,
+      "textPreview": "局部突破但产能不足",
+      "containerId": "0:1946",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2049",
+      "name": "编组 7备份 6",
+      "type": "FRAME",
+      "nodeCount": 6,
+      "x": 246,
+      "y": 1967,
+      "width": 97,
+      "height": 140,
+      "textPreview": "完全空白，但积极\n寻找替代路线",
+      "containerId": "0:1946",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2055",
+      "name": "编组 26",
+      "type": "FRAME",
+      "nodeCount": 17,
+      "x": 26,
+      "y": 2169,
+      "width": 323,
+      "height": 118,
+      "textPreview": "封装与测试",
+      "containerId": "0:1946",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2072",
+      "name": "编组 37",
+      "type": "FRAME",
+      "nodeCount": 28,
+      "x": 14,
+      "y": 2352,
+      "width": 347,
+      "height": 312,
+      "textPreview": "直接受益于AI技术发展，是当前最强劲的需",
+      "containerId": "0:1853",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2100",
+      "name": "编组 58备份 2",
+      "type": "FRAME",
+      "nodeCount": 10,
+      "x": 83,
+      "y": 2311,
+      "width": 228,
+      "height": 33,
+      "textPreview": "下游 - 应用市场",
+      "containerId": "0:1853",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2110",
+      "name": "编组 72",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 18,
+      "y": 2695,
+      "width": 339,
+      "height": 160,
+      "textPreview": "风险提示：观点仅供参考，不构成投资建议，",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2113",
+      "name": "编组 71",
+      "type": "FRAME",
+      "nodeCount": 20,
+      "x": 145,
+      "y": 51,
+      "width": 82,
+      "height": 23,
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2133",
+      "name": "编组 66",
+      "type": "FRAME",
+      "nodeCount": 30,
+      "x": 89,
+      "y": 84,
+      "width": 191,
+      "height": 40,
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2164",
+      "name": "矩形备份",
+      "type": "PATH",
+      "nodeCount": 1,
+      "x": 12,
+      "y": 746,
+      "width": 351,
+      "height": 379,
+      "containerId": "0:2163",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2166",
+      "name": "编组 64",
+      "type": "FRAME",
+      "nodeCount": 7,
+      "x": 26,
+      "y": 872,
+      "width": 323,
+      "height": 36,
+      "textPreview": "规模约7956亿美元\n增长约22%",
+      "containerId": "0:2165",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2173",
+      "name": "形状结合",
+      "type": "PATH",
+      "nodeCount": 10,
+      "x": 26,
+      "y": 852.67,
+      "width": 323,
+      "height": 16.66666603088379,
+      "containerId": "0:2165",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2183",
+      "name": "2025年",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 57,
+      "y": 836,
+      "width": 42,
+      "height": 16,
+      "textPreview": "2025年",
+      "structureHash": "{\"t\":\"TEXT\",\"l\":{\"w\":42,\"h\":16}}",
+      "containerId": "0:2165",
+      "structureSiblingCount": 3
+    },
+    {
+      "id": "0:2184",
+      "name": "2026年",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 167,
+      "y": 836,
+      "width": 42,
+      "height": 16,
+      "textPreview": "2026年",
+      "structureHash": "{\"t\":\"TEXT\",\"l\":{\"w\":42,\"h\":16}}",
+      "containerId": "0:2165",
+      "structureSiblingCount": 3
+    },
+    {
+      "id": "0:2185",
+      "name": "2027年",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 277,
+      "y": 836,
+      "width": 42,
+      "height": 16,
+      "textPreview": "2027年",
+      "structureHash": "{\"t\":\"TEXT\",\"l\":{\"w\":42,\"h\":16}}",
+      "containerId": "0:2165",
+      "structureSiblingCount": 3
+    },
+    {
+      "id": "0:2186",
+      "name": "编组",
+      "type": "FRAME",
+      "nodeCount": 10,
+      "x": 288,
+      "y": 851,
+      "width": 20,
+      "height": 20,
+      "structureHash": "{\"t\":\"FRAME\",\"l\":{\"w\":20,\"h\":20},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":20,\"h\":20},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":0,\"h\":0},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":20,\"h\":20}},{\"t\":\"PATH\",\"l\":{\"w\":0.8333333134651184,\"h\":0.8333333134651184}},{\"t\":\"PATH\",\"l\":{\"w\":0.8333333134651184,\"h\":0.8333333134651184}},{\"t\":\"PATH\",\"l\":{\"w\":0.8333333134651184,\"h\":0.8333333134651184}}]}]},{\"t\":\"PATH\",\"l\":{\"w\":8.73813247680664,\"h\":6.347017765045166},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":0,\"h\":0},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":8.73813247680664,\"h\":6.347017765045166}}]}]}]}",
+      "containerId": "0:2165",
+      "structureSiblingCount": 3
+    },
+    {
+      "id": "0:2196",
+      "name": "编组备份 4",
+      "type": "FRAME",
+      "nodeCount": 10,
+      "x": 177,
+      "y": 851,
+      "width": 20,
+      "height": 20,
+      "structureHash": "{\"t\":\"FRAME\",\"l\":{\"w\":20,\"h\":20},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":20,\"h\":20},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":0,\"h\":0},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":20,\"h\":20}},{\"t\":\"PATH\",\"l\":{\"w\":0.8333333134651184,\"h\":0.8333333134651184}},{\"t\":\"PATH\",\"l\":{\"w\":0.8333333134651184,\"h\":0.8333333134651184}},{\"t\":\"PATH\",\"l\":{\"w\":0.8333333134651184,\"h\":0.8333333134651184}}]}]},{\"t\":\"PATH\",\"l\":{\"w\":8.73813247680664,\"h\":6.347017765045166},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":0,\"h\":0},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":8.73813247680664,\"h\":6.347017765045166}}]}]}]}",
+      "containerId": "0:2165",
+      "structureSiblingCount": 3
+    },
+    {
+      "id": "0:2206",
+      "name": "编组备份 5",
+      "type": "FRAME",
+      "nodeCount": 10,
+      "x": 68,
+      "y": 851,
+      "width": 20,
+      "height": 20,
+      "structureHash": "{\"t\":\"FRAME\",\"l\":{\"w\":20,\"h\":20},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":20,\"h\":20},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":0,\"h\":0},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":20,\"h\":20}},{\"t\":\"PATH\",\"l\":{\"w\":0.8333333134651184,\"h\":0.8333333134651184}},{\"t\":\"PATH\",\"l\":{\"w\":0.8333333134651184,\"h\":0.8333333134651184}},{\"t\":\"PATH\",\"l\":{\"w\":0.8333333134651184,\"h\":0.8333333134651184}}]}]},{\"t\":\"PATH\",\"l\":{\"w\":8.73813247680664,\"h\":6.347017765045166},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":0,\"h\":0},\"c\":[{\"t\":\"PATH\",\"l\":{\"w\":8.73813247680664,\"h\":6.347017765045166}}]}]}]}",
+      "containerId": "0:2165",
+      "structureSiblingCount": 3
+    },
+    {
+      "id": "0:2216",
+      "name": "编组 62",
+      "type": "FRAME",
+      "nodeCount": 2,
+      "x": 28,
+      "y": 1092,
+      "width": 319,
+      "height": 22,
+      "textPreview": "数据来源：WSTS春季预测，截至2026",
+      "containerId": "0:2163",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2218",
+      "name": "WSTS（世界半导体贸易统计组织）最新预",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 28,
+      "y": 792,
+      "width": 319,
+      "height": 32,
+      "textPreview": "WSTS（世界半导体贸易统计组织）最新预",
+      "containerId": "0:2163",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2219",
+      "name": "编组 34备份",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 43,
+      "y": 746,
+      "width": 290,
+      "height": 34,
+      "textPreview": "半导体未来投资价值如何？",
+      "containerId": "0:2163",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2222",
+      "name": "编组 63",
+      "type": "FRAME",
+      "nodeCount": 40,
+      "x": 26,
+      "y": 916,
+      "width": 323,
+      "height": 168,
+      "textPreview": "全球半导体市场规模（亿美元）",
+      "containerId": "0:2163",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2262",
+      "name": "19140",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 302,
+      "y": 938,
+      "width": 32,
+      "height": 15,
+      "textPreview": "19140",
+      "containerId": "0:2163",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2263",
+      "name": "15112",
+      "type": "TEXT",
+      "nodeCount": 1,
+      "x": 251,
+      "y": 954,
+      "width": 30,
+      "height": 15,
+      "textPreview": "15112",
+      "containerId": "0:2163",
+      "structureSiblingCount": 1
+    },
+    {
+      "id": "0:2264",
+      "name": "编组 50",
+      "type": "FRAME",
+      "nodeCount": 18,
+      "x": 12,
+      "y": 172,
+      "width": 351,
+      "height": 114,
+      "textPreview": "SEMI报告显示，2026年Q1全球半导",
+      "structureSiblingCount": 1
+    }
+  ],
+  "totalSections": 66,
+  "totalNodes": 560,
+  "allTexts": [
+    "半导体行业波动显著，机遇与风险并存。对于波动承受有限的投资者，不妨以小仓位先行参与，或通过定投分批买入。",
+    "半导体导电性介于导体与绝缘体之间，且可人为调控，凭借这一特性，硅、锗、砷化镓等半导体材料成为芯片制造不可或缺的核心原料。",
+    "数据来源：SEMI，截至2024.12.31",
+    "2025年全球半导体设备市场规模达1351亿美元",
+    "决定了能不能造芯片，关注技术卡脖子、国产替代进度",
+    "决定了芯片性能强不强，关注工艺迭代、产能扩张、毛\n利率水平",
+    "主要受制于光刻机、高端材料、核心零部件、先进工艺四大瓶颈",
+    "把芯片\"包装\"起来，技术成熟、成本较低、可靠性较高。",
+    "主要有2.5D(平铺) 3D(堆叠)等方式，是提升芯片性能的关键路径。",
+    "直接受益于AI技术发展，是当前最强劲的需求引擎，拉动高端算力芯片、HBM存储、高速互联芯片等需求爆发。",
+    "AI赋能下，智能手机、PC、可穿戴设备迎来创新周期，带动芯片升级换代。",
+    "随着\"物理AI\"的概念普及，智能车、机器人等产品涌现，带动相关芯片需求稳步增长。",
+    "决定了行业有没有订单，关注行业景气度、新增需求爆发",
+    "风险提示：观点仅供参考，不构成投资建议，基金有风险，投资须谨慎。以上产品由对应基金管理有限公司发行与管理，招商银行作为代销机构不承担产品的投资和兑付责任。基金过",
+    "基金销售费率详见产品详情页中的\"交易规则\"",
+    "数据来源：WSTS春季预测，截至20260602。其中2026年存储芯片规模预计增长约3.5倍至8039亿美元，逻辑芯片预计增长37.3%至4113亿美元",
+    "WSTS（世界半导体贸易统计组织）最新预测显示，受AI与数据中心需求急剧扩张推动，全球半导体市场规模高速增长。",
+    "SEMI报告显示，2026年Q1全球半导体设备销售额达365.5亿美元，同比增长14%，创单季历史新高。AI相关投资持续驱动先进逻辑、DRAM及先进封装产能扩张",
+    "资料来源：财联社，发布于2026.06.14"
+  ],
+  "rootMetadata": {
+    "width": 375,
+    "height": 2880,
+    "name": "画板",
+    "type": "FRAME",
+    "fill": "paint_0:4",
+    "styles": {
+      "paint_0:4": {
+        "value": [
+          "#DFEBFE"
+        ]
+      },
+      "paint_0:8": {
+        "value": [
+          "#DFEFFC"
+        ]
+      },
+      "paint_1:4198": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/679ce8bbc623e8c8665521683574d952.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:3576": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/32bc444d08371c656d6a7c8001517ad6.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:21": {
+        "value": [
+          "#F7F9FD"
+        ]
+      },
+      "paint_0:827": {
+        "value": [
+          "linear-gradient(180deg, #D8E7FD 0%, #DFEBFE 100%)"
+        ]
+      },
+      "paint_0:831": {
+        "value": [
+          "linear-gradient(270deg, rgba(252, 253, 255, 0) 0%, rgba(250, 251, 254, 0.2505) 9%, rgba(250, 251, 254, 0.6) 50%, rgba(250, 251, 254, 0.29) 90%, rgba(248, 249, 254, 0) 100%)"
+        ]
+      },
+      "paint_0:843": {
+        "value": [
+          "linear-gradient(162deg, #6E96E5 -17%, #425892 111%)"
+        ]
+      },
+      "paint_0:848": {
+        "value": [
+          "#425892"
+        ]
+      },
+      "paint_0:853": {
+        "value": [
+          "#666666"
+        ]
+      },
+      "paint_0:878": {
+        "value": [
+          "linear-gradient(180deg, #DCEBFF -3%, #FFFFFF 13%, rgba(255, 255, 255, 0.8) 100%)",
+          "linear-gradient(180deg, #DCEBFF -3%, #FFFFFF 13%, rgba(255, 255, 255, 0.8) 100%)"
+        ]
+      },
+      "paint_0:121": {
+        "value": [
+          "linear-gradient(0deg, #FFFFFF 0%, #FBFDFF 46%, #F3F8FF 100%)"
+        ]
+      },
+      "paint_0:132": {
+        "value": [
+          "#86B1E9"
+        ]
+      },
+      "paint_1:4160": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/d14a066e49d47b16a8c75d66deb571a0.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:399": {
+        "value": [
+          "linear-gradient(180deg, #FCE4C1 -5%, #E6AB63 17%, #D89A4B 39%, #E2AF68 77%, #FFEDCB 103%)"
+        ]
+      },
+      "paint_0:406": {
+        "value": [
+          "linear-gradient(180deg, #FFFFFF -5%, rgba(255, 255, 255, 0.3539) 8%, rgba(255, 255, 255, 0.1216) 20%, rgba(255, 255, 255, 0) 46%)"
+        ]
+      },
+      "paint_0:411": {
+        "value": [
+          "rgba(255, 255, 255, 0.01)"
+        ]
+      },
+      "paint_0:424": {
+        "value": [
+          "linear-gradient(180deg, rgba(60, 131, 242, 0.2) 9%, rgba(245, 251, 255, 0.2) 100%)"
+        ]
+      },
+      "paint_0:149": {
+        "value": [
+          "linear-gradient(180deg, #FFEABE -22%, #FFF9ED 100%)"
+        ]
+      },
+      "paint_1:4060": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/a518749783642ac8c1925e4290f5869c.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:4076": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/a518749783642ac8c1925e4290f5869c.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:192": {
+        "value": [
+          "#FF514D"
+        ]
+      },
+      "paint_0:197": {
+        "value": [
+          "#FF4D5F"
+        ]
+      },
+      "paint_0:200": {
+        "value": [
+          "linear-gradient(180deg, #FFFFFF 26%, #FFECD6 80%)"
+        ]
+      },
+      "paint_0:207": {
+        "value": []
+      },
+      "paint_0:232": {
+        "value": [
+          "#FF4D5F"
+        ]
+      },
+      "paint_0:981": {
+        "value": [
+          "#5075B7"
+        ]
+      },
+      "paint_0:438": {
+        "value": [
+          "linear-gradient(104deg, #EAF3FF -1%, #A3C9FF 12%, #6EA0EE 30%, #327CF2 47%, #6A9AED 73%, rgba(193, 198, 255, 0) 111%)"
+        ]
+      },
+      "paint_0:446": {
+        "value": [
+          "rgba(255, 255, 255, 0.01)"
+        ]
+      },
+      "paint_0:993": {
+        "value": [
+          "linear-gradient(180deg, rgba(255, 255, 255, 0.1609) 0%, #FFFFFF 4%, #FFFFFF 100%)"
+        ]
+      },
+      "paint_0:999": {
+        "value": [
+          "linear-gradient(90deg, #F8FBFF 3%, #6EA0EE 17%, #A0C5FF 50%, #6A9AED 84%, rgba(255, 255, 255, 0.3621) 99%)"
+        ]
+      },
+      "paint_0:1004": {
+        "value": [
+          "linear-gradient(175deg, #7FA8E8 -27%, #2C52AB 84%)"
+        ]
+      },
+      "paint_0:1016": {
+        "value": [
+          "linear-gradient(270deg, #78B7F1 0%, #088BF1 100%)"
+        ]
+      },
+      "paint_0:1019": {
+        "value": [
+          "linear-gradient(261deg, #80B8FA 1%, #4788F0 24%, #78B5FF 75%)"
+        ]
+      },
+      "paint_0:1022": {
+        "value": [
+          "#5498EA"
+        ]
+      },
+      "paint_0:1033": {
+        "value": [
+          "linear-gradient(173deg, #7FA8E8 -10%, #2C52AB 73%)"
+        ]
+      },
+      "paint_0:1044": {
+        "value": [
+          "linear-gradient(180deg, rgba(255, 250, 241, 0) 20%, rgba(229, 245, 255, 0) 64%, #B3CDF4 100%)"
+        ]
+      },
+      "paint_0:1049": {
+        "value": [
+          "linear-gradient(180deg, rgba(255, 250, 241, 0) 20%, rgba(255, 227, 223, 0.0813) 67%, #FFC5BC 100%)"
+        ]
+      },
+      "paint_0:1052": {
+        "value": [
+          "linear-gradient(175deg, #FDFEFF 9%, #E0EFFF 53%, #D5E6FF 94%)"
+        ]
+      },
+      "paint_0:1057": {
+        "value": [
+          "linear-gradient(180deg, rgba(255, 250, 241, 0) 20%, rgba(255, 246, 229, 0) 64%, #F7D49C 100%)"
+        ]
+      },
+      "paint_0:1061": {
+        "value": [
+          "linear-gradient(180deg, #FFFAF1 4%, #FFF6E5 38%, #FFE8BE 100%)"
+        ]
+      },
+      "paint_0:1066": {
+        "value": [
+          "linear-gradient(166deg, #B97333 -5%, #833F17 78%)"
+        ]
+      },
+      "paint_0:1072": {
+        "value": [
+          "linear-gradient(147deg, #DFB27A 48%, #FFEFD2 73%)"
+        ]
+      },
+      "paint_1:4170": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/eb0f43cfdfadedee9b744889d9154147.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:1080": {
+        "value": [
+          "linear-gradient(180deg, #FFFCFC 0%, #FFEEEC 49%, #FFD6CF 100%)"
+        ]
+      },
+      "paint_0:1085": {
+        "value": [
+          "linear-gradient(180deg, #EC4D66 0%, #E02C1E 100%)"
+        ]
+      },
+      "paint_0:1088": {
+        "value": [
+          "linear-gradient(162deg, #2875EC -7%, #2C58BE 75%)"
+        ]
+      },
+      "paint_0:1092": {
+        "value": [
+          "linear-gradient(144deg, #5388CC 41%, rgba(162, 226, 248, 0) 72%)"
+        ]
+      },
+      "paint_1:4188": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/efacb2d4f3f59d47d689c8a288be365e.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:1100": {
+        "value": [
+          "linear-gradient(270deg, #A8CBFF 0%, #D6E3F6 33%, #FFF9EF 47%, #FFD08E 100%)"
+        ]
+      },
+      "paint_0:1106": {
+        "value": [
+          "#D8D8D8"
+        ]
+      },
+      "paint_0:1109": {
+        "value": [
+          "linear-gradient(270deg, #A8CBFF 0%, #D9E5F6 35%, #FFF9EF 50%, #FCA1A7 100%)"
+        ]
+      },
+      "paint_0:1117": {
+        "value": [
+          "linear-gradient(171deg, #EE6D6C 22%, #FFD3D4 61%)"
+        ]
+      },
+      "paint_1:4266": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/0779709c791199f67a3425dcd43f1d4c.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:1123": {
+        "value": [
+          "#FFF0EE"
+        ]
+      },
+      "paint_0:1133": {
+        "value": [
+          "linear-gradient(4deg, #FFFFFF 25%, #EEF8FF 70%, #D2E4FF 145%)"
+        ]
+      },
+      "paint_0:1136": {
+        "value": [
+          "linear-gradient(352deg, #F3F8FF 17%, #FBFDFF 39%, #FFFFFF 77%, #FFF7E8 83%)"
+        ]
+      },
+      "paint_0:1141": {
+        "value": [
+          "linear-gradient(270deg, #FFFAF1 0%, #FFF6E5 38%, #FFE8BE 99%)"
+        ]
+      },
+      "paint_0:1145": {
+        "value": []
+      },
+      "paint_0:1153": {
+        "value": [
+          "linear-gradient(270deg, #FFDBA6 -7%, #EEB977 11%, #E5A656 38%, #E2AF68 82%, #FFFAF3 95%, #FFEDCB 104%)"
+        ]
+      },
+      "paint_0:1170": {
+        "value": []
+      },
+      "paint_0:1198": {
+        "value": [
+          "#E94452"
+        ]
+      },
+      "paint_0:1201": {
+        "value": [
+          "#F44448"
+        ]
+      },
+      "paint_0:1216": {
+        "value": [
+          "linear-gradient(257deg, #BAD7FF -16%, rgba(181, 224, 255, 0.3994) 61%, rgba(255, 255, 255, 0) 95%)"
+        ]
+      },
+      "paint_1:4182": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/efacb2d4f3f59d47d689c8a288be365e.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:4256": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/82e4645d2a6c2dcef0a13738a27a7336.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:1255": {
+        "value": [
+          "linear-gradient(355deg, #FFFFFF 4%, #FBFDFF 63%, #FFFFFF 87%, #FBE9CE 95%)"
+        ]
+      },
+      "paint_0:1270": {
+        "value": [
+          "linear-gradient(250deg, #BAD7FF -22%, rgba(181, 224, 255, 0.3994) 64%, rgba(255, 255, 255, 0) 102%)"
+        ]
+      },
+      "paint_0:1311": {
+        "value": [
+          "#B4D7FD"
+        ]
+      },
+      "paint_0:1342": {
+        "value": []
+      },
+      "paint_0:1346": {
+        "value": [
+          "#368CFF"
+        ]
+      },
+      "paint_0:1349": {
+        "value": [
+          "#318EEE"
+        ]
+      },
+      "paint_0:1361": {
+        "value": [
+          "linear-gradient(180deg, #E0EFFF 4%, #E0EFFF 26%, #F6FCFF 27%, #F1F8FF 100%)"
+        ]
+      },
+      "paint_0:1367": {
+        "value": [
+          "linear-gradient(144deg, #5397EF 30%, rgba(162, 226, 248, 0) 77%)"
+        ]
+      },
+      "paint_1:4250": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/b62fb6f35cd3a79357041442c9c4902b.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:1384": {
+        "value": [
+          "linear-gradient(180deg, #E0EFFF 4%, #E0EFFF 26%, #FFFFFF 27%, #F1F8FF 100%)"
+        ]
+      },
+      "paint_1:4238": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/24da2ff65ad8bd51d014e9dd15293b6a.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:4244": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/23fa92aa7da39146bb6d10ea189fc0ea.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:1426": {
+        "value": [
+          "linear-gradient(0deg, #FFFFFF 0%, #DCEDFF 110%)"
+        ]
+      },
+      "paint_0:1434": {
+        "value": [
+          "linear-gradient(158deg, #3394E5 20%, #175BC7 64%)"
+        ]
+      },
+      "paint_0:1447": {
+        "value": [
+          "linear-gradient(256deg, #BAD7FF -17%, rgba(181, 224, 255, 0.3994) 73%, rgba(255, 255, 255, 0) 112%)"
+        ]
+      },
+      "paint_0:1456": {
+        "value": [
+          "linear-gradient(148deg, #5397EF 41%, rgba(162, 226, 248, 0) 74%)"
+        ]
+      },
+      "paint_1:4232": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/9b72b29002d002c4473ff086b4b0e9f6.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:1463": {
+        "value": [
+          "linear-gradient(114deg, #5397EF 37%, rgba(162, 226, 248, 0) 84%)"
+        ]
+      },
+      "paint_0:1466": {
+        "value": [
+          "linear-gradient(160deg, #5397EF 52%, rgba(162, 226, 248, 0) 72%)"
+        ]
+      },
+      "paint_1:4214": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/59760139ea4c2259c5a0279f49e1197d.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:4226": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/c3c72c7839fbe2ff4e9fb0b7b144a930.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:1477": {
+        "value": [
+          "linear-gradient(158deg, #5397EF 40%, rgba(162, 226, 248, 0) 71%)"
+        ]
+      },
+      "paint_1:4220": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/66ac1532b962baa420744624de1c5302.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:27": {
+        "value": [
+          "rgba(255, 255, 255, 0.4)",
+          "rgba(255, 255, 255, 0.4)"
+        ]
+      },
+      "paint_0:37": {
+        "value": [
+          "linear-gradient(178deg, #2A60B4 5%, #5799E8 69%, #B3C9F3 101%)"
+        ]
+      },
+      "paint_0:59": {
+        "value": [
+          "linear-gradient(182deg, #FFB8BF -2%, #F23D46 26%, #FF6685 56%, rgba(147, 194, 255, 0) 99%)"
+        ]
+      },
+      "paint_0:66": {
+        "value": [
+          "linear-gradient(180deg, #FF7F9C -7%, #F03A56 39%, #F2263E 70%, #FFA79E 100%)"
+        ]
+      },
+      "paint_0:85": {
+        "value": [
+          "linear-gradient(141deg, #FD5D74 -6%, rgba(255, 255, 255, 0) 100%)"
+        ]
+      },
+      "paint_0:94": {
+        "value": [
+          "#FDF4BF"
+        ]
+      },
+      "paint_0:96": {
+        "value": [
+          "#FCE996"
+        ]
+      },
+      "paint_0:98": {
+        "value": [
+          "#F9CC45"
+        ]
+      },
+      "paint_0:100": {
+        "value": [
+          "#F7BA1E"
+        ]
+      },
+      "paint_0:1495": {
+        "value": [
+          "linear-gradient(180deg, #DCEBFF 4%, #FFFFFF 16%, rgba(255, 255, 255, 0.8) 100%)",
+          "linear-gradient(180deg, #DCEBFF 4%, #FFFFFF 16%, rgba(255, 255, 255, 0.8) 100%)"
+        ]
+      },
+      "paint_0:1510": {
+        "value": [
+          "linear-gradient(180deg, #EC4D66 0%, #E02C1E 100%)"
+        ]
+      },
+      "paint_0:1517": {
+        "value": [
+          "linear-gradient(270deg, #FF3F53 11%, #FFDFDF 31%, #3E82FF 55%)"
+        ]
+      },
+      "paint_0:1522": {
+        "value": [
+          "linear-gradient(270deg, #FF3F53 5%, #FFDFDF 30%, #3E82FF 55%)"
+        ]
+      },
+      "paint_0:1527": {
+        "value": [
+          "linear-gradient(270deg, #FF3F53 5%, #FFDFDF 31%, #3E82FF 55%)"
+        ]
+      },
+      "paint_0:68": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:1582": {
+        "value": [
+          "linear-gradient(99deg, #EAF3FF 0%, #A3C9FF 10%, #6EA0EE 25%, #327CF2 48%, #6A9AED 80%, rgba(193, 198, 255, 0) 111%)"
+        ]
+      },
+      "paint_0:1599": {
+        "value": []
+      },
+      "paint_0:1628": {
+        "value": [
+          "#497AED"
+        ]
+      },
+      "paint_0:179": {
+        "value": [
+          "#F23346"
+        ]
+      },
+      "paint_0:1659": {
+        "value": [
+          "linear-gradient(180deg, rgba(239, 246, 255, 0.1) -2%, rgba(255, 255, 255, 0.95) 25%, rgba(255, 255, 255, 0.8) 100%)",
+          "linear-gradient(180deg, rgba(239, 246, 255, 0.1) -2%, rgba(255, 255, 255, 0.95) 25%, rgba(255, 255, 255, 0.8) 100%)"
+        ]
+      },
+      "paint_0:1665": {
+        "value": [
+          "linear-gradient(180deg, rgba(255, 255, 255, 0.1) -2%, rgba(255, 255, 255, 0.95) 16%, rgba(255, 255, 255, 0.8) 100%)",
+          "linear-gradient(180deg, rgba(255, 255, 255, 0.1) -2%, rgba(255, 255, 255, 0.95) 16%, rgba(255, 255, 255, 0.8) 100%)"
+        ]
+      },
+      "paint_0:1672": {
+        "value": [
+          "linear-gradient(270deg, #F1F7FF 0%, #CFE1FF 100%)"
+        ]
+      },
+      "paint_0:1686": {
+        "value": [
+          "linear-gradient(270deg, #FFE5D8 -4%, #F74545 17%, #F85845 76%, #FE9271 94%, #FFEBE3 98%, #FFFFFF 100%)"
+        ]
+      },
+      "paint_1:4176": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/6eb5228a1001f3f9c31dee65e93780d8.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:1697": {
+        "value": [
+          "#E41F0E"
+        ]
+      },
+      "paint_1:4208": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/3522dfd6989b919c5d99934fb0ecd748.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_0:1703": {
+        "value": [
+          "linear-gradient(216deg, #CAD7FF 40%, #FFFFFF 58%)"
+        ]
+      }
+    },
+    "allTexts": [
+      "半导体行业波动显著，机遇与风险并存。对于波动承受有限的投资者，不妨以小仓位先行参与，或通过定投分批买入。",
+      "半导体导电性介于导体与绝缘体之间，且可人为调控，凭借这一特性，硅、锗、砷化镓等半导体材料成为芯片制造不可或缺的核心原料。",
+      "数据来源：SEMI，截至2024.12.31",
+      "2025年全球半导体设备市场规模达1351亿美元",
+      "决定了能不能造芯片，关注技术卡脖子、国产替代进度",
+      "决定了芯片性能强不强，关注工艺迭代、产能扩张、毛\n利率水平",
+      "主要受制于光刻机、高端材料、核心零部件、先进工艺四大瓶颈",
+      "把芯片\"包装\"起来，技术成熟、成本较低、可靠性较高。",
+      "主要有2.5D(平铺) 3D(堆叠)等方式，是提升芯片性能的关键路径。",
+      "直接受益于AI技术发展，是当前最强劲的需求引擎，拉动高端算力芯片、HBM存储、高速互联芯片等需求爆发。",
+      "AI赋能下，智能手机、PC、可穿戴设备迎来创新周期，带动芯片升级换代。",
+      "随着\"物理AI\"的概念普及，智能车、机器人等产品涌现，带动相关芯片需求稳步增长。",
+      "决定了行业有没有订单，关注行业景气度、新增需求爆发",
+      "风险提示：观点仅供参考，不构成投资建议，基金有风险，投资须谨慎。以上产品由对应基金管理有限公司发行与管理，招商银行作为代销机构不承担产品的投资和兑付责任。基金过",
+      "基金销售费率详见产品详情页中的\"交易规则\"",
+      "数据来源：WSTS春季预测，截至20260602。其中2026年存储芯片规模预计增长约3.5倍至8039亿美元，逻辑芯片预计增长37.3%至4113亿美元",
+      "WSTS（世界半导体贸易统计组织）最新预测显示，受AI与数据中心需求急剧扩张推动，全球半导体市场规模高速增长。",
+      "SEMI报告显示，2026年Q1全球半导体设备销售额达365.5亿美元，同比增长14%，创单季历史新高。AI相关投资持续驱动先进逻辑、DRAM及先进封装产能扩张",
+      "资料来源：财联社，发布于2026.06.14"
+    ]
+  },
+  "rootContainer": {
+    "width": "375px",
+    "minHeight": "2880px",
+    "background": "#DFEBFE",
+    "overflow": "hidden",
+    "position": "relative"
+  },
+  "splitContainers": [
+    {
+      "name": "编组 68",
+      "type": "FRAME",
+      "id": "0:1760",
+      "width": 323,
+      "height": 336,
+      "x": 26,
+      "y": 388
+    },
+    {
+      "name": "编组 24",
+      "type": "FRAME",
+      "id": "0:1962",
+      "width": 295,
+      "height": 36,
+      "x": 40,
+      "y": 1849
+    },
+    {
+      "name": "编组 36",
+      "type": "FRAME",
+      "id": "0:1946",
+      "width": 347,
+      "height": 544,
+      "x": 14,
+      "y": 1743
+    },
+    {
+      "name": "编组 54",
+      "type": "FRAME",
+      "id": "0:1853",
+      "width": 351,
+      "height": 1542,
+      "x": 12,
+      "y": 1135
+    },
+    {
+      "name": "编组 65",
+      "type": "FRAME",
+      "id": "0:2165",
+      "width": 323,
+      "height": 72,
+      "x": 26,
+      "y": 836
+    },
+    {
+      "name": "编组 47",
+      "type": "FRAME",
+      "id": "0:2163",
+      "width": 351,
+      "height": 379,
+      "x": 12,
+      "y": 746
+    }
+  ],
+  "nextAction": "STOP. This section LIST is only a directory — it has NO DSL nodes,  NO rowTexts. You CANNOT generate HTML from this list alone. Your NEXT ACTION: call mcp__getDesignSections with sectionIndex=0, then sectionIndex=1, ... up to sectionIndex=65 (total 66 calls). Fetch ALL 66 sections in batches of 3-5 before writing ANY HTML. Sections with nodeCount=3 and empty name are NOT empty — they contain real menu items and content (resolved from INSTANCE overrides during DSL transfer). WARNING: 12 sections have structureSiblingCount up to 4 — they look identical in the list (same nodeCount, empty name) but each has DIFFERENT text content and variant state. You MUST fetch ALL of them individually (do NOT skip any after fetching a few). Skipping sibling sections causes missing active-state styling and wrong menu item rendering. Skipping section DSL fetch is the #1 cause of missing menus, broken icons, and wrong data.",
+  "rules": [
+    "CRITICAL — Page positioning: the section LIST response contains splitContainers with page-absolute coordinates for each page region. Use splitContainers to construct the page skeleton (position:absolute with exact coordinates). Do NOT guess or stack with flex. IMPORTANT: splitContainers x/y are the container's absolute position on the canvas — they are NOT CSS margins/padding for child elements. Do NOT apply a container's y coordinate as top/margin-top on the main content wrapper. The main content area should start at top:0 within its own positioning context; sub-sections inside it use their own bbox y coordinates relative to the container, not to the page root.",
+    "CRITICAL — Multi-column sidebar layout: render ALL sidebar levels as persistent visible columns positioned via splitContainers coordinates. Do NOT use position:absolute/fixed for submenu panels (they become floating overlays and break the main content width). Instead, lay out ALL columns (primary sidebar + submenu + main content) side-by-side using flex or absolute positioning that ACCOUNTS for every column's width. The main content area width = rootContainer.width minus ALL sidebar column widths. Do NOT use flex:1 for main content when there are multiple sidebar columns — it will expand into the submenu's space. Each sidebar column's width comes from its splitContainer entry.",
+    "token filed must be generated as a variable (colors, shadows, fonts, etc.) and the token field must be displayed in the comment",
+    "componentDocumentLinks is a list of frontend component documentation links. When it exists and is not empty, use mcp__getComponentLink to get the documentation.",
+    "",
+    "CRITICAL — SVG FROM PATH NODES (MUST FOLLOW): Every PATH node has a `svgKey` field (a short sequential ID like `#0`, `#1`). The SVG markup is NOT in the DSL. You MUST place a placeholder `@@SVG:{svgKey}@@` where each icon goes, then call `mcp__applyDesign` at the end to inject the real high-precision SVG. NEVER hand-write `<path d=\"...\">` — the DSL does NOT contain path data. NEVER leave a PATH node unrendered — every icon MUST have a `@@SVG:{svgKey}@@` placeholder.",
+    "CRITICAL — RENDER EVERY ICON IN PATH NODES: Every PATH node has a `svgKey`. Place `@@SVG:{svgKey}@@` for each — sidebar menu icons, table header sort/filter/search icons, pagination prev/next/refresh icons, and action buttons. A header cell or menu item showing only plain text is a fidelity defect. After ALL placeholders are placed, call `mcp__applyDesign` to replace them with real SVG.",
+    "",
+    "CRITICAL — _placeholder TEXT handling: TEXT nodes with `_placeholder: true` (name==text) are listed in `dsl.placeholderTexts`. These are component-library boilerplate — NOT real column headers, labels, or data. Do NOT render them as table headers, column names, or visible UI labels. They appear alongside real text in the same section (e.g. a header cell has both realTitle='用户名称' and placeholder='Hillstone Design') — render ONLY the real title, omit the placeholder. EXCEPTION: if a placeholder text is the SOLE text in its section AND it reads as a legitimate brand name or page title (e.g. '智源智能安全运营平台'), it may be real content — render it in its proper context (logo area, page title), never as a table header.",
+    "CRITICAL — CLOSED-SET TEXT: the section LIST response carries `rootMetadata.allTexts` — the complete whitelist of text strings in this design (including placeholder strings). Any visible string NOT in allTexts is a hallucination and MUST be removed. Use `dsl.placeholderTexts` in each section to identify which strings are component-library boilerplate.",
+    "",
+    "CRITICAL — INSTANCE fill color: when an INSTANCE has both `fill` and `_color`, use `_color` directly as the CSS value. Do NOT guess colors from _variantProps semantics.",
+    "CRITICAL — INSTANCE _variantProps: compare across siblings for selected/hovered/disabled. Active class MUST match DSL variant state, NOT a default index.",
+    "CRITICAL — Render count = structureSiblingCount: if ssc=1, that single instance IS complete — do NOT fabricate extra rows/items.",
+    "CRITICAL — BACKGROUND FROM splitContainers: splitContainers[].background IS the exact CSS background-color. Copy verbatim, no changes.",
+    "CRITICAL — FRAME/GROUP opacity: translate to rgba() on background only, NOT CSS opacity (would make children translucent).",
+    "CRITICAL — rowTexts: each entry has parentType/parentName for context and `_placeholder: true` if boilerplate. Use parentName to place text correctly; skip _placeholder entries. IMPORTANT: if a short numeric text (like '8') has parentName matching a button INSTANCE (e.g. '分类[a3]=文本按钮,类型[aI]=危险'), it is likely a badge/count indicator overlaid on that button — NOT part of the button label. Do NOT render it inside the button text; render it as a separate badge element positioned on the button corner, OR omit it if the design does not show a visible badge on that specific button instance.",
+    "Render ALL nodes recursively. Section root layoutStyle.width = section width. Do not call mcp__getDsl after completing section workflow.",
+    "CRITICAL — ICON-TO-NODE BINDING: match PATH nodes to their UI position by the node's ancestor name. A PATH node under a menu item belongs in that menu's icon slot; one under a button/refresh belongs in that button. NEVER substitute a memorized icon — use the exact `@@SVG:{svgKey}@@` from the PATH node in its section. NEVER reuse a svgKey from a different section.",
+    "CRITICAL — TEXT PROVENANCE SELF-CHECK: before finalizing output, verify every visible text string exists in allTexts. If you emit MORE distinct strings than allTexts.length, you are hallucinating. Typical hallucinations: fabricated table headers, invented data, brand tokens, generic labels not in the design.",
+    "CRITICAL — DO NOT SKIP SECTION DSL FETCH: the section LIST response is ONLY a directory (id/name/nodeCount/textPreview). It does NOT contain DSL nodes, rowTexts, or any rendering data. You CANNOT generate correct HTML from the list alone. You MUST call mcp__getDesignSections with sectionIndex=0, then 1, ... up to totalSections-1 to get each section's DSL. Generating HTML without fetching ALL section DSLs will produce missing content (menus, table data, icons) and incorrect SVGs — this is the #1 cause of broken output."
+  ]
+}

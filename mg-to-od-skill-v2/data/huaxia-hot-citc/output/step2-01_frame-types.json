@@ -1,0 +1,285 @@
+{
+  "frames": [
+    {
+      "groupId": "background",
+      "groupName": "背景",
+      "moduleJson": "data/huaxia-hot-citc/modules/00-背景图.json",
+      "frameType": "fully-fixed",
+      "textCount": 0,
+      "texts": [],
+      "repeatable": false,
+      "repeatCount": 1
+    },
+    {
+      "groupId": "hero",
+      "groupName": "营销头图",
+      "moduleJson": "data/huaxia-hot-citc/modules/05-营销头图.json",
+      "frameType": "template",
+      "textCount": 3,
+      "texts": [
+        {
+          "text": "市场开启震荡模式",
+          "nodeId": "0:10",
+          "fromName": false
+        },
+        {
+          "text": "“反脆弱”红利低波",
+          "nodeId": "0:13",
+          "fromName": true
+        },
+        {
+          "text": "“反脆弱”价值凸显",
+          "nodeId": "0:16",
+          "fromName": true
+        }
+      ],
+      "repeatable": false,
+      "repeatCount": 1
+    },
+    {
+      "groupId": "hotspotExpress",
+      "groupName": "热点速递",
+      "moduleJson": "data/huaxia-hot-citc/modules/08-热点速递.json",
+      "frameType": "content",
+      "textCount": 3,
+      "texts": [
+        {
+          "text": "随着AI科技板块加速上涨及估值大幅扩张，市场震荡可能性提升，部分投资者高低切换，流向相对低位抗跌的低位资产，万得数据显示，5月18日-22日，红利低波ETF华夏一周净流入1.61亿元，从资金流角度来看，近期红利类ETF重获市场青睐。国信证券认为，红利低波策略所依赖的“稳收益+抗波动”市场环境正加速形成，配置价值有望持续凸显。",
+          "nodeId": "0:33",
+          "fromName": false
+        },
+        {
+          "text": "热点速递",
+          "nodeId": "0:46",
+          "fromName": false
+        },
+        {
+          "text": "数据来源：Wind，截至2026.5.22。",
+          "nodeId": "0:49",
+          "fromName": false
+        }
+      ],
+      "repeatable": false,
+      "repeatCount": 1
+    },
+    {
+      "groupId": "productCard",
+      "groupName": "产品卡",
+      "moduleJson": "data/huaxia-hot-citc/modules/01-产品卡.json",
+      "frameType": "template",
+      "textCount": 6,
+      "texts": [
+        {
+          "text": "小试一笔",
+          "nodeId": "0:55",
+          "fromName": false
+        },
+        {
+          "text": "华夏中证红利低波动ETF发起式联接C",
+          "nodeId": "0:57",
+          "fromName": false
+        },
+        {
+          "text": "021483",
+          "nodeId": "0:63",
+          "fromName": false
+        },
+        {
+          "text": "较高风险",
+          "nodeId": "0:66",
+          "fromName": false
+        },
+        {
+          "text": "近一年涨跌幅",
+          "nodeId": "4:0409",
+          "fromName": false
+        },
+        {
+          "text": "2.80%",
+          "nodeId": "4:269",
+          "fromName": false
+        }
+      ],
+      "repeatable": false,
+      "repeatCount": 1
+    },
+    {
+      "groupId": "recommendations",
+      "groupName": "产品推荐理由",
+      "moduleJson": "data/huaxia-hot-citc/modules/02-产品推荐理由A.json",
+      "frameType": "content",
+      "textCount": 19,
+      "texts": [
+        {
+          "text": "左手红利 右手低波",
+          "nodeId": "0:76",
+          "fromName": false
+        },
+        {
+          "text": "攻守兼备的组合底仓",
+          "nodeId": "0:80",
+          "fromName": false
+        },
+        {
+          "text": "中证红利低波动指数选取50只流动性好、连续分红、红利支付率适中、每股股息正增长、股息率高且波动率低的股票，采用股息率加权。\n指数以“红利+低波动”为核心策略，在保留高股息属性基础上，额外叠加低波动筛选。",
+          "nodeId": "0:84",
+          "fromName": false
+        },
+        {
+          "text": "低波动因子",
+          "nodeId": "0:91",
+          "fromName": false
+        },
+        {
+          "text": "市场行为维度\n（异常风险规避）",
+          "nodeId": "0:92",
+          "fromName": false
+        },
+        {
+          "text": "博彩效应",
+          "nodeId": "0:101",
+          "fromName": false
+        },
+        {
+          "text": "机构效应",
+          "nodeId": "0:109",
+          "fromName": false
+        },
+        {
+          "text": "代表性偏差",
+          "nodeId": "0:117",
+          "fromName": false
+        },
+        {
+          "text": "红利因子",
+          "nodeId": "0:123",
+          "fromName": false
+        },
+        {
+          "text": "企业质量维度\n（长期投资价值）",
+          "nodeId": "0:124",
+          "fromName": false
+        },
+        {
+          "text": "公司业绩稳定",
+          "nodeId": "0:132",
+          "fromName": false
+        },
+        {
+          "text": "留存收益充足",
+          "nodeId": "0:140",
+          "fromName": false
+        },
+        {
+          "text": "经营预期良好",
+          "nodeId": "0:148",
+          "fromName": false
+        },
+        {
+          "text": "压舱石",
+          "nodeId": "0:152",
+          "fromName": false
+        },
+        {
+          "text": "保险杠",
+          "nodeId": "0:155",
+          "fromName": false
+        },
+        {
+          "text": "➕",
+          "nodeId": "0:158",
+          "fromName": false
+        },
+        {
+          "text": "红利低波组合",
+          "nodeId": "0:163",
+          "fromName": false
+        },
+        {
+          "text": "红利低波组合的投资逻辑",
+          "nodeId": "0:172",
+          "fromName": false
+        },
+        {
+          "text": "资料来源：华泰研究。",
+          "nodeId": "0:177",
+          "fromName": false
+        }
+      ],
+      "repeatable": false,
+      "repeatCount": 1
+    },
+    {
+      "groupId": "riskDisclosure",
+      "groupName": "风险警告",
+      "moduleJson": "data/huaxia-hot-citc/modules/07-风险警告.json",
+      "frameType": "template",
+      "textCount": 9,
+      "texts": [
+        {
+          "text": "风险提示：基金非存款，产品有风险，投资须谨慎。本产品由华夏基金发行与管理，中信银行作为代销机构不承担产品的投资和兑付责任。以上内容仅供参考，不预示未来表现，也不作为任何投资建议。其中的观点和预测代表当时观点，今后可能发生改变，未经同意请勿引用或转载。\n基金管理人承诺以诚实信用、勤勉尽责的原则管理和运用基金资产但不保证本基金一定盈利，也不保证最低收益。本基金的过往业绩及其净值高低并不预示其未来业绩表现，基金管理人管理的其他基金的业绩并不构成对本基金业绩表现的保证。基金管理人/基金销售机构提醒您基金投资的“买者自负”原则，在做出投资决策后，基金运营状况与基金净值变化引致的投资风险，由您自行负担。基金管理人、基金托管人、基金销售机构及相关机构不对基金投资收益做出任何承诺或保证。您在做出投资决策之前，请仔细阅读基金合同、基金招募说明书和基金产品资料概要等产品法律文件和风险揭示书，充分认识本基金的风险收益特征和产品特性，认真考虑本基金存在的各项风险因素，并根据自身的投资目的、投资期限、投资经验、资产状况等因素充分考虑自身的风险承受能力，在了解产品情况及销售适当性意见的基础上，理性判断并谨慎做出投资决策。华夏基金基金客服热线：电话400-818-6666。\n详询您的理财经理或我行客服电话95558。",
+          "nodeId": "0:401",
+          "fromName": false
+        },
+        {
+          "text": "0.15%",
+          "nodeId": "0:403",
+          "fromName": false
+        },
+        {
+          "text": "收费方式/年费率",
+          "nodeId": "0:404",
+          "fromName": false
+        },
+        {
+          "text": "0.20%",
+          "nodeId": "0:405",
+          "fromName": false
+        },
+        {
+          "text": "0.05%",
+          "nodeId": "0:406",
+          "fromName": false
+        },
+        {
+          "text": "管理费",
+          "nodeId": "0:407",
+          "fromName": false
+        },
+        {
+          "text": "费用类别",
+          "nodeId": "0:408",
+          "fromName": false
+        },
+        {
+          "text": "销售服务费",
+          "nodeId": "0:409",
+          "fromName": false
+        },
+        {
+          "text": "托管费",
+          "nodeId": "0:410",
+          "fromName": false
+        }
+      ],
+      "repeatable": false,
+      "repeatCount": 1
+    },
+    {
+      "groupId": "bankEnding",
+      "groupName": "银行结束语",
+      "moduleJson": "data/huaxia-hot-citc/modules/06-银行结束语.json",
+      "frameType": "fully-fixed",
+      "textCount": 1,
+      "texts": [
+        {
+          "text": "银行结束语",
+          "nodeId": "0:349",
+          "fromName": true
+        }
+      ],
+      "repeatable": false,
+      "repeatCount": 1
+    }
+  ]
+}

@@ -1,0 +1,895 @@
+{
+  "modules": [
+    {
+      "groupId": "background",
+      "groupName": "背景",
+      "moduleIndexes": [
+        0
+      ],
+      "representativeIndex": 0,
+      "fullyFixed": true,
+      "frameId": "13:393",
+      "frameName": "背景",
+      "frameWidth": 1125,
+      "fixedGroups": [
+        {
+          "groupId": "13:393",
+          "groupName": "背景",
+          "role": "fully-fixed-frame",
+          "nodeIds": [
+            {
+              "nodeId": "13:393",
+              "name": "背景图"
+            },
+            {
+              "nodeId": "0:4",
+              "name": "bg"
+            },
+            {
+              "nodeId": "0:5",
+              "name": "颜色填充 1"
+            }
+          ],
+          "reason": "完全固定 frame：无可变内容"
+        }
+      ],
+      "zones": []
+    },
+    {
+      "groupId": "hero",
+      "groupName": "营销头图",
+      "moduleIndexes": [
+        5
+      ],
+      "representativeIndex": 5,
+      "frameType": "template",
+      "repeatable": false,
+      "frameId": "13:328",
+      "frameName": "营销头图",
+      "frameWidth": 1125,
+      "fixedGroups": [],
+      "slots": [
+        {
+          "nodeId": "0:10",
+          "name": "市场开启震荡模式",
+          "text": "市场开启震荡模式"
+        },
+        {
+          "nodeId": "0:13",
+          "name": "“反脆弱”红利低波",
+          "text": "“反脆弱”红利低波"
+        },
+        {
+          "nodeId": "0:16",
+          "name": "“反脆弱”价值凸显",
+          "text": "“反脆弱”价值凸显"
+        }
+      ]
+    },
+    {
+      "groupId": "hotspotExpress",
+      "groupName": "热点速递",
+      "moduleIndexes": [
+        8
+      ],
+      "representativeIndex": 8,
+      "frameType": "content",
+      "repeatable": false,
+      "frameId": "13:386",
+      "frameName": "热点速递",
+      "frameWidth": 1081.75048828125,
+      "fixedGroups": [
+        {
+          "groupId": "0:23",
+          "groupName": "Clip",
+          "role": "mask",
+          "nodeIds": [
+            {
+              "nodeId": "0:23",
+              "name": "Clip"
+            },
+            {
+              "nodeId": "0:25",
+              "name": "矩形 153 拷贝 3"
+            },
+            {
+              "nodeId": "0:24",
+              "name": "图层 738"
+            }
+          ],
+          "reason": "蒙版组"
+        },
+        {
+          "groupId": "0:28",
+          "groupName": "Clip",
+          "role": "mask",
+          "nodeIds": [
+            {
+              "nodeId": "0:28",
+              "name": "Clip"
+            },
+            {
+              "nodeId": "0:30",
+              "name": "形状 5"
+            },
+            {
+              "nodeId": "0:29",
+              "name": "图层 739"
+            }
+          ],
+          "reason": "蒙版组"
+        },
+        {
+          "groupId": "0:39",
+          "groupName": "Clip",
+          "role": "mask",
+          "nodeIds": [
+            {
+              "nodeId": "0:39",
+              "name": "Clip"
+            },
+            {
+              "nodeId": "0:41",
+              "name": "圆角矩形 6"
+            },
+            {
+              "nodeId": "0:40",
+              "name": "图层 737"
+            }
+          ],
+          "reason": "蒙版组"
+        },
+        {
+          "groupId": "0:35",
+          "groupName": "热点速递 拷贝",
+          "role": "fixed-label",
+          "nodeIds": [
+            {
+              "nodeId": "0:35",
+              "name": "热点速递 拷贝"
+            },
+            {
+              "nodeId": "0:36",
+              "name": "组 23"
+            },
+            {
+              "nodeId": "0:37",
+              "name": "圆角矩形 6"
+            },
+            {
+              "nodeId": "0:38",
+              "name": "圆角矩形 6"
+            },
+            {
+              "nodeId": "0:39",
+              "name": "Clip"
+            },
+            {
+              "nodeId": "0:41",
+              "name": "圆角矩形 6"
+            },
+            {
+              "nodeId": "0:40",
+              "name": "图层 737"
+            },
+            {
+              "nodeId": "0:42",
+              "name": "形状 4"
+            },
+            {
+              "nodeId": "0:43",
+              "name": "形状 3"
+            },
+            {
+              "nodeId": "0:44",
+              "name": "ef-redian-gongju"
+            },
+            {
+              "nodeId": "0:45",
+              "name": "热点速递"
+            },
+            {
+              "nodeId": "0:46",
+              "name": "热点速递"
+            },
+            {
+              "nodeId": "0:47",
+              "name": "Gradient Overlay"
+            }
+          ],
+          "reason": "TEXT '热点速递' 在 zone 外，为固定 UI 元素"
+        }
+      ],
+      "zones": [
+        {
+          "id": "zone-0",
+          "boundary": {
+            "xStart": 24.989999771118164,
+            "xEnd": 1099.0000095367432,
+            "yStart": 540.0,
+            "yEnd": 1123.3900146484375
+          },
+          "skeletonLayers": [
+            {
+              "nodeId": "0:22",
+              "name": "矩形 153 拷贝 3",
+              "visibleRect": {
+                "x": 24.989999771118164,
+                "y": 540.0,
+                "width": 1074.010009765625,
+                "height": 583.3900146484375
+              }
+            },
+            {
+              "nodeId": "0:32",
+              "name": "矩形 751",
+              "visibleRect": {
+                "x": 65.0,
+                "y": 598.0,
+                "width": 978.0,
+                "height": 447.0
+              }
+            }
+          ],
+          "slots": [
+            {
+              "nodeId": "0:33",
+              "name": "随着AI科技板块加速上涨及估值大幅扩张，市场震荡可能性提升，部分投资者高低切换，流向相对低位抗跌的低位资产，万得数据显示，5月18日-22日，红利低波ETF华夏一周净流入1.61亿元，从资金流角度来看，近期红利类ETF重获市场青睐。国信证券认为，红利低波策略所依赖的“稳收益+抗波动”市场环境正加速形成，配置价值有望持续凸显。",
+              "text": "随着AI科技板块加速上涨及估值大幅扩张，市场震荡可能性提升，部分投资者高低切换，流向相对低位抗跌的低位资产，万得数据显示，5月18日-22日，红利低波ETF华夏一周净流入1.61亿元，从资金流角度来看，近期红利类ETF重获市场青睐。国信证券认为，红利低波策略所依赖的“稳收益+抗波动”市场环境正加速形成，配置价值有望持续凸显。"
+            },
+            {
+              "nodeId": "0:49",
+              "name": "数据来源：Wind，截至2026.5.22。",
+              "text": "数据来源：Wind，截至2026.5.22。"
+            }
+          ],
+          "contentArea": {
+            "x": 48.989999771118164,
+            "y": 564.0,
+            "width": 1026.010009765625,
+            "height": 535.3900146484375
+          },
+          "padding": {
+            "top": 24,
+            "bottom": 24,
+            "left": 24,
+            "right": 24
+          },
+          "textAlign": "left"
+        }
+      ]
+    },
+    {
+      "groupId": "productCard",
+      "groupName": "产品卡",
+      "moduleIndexes": [
+        1
+      ],
+      "representativeIndex": 1,
+      "frameType": "template",
+      "repeatable": false,
+      "frameId": "13:390",
+      "frameName": "产品卡",
+      "frameWidth": 1075.02001953125,
+      "fixedGroups": [
+        {
+          "groupId": "0:53",
+          "groupName": "按钮",
+          "role": "brand-badge",
+          "nodeIds": [
+            {
+              "nodeId": "0:53",
+              "name": "按钮"
+            },
+            {
+              "nodeId": "0:54",
+              "name": "矩形 18"
+            },
+            {
+              "nodeId": "0:55",
+              "name": "小试一笔"
+            }
+          ],
+          "reason": "TEXT '小试一笔' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "4:0409",
+          "groupName": "输入文本",
+          "role": "fixed-texts",
+          "nodeIds": [
+            {
+              "nodeId": "4:0409",
+              "name": "输入文本"
+            }
+          ],
+          "reason": "TEXT '近一年涨跌幅' 为固定文案，连带容器整体固定"
+        }
+      ],
+      "slots": [
+        {
+          "nodeId": "0:57",
+          "name": "华夏中证红利低波动ETF发起式联接C",
+          "text": "华夏中证红利低波动ETF发起式联接C"
+        },
+        {
+          "nodeId": "0:66",
+          "name": "较高风险",
+          "text": "较高风险"
+        },
+        {
+          "nodeId": "0:63",
+          "name": "021483",
+          "text": "021483"
+        },
+        {
+          "nodeId": "4:269",
+          "name": "文字",
+          "text": "2.80%"
+        }
+      ]
+    },
+    {
+      "groupId": "recommendations",
+      "groupName": "产品推荐理由",
+      "moduleIndexes": [
+        0
+      ],
+      "representativeIndex": 0,
+      "frameType": "content",
+      "repeatable": false,
+      "frameId": "13:387",
+      "frameName": "产品推荐理由",
+      "frameWidth": 1076,
+      "fixedGroups": [
+        {
+          "groupId": "0:71",
+          "groupName": "Clip",
+          "role": "mask",
+          "nodeIds": [
+            {
+              "nodeId": "0:71",
+              "name": "Clip"
+            },
+            {
+              "nodeId": "0:73",
+              "name": "矩形 1000"
+            },
+            {
+              "nodeId": "0:72",
+              "name": "图层 742"
+            }
+          ],
+          "reason": "蒙版组"
+        }
+      ],
+      "zones": [
+        {
+          "id": "zone-0",
+          "boundary": {
+            "xStart": 25,
+            "xEnd": 1101,
+            "yStart": 1764.7900390625,
+            "yEnd": 1952.77001953125
+          },
+          "skeletonLayers": [
+            {
+              "nodeId": "0:70",
+              "name": "矩形 1000",
+              "visibleRect": {
+                "x": 25,
+                "y": 1764.7900390625,
+                "width": 1076,
+                "height": 187.97998046875
+              }
+            }
+          ],
+          "slots": [
+            {
+              "nodeId": "0:76",
+              "name": "左手红利 右手低波",
+              "text": "左手红利 右手低波"
+            },
+            {
+              "nodeId": "0:80",
+              "name": "攻守兼备的组合底仓",
+              "text": "攻守兼备的组合底仓"
+            }
+          ],
+          "contentArea": {
+            "x": 49,
+            "y": 1788.7900390625,
+            "width": 1028,
+            "height": 139.97998046875
+          },
+          "padding": {
+            "top": 24,
+            "bottom": 24,
+            "left": 24,
+            "right": 24
+          },
+          "textAlign": "center"
+        },
+        {
+          "id": "zone-1",
+          "boundary": {
+            "xStart": 25,
+            "xEnd": 1101,
+            "yStart": 1952.77001953125,
+            "yEnd": 2816.0599975585938
+          },
+          "skeletonLayers": [
+            {
+              "nodeId": "0:83",
+              "name": "矩形 1000 拷贝",
+              "visibleRect": {
+                "x": 25,
+                "y": 1952.77001953125,
+                "width": 1076,
+                "height": 863.2899780273438
+              }
+            },
+            {
+              "nodeId": "0:87",
+              "name": "矩形 1006 拷贝 14",
+              "visibleRect": {
+                "x": 754.9899978637695,
+                "y": 2344.010009765625,
+                "width": 300.0,
+                "height": 382.9800109863281
+              }
+            },
+            {
+              "nodeId": "0:119",
+              "name": "矩形 1006 拷贝 14",
+              "visibleRect": {
+                "x": 67.98999786376953,
+                "y": 2344.010009765625,
+                "width": 301.0,
+                "height": 382.9800109863281
+              }
+            }
+          ],
+          "slots": [
+            {
+              "nodeId": "0:84",
+              "name": "中证红利低波动指数选取50只流动性好、连续分红、红利支付率适中、每股股息正增长、股息率高且波动率低的股票，采用股息率加权。\n指数以“红利+低波动”为核心策略，在保留高股息属性基础上，额外叠加低波动筛选。",
+              "text": "中证红利低波动指数选取50只流动性好、连续分红、红利支付率适中、每股股息正增长、股息率高且波动率低的股票，采用股息率加权。\n指数以“红利+低波动”为核心策略，在保留高股息属性基础上，额外叠加低波动筛选。"
+            },
+            {
+              "nodeId": "0:172",
+              "name": "红利低波组合的投资逻辑",
+              "text": "红利低波组合的投资逻辑"
+            },
+            {
+              "nodeId": "0:123",
+              "name": "红利因子",
+              "text": "红利因子"
+            },
+            {
+              "nodeId": "0:163",
+              "name": "红利低波组合",
+              "text": "红利低波组合"
+            },
+            {
+              "nodeId": "0:91",
+              "name": "低波动因子",
+              "text": "低波动因子"
+            },
+            {
+              "nodeId": "0:124",
+              "name": "企业质量维度\n（长期投资价值）",
+              "text": "企业质量维度\n（长期投资价值）"
+            },
+            {
+              "nodeId": "0:92",
+              "name": "市场行为维度\n（异常风险规避）",
+              "text": "市场行为维度\n（异常风险规避）"
+            },
+            {
+              "nodeId": "0:152",
+              "name": "压舱石",
+              "text": "压舱石"
+            },
+            {
+              "nodeId": "0:158",
+              "name": "➕",
+              "text": "➕"
+            },
+            {
+              "nodeId": "0:132",
+              "name": "公司业绩稳定",
+              "text": "公司业绩稳定"
+            },
+            {
+              "nodeId": "0:101",
+              "name": "博彩效应",
+              "text": "博彩效应"
+            },
+            {
+              "nodeId": "0:155",
+              "name": "保险杠",
+              "text": "保险杠"
+            },
+            {
+              "nodeId": "0:140",
+              "name": "留存收益充足",
+              "text": "留存收益充足"
+            },
+            {
+              "nodeId": "0:109",
+              "name": "机构效应",
+              "text": "机构效应"
+            },
+            {
+              "nodeId": "0:148",
+              "name": "经营预期良好",
+              "text": "经营预期良好"
+            },
+            {
+              "nodeId": "0:117",
+              "name": "代表性偏差",
+              "text": "代表性偏差"
+            },
+            {
+              "nodeId": "0:177",
+              "name": "资料来源：华泰研究。",
+              "text": "资料来源：华泰研究。"
+            }
+          ],
+          "contentArea": {
+            "x": 49,
+            "y": 1976.77001953125,
+            "width": 1028,
+            "height": 815.2899780273438
+          },
+          "padding": {
+            "top": 24,
+            "bottom": 24,
+            "left": 24,
+            "right": 24
+          },
+          "textAlign": "left"
+        }
+      ]
+    },
+    {
+      "groupId": "riskDisclosure",
+      "groupName": "风险警告",
+      "moduleIndexes": [
+        7
+      ],
+      "representativeIndex": 7,
+      "frameType": "template",
+      "repeatable": false,
+      "frameId": "13:391",
+      "frameName": "风险警告",
+      "frameWidth": 1057,
+      "fixedGroups": [
+        {
+          "groupId": "0:401",
+          "groupName": "风险提示：基金非存款，产品有风险，投资须谨慎。本产品由华夏基金发行与管理，中信银行作为代销机构不承担产品的投资和兑付责任。以上内容仅供参考，不预示未来表现，也不作为任何投资建议。其中的观点和预测代表当时观点，今后可能发生改变，未经同意请勿引用或转载。\n基金管理人承诺以诚实信用、勤勉尽责的原则管理和运用基金资产但不保证本基金一定盈利，也不保证最低收益。本基金的过往业绩及其净值高低并不预示其未来业绩表现，基金管理人管理的其他基金的业绩并不构成对本基金业绩表现的保证。基金管理人/基金销售机构提醒您基金投资的“买者",
+          "role": "fixed-texts",
+          "nodeIds": [
+            {
+              "nodeId": "0:401",
+              "name": "风险提示：基金非存款，产品有风险，投资须谨慎。本产品由华夏基金发行与管理，中信银行作为代销机构不承担产品的投资和兑付责任。以上内容仅供参考，不预示未来表现，也不作为任何投资建议。其中的观点和预测代表当时观点，今后可能发生改变，未经同意请勿引用或转载。\n基金管理人承诺以诚实信用、勤勉尽责的原则管理和运用基金资产但不保证本基金一定盈利，也不保证最低收益。本基金的过往业绩及其净值高低并不预示其未来业绩表现，基金管理人管理的其他基金的业绩并不构成对本基金业绩表现的保证。基金管理人/基金销售机构提醒您基金投资的“买者"
+            }
+          ],
+          "reason": "TEXT '风险提示：基金非存款，产品有风险，投资须谨慎。本产品由华夏基金发行与管理，中信银行作为代销机构不承担产品的投资和兑付责任。以上内容仅供参考，不预示未来表现，也不作为任何投资建议。其中的观点和预测代表当时观点，今后可能发生改变，未经同意请勿引用或转载。\n基金管理人承诺以诚实信用、勤勉尽责的原则管理和运用基金资产但不保证本基金一定盈利，也不保证最低收益。本基金的过往业绩及其净值高低并不预示其未来业绩表现，基金管理人管理的其他基金的业绩并不构成对本基金业绩表现的保证。基金管理人/基金销售机构提醒您基金投资的“买者自负”原则，在做出投资决策后，基金运营状况与基金净值变化引致的投资风险，由您自行负担。基金管理人、基金托管人、基金销售机构及相关机构不对基金投资收益做出任何承诺或保证。您在做出投资决策之前，请仔细阅读基金合同、基金招募说明书和基金产品资料概要等产品法律文件和风险揭示书，充分认识本基金的风险收益特征和产品特性，认真考虑本基金存在的各项风险因素，并根据自身的投资目的、投资期限、投资经验、资产状况等因素充分考虑自身的风险承受能力，在了解产品情况及销售适当性意见的基础上，理性判断并谨慎做出投资决策。华夏基金基金客服热线：电话400-818-6666。\n详询您的理财经理或我行客服电话95558。' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:404",
+          "groupName": "收费方式/年费率",
+          "role": "fixed-texts",
+          "nodeIds": [
+            {
+              "nodeId": "0:404",
+              "name": "收费方式/年费率"
+            }
+          ],
+          "reason": "TEXT '收费方式/年费率' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:407",
+          "groupName": "管理费",
+          "role": "fixed-texts",
+          "nodeIds": [
+            {
+              "nodeId": "0:407",
+              "name": "管理费"
+            }
+          ],
+          "reason": "TEXT '管理费' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:408",
+          "groupName": "费用类别",
+          "role": "fixed-texts",
+          "nodeIds": [
+            {
+              "nodeId": "0:408",
+              "name": "费用类别"
+            }
+          ],
+          "reason": "TEXT '费用类别' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:409",
+          "groupName": "销售服务费",
+          "role": "fixed-texts",
+          "nodeIds": [
+            {
+              "nodeId": "0:409",
+              "name": "销售服务费"
+            }
+          ],
+          "reason": "TEXT '销售服务费' 为固定文案，连带容器整体固定"
+        },
+        {
+          "groupId": "0:410",
+          "groupName": "托管费",
+          "role": "fixed-texts",
+          "nodeIds": [
+            {
+              "nodeId": "0:410",
+              "name": "托管费"
+            }
+          ],
+          "reason": "TEXT '托管费' 为固定文案，连带容器整体固定"
+        }
+      ],
+      "slots": [
+        {
+          "nodeId": "0:403",
+          "name": "0.15%",
+          "text": "0.15%"
+        },
+        {
+          "nodeId": "0:406",
+          "name": "0.05%",
+          "text": "0.05%"
+        },
+        {
+          "nodeId": "0:405",
+          "name": "0.20%",
+          "text": "0.20%"
+        }
+      ]
+    },
+    {
+      "groupId": "bankEnding",
+      "groupName": "银行结束语",
+      "moduleIndexes": [
+        6
+      ],
+      "representativeIndex": 6,
+      "fullyFixed": true,
+      "frameId": "13:392",
+      "frameName": "银行结束语",
+      "frameWidth": 380.6289978027344,
+      "fixedGroups": [
+        {
+          "groupId": "13:392",
+          "groupName": "银行结束语",
+          "role": "fully-fixed-frame",
+          "nodeIds": [
+            {
+              "nodeId": "13:392",
+              "name": "银行结束语"
+            },
+            {
+              "nodeId": "0:349",
+              "name": "银行结束语"
+            },
+            {
+              "nodeId": "0:350",
+              "name": "路径 1"
+            },
+            {
+              "nodeId": "0:351",
+              "name": "路径 2"
+            },
+            {
+              "nodeId": "0:352",
+              "name": "路径 3"
+            },
+            {
+              "nodeId": "0:353",
+              "name": "路径 4"
+            },
+            {
+              "nodeId": "0:354",
+              "name": "路径 5"
+            },
+            {
+              "nodeId": "0:355",
+              "name": "路径 6"
+            },
+            {
+              "nodeId": "0:356",
+              "name": "路径 7"
+            },
+            {
+              "nodeId": "0:357",
+              "name": "路径 8"
+            },
+            {
+              "nodeId": "0:358",
+              "name": "路径 9"
+            },
+            {
+              "nodeId": "0:359",
+              "name": "路径 10"
+            },
+            {
+              "nodeId": "0:360",
+              "name": "路径 11"
+            },
+            {
+              "nodeId": "0:361",
+              "name": "路径 12"
+            },
+            {
+              "nodeId": "0:362",
+              "name": "路径 13"
+            },
+            {
+              "nodeId": "0:363",
+              "name": "路径 14"
+            },
+            {
+              "nodeId": "0:364",
+              "name": "路径 15"
+            },
+            {
+              "nodeId": "0:365",
+              "name": "路径 16"
+            },
+            {
+              "nodeId": "0:366",
+              "name": "路径 17"
+            },
+            {
+              "nodeId": "0:367",
+              "name": "路径 18"
+            },
+            {
+              "nodeId": "0:368",
+              "name": "路径 19"
+            },
+            {
+              "nodeId": "0:369",
+              "name": "路径 20"
+            },
+            {
+              "nodeId": "0:370",
+              "name": "路径 21"
+            },
+            {
+              "nodeId": "0:371",
+              "name": "路径 22"
+            },
+            {
+              "nodeId": "0:372",
+              "name": "路径 23"
+            },
+            {
+              "nodeId": "0:373",
+              "name": "路径 24"
+            },
+            {
+              "nodeId": "0:374",
+              "name": "路径 25"
+            },
+            {
+              "nodeId": "0:375",
+              "name": "路径 26"
+            },
+            {
+              "nodeId": "0:376",
+              "name": "路径 27"
+            },
+            {
+              "nodeId": "0:377",
+              "name": "路径 28"
+            },
+            {
+              "nodeId": "0:378",
+              "name": "路径 29"
+            },
+            {
+              "nodeId": "0:379",
+              "name": "路径 30"
+            },
+            {
+              "nodeId": "0:380",
+              "name": "路径 31"
+            },
+            {
+              "nodeId": "0:381",
+              "name": "路径 32"
+            },
+            {
+              "nodeId": "0:382",
+              "name": "路径 33"
+            },
+            {
+              "nodeId": "0:383",
+              "name": "路径 34"
+            },
+            {
+              "nodeId": "0:384",
+              "name": "路径 35"
+            },
+            {
+              "nodeId": "0:385",
+              "name": "路径 36"
+            },
+            {
+              "nodeId": "0:386",
+              "name": "路径 37"
+            },
+            {
+              "nodeId": "0:387",
+              "name": "矩形 9"
+            },
+            {
+              "nodeId": "0:388",
+              "name": "路径 38"
+            },
+            {
+              "nodeId": "0:389",
+              "name": "路径 39"
+            },
+            {
+              "nodeId": "0:390",
+              "name": "路径 40"
+            },
+            {
+              "nodeId": "0:391",
+              "name": "路径 41"
+            },
+            {
+              "nodeId": "0:392",
+              "name": "路径 42"
+            },
+            {
+              "nodeId": "0:393",
+              "name": "路径 43"
+            },
+            {
+              "nodeId": "0:394",
+              "name": "路径 44"
+            },
+            {
+              "nodeId": "0:395",
+              "name": "路径 45"
+            },
+            {
+              "nodeId": "0:396",
+              "name": "路径 46"
+            },
+            {
+              "nodeId": "0:397",
+              "name": "矩形 10"
+            },
+            {
+              "nodeId": "0:398",
+              "name": "路径 47"
+            },
+            {
+              "nodeId": "0:399",
+              "name": "路径 48"
+            },
+            {
+              "nodeId": "0:400",
+              "name": "路径 49"
+            }
+          ],
+          "reason": "完全固定 frame：无可变内容"
+        }
+      ],
+      "zones": []
+    }
+  ]
+}

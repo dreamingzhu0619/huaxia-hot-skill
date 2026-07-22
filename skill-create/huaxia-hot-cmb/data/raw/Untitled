@@ -1,0 +1,11 @@
+我的意思是，你转成 CSS 的值，需要从 DSL 里面去拿，对吧？
+
+还有没有什么别的？因为我看它有很多个方法，比方说：
+• getMeta
+• getDesignSections
+• extractSVG
+• getDesignSVGs
+• getDesignTexts
+• getD2C
+
+我就是想问，如果想要提取 path 转换成 CSS 具体字段，除了 getDSL，还需要哪些 tool？

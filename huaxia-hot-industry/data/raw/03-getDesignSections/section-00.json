@@ -1,0 +1,44 @@
+{
+  "sectionIndex": 0,
+  "section": {
+    "id": "0:1713",
+    "name": "矩形",
+    "type": "LAYER"
+  },
+  "structureSiblingCount": 2,
+  "dsl": {
+    "styles": {
+      "paint_0:10": {
+        "value": []
+      },
+      "paint_0:8": {
+        "value": [
+          "#DFEFFC"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "LAYER",
+        "id": "0:1713",
+        "name": "矩形",
+        "layoutStyle": {
+          "width": 375,
+          "height": 250,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "fill": "paint_0:8",
+        "_color": "#DFEFFC",
+        "strokeColor": "paint_0:10",
+        "strokeType": "solid",
+        "strokeAlign": "inside",
+        "strokeWidth": "1px"
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 3/66. MISSING 63 sections: [2,4,5,6,7,8,9,10,11,12... +53 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

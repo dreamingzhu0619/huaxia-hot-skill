@@ -1,0 +1,210 @@
+{
+  "sectionIndex": 41,
+  "section": {
+    "id": "0:2035",
+    "name": "编组 7",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "font_0:1373": {
+        "value": {
+          "family": "MiSans",
+          "size": 11,
+          "style": "Medium",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "12",
+          "letterSpacing": "auto",
+          "weight": "500"
+        }
+      },
+      "font_0:1378": {
+        "value": {
+          "family": "MiSans",
+          "size": 10,
+          "style": "Regular",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "-0.5px",
+          "weight": "400"
+        }
+      },
+      "paint_0:1361": {
+        "value": [
+          "linear-gradient(180deg, #E0EFFF 4%, #E0EFFF 26%, #F6FCFF 27%, #F1F8FF 100%)"
+        ]
+      },
+      "paint_0:1367": {
+        "value": [
+          "linear-gradient(144deg, #5397EF 30%, rgba(162, 226, 248, 0) 77%)"
+        ]
+      },
+      "paint_0:1375": {
+        "value": [
+          "#3C63AC"
+        ]
+      },
+      "paint_0:1380": {
+        "value": [
+          "#476496"
+        ]
+      },
+      "paint_1:4250": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/b62fb6f35cd3a79357041442c9c4902b.png",
+            "filters": ""
+          }
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:2035",
+        "name": "编组 7",
+        "layoutStyle": {
+          "width": 97,
+          "height": 140,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "PATH",
+            "id": "0:2036",
+            "name": "矩形",
+            "layoutStyle": {
+              "width": 97,
+              "height": 140,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "svgKey": "S41:编组 7|0:2036",
+            "svgName": "编组 7"
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2037",
+            "name": "编组 28",
+            "layoutStyle": {
+              "width": 82.03868103027344,
+              "height": 62.967811584472656,
+              "relativeX": 10,
+              "relativeY": 49
+            },
+            "children": [
+              {
+                "type": "PATH",
+                "id": "0:2038",
+                "name": "路径 8",
+                "layoutStyle": {
+                  "width": 57.0386848449707,
+                  "height": 25.57524299621582,
+                  "relativeX": 25,
+                  "relativeY": 37.3925666809082
+                },
+                "svgKey": "S41:编组 28|0:2038",
+                "svgName": "编组 28"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:2039",
+                "name": "位图",
+                "layoutStyle": {
+                  "width": 77,
+                  "height": 60,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "fill": "paint_1:4250"
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "id": "0:2040",
+            "name": "成熟制程 (‌≥‌28nm)",
+            "layoutStyle": {
+              "width": 45,
+              "height": 24,
+              "relativeX": 26.5,
+              "relativeY": 7
+            },
+            "text": [
+              {
+                "text": "成熟制程 \n(‌≥‌28nm)",
+                "font": "font_0:1373"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 15,
+                "color": "paint_0:1375"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line",
+            "_placeholder": true
+          },
+          {
+            "type": "TEXT",
+            "id": "0:2041",
+            "name": "基本自主、产能充足",
+            "layoutStyle": {
+              "width": 86,
+              "height": 13,
+              "relativeX": 6,
+              "relativeY": 114
+            },
+            "opacity": 0.699999988079071,
+            "text": [
+              {
+                "text": "基本自主、产能充足",
+                "font": "font_0:1378"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 9,
+                "color": "paint_0:1380"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line",
+            "_placeholder": true
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "成熟制程 \n(‌≥‌28nm)",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 7"
+      },
+      {
+        "text": "基本自主、产能充足",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 7"
+      }
+    ],
+    "placeholderTexts": [
+      "成熟制程 \n(‌≥‌28nm)",
+      "基本自主、产能充足"
+    ]
+  },
+  "nodeCount": 7,
+  "svgNodeCount": 2,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 42/66. MISSING 24 sections: [42,43,44,45,46,47,48,49,50,51... +14 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

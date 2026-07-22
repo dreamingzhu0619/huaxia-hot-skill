@@ -1,0 +1,50 @@
+{
+  "sectionTitle": "关联产品",
+  "introText": "半导体行业波动显著，机遇与风险并存。对于波动承受有限的投资者，不妨以小仓位先行参与，或通过定投分批买入。",
+  "strategyTabs": [
+    {
+      "title": "追求超额",
+      "description": "主动研判 调仓灵活",
+      "active": true
+    },
+    {
+      "title": "紧密跟踪",
+      "description": "被动复制 持仓透明",
+      "active": false
+    }
+  ],
+  "products": [
+    {
+      "name": "永赢先锋半导体智选C",
+      "code": "025209",
+      "riskLevel": "R4中高风险",
+      "metricLabel": "近1年涨跌幅",
+      "detailText": "详情 >",
+      "detailUrl": "#",
+      "buyText": "买入",
+      "buyUrl": "#"
+    },
+    {
+      "name": "华夏半导体龙头C",
+      "code": "016501",
+      "riskLevel": "R4中高风险",
+      "metricLabel": "近1年涨跌幅",
+      "detailText": "详情 >",
+      "detailUrl": "#",
+      "buyText": "买入",
+      "buyUrl": "#"
+    },
+    {
+      "name": "银华集成电路C",
+      "code": "013841",
+      "riskLevel": "R4中高风险",
+      "metricLabel": "近1年涨跌幅",
+      "detailText": "详情 >",
+      "detailUrl": "#",
+      "buyText": "买入",
+      "buyUrl": "#"
+    }
+  ],
+  "moreText": "查看更多",
+  "moreUrl": "#"
+}

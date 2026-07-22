@@ -1,0 +1,195 @@
+{
+  "sectionIndex": 43,
+  "section": {
+    "id": "0:2049",
+    "name": "编组 7备份 6",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "font_0:1373": {
+        "value": {
+          "family": "MiSans",
+          "size": 11,
+          "style": "Medium",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "12",
+          "letterSpacing": "auto",
+          "weight": "500"
+        }
+      },
+      "font_0:1400": {
+        "value": {
+          "family": "MiSans",
+          "size": 10,
+          "style": "Regular",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "11",
+          "letterSpacing": "auto",
+          "weight": "400"
+        }
+      },
+      "paint_0:1367": {
+        "value": [
+          "linear-gradient(144deg, #5397EF 30%, rgba(162, 226, 248, 0) 77%)"
+        ]
+      },
+      "paint_0:1375": {
+        "value": [
+          "#3C63AC"
+        ]
+      },
+      "paint_0:1380": {
+        "value": [
+          "#476496"
+        ]
+      },
+      "paint_0:1384": {
+        "value": [
+          "linear-gradient(180deg, #E0EFFF 4%, #E0EFFF 26%, #FFFFFF 27%, #F1F8FF 100%)"
+        ]
+      },
+      "paint_1:4244": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/23fa92aa7da39146bb6d10ea189fc0ea.png",
+            "filters": ""
+          }
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:2049",
+        "name": "编组 7备份 6",
+        "layoutStyle": {
+          "width": 97,
+          "height": 140,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "PATH",
+            "id": "0:2050",
+            "name": "矩形",
+            "layoutStyle": {
+              "width": 97,
+              "height": 140,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "svgKey": "S43:编组 7备份 6|0:2050",
+            "svgName": "编组 7备份 6"
+          },
+          {
+            "type": "PATH",
+            "id": "0:2051",
+            "name": "路径 8备份",
+            "layoutStyle": {
+              "width": 57.0386848449707,
+              "height": 25.57524299621582,
+              "relativeX": 34,
+              "relativeY": 83.39257049560547
+            }
+          },
+          {
+            "type": "LAYER",
+            "id": "0:2052",
+            "name": "位图",
+            "layoutStyle": {
+              "width": 70,
+              "height": 64,
+              "relativeX": 14,
+              "relativeY": 42
+            },
+            "fill": "paint_1:4244"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:2053",
+            "name": "完全空白，但积极 寻找替代路线",
+            "layoutStyle": {
+              "width": 80,
+              "height": 22,
+              "relativeX": 9,
+              "relativeY": 113
+            },
+            "opacity": 0.699999988079071,
+            "text": [
+              {
+                "text": "完全空白，但积极\n寻找替代路线",
+                "font": "font_0:1400"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 15,
+                "color": "paint_0:1380"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line",
+            "_placeholder": true
+          },
+          {
+            "type": "TEXT",
+            "id": "0:2054",
+            "name": "EUV制程 (≤7nm)",
+            "layoutStyle": {
+              "width": 45,
+              "height": 24,
+              "relativeX": 26.5,
+              "relativeY": 7
+            },
+            "text": [
+              {
+                "text": "EUV制程\n (≤7nm)",
+                "font": "font_0:1373"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 13,
+                "color": "paint_0:1375"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line",
+            "_placeholder": true
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "完全空白，但积极\n寻找替代路线",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 7备份 6"
+      },
+      {
+        "text": "EUV制程\n (≤7nm)",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 7备份 6"
+      }
+    ],
+    "placeholderTexts": [
+      "完全空白，但积极\n寻找替代路线",
+      "EUV制程\n (≤7nm)"
+    ]
+  },
+  "nodeCount": 6,
+  "svgNodeCount": 2,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 43/66. MISSING 23 sections: [42,44,45,46,47,48,49,50,51,52... +13 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

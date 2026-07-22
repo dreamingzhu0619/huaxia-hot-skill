@@ -1,0 +1,768 @@
+{
+  "sectionIndex": 45,
+  "section": {
+    "id": "0:2072",
+    "name": "编组 37",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "effect_0:1220": {
+        "value": []
+      },
+      "font_0:1413": {
+        "value": {
+          "family": "MiSans",
+          "size": 11,
+          "style": "Regular",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "14",
+          "letterSpacing": "auto",
+          "weight": "400"
+        }
+      },
+      "font_0:1431": {
+        "value": {
+          "family": "MiSans",
+          "size": 11,
+          "style": "Regular",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "14",
+          "letterSpacing": "-0.20000000298023224px",
+          "weight": "400"
+        }
+      },
+      "font_0:1436": {
+        "value": {
+          "family": "MiSans",
+          "size": 15,
+          "style": "Semibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "auto",
+          "weight": "600"
+        }
+      },
+      "font_0:1450": {
+        "value": {
+          "family": "MiSans",
+          "size": 11,
+          "style": "Medium",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "-0.6000000238418579px",
+          "weight": "500"
+        }
+      },
+      "font_0:1452": {
+        "value": {
+          "family": "MiSans",
+          "size": 11,
+          "style": "Demibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "-0.6000000238418579px",
+          "weight": "600"
+        }
+      },
+      "paint_0:1133": {
+        "value": [
+          "linear-gradient(4deg, #FFFFFF 26%, #EEF8FF 69%, #D2E4FF 143%)"
+        ]
+      },
+      "paint_0:1218": {
+        "value": [
+          "linear-gradient(270deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 92%)"
+        ]
+      },
+      "paint_0:1227": {
+        "value": [
+          "#2352A0"
+        ]
+      },
+      "paint_0:1279": {
+        "value": [
+          "#F32B4E"
+        ]
+      },
+      "paint_0:1426": {
+        "value": [
+          "linear-gradient(0deg, #FFFFFF 0%, #DCEDFF 110%)"
+        ]
+      },
+      "paint_0:1428": {
+        "value": [
+          "linear-gradient(174deg, rgba(255, 255, 255, 0) 15%, #C1D8F9 88%)"
+        ]
+      },
+      "paint_0:1434": {
+        "value": [
+          "linear-gradient(158deg, #3394E5 20%, #175BC7 64%)"
+        ]
+      },
+      "paint_0:1447": {
+        "value": [
+          "linear-gradient(256deg, #BAD7FF -17%, rgba(181, 224, 255, 0.3994) 73%, rgba(255, 255, 255, 0) 112%)"
+        ]
+      },
+      "paint_0:145": {
+        "value": [
+          "#3A3E45"
+        ]
+      },
+      "paint_0:1456": {
+        "value": [
+          "linear-gradient(148deg, #5397EF 41%, rgba(162, 226, 248, 0) 74%)"
+        ]
+      },
+      "paint_0:1463": {
+        "value": [
+          "linear-gradient(114deg, #5397EF 37%, rgba(162, 226, 248, 0) 84%)"
+        ]
+      },
+      "paint_0:1466": {
+        "value": [
+          "linear-gradient(160deg, #5397EF 52%, rgba(162, 226, 248, 0) 72%)"
+        ]
+      },
+      "paint_0:1477": {
+        "value": [
+          "linear-gradient(158deg, #5397EF 40%, rgba(162, 226, 248, 0) 71%)"
+        ]
+      },
+      "paint_0:68": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_1:4214": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/59760139ea4c2259c5a0279f49e1197d.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:4220": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/66ac1532b962baa420744624de1c5302.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:4226": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/c3c72c7839fbe2ff4e9fb0b7b144a930.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:4232": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/9b72b29002d002c4473ff086b4b0e9f6.png",
+            "filters": ""
+          }
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:2072",
+        "name": "编组 37",
+        "layoutStyle": {
+          "width": 347,
+          "height": 312,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "LAYER",
+            "id": "0:2073",
+            "name": "矩形备份 25",
+            "layoutStyle": {
+              "width": 347,
+              "height": 111,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "borderRadius": "12px",
+            "fill": "paint_0:1133",
+            "_color": "linear-gradient(4deg, #FFFFFF 26%, #EEF8FF 69%, #D2E4FF 143%)",
+            "strokeColor": "paint_0:68",
+            "strokeType": "solid",
+            "strokeAlign": "inside",
+            "strokeWidth": "1px"
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2074",
+            "name": "编组 30",
+            "layoutStyle": {
+              "width": 323,
+              "height": 86,
+              "relativeX": 12,
+              "relativeY": 58
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:2075",
+                "name": "矩形备份 27",
+                "layoutStyle": {
+                  "width": 323,
+                  "height": 86,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "borderRadius": "8px",
+                "fill": "paint_0:1426",
+                "_color": "linear-gradient(0deg, #FFFFFF 0%, #DCEDFF 110%)",
+                "strokeColor": "paint_0:1428",
+                "strokeType": "solid",
+                "strokeAlign": "inside",
+                "strokeWidth": "0.5px"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2076",
+                "name": "直接受益于AI技术发展，是当前最强劲的需",
+                "layoutStyle": {
+                  "width": 206,
+                  "height": 42,
+                  "relativeX": 14,
+                  "relativeY": 34
+                },
+                "text": [
+                  {
+                    "text": "T45|0:2076",
+                    "font": "font_0:1431"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 51,
+                    "color": "paint_0:145"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "auto-height"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2077",
+                "name": "AI数据中心",
+                "layoutStyle": {
+                  "width": 76,
+                  "height": 13,
+                  "relativeX": 14,
+                  "relativeY": 14
+                },
+                "fill": "paint_0:1434",
+                "_color": "linear-gradient(158deg, #3394E5 20%, #175BC7 64%)",
+                "text": [
+                  {
+                    "text": "AI数据中心",
+                    "font": "font_0:1436"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 6,
+                    "color": "paint_0:1434"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              }
+            ]
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2078",
+            "name": "编组 30备份",
+            "layoutStyle": {
+              "width": 323,
+              "height": 78,
+              "relativeX": 12,
+              "relativeY": 150
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:2079",
+                "name": "矩形备份 27",
+                "layoutStyle": {
+                  "width": 323,
+                  "height": 78,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "borderRadius": "8px",
+                "fill": "paint_0:1426",
+                "_color": "linear-gradient(0deg, #FFFFFF 0%, #DCEDFF 110%)",
+                "strokeColor": "paint_0:1428",
+                "strokeType": "solid",
+                "strokeAlign": "inside",
+                "strokeWidth": "0.5px"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2080",
+                "name": "AI赋能下，智能手机、PC、可穿戴设备迎",
+                "layoutStyle": {
+                  "width": 206,
+                  "height": 28,
+                  "relativeX": 14,
+                  "relativeY": 34
+                },
+                "text": [
+                  {
+                    "text": "AI赋能下，智能手机、PC、可穿戴设备迎来创新周期，带动芯片升级换代。",
+                    "font": "font_0:1413"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 35,
+                    "color": "paint_0:145"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "auto-height"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2081",
+                "name": "消费电子",
+                "layoutStyle": {
+                  "width": 60,
+                  "height": 13,
+                  "relativeX": 14,
+                  "relativeY": 14
+                },
+                "fill": "paint_0:1434",
+                "_color": "linear-gradient(158deg, #3394E5 20%, #175BC7 64%)",
+                "text": [
+                  {
+                    "text": "消费电子",
+                    "font": "font_0:1436"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:1434"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              }
+            ]
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2082",
+            "name": "编组 30备份 2",
+            "layoutStyle": {
+              "width": 323,
+              "height": 78,
+              "relativeX": 12,
+              "relativeY": 234
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:2083",
+                "name": "矩形备份 27",
+                "layoutStyle": {
+                  "width": 323,
+                  "height": 78,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "borderRadius": "8px",
+                "fill": "paint_0:1426",
+                "_color": "linear-gradient(0deg, #FFFFFF 0%, #DCEDFF 110%)",
+                "strokeColor": "paint_0:1428",
+                "strokeType": "solid",
+                "strokeAlign": "inside",
+                "strokeWidth": "0.5px"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2084",
+                "name": "随着\"物理AI\"的概念普及，智能车、机器",
+                "layoutStyle": {
+                  "width": 206,
+                  "height": 28,
+                  "relativeX": 14,
+                  "relativeY": 34
+                },
+                "text": [
+                  {
+                    "text": "随着\"物理AI\"的概念普及，智能车、机器人等产品涌现，带动相关芯片需求稳步增长。",
+                    "font": "font_0:1431"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 40,
+                    "color": "paint_0:145"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "auto-height"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2085",
+                "name": "汽车",
+                "layoutStyle": {
+                  "width": 30,
+                  "height": 13,
+                  "relativeX": 14,
+                  "relativeY": 14
+                },
+                "fill": "paint_0:1434",
+                "_color": "linear-gradient(158deg, #3394E5 20%, #175BC7 64%)",
+                "text": [
+                  {
+                    "text": "汽车",
+                    "font": "font_0:1436"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 2,
+                    "color": "paint_0:1434"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:2086",
+            "name": "矩形备份 26",
+            "layoutStyle": {
+              "width": 254,
+              "height": 30,
+              "relativeX": 57.78,
+              "relativeY": 14
+            },
+            "effect": "effect_0:1220",
+            "path": [
+              {
+                "fill": "url(#grad_paint_0_1447)",
+                "data": "",
+                "transform": "matrix(-1,0,0,1,623.5529174804688,0)",
+                "fillType": 1
+              },
+              {
+                "fill": "url(#grad_paint_0_1218)",
+                "data": "",
+                "transform": "matrix(-1,0,0,1,623.5529174804688,0)",
+                "fillType": 1
+              }
+            ],
+            "svgKey": "S45:编组 37|0:2086",
+            "svgName": "编组 37"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:2087",
+            "name": "决定了行业有没有订单，关注行业景气度、新",
+            "layoutStyle": {
+              "width": 261,
+              "height": 13,
+              "relativeX": 71,
+              "relativeY": 22
+            },
+            "text": [
+              {
+                "text": "决定了行业有没有订单，关注",
+                "font": "font_0:1450"
+              },
+              {
+                "text": "行业景气度、新增需求爆发",
+                "font": "font_0:1452"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 13,
+                "color": "paint_0:1227"
+              },
+              {
+                "start": 13,
+                "end": 25,
+                "color": "paint_0:1279"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line"
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2088",
+            "name": "编组 32",
+            "layoutStyle": {
+              "width": 94,
+              "height": 94,
+              "relativeX": 238,
+              "relativeY": 55
+            },
+            "children": [
+              {
+                "type": "PATH",
+                "id": "0:2089",
+                "name": "路径 8",
+                "layoutStyle": {
+                  "width": 53.616363525390625,
+                  "height": 29.139999389648438,
+                  "relativeX": 33.84000015258789,
+                  "relativeY": 55.06072998046875
+                },
+                "path": [
+                  {
+                    "fill": "url(#grad_paint_0_1456)",
+                    "data": "",
+                    "fillType": 1
+                  }
+                ],
+                "svgKey": "S45:编组 32|0:2089",
+                "svgName": "编组 32"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:2090",
+                "name": "位图",
+                "layoutStyle": {
+                  "width": 94,
+                  "height": 94,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "fill": "paint_1:4232"
+              }
+            ]
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2091",
+            "name": "编组 31",
+            "layoutStyle": {
+              "width": 90,
+              "height": 90,
+              "relativeX": 239,
+              "relativeY": 142
+            },
+            "children": [
+              {
+                "type": "PATH",
+                "id": "0:2092",
+                "name": "路径 9",
+                "layoutStyle": {
+                  "width": 23.99244499206543,
+                  "height": 8.312067985534668,
+                  "relativeX": 39.45281982421875,
+                  "relativeY": 55.61280059814453
+                },
+                "opacity": 0.8024088740348816,
+                "path": [
+                  {
+                    "fill": "url(#grad_paint_0_1463)",
+                    "data": "",
+                    "fillType": 1
+                  }
+                ],
+                "svgKey": "S45:编组 31|0:2092",
+                "svgName": "编组 31"
+              },
+              {
+                "type": "PATH",
+                "id": "0:2093",
+                "name": "路径 9备份",
+                "layoutStyle": {
+                  "width": 34.42095947265625,
+                  "height": 15.404549598693848,
+                  "relativeX": 46.23043441772461,
+                  "relativeY": 62.8156623840332
+                },
+                "opacity": 0.8024088740348816,
+                "path": [
+                  {
+                    "fill": "url(#grad_paint_0_1466)",
+                    "data": "",
+                    "fillType": 1
+                  }
+                ]
+              },
+              {
+                "type": "LAYER",
+                "id": "0:2094",
+                "name": "位图",
+                "layoutStyle": {
+                  "width": 90,
+                  "height": 90,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "fill": "paint_1:4214"
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:2095",
+            "name": "路径 8",
+            "layoutStyle": {
+              "width": 53.616363525390625,
+              "height": 29.139999389648438,
+              "relativeX": 270.8399963378906,
+              "relativeY": 281.06072998046875
+            },
+            "path": [
+              {
+                "fill": "url(#grad_paint_0_1456)",
+                "data": "",
+                "fillType": 1
+              }
+            ]
+          },
+          {
+            "type": "LAYER",
+            "id": "0:2096",
+            "name": "位图",
+            "layoutStyle": {
+              "width": 76,
+              "height": 68,
+              "relativeX": 245,
+              "relativeY": 237
+            },
+            "fill": "paint_1:4226"
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2097",
+            "name": "编组 33",
+            "layoutStyle": {
+              "width": 42.55982971191406,
+              "height": 41.184635162353516,
+              "relativeX": 14,
+              "relativeY": 10
+            },
+            "children": [
+              {
+                "type": "PATH",
+                "id": "0:2098",
+                "name": "路径 8",
+                "layoutStyle": {
+                  "width": 30.77068519592285,
+                  "height": 7.352363109588623,
+                  "relativeX": 11.789144515991211,
+                  "relativeY": 33.832271575927734
+                },
+                "path": [
+                  {
+                    "fill": "url(#grad_paint_0_1477)",
+                    "data": "",
+                    "fillType": 1
+                  }
+                ],
+                "svgKey": "S45:编组 33|0:2098",
+                "svgName": "编组 33"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:2099",
+                "name": "位图",
+                "layoutStyle": {
+                  "width": 42,
+                  "height": 40,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "fill": "paint_1:4220"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "直接受益于AI技术发展，是当前最强劲的需求引擎，拉动高端算力芯片、HBM存储、高速互联芯片等需求爆发。",
+        "parentType": "FRAME",
+        "parentName": "编组 30"
+      },
+      {
+        "text": "AI数据中心",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 30"
+      },
+      {
+        "text": "AI赋能下，智能手机、PC、可穿戴设备迎来创新周期，带动芯片升级换代。",
+        "parentType": "FRAME",
+        "parentName": "编组 30备份"
+      },
+      {
+        "text": "消费电子",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 30备份"
+      },
+      {
+        "text": "随着\"物理AI\"的概念普及，智能车、机器人等产品涌现，带动相关芯片需求稳步增长。",
+        "parentType": "FRAME",
+        "parentName": "编组 30备份 2"
+      },
+      {
+        "text": "汽车",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 30备份 2"
+      },
+      {
+        "text": "决定了行业有没有订单，关注行业景气度、新增需求爆发",
+        "parentType": "FRAME",
+        "parentName": "编组 37"
+      }
+    ],
+    "placeholderTexts": [
+      "AI数据中心",
+      "消费电子",
+      "汽车"
+    ]
+  },
+  "nodeCount": 28,
+  "svgNodeCount": 6,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 47/66. MISSING 19 sections: [47,48,49,50,51,52,53,54,55,56... +9 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

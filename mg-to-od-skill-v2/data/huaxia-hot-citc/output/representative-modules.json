@@ -1,0 +1,83 @@
+{
+  "groups": [
+    {
+      "groupId": "background",
+      "groupName": "背景",
+      "moduleIndexes": [
+        0
+      ],
+      "representativeIndex": 0,
+      "representativeFile": "00-背景图.json",
+      "representativeName": "背景图",
+      "frameId": "13:393"
+    },
+    {
+      "groupId": "hero",
+      "groupName": "营销头图",
+      "moduleIndexes": [
+        5
+      ],
+      "representativeIndex": 5,
+      "representativeFile": "05-营销头图.json",
+      "representativeName": "营销头图",
+      "frameId": "13:328"
+    },
+    {
+      "groupId": "hotspotExpress",
+      "groupName": "热点速递",
+      "moduleIndexes": [
+        8
+      ],
+      "representativeIndex": 8,
+      "representativeFile": "08-热点速递.json",
+      "representativeName": "热点速递",
+      "frameId": "13:386"
+    },
+    {
+      "groupId": "productCard",
+      "groupName": "产品卡",
+      "moduleIndexes": [
+        1
+      ],
+      "representativeIndex": 1,
+      "representativeFile": "01-产品卡.json",
+      "representativeName": "产品卡",
+      "frameId": "13:390"
+    },
+    {
+      "groupId": "recommendations",
+      "groupName": "产品推荐理由",
+      "moduleIndexes": [
+        2,
+        3,
+        4
+      ],
+      "representativeIndex": 2,
+      "representativeFile": "02-产品推荐理由A.json",
+      "representativeName": "产品推荐理由A",
+      "frameId": "13:387"
+    },
+    {
+      "groupId": "riskDisclosure",
+      "groupName": "风险警告",
+      "moduleIndexes": [
+        7
+      ],
+      "representativeIndex": 7,
+      "representativeFile": "07-风险警告.json",
+      "representativeName": "风险警告",
+      "frameId": "13:391"
+    },
+    {
+      "groupId": "bankEnding",
+      "groupName": "银行结束语",
+      "moduleIndexes": [
+        6
+      ],
+      "representativeIndex": 6,
+      "representativeFile": "06-银行结束语.json",
+      "representativeName": "银行结束语",
+      "frameId": "13:392"
+    }
+  ]
+}

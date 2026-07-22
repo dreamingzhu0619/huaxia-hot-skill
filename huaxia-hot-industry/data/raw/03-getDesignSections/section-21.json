@@ -1,0 +1,234 @@
+{
+  "sectionIndex": 21,
+  "section": {
+    "id": "0:1858",
+    "name": "编组 58",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "effect_0:1025": {
+        "value": [
+          "box-shadow: 0px 1px 3px 0px #1C74BE;"
+        ]
+      },
+      "font_0:1007": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 15,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "font_0:1027": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 15,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "0.30000001192092896px"
+        }
+      },
+      "paint_0:1001": {
+        "value": []
+      },
+      "paint_0:1004": {
+        "value": [
+          "linear-gradient(174deg, #7FA8E8 -22%, #2C52AB 82%)"
+        ]
+      },
+      "paint_0:1016": {
+        "value": [
+          "linear-gradient(270deg, #78B7F1 0%, #088BF1 100%)"
+        ]
+      },
+      "paint_0:1019": {
+        "value": [
+          "linear-gradient(261deg, #80B8FA 1%, #4788F0 24%, #78B5FF 75%)"
+        ]
+      },
+      "paint_0:1022": {
+        "value": [
+          "#5498EA"
+        ]
+      },
+      "paint_0:446": {
+        "value": [
+          "rgba(255, 255, 255, 0.01)"
+        ]
+      },
+      "paint_0:68": {
+        "value": [
+          "#FFFFFF"
+        ]
+      },
+      "paint_0:999": {
+        "value": [
+          "linear-gradient(90deg, #F8FBFF 3%, #6EA0EE 17%, #A0C5FF 50%, #6A9AED 84%, rgba(255, 255, 255, 0.3621) 99%)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1858",
+        "name": "编组 58",
+        "layoutStyle": {
+          "width": 228,
+          "height": 33,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "FRAME",
+            "id": "0:1859",
+            "name": "编组 53",
+            "layoutStyle": {
+              "width": 176,
+              "height": 28,
+              "relativeX": 52,
+              "relativeY": 3
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:1860",
+                "name": "矩形",
+                "layoutStyle": {
+                  "width": 176,
+                  "height": 28,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "opacity": 0.1599999964237213,
+                "fill": "paint_0:999",
+                "_color": "linear-gradient(90deg, #F8FBFF 3%, #6EA0EE 17%, #A0C5FF 50%, #6A9AED 84%, rgba(255, 255, 255, 0.3621) 99%)",
+                "strokeColor": "paint_0:1001",
+                "strokeType": "solid",
+                "strokeAlign": "inside",
+                "strokeWidth": "1px"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:1861",
+                "name": "上游 - 设备与材料",
+                "layoutStyle": {
+                  "width": 117,
+                  "height": 22,
+                  "relativeX": 37,
+                  "relativeY": 5
+                },
+                "fill": "paint_0:1004",
+                "_color": "linear-gradient(174deg, #7FA8E8 -22%, #2C52AB 82%)",
+                "text": [
+                  {
+                    "text": "上游 - 设备与材料",
+                    "font": "font_0:1007"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 10,
+                    "color": "paint_0:1004"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              }
+            ]
+          },
+          {
+            "type": "FRAME",
+            "id": "0:1862",
+            "name": "编组 57",
+            "layoutStyle": {
+              "width": 79,
+              "height": 33,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "FRAME",
+                "id": "0:1863",
+                "name": "编组 20",
+                "layoutStyle": {
+                  "width": 79,
+                  "height": 33,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "_mergedVector": true,
+                "svgKey": "S21:编组 57|0:1863",
+                "svgName": "编组 57"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:1867",
+                "name": "产业基石",
+                "layoutStyle": {
+                  "width": 61,
+                  "height": 22,
+                  "relativeX": 11,
+                  "relativeY": 7
+                },
+                "fill": "paint_0:446",
+                "_color": "rgba(255, 255, 255, 0.01)",
+                "effect": "effect_0:1025",
+                "text": [
+                  {
+                    "text": "产业基石",
+                    "font": "font_0:1027"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:68"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "上游 - 设备与材料",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 53"
+      },
+      {
+        "text": "产业基石",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 57"
+      }
+    ],
+    "placeholderTexts": [
+      "上游 - 设备与材料",
+      "产业基石"
+    ]
+  },
+  "nodeCount": 7,
+  "svgNodeCount": 1,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 23/66. MISSING 43 sections: [23,24,25,26,27,28,29,30,31,32... +33 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

@@ -1,0 +1,93 @@
+{
+  "sectionIndex": 32,
+  "section": {
+    "id": "0:1961",
+    "name": "决定了芯片性能强不强，关注工艺迭代、产能",
+    "type": "TEXT"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "font_0:1273": {
+        "value": {
+          "family": "MiSans",
+          "size": 11,
+          "style": "Medium",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "-0.4000000059604645px",
+          "weight": "500"
+        }
+      },
+      "font_0:1275": {
+        "value": {
+          "family": "MiSans",
+          "size": 11,
+          "style": "Demibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13",
+          "letterSpacing": "-0.4000000059604645px",
+          "weight": "600"
+        }
+      },
+      "paint_0:1277": {
+        "value": [
+          "#2352A0"
+        ]
+      },
+      "paint_0:1279": {
+        "value": [
+          "#F32B4E"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:1961",
+        "name": "决定了芯片性能强不强，关注工艺迭代、产能",
+        "layoutStyle": {
+          "width": 255,
+          "height": 26,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "决定了芯片性能强不强，关注",
+            "font": "font_0:1273"
+          },
+          {
+            "text": "工艺迭代、产能扩张、毛\n利率水平",
+            "font": "font_0:1275"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 13,
+            "color": "paint_0:1277"
+          },
+          {
+            "start": 13,
+            "end": 29,
+            "color": "paint_0:1279"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line"
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "决定了芯片性能强不强，关注工艺迭代、产能扩张、毛\n利率水平"
+      }
+    ]
+  },
+  "nodeCount": 1,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 33/66. MISSING 33 sections: [33,34,35,36,37,38,39,40,41,42... +23 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

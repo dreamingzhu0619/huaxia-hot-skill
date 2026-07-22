@@ -1,0 +1,398 @@
+{
+  "meta": {
+    "moduleIndex": 13,
+    "moduleId": "0:2110",
+    "moduleName": "编组 72",
+    "slug": "编组-72",
+    "fileName": "13-编组-72.json",
+    "position": {
+      "x": 18,
+      "y": 2695,
+      "width": 339,
+      "height": 160
+    },
+    "nodeCount": 3,
+    "resolvedNodeCount": 3,
+    "textCount": 2,
+    "textsResolved": 0,
+    "sectionIndexes": [
+      47
+    ],
+    "styleCounts": {
+      "paints": 2,
+      "fonts": 2,
+      "effects": 0
+    },
+    "assetCounts": {
+      "bitmaps": 0,
+      "svgs": 0,
+      "d2cSvgIcons": 0,
+      "d2cExportImages": 0
+    },
+    "imageCount": 0,
+    "d2cMatched": true,
+    "d2cMatchDistance": 0.104,
+    "d2cNodeCssCount": 1,
+    "missingStyleRefs": []
+  },
+  "sections": [
+    {
+      "sectionIndex": 47,
+      "id": "0:2110",
+      "name": "编组 72",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 18,
+      "y": 2695,
+      "width": 339,
+      "height": 160,
+      "textPreview": "风险提示：观点仅供参考，不构成投资建议，",
+      "structureSiblingCount": 1
+    }
+  ],
+  "assets": {
+    "bitmaps": [],
+    "svgs": {}
+  },
+  "node": {
+    "id": "0:2110",
+    "name": "编组 72",
+    "type": "FRAME",
+    "layoutStyle": {
+      "width": 339,
+      "height": 160,
+      "relativeX": 18,
+      "relativeY": 2695,
+      "rotate": 0,
+      "rotateX": null
+    },
+    "bounds": {
+      "x": 18,
+      "y": 2695,
+      "width": 339,
+      "height": 160
+    },
+    "opacity": null,
+    "fill": null,
+    "effect": null,
+    "borderRadius": null,
+    "strokeAlign": null,
+    "strokeColor": null,
+    "strokeType": null,
+    "strokeWidth": null,
+    "mask": null,
+    "path": null,
+    "text": null,
+    "textRuns": null,
+    "textAlign": null,
+    "textMode": null,
+    "textColor": null,
+    "hasSvg": false,
+    "exportImage": null,
+    "styleRefs": null,
+    "componentDefinition": null,
+    "d2cCss": {
+      "-webkit-background-clip": null,
+      "-webkit-text-fill-color": null,
+      "background": null,
+      "background-clip": null,
+      "background-image": null,
+      "border": null,
+      "border-bottom-left-radius": null,
+      "border-radius": null,
+      "border-top-left-radius": null,
+      "bottom": "0.87%",
+      "box-shadow": null,
+      "color": null,
+      "filter": null,
+      "flex": "none",
+      "font-family": null,
+      "font-size": null,
+      "height": "160px",
+      "left": "4.8%",
+      "letter-spacing": null,
+      "line-height": null,
+      "mix-blend-mode": null,
+      "object-fit": null,
+      "opacity": null,
+      "overflow": null,
+      "position": "absolute",
+      "right": "4.8%",
+      "text-align": null,
+      "text-fill-color": null,
+      "text-shadow": null,
+      "top": "93.58%",
+      "transform": null,
+      "transform-origin": null,
+      "width": "339px",
+      "z-index": "13"
+    },
+    "d2cMatch": "img-src",
+    "sources": [
+      "getDsl",
+      "getD2c"
+    ],
+    "captureStatus": "complete",
+    "children": [
+      {
+        "id": "0:2111",
+        "name": "风险提示：观点仅供参考，不构成投资建议，",
+        "type": "TEXT",
+        "layoutStyle": {
+          "width": 339,
+          "height": 143,
+          "relativeX": 0,
+          "relativeY": 17,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 18,
+          "y": 2712,
+          "width": 339,
+          "height": 143
+        },
+        "opacity": null,
+        "fill": null,
+        "effect": null,
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": null,
+        "text": "风险提示：观点仅供参考，不构成投资建议，基金有风险，投资须谨慎。以上产品由对应基金管理有限公司发行与管理，招商银行作为代销机构不承担产品的投资和兑付责任。基金过往业绩不代表未来表现，基金管理人及基金经理管理的其他基金的业绩并不构成对本基金业绩表现的保证。投资者在购买基金前应仔细阅读基金招募说明书与基金合同，请根据自身投资目的、投资期限、投资经验等因素充分考虑自身的风险承受能力，在了解产品情况及销售适当性意见的基础上，理性判断并谨慎做出投资决策。投资人应当充分了解基金定期定额投资和零存整取等储蓄方式的区别。定期定额投资是引导投资人进行长期投资、平均投资成本的一种简单易行的投资方式。但是定期定额投资并不能规避基金投资所固有的风险，不能保证投资人获得收益，也不是替代储蓄的等效理财方式。",
+        "textRuns": [
+          {
+            "text": "风险提示：",
+            "font": {
+              "family": "MiSans",
+              "size": 10,
+              "style": "Regular",
+              "lineHeight": "-1",
+              "letterSpacing": "auto",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#5F7FAB"
+          },
+          {
+            "text": "观点仅供参考，不构成投资建议，基金有风险，投资须谨慎。以上产品由对应基金管理有限公司发行与管理，招商银行作为代销机构不承担产品的投资和兑付责任。",
+            "font": {
+              "family": "MiSans",
+              "size": 10,
+              "style": "Semibold",
+              "lineHeight": "-1",
+              "letterSpacing": "auto",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#466998"
+          },
+          {
+            "text": "基金过往业绩不代表未来表现，基金管理人及基金经理管理的其他基金的业绩并不构成对本基金业绩表现的保证。投资者在购买基金前应仔细阅读基金招募说明书与基金合同，请根据自身投资目的、投资期限、投资经验等因素充分考虑自身的风险承受能力，在了解产品情况及销售适当性意见的基础上，理性判断并谨慎做出投资决策。投资人应当充分了解基金定期定额投资和零存整取等储蓄方式的区别。定期定额投资是引导投资人进行长期投资、平均投资成本的一种简单易行的投资方式。但是定期定额投资并不能规避基金投资所固有的风险，不能保证投资人获得收益，也不是替代储蓄的等效理财方式。",
+            "font": {
+              "family": "MiSans",
+              "size": 10,
+              "style": "Regular",
+              "lineHeight": "-1",
+              "letterSpacing": "auto",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#5F7FAB"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "auto-height",
+        "textColor": [
+          {
+            "start": 0,
+            "end": 5,
+            "color": "#5F7FAB"
+          },
+          {
+            "start": 5,
+            "end": 77,
+            "color": "#466998"
+          },
+          {
+            "start": 77,
+            "end": 344,
+            "color": "#5F7FAB"
+          }
+        ],
+        "hasSvg": false,
+        "exportImage": null,
+        "styleRefs": {
+          "font": [
+            "font_0:454",
+            "font_0:456",
+            "font_0:454"
+          ],
+          "textColors": [
+            "paint_0:458",
+            "paint_0:460",
+            "paint_0:458"
+          ]
+        },
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": null,
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": null,
+          "font-family": null,
+          "font-size": null,
+          "height": null,
+          "left": null,
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": null,
+          "right": null,
+          "text-align": null,
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": null,
+          "transform": null,
+          "transform-origin": null,
+          "width": null,
+          "z-index": null
+        },
+        "d2cMatch": null,
+        "sources": [
+          "getDsl"
+        ],
+        "captureStatus": "complete",
+        "children": []
+      },
+      {
+        "id": "0:2112",
+        "name": "基金销售费率详见产品详情页中的\"交易规则",
+        "type": "TEXT",
+        "layoutStyle": {
+          "width": 339,
+          "height": 13,
+          "relativeX": 0,
+          "relativeY": 0,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 18,
+          "y": 2695,
+          "width": 339,
+          "height": 13
+        },
+        "opacity": null,
+        "fill": null,
+        "effect": null,
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": null,
+        "text": "基金销售费率详见产品详情页中的\"交易规则\"",
+        "textRuns": [
+          {
+            "text": "基金销售费率详见产品详情页中的\"交易规则\"",
+            "font": {
+              "family": "MiSans",
+              "size": 10,
+              "style": "Regular",
+              "lineHeight": "-1",
+              "letterSpacing": "auto",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#5F7FAB"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "auto-height",
+        "textColor": [
+          {
+            "start": 0,
+            "end": 21,
+            "color": "#5F7FAB"
+          }
+        ],
+        "hasSvg": false,
+        "exportImage": null,
+        "styleRefs": {
+          "font": [
+            "font_0:454"
+          ],
+          "textColors": [
+            "paint_0:458"
+          ]
+        },
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": null,
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": null,
+          "font-family": null,
+          "font-size": null,
+          "height": null,
+          "left": null,
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": null,
+          "right": null,
+          "text-align": null,
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": null,
+          "transform": null,
+          "transform-origin": null,
+          "width": null,
+          "z-index": null
+        },
+        "d2cMatch": null,
+        "sources": [
+          "getDsl"
+        ],
+        "captureStatus": "complete",
+        "children": []
+      }
+    ]
+  },
+  "d2c": {
+    "html": "<div\n        style=\"width: 339px; height: 160px; flex: none; position: absolute; left: 4.8%; right: 4.8%; top: 93.58%; bottom: 0.87%; z-index: 13\">\n        <p\n          style=\"width: 339px; position: absolute; left: 0%; right: 0%; top: calc(100% - 160px + 17px); z-index: 0\">\n          <span\n            style=\"width: 0px; color: #5F7FAB; font-size: 10px; font-family: MiSans; line-height: 13px\">\n            风险提示：\n          </span>\n          <span\n            style=\"width: 0px; color: #466998; font-size: 10px; font-family: MiSans; font-weight: 600; line-height: 13px\">\n            观点仅供参考，不构成投资建议，基金有风险，投资须谨慎。以上产品由对应基金管理有限公司发行与管理，招商银行作为代销机构不承担产品的投资和兑付责任。\n          </span>\n          <span\n            style=\"width: 0px; color: #5F7FAB; font-size: 10px; font-family: MiSans; line-height: 13px\">\n            基金过往业绩不代表未来表现，基金管理人及基金经理管理的其他基金的业绩并不构成对本基金业绩表现的保证。投资者在购买基金前应仔细阅读基金招募说明书与基金合同，请根据自身投资目的、投资期限、投资经验等因素充分考虑自身的风险承受能力，在了解产品情况及销售适当性意见的基础上，理性判断并谨慎做出投资决策。投资人应当充分了解基金定期定额投资和零存整取等储蓄方式的区别。定期定额投资是引导投资人进行长期投资、平均投资成本的一种简单易行的投资方式。但是定期定额投资并不能规避基金投资所固有的风险，不能保证投资人获得收益，也不是替代储蓄的等效理财方式。\n          </span>\n        </p>\n        <p\n          style=\"width: 339px; color: #5F7FAB; font-size: 10px; font-family: MiSans; line-height: 13px; position: absolute; left: 0%; right: 0%; top: calc(100% - 160px + 0px); z-index: 1\">\n          基金销售费率详见产品详情页中的&quot;交易规则&quot;\n        </p>\n      </div>",
+    "svgIcons": {},
+    "exportImages": {}
+  }
+}

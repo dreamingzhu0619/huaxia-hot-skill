@@ -1,0 +1,378 @@
+{
+  "sectionIndex": 65,
+  "section": {
+    "id": "0:2264",
+    "name": "编组 50",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "effect_0:1161": {
+        "value": [
+          "box-shadow: inset 0px 1px 3px 0px rgba(255, 247, 237, 0.8492);"
+        ]
+      },
+      "effect_0:1656": {
+        "value": [
+          "box-shadow: inset 1px 1px 2px 0px rgba(255, 255, 255, 0.9555);",
+          "backdrop-filter: blur(8.16px);"
+        ]
+      },
+      "effect_0:1693": {
+        "value": [
+          "box-shadow: 0px 1px 2px 0px rgba(225, 28, 42, 0.5);"
+        ]
+      },
+      "effect_0:1708": {
+        "value": [
+          "box-shadow: inset 1px 2px 2px 0px #FFFFFF;",
+          "box-shadow: -1px 2px 8px 0px rgba(163, 191, 251, 0.4);"
+        ]
+      },
+      "font_0:1675": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 11.5,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "16",
+          "letterSpacing": "-0.20000000298023224px"
+        }
+      },
+      "font_0:1678": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 9,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "9",
+          "letterSpacing": "-0.30000001192092896px"
+        }
+      },
+      "font_0:1681": {
+        "value": {
+          "family": "MiSans",
+          "size": 13.5,
+          "style": "Semibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "15",
+          "letterSpacing": "-0.30000001192092896px",
+          "weight": "600"
+        }
+      },
+      "paint_0:10": {
+        "value": []
+      },
+      "paint_0:113": {
+        "value": [
+          "rgba(255, 255, 255, 0.8)"
+        ]
+      },
+      "paint_0:1184": {
+        "value": [
+          "#45536B"
+        ]
+      },
+      "paint_0:1573": {
+        "value": [
+          "#A1A9B3"
+        ]
+      },
+      "paint_0:1659": {
+        "value": [
+          "linear-gradient(180deg, rgba(239, 246, 255, 0.1) -2%, rgba(255, 255, 255, 0.95) 25%, rgba(255, 255, 255, 0.8) 100%)",
+          "linear-gradient(180deg, rgba(239, 246, 255, 0.1) -2%, rgba(255, 255, 255, 0.95) 25%, rgba(255, 255, 255, 0.8) 100%)"
+        ]
+      },
+      "paint_0:1683": {
+        "value": [
+          "#2E3D65"
+        ]
+      },
+      "paint_0:1686": {
+        "value": [
+          "linear-gradient(270deg, #FFE5D8 -4%, #F74545 17%, #F85845 76%, #FE9271 94%, #FFEBE3 98%, #FFFFFF 100%)"
+        ]
+      },
+      "paint_0:1697": {
+        "value": [
+          "#E41F0E"
+        ]
+      },
+      "paint_0:1703": {
+        "value": [
+          "linear-gradient(216deg, #CAD7FF 40%, #FFFFFF 58%)"
+        ]
+      },
+      "paint_1:4176": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/6eb5228a1001f3f9c31dee65e93780d8.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:4208": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/3522dfd6989b919c5d99934fb0ecd748.png",
+            "filters": ""
+          }
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:2264",
+        "name": "编组 50",
+        "layoutStyle": {
+          "width": 351,
+          "height": 114,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "FRAME",
+            "id": "0:2265",
+            "name": "编组 49",
+            "layoutStyle": {
+              "width": 351,
+              "height": 114,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "FRAME",
+                "id": "0:2266",
+                "name": "编组",
+                "layoutStyle": {
+                  "width": 351,
+                  "height": 114,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "PATH",
+                    "id": "0:2267",
+                    "name": "形状结合",
+                    "layoutStyle": {
+                      "width": 351,
+                      "height": 114,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "effect": "effect_0:1656",
+                    "svgKey": "S65:编组|0:2267",
+                    "svgName": "编组"
+                  },
+                  {
+                    "type": "TEXT",
+                    "id": "0:2273",
+                    "name": "SEMI报告显示，2026年Q1全球半导",
+                    "layoutStyle": {
+                      "width": 325,
+                      "height": 64,
+                      "relativeX": 12,
+                      "relativeY": 41
+                    },
+                    "text": [
+                      {
+                        "text": "T65|0:2273",
+                        "font": "font_0:1675"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 103,
+                        "color": "paint_0:1184"
+                      }
+                    ],
+                    "textAlign": "left",
+                    "textMode": "auto-height"
+                  },
+                  {
+                    "type": "TEXT",
+                    "id": "0:2274",
+                    "name": "资料来源：财联社，发布于2026.06.",
+                    "layoutStyle": {
+                      "width": 148,
+                      "height": 9,
+                      "relativeX": 135,
+                      "relativeY": 94
+                    },
+                    "text": [
+                      {
+                        "text": "资料来源：财联社，发布于2026.06.14",
+                        "font": "font_0:1678"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 22,
+                        "color": "paint_0:1573"
+                      }
+                    ],
+                    "textAlign": "left",
+                    "textMode": "single-line"
+                  },
+                  {
+                    "type": "TEXT",
+                    "id": "0:2275",
+                    "name": "365亿美元！半导体设备销售创新高",
+                    "layoutStyle": {
+                      "width": 210,
+                      "height": 15,
+                      "relativeX": 103,
+                      "relativeY": 15
+                    },
+                    "text": [
+                      {
+                        "text": "365亿美元！半导体设备销售创新高",
+                        "font": "font_0:1681"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 17,
+                        "color": "paint_0:1683"
+                      }
+                    ],
+                    "textAlign": "left",
+                    "textMode": "single-line",
+                    "_placeholder": true
+                  },
+                  {
+                    "type": "PATH",
+                    "id": "0:2276",
+                    "name": "矩形",
+                    "layoutStyle": {
+                      "width": 87,
+                      "height": 23,
+                      "relativeX": 9,
+                      "relativeY": 10
+                    },
+                    "effect": "effect_0:1161"
+                  }
+                ]
+              },
+              {
+                "type": "LAYER",
+                "id": "0:2277",
+                "name": "位图",
+                "layoutStyle": {
+                  "width": 55,
+                  "height": 13,
+                  "relativeX": 31,
+                  "relativeY": 15.422911643981934
+                },
+                "fill": "paint_1:4176",
+                "effect": "effect_0:1693"
+              },
+              {
+                "type": "FRAME",
+                "id": "0:2278",
+                "name": "编组 48",
+                "layoutStyle": {
+                  "width": 14,
+                  "height": 17,
+                  "relativeX": 15,
+                  "relativeY": 13
+                },
+                "children": [
+                  {
+                    "type": "SVG_ELLIPSE",
+                    "id": "0:2279",
+                    "name": "椭圆形",
+                    "layoutStyle": {
+                      "width": 9,
+                      "height": 2,
+                      "relativeX": 4,
+                      "relativeY": 15
+                    },
+                    "fill": "paint_0:1697",
+                    "_color": "#E41F0E",
+                    "strokeColor": "paint_0:10",
+                    "strokeType": "solid",
+                    "strokeAlign": "inside",
+                    "strokeWidth": "1px",
+                    "path": [
+                      {
+                        "data": "",
+                        "fill": "#E41F0E"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "LAYER",
+                    "id": "0:2280",
+                    "name": "位图",
+                    "layoutStyle": {
+                      "width": 14,
+                      "height": 16,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "fill": "paint_1:4208"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:2281",
+            "name": "路径 18",
+            "layoutStyle": {
+              "width": 38,
+              "height": 24,
+              "relativeX": 313,
+              "relativeY": 90,
+              "flipV": true
+            },
+            "effect": "effect_0:1708",
+            "svgKey": "S65:编组 50|0:2281",
+            "svgName": "编组 50"
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "SEMI报告显示，2026年Q1全球半导体设备销售额达365.5亿美元，同比增长14%，创单季历史新高。AI相关投资持续驱动先进逻辑、DRAM及先进封装产能扩张，半导体景气上行，产业链相关环节或迎布局机遇。",
+        "parentType": "FRAME",
+        "parentName": "编组"
+      },
+      {
+        "text": "资料来源：财联社，发布于2026.06.14",
+        "parentType": "FRAME",
+        "parentName": "编组"
+      },
+      {
+        "text": "365亿美元！半导体设备销售创新高",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组"
+      }
+    ],
+    "placeholderTexts": [
+      "365亿美元！半导体设备销售创新高"
+    ]
+  },
+  "nodeCount": 13,
+  "svgNodeCount": 3,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 65/66. MISSING 1 sections: [64]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

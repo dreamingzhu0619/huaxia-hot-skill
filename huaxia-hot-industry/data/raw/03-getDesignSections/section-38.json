@@ -1,0 +1,78 @@
+{
+  "sectionIndex": 38,
+  "section": {
+    "id": "0:2021",
+    "name": "编组 13备份",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "effect_0:1233": {
+        "value": [
+          "filter: blur(2.13px);"
+        ]
+      },
+      "paint_0:1092": {
+        "value": [
+          "linear-gradient(143deg, #5388CC 41%, rgba(162, 226, 248, 0) 72%)"
+        ]
+      },
+      "paint_1:4182": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/efacb2d4f3f59d47d689c8a288be365e.png",
+            "filters": ""
+          }
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:2021",
+        "name": "编组 13备份",
+        "layoutStyle": {
+          "width": 51,
+          "height": 37,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "PATH",
+            "id": "0:2022",
+            "name": "路径 4",
+            "layoutStyle": {
+              "width": 34.377174377441406,
+              "height": 18.462594985961914,
+              "relativeX": 16.622827529907227,
+              "relativeY": 18.537405014038086
+            },
+            "effect": "effect_0:1233",
+            "svgKey": "S38:编组 13备份|0:2022",
+            "svgName": "编组 13备份"
+          },
+          {
+            "type": "LAYER",
+            "id": "0:2023",
+            "name": "位图",
+            "layoutStyle": {
+              "width": 45.47237014770508,
+              "height": 34.617183685302734,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "fill": "paint_1:4182"
+          }
+        ]
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 3,
+  "svgNodeCount": 1,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 40/66. MISSING 26 sections: [40,41,42,43,44,45,46,47,48,49... +16 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

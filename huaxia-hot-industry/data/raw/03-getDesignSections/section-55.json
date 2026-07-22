@@ -1,0 +1,72 @@
+{
+  "sectionIndex": 55,
+  "section": {
+    "id": "0:2185",
+    "name": "2027年",
+    "type": "TEXT"
+  },
+  "structureSiblingCount": 3,
+  "dsl": {
+    "styles": {
+      "font_0:1537": {
+        "value": {
+          "family": "MiSans",
+          "size": 12,
+          "style": "Demibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto",
+          "weight": "600"
+        }
+      },
+      "paint_0:179": {
+        "value": [
+          "#F23346"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:2185",
+        "name": "2027年",
+        "layoutStyle": {
+          "width": 42,
+          "height": 16,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "2027年",
+            "font": "font_0:1537"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 5,
+            "color": "paint_0:179"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "single-line",
+        "_placeholder": true
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "2027年",
+        "_placeholder": true
+      }
+    ],
+    "placeholderTexts": [
+      "2027年"
+    ]
+  },
+  "nodeCount": 1,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 56/66. MISSING 10 sections: [56,57,58,59,60,61,62,63,64,65]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

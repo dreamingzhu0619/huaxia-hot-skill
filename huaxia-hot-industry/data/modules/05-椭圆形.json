@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "moduleIndex": 5,
+    "moduleId": "0:1718",
+    "moduleName": "椭圆形",
+    "slug": "椭圆形",
+    "fileName": "05-椭圆形.json",
+    "position": {
+      "x": 96,
+      "y": 96,
+      "width": 183,
+      "height": 50
+    },
+    "nodeCount": 1,
+    "resolvedNodeCount": 1,
+    "textCount": 0,
+    "textsResolved": 0,
+    "sectionIndexes": [
+      5
+    ],
+    "styleCounts": {
+      "paints": 2,
+      "fonts": 0,
+      "effects": 1
+    },
+    "assetCounts": {
+      "bitmaps": 0,
+      "svgs": 0,
+      "d2cSvgIcons": 1,
+      "d2cExportImages": 0
+    },
+    "imageCount": 0,
+    "d2cMatched": true,
+    "d2cMatchDistance": 0.096,
+    "d2cNodeCssCount": 0,
+    "missingStyleRefs": []
+  },
+  "sections": [
+    {
+      "sectionIndex": 5,
+      "id": "0:1718",
+      "name": "椭圆形",
+      "type": "SVG_ELLIPSE",
+      "nodeCount": 1,
+      "x": 96,
+      "y": 96,
+      "width": 183,
+      "height": 50,
+      "structureSiblingCount": 1
+    }
+  ],
+  "assets": {
+    "bitmaps": [],
+    "svgs": {}
+  },
+  "node": {
+    "id": "0:1718",
+    "name": "椭圆形",
+    "type": "SVG_ELLIPSE",
+    "layoutStyle": {
+      "width": 183,
+      "height": 50,
+      "relativeX": 96,
+      "relativeY": 96,
+      "rotate": 0,
+      "rotateX": null
+    },
+    "bounds": {
+      "x": 96,
+      "y": 96,
+      "width": 183,
+      "height": 50
+    },
+    "opacity": 0.9000000357627869,
+    "fill": "#F7F9FD",
+    "effect": {
+      "boxShadow": [],
+      "filter": [
+        "filter: blur(27.2px);"
+      ],
+      "backdropFilter": [],
+      "raw": [
+        "filter: blur(27.2px);"
+      ]
+    },
+    "borderRadius": null,
+    "strokeAlign": "inside",
+    "strokeColor": null,
+    "strokeType": "solid",
+    "strokeWidth": "1px",
+    "mask": null,
+    "path": null,
+    "text": null,
+    "textRuns": null,
+    "textAlign": null,
+    "textMode": null,
+    "textColor": null,
+    "hasSvg": false,
+    "exportImage": null,
+    "styleRefs": {
+      "fill": "paint_0:21",
+      "effect": "effect_0:23",
+      "strokeColor": "paint_0:10"
+    },
+    "componentDefinition": null,
+    "d2cCss": {
+      "-webkit-background-clip": null,
+      "-webkit-text-fill-color": null,
+      "background": null,
+      "background-clip": null,
+      "background-image": null,
+      "border": null,
+      "border-bottom-left-radius": null,
+      "border-radius": null,
+      "border-top-left-radius": null,
+      "bottom": null,
+      "box-shadow": null,
+      "color": null,
+      "filter": null,
+      "flex": null,
+      "font-family": null,
+      "font-size": null,
+      "height": null,
+      "left": null,
+      "letter-spacing": null,
+      "line-height": null,
+      "mix-blend-mode": null,
+      "object-fit": null,
+      "opacity": null,
+      "overflow": null,
+      "position": null,
+      "right": null,
+      "text-align": null,
+      "text-fill-color": null,
+      "text-shadow": null,
+      "top": null,
+      "transform": null,
+      "transform-origin": null,
+      "width": null,
+      "z-index": null
+    },
+    "d2cMatch": null,
+    "sources": [
+      "getDsl"
+    ],
+    "captureStatus": "complete",
+    "children": []
+  },
+  "d2c": {
+    "html": "<div\n        style=\"position: absolute; left: 25.6%; right: 25.6%; top: 3.33%; bottom: 94.93%; z-index: 5\">\n        <img src=\"./asset/icons/svg_eab8d548.svg\" />\n      </div>",
+    "svgIcons": {
+      "svg_eab8d548.svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"none\" version=\"1.1\" width=\"183\" height=\"50\" viewBox=\"0 0 291.8000030517578 158.8000030517578\"><defs><filter id=\"master_svg0_0_1718\" filterUnits=\"objectBoundingBox\" color-interpolation-filters=\"sRGB\" x=\"-0.29726776790097764\" y=\"-1.088000030517578\" width=\"1.5945355358019553\" height=\"3.176000061035156\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"BackgroundImageFix\" result=\"shape\"/><feGaussianBlur stdDeviation=\"13.600000381469727\" result=\"effect1_foregroundBlur\"/></filter></defs><ellipse cx=\"145.9000015258789\" cy=\"79.4000015258789\" rx=\"91.5\" ry=\"25\" fill=\"#F7F9FD\" fill-opacity=\"1\" style=\"opacity:0.9000000357627869;\" filter=\"url(#master_svg0_0_1718)\"/></svg>"
+    },
+    "exportImages": {}
+  }
+}

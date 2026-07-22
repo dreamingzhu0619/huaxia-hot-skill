@@ -1,0 +1,538 @@
+{
+  "meta": {
+    "projectName": "huaxia-hot-industry",
+    "fileId": "198156230925326",
+    "layerId": "0:1711",
+    "rootNodeId": "0:1711",
+    "rootNodeName": "画板",
+    "splitAt": "2026-07-16T10:04:46.733318+08:00",
+    "moduleCount": 18,
+    "totalNodes": 406,
+    "totalTexts": 114,
+    "totalImages": 65,
+    "page": {
+      "width": 375.0,
+      "height": 2880.0,
+      "background": "#DFEBFE"
+    },
+    "d2cUnmatchedFragments": 0
+  },
+  "modules": [
+    {
+      "fileName": "00-矩形.json",
+      "moduleIndex": 0,
+      "moduleId": "0:1713",
+      "moduleName": "矩形",
+      "slug": "矩形",
+      "position": {
+        "x": 0,
+        "y": 461,
+        "width": 375,
+        "height": 250
+      },
+      "nodeCount": 1,
+      "textCount": 0,
+      "imageCount": 0,
+      "assetCounts": {
+        "bitmaps": 0,
+        "svgs": 0,
+        "d2cSvgIcons": 0,
+        "d2cExportImages": 0
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        0
+      ]
+    },
+    {
+      "fileName": "01-矩形备份-32.json",
+      "moduleIndex": 1,
+      "moduleId": "0:1714",
+      "moduleName": "矩形备份 32",
+      "slug": "矩形备份-32",
+      "position": {
+        "x": 0,
+        "y": 1448,
+        "width": 375,
+        "height": 250
+      },
+      "nodeCount": 1,
+      "textCount": 0,
+      "imageCount": 0,
+      "assetCounts": {
+        "bitmaps": 0,
+        "svgs": 0,
+        "d2cSvgIcons": 0,
+        "d2cExportImages": 0
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        1
+      ]
+    },
+    {
+      "fileName": "02-位图.json",
+      "moduleIndex": 2,
+      "moduleId": "0:1715",
+      "moduleName": "位图",
+      "slug": "位图",
+      "position": {
+        "x": -23,
+        "y": -9,
+        "width": 420,
+        "height": 221
+      },
+      "nodeCount": 1,
+      "textCount": 0,
+      "imageCount": 1,
+      "assetCounts": {
+        "bitmaps": 1,
+        "svgs": 0,
+        "d2cSvgIcons": 1,
+        "d2cExportImages": 0
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        2
+      ]
+    },
+    {
+      "fileName": "03-6119285222.json",
+      "moduleIndex": 3,
+      "moduleId": "0:1716",
+      "moduleName": "6119285222",
+      "slug": "6119285222",
+      "position": {
+        "x": 109,
+        "y": -8,
+        "width": 269,
+        "height": 209
+      },
+      "nodeCount": 1,
+      "textCount": 0,
+      "imageCount": 1,
+      "assetCounts": {
+        "bitmaps": 1,
+        "svgs": 0,
+        "d2cSvgIcons": 1,
+        "d2cExportImages": 0
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        3
+      ]
+    },
+    {
+      "fileName": "04-6119285222备份.json",
+      "moduleIndex": 4,
+      "moduleId": "0:1717",
+      "moduleName": "6119285222备份",
+      "slug": "6119285222备份",
+      "position": {
+        "x": 1,
+        "y": 12,
+        "width": 211,
+        "height": 164
+      },
+      "nodeCount": 1,
+      "textCount": 0,
+      "imageCount": 1,
+      "assetCounts": {
+        "bitmaps": 1,
+        "svgs": 0,
+        "d2cSvgIcons": 3,
+        "d2cExportImages": 0
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        4
+      ]
+    },
+    {
+      "fileName": "05-椭圆形.json",
+      "moduleIndex": 5,
+      "moduleId": "0:1718",
+      "moduleName": "椭圆形",
+      "slug": "椭圆形",
+      "position": {
+        "x": 96,
+        "y": 96,
+        "width": 183,
+        "height": 50
+      },
+      "nodeCount": 1,
+      "textCount": 0,
+      "imageCount": 0,
+      "assetCounts": {
+        "bitmaps": 0,
+        "svgs": 0,
+        "d2cSvgIcons": 1,
+        "d2cExportImages": 0
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        5
+      ]
+    },
+    {
+      "fileName": "06-矩形.json",
+      "moduleIndex": 6,
+      "moduleId": "0:1719",
+      "moduleName": "矩形",
+      "slug": "矩形",
+      "position": {
+        "x": 0,
+        "y": 135,
+        "width": 375,
+        "height": 110
+      },
+      "nodeCount": 1,
+      "textCount": 0,
+      "imageCount": 0,
+      "assetCounts": {
+        "bitmaps": 0,
+        "svgs": 0,
+        "d2cSvgIcons": 4,
+        "d2cExportImages": 2
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        6
+      ]
+    },
+    {
+      "fileName": "07-编组-56.json",
+      "moduleIndex": 7,
+      "moduleId": "0:1720",
+      "moduleName": "编组 56",
+      "slug": "编组-56",
+      "position": {
+        "x": 23,
+        "y": 136,
+        "width": 330,
+        "height": 22
+      },
+      "nodeCount": 14,
+      "textCount": 3,
+      "imageCount": 1,
+      "assetCounts": {
+        "bitmaps": 0,
+        "svgs": 1,
+        "d2cSvgIcons": 2,
+        "d2cExportImages": 0
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        7
+      ]
+    },
+    {
+      "fileName": "08-矩形备份.json",
+      "moduleIndex": 8,
+      "moduleId": "0:1752",
+      "moduleName": "矩形备份",
+      "slug": "矩形备份",
+      "position": {
+        "x": 12,
+        "y": 296,
+        "width": 351,
+        "height": 440
+      },
+      "nodeCount": 1,
+      "textCount": 0,
+      "imageCount": 0,
+      "assetCounts": {
+        "bitmaps": 0,
+        "svgs": 0,
+        "d2cSvgIcons": 1,
+        "d2cExportImages": 0
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        8
+      ]
+    },
+    {
+      "fileName": "09-编组-70.json",
+      "moduleIndex": 9,
+      "moduleId": "0:1753",
+      "moduleName": "编组 70",
+      "slug": "编组-70",
+      "position": {
+        "x": 22,
+        "y": 340,
+        "width": 331,
+        "height": 38
+      },
+      "nodeCount": 7,
+      "textCount": 1,
+      "imageCount": 3,
+      "assetCounts": {
+        "bitmaps": 1,
+        "svgs": 2,
+        "d2cSvgIcons": 2,
+        "d2cExportImages": 1
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        9
+      ]
+    },
+    {
+      "fileName": "10-编组-68.json",
+      "moduleIndex": 10,
+      "moduleId": "0:1760",
+      "moduleName": "编组 68",
+      "slug": "编组-68",
+      "position": {
+        "x": 26,
+        "y": 388,
+        "width": 323,
+        "height": 336
+      },
+      "nodeCount": 82,
+      "textCount": 23,
+      "imageCount": 5,
+      "assetCounts": {
+        "bitmaps": 2,
+        "svgs": 3,
+        "d2cSvgIcons": 3,
+        "d2cExportImages": 1
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "fileName": "11-编组-34备份.json",
+      "moduleIndex": 11,
+      "moduleId": "0:1850",
+      "moduleName": "编组 34备份",
+      "slug": "编组-34备份",
+      "position": {
+        "x": 93,
+        "y": 296,
+        "width": 190,
+        "height": 34
+      },
+      "nodeCount": 3,
+      "textCount": 1,
+      "imageCount": 1,
+      "assetCounts": {
+        "bitmaps": 0,
+        "svgs": 1,
+        "d2cSvgIcons": 1,
+        "d2cExportImages": 0
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        16
+      ]
+    },
+    {
+      "fileName": "12-编组-54.json",
+      "moduleIndex": 12,
+      "moduleId": "0:1853",
+      "moduleName": "编组 54",
+      "slug": "编组-54",
+      "position": {
+        "x": 12,
+        "y": 1135,
+        "width": 351,
+        "height": 1542
+      },
+      "nodeCount": 208,
+      "textCount": 55,
+      "imageCount": 38,
+      "assetCounts": {
+        "bitmaps": 12,
+        "svgs": 26,
+        "d2cSvgIcons": 33,
+        "d2cExportImages": 11
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ]
+    },
+    {
+      "fileName": "13-编组-72.json",
+      "moduleIndex": 13,
+      "moduleId": "0:2110",
+      "moduleName": "编组 72",
+      "slug": "编组-72",
+      "position": {
+        "x": 18,
+        "y": 2695,
+        "width": 339,
+        "height": 160
+      },
+      "nodeCount": 3,
+      "textCount": 2,
+      "imageCount": 0,
+      "assetCounts": {
+        "bitmaps": 0,
+        "svgs": 0,
+        "d2cSvgIcons": 0,
+        "d2cExportImages": 0
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        47
+      ]
+    },
+    {
+      "fileName": "14-编组-71.json",
+      "moduleIndex": 14,
+      "moduleId": "0:2113",
+      "moduleName": "编组 71",
+      "slug": "编组-71",
+      "position": {
+        "x": 145,
+        "y": 51,
+        "width": 82,
+        "height": 23
+      },
+      "nodeCount": 3,
+      "textCount": 0,
+      "imageCount": 1,
+      "assetCounts": {
+        "bitmaps": 0,
+        "svgs": 1,
+        "d2cSvgIcons": 9,
+        "d2cExportImages": 0
+      },
+      "d2cMatched": true,
+      "sectionIndexes": [
+        48
+      ]
+    },
+    {
+      "fileName": "15-编组-66.json",
+      "moduleIndex": 15,
+      "moduleId": "0:2133",
+      "moduleName": "编组 66",
+      "slug": "编组-66",
+      "position": {
+        "x": 89,
+        "y": 84,
+        "width": 191,
+        "height": 40
+      },
+      "nodeCount": 8,
+      "textCount": 0,
+      "imageCount": 2,
+      "assetCounts": {
+        "bitmaps": 0,
+        "svgs": 2,
+        "d2cSvgIcons": 0,
+        "d2cExportImages": 0
+      },
+      "d2cMatched": false,
+      "sectionIndexes": [
+        49
+      ]
+    },
+    {
+      "fileName": "16-编组-47.json",
+      "moduleIndex": 16,
+      "moduleId": "0:2163",
+      "moduleName": "编组 47",
+      "slug": "编组-47",
+      "position": {
+        "x": 12,
+        "y": 746,
+        "width": 351,
+        "height": 379
+      },
+      "nodeCount": 57,
+      "textCount": 26,
+      "imageCount": 7,
+      "assetCounts": {
+        "bitmaps": 0,
+        "svgs": 7,
+        "d2cSvgIcons": 0,
+        "d2cExportImages": 0
+      },
+      "d2cMatched": false,
+      "sectionIndexes": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+      ]
+    },
+    {
+      "fileName": "17-编组-50.json",
+      "moduleIndex": 17,
+      "moduleId": "0:2264",
+      "moduleName": "编组 50",
+      "slug": "编组-50",
+      "position": {
+        "x": 12,
+        "y": 172,
+        "width": 351,
+        "height": 114
+      },
+      "nodeCount": 13,
+      "textCount": 3,
+      "imageCount": 4,
+      "assetCounts": {
+        "bitmaps": 2,
+        "svgs": 2,
+        "d2cSvgIcons": 0,
+        "d2cExportImages": 0
+      },
+      "d2cMatched": false,
+      "sectionIndexes": [
+        65
+      ]
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "sectionIndex": 23,
+  "section": {
+    "id": "0:1878",
+    "name": "编组 18",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "effect_0:1074": {
+        "value": [
+          "filter: blur(1.49px);"
+        ]
+      },
+      "effect_0:1094": {
+        "value": [
+          "filter: blur(2.87px);"
+        ]
+      },
+      "effect_0:1125": {
+        "value": [
+          "filter: blur(5.91px);"
+        ]
+      },
+      "font_0:1068": {
+        "value": {
+          "family": "MiSans",
+          "size": 13.698925018310547,
+          "style": "Semibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "13.698925018310547",
+          "letterSpacing": "auto",
+          "weight": "600"
+        }
+      },
+      "paint_0:10": {
+        "value": []
+      },
+      "paint_0:1044": {
+        "value": [
+          "linear-gradient(180deg, rgba(255, 250, 241, 0) 20%, rgba(229, 245, 255, 0) 64%, #B3CDF4 100%)"
+        ]
+      },
+      "paint_0:1049": {
+        "value": [
+          "linear-gradient(180deg, rgba(255, 250, 241, 0) 20%, rgba(255, 227, 223, 0.0813) 67%, #FFC5BC 100%)"
+        ]
+      },
+      "paint_0:1052": {
+        "value": [
+          "linear-gradient(175deg, #FDFEFF 9%, #E0EFFF 53%, #D5E6FF 94%)"
+        ]
+      },
+      "paint_0:1054": {
+        "value": [
+          "#C1D9FF"
+        ]
+      },
+      "paint_0:1057": {
+        "value": [
+          "linear-gradient(180deg, rgba(255, 250, 241, 0) 20%, rgba(255, 246, 229, 0) 64%, #F7D49C 100%)"
+        ]
+      },
+      "paint_0:1061": {
+        "value": [
+          "linear-gradient(180deg, #FFFAF1 4%, #FFF6E5 38%, #FFE8BE 100%)"
+        ]
+      },
+      "paint_0:1063": {
+        "value": [
+          "#F8DEAF"
+        ]
+      },
+      "paint_0:1066": {
+        "value": [
+          "linear-gradient(166deg, #B97333 -5%, #833F17 78%)"
+        ]
+      },
+      "paint_0:1072": {
+        "value": [
+          "linear-gradient(147deg, #DFB27A 48%, #FFEFD2 73%)"
+        ]
+      },
+      "paint_0:1080": {
+        "value": [
+          "linear-gradient(180deg, #FFFCFC 0%, #FFEEEC 49%, #FFD6CF 100%)"
+        ]
+      },
+      "paint_0:1082": {
+        "value": [
+          "#FFD7D2"
+        ]
+      },
+      "paint_0:1085": {
+        "value": [
+          "linear-gradient(180deg, #EC4D66 0%, #E02C1E 100%)"
+        ]
+      },
+      "paint_0:1088": {
+        "value": [
+          "linear-gradient(162deg, #2875EC -7%, #2C58BE 75%)"
+        ]
+      },
+      "paint_0:1092": {
+        "value": [
+          "linear-gradient(144deg, #5388CC 41%, rgba(162, 226, 248, 0) 72%)"
+        ]
+      },
+      "paint_0:1100": {
+        "value": [
+          "linear-gradient(270deg, #A8CBFF 0%, #D6E3F6 33%, #FFF9EF 47%, #FFD08E 100%)"
+        ]
+      },
+      "paint_0:1109": {
+        "value": [
+          "linear-gradient(270deg, #A8CBFF 0%, #D9E5F6 35%, #FFF9EF 50%, #FCA1A7 100%)"
+        ]
+      },
+      "paint_0:1117": {
+        "value": [
+          "linear-gradient(171deg, #EE6D6C 22%, #FFD3D4 61%)"
+        ]
+      },
+      "paint_0:1123": {
+        "value": [
+          "#FFF0EE"
+        ]
+      },
+      "paint_1:4170": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/eb0f43cfdfadedee9b744889d9154147.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:4188": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/efacb2d4f3f59d47d689c8a288be365e.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:4266": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/0779709c791199f67a3425dcd43f1d4c.png",
+            "filters": ""
+          }
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1878",
+        "name": "编组 18",
+        "layoutStyle": {
+          "width": 336,
+          "height": 98,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "PATH",
+            "id": "0:1879",
+            "name": "矩形备份 13",
+            "layoutStyle": {
+              "width": 112.70219421386719,
+              "height": 21.07526969909668,
+              "relativeX": 111.65,
+              "relativeY": 76.92,
+              "flipV": true
+            },
+            "opacity": 0.550000011920929,
+            "path": [
+              {
+                "fill": "url(#grad_paint_0_1044)",
+                "data": "",
+                "transform": "matrix(1,0,0,-1,0,196)",
+                "fillType": 1
+              }
+            ],
+            "svgKey": "S23:编组 18|0:1879",
+            "svgName": "编组 18"
+          },
+          {
+            "type": "PATH",
+            "id": "0:1880",
+            "name": "矩形备份 14",
+            "layoutStyle": {
+              "width": 112.70219421386719,
+              "height": 21.07526969909668,
+              "relativeX": 223.3,
+              "relativeY": 76.92,
+              "flipV": true
+            },
+            "opacity": 0.550000011920929,
+            "path": [
+              {
+                "fill": "url(#grad_paint_0_1049)",
+                "data": "",
+                "transform": "matrix(1,0,0,-1,0,196)",
+                "fillType": 1
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1881",
+            "name": "矩形备份 7",
+            "layoutStyle": {
+              "width": 97.95611572265625,
+              "height": 65.33333587646484,
+              "relativeX": 119.02194213867188,
+              "relativeY": 13.698925018310547
+            },
+            "path": [
+              {
+                "fill": "url(#grad_paint_0_1052)",
+                "data": "",
+                "fillType": 1
+              },
+              {
+                "fill": "#C1D9FF",
+                "data": "",
+                "fillType": 1
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1882",
+            "name": "矩形备份 12",
+            "layoutStyle": {
+              "width": 112.70219421386719,
+              "height": 21.07526969909668,
+              "relativeX": 0,
+              "relativeY": 76.92,
+              "flipV": true
+            },
+            "opacity": 0.5981305837631226,
+            "path": [
+              {
+                "fill": "url(#grad_paint_0_1057)",
+                "data": "",
+                "transform": "matrix(1,0,0,-1,0,196)",
+                "fillType": 1
+              }
+            ]
+          },
+          {
+            "type": "FRAME",
+            "id": "0:1883",
+            "name": "编组 15",
+            "layoutStyle": {
+              "width": 97.95611572265625,
+              "height": 79.03225708007812,
+              "relativeX": 7.373040676116943,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "PATH",
+                "id": "0:1884",
+                "name": "矩形备份 8",
+                "layoutStyle": {
+                  "width": 97.95611572265625,
+                  "height": 65.33333587646484,
+                  "relativeX": 0,
+                  "relativeY": 13.698925018310547
+                },
+                "path": [
+                  {
+                    "fill": "url(#grad_paint_0_1061)",
+                    "data": "",
+                    "fillType": 1
+                  },
+                  {
+                    "fill": "#F8DEAF",
+                    "data": "",
+                    "fillType": 1
+                  }
+                ],
+                "svgKey": "S23:编组 15|0:1884",
+                "svgName": "编组 15"
+              },
+              {
+                "type": "TEXT",
+                "id": "0:1885",
+                "name": "绝缘体",
+                "layoutStyle": {
+                  "width": 42,
+                  "height": 14,
+                  "relativeX": 28.429466247558594,
+                  "relativeY": 57.95698928833008
+                },
+                "fill": "paint_0:1066",
+                "_color": "linear-gradient(166deg, #B97333 -5%, #833F17 78%)",
+                "text": [
+                  {
+                    "text": "绝缘体",
+                    "font": "font_0:1068"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 3,
+                    "color": "paint_0:1066"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              },
+              {
+                "type": "FRAME",
+                "id": "0:1886",
+                "name": "编组 14",
+                "layoutStyle": {
+                  "width": 54.77116012573242,
+                  "height": 53.74193572998047,
+                  "relativeX": 24.225706100463867,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "PATH",
+                    "id": "0:1887",
+                    "name": "路径 6",
+                    "layoutStyle": {
+                      "width": 50.4154167175293,
+                      "height": 18.110836029052734,
+                      "relativeX": 4.355742454528809,
+                      "relativeY": 35.631099700927734
+                    },
+                    "effect": "effect_0:1074",
+                    "path": [
+                      {
+                        "fill": "url(#grad_paint_0_1072)",
+                        "data": "",
+                        "fillType": 1
+                      }
+                    ],
+                    "svgKey": "S23:编组 14|0:1887",
+                    "svgName": "编组 14"
+                  },
+                  {
+                    "type": "LAYER",
+                    "id": "0:1888",
+                    "name": "位图",
+                    "layoutStyle": {
+                      "width": 47.913169860839844,
+                      "height": 50.29047775268555,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "fill": "paint_1:4170"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1889",
+            "name": "矩形备份 11",
+            "layoutStyle": {
+              "width": 97.95611572265625,
+              "height": 65.33333587646484,
+              "relativeX": 230.6708526611328,
+              "relativeY": 13.698925018310547
+            },
+            "path": [
+              {
+                "fill": "url(#grad_paint_0_1080)",
+                "data": "",
+                "fillType": 1
+              },
+              {
+                "fill": "#FFD7D2",
+                "data": "",
+                "fillType": 1
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1890",
+            "name": "导体",
+            "layoutStyle": {
+              "width": 28,
+              "height": 14,
+              "relativeX": 266.175537109375,
+              "relativeY": 57.95698928833008
+            },
+            "fill": "paint_0:1085",
+            "_color": "linear-gradient(180deg, #EC4D66 0%, #E02C1E 100%)",
+            "text": [
+              {
+                "text": "导体",
+                "font": "font_0:1068"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 2,
+                "color": "paint_0:1085"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line",
+            "_placeholder": true
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1891",
+            "name": "半导体",
+            "layoutStyle": {
+              "width": 42,
+              "height": 14,
+              "relativeX": 147.451416015625,
+              "relativeY": 57.95698928833008
+            },
+            "fill": "paint_0:1088",
+            "_color": "linear-gradient(162deg, #2875EC -7%, #2C58BE 75%)",
+            "text": [
+              {
+                "text": "半导体",
+                "font": "font_0:1068"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 3,
+                "color": "paint_0:1088"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line",
+            "_placeholder": true
+          },
+          {
+            "type": "FRAME",
+            "id": "0:1892",
+            "name": "编组 13",
+            "layoutStyle": {
+              "width": 67.33580017089844,
+              "height": 49.557090759277344,
+              "relativeX": 137.98118591308594,
+              "relativeY": 2.1075267791748047
+            },
+            "children": [
+              {
+                "type": "PATH",
+                "id": "0:1893",
+                "name": "路径 4",
+                "layoutStyle": {
+                  "width": 45.388519287109375,
+                  "height": 24.72844696044922,
+                  "relativeX": 21.947280883789062,
+                  "relativeY": 24.828643798828125
+                },
+                "effect": "effect_0:1094",
+                "path": [
+                  {
+                    "fill": "url(#grad_paint_0_1092)",
+                    "data": "",
+                    "fillType": 1
+                  }
+                ],
+                "svgKey": "S23:编组 13|0:1893",
+                "svgName": "编组 13"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:1894",
+                "name": "位图",
+                "layoutStyle": {
+                  "width": 60.03761672973633,
+                  "height": 46.36559295654297,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "fill": "paint_1:4188"
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1895",
+            "name": "形状结合",
+            "layoutStyle": {
+              "width": 42.126468658447266,
+              "height": 10.583362579345703,
+              "relativeX": 90.5856704711914,
+              "relativeY": 58.985904693603516
+            },
+            "path": [
+              {
+                "fill": "url(#grad_paint_0_1100)",
+                "data": ""
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1900",
+            "name": "形状结合备份 3",
+            "layoutStyle": {
+              "width": 41.073177337646484,
+              "height": 10.583362579345703,
+              "relativeX": 203.29,
+              "relativeY": 58.99
+            },
+            "path": [
+              {
+                "fill": "url(#grad_paint_0_1109)",
+                "data": "",
+                "transform": "matrix(-1,0,0,1,488.7220764160156,0)"
+              }
+            ]
+          },
+          {
+            "type": "FRAME",
+            "id": "0:1905",
+            "name": "编组 16",
+            "layoutStyle": {
+              "width": 50.556297302246094,
+              "height": 53.744720458984375,
+              "relativeX": 254.89654541015625,
+              "relativeY": 1.0537633895874023
+            },
+            "children": [
+              {
+                "type": "PATH",
+                "id": "0:1906",
+                "name": "路径 7",
+                "layoutStyle": {
+                  "width": 32.465553283691406,
+                  "height": 10.676358222961426,
+                  "relativeX": 14.13940143585205,
+                  "relativeY": 38.23719787597656
+                },
+                "path": [
+                  {
+                    "fill": "url(#grad_paint_0_1117)",
+                    "data": "",
+                    "fillType": 1
+                  }
+                ],
+                "svgKey": "S23:编组 16|0:1906",
+                "svgName": "编组 16"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:1907",
+                "name": "位图",
+                "layoutStyle": {
+                  "width": 50.0317268371582,
+                  "height": 47.812564849853516,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "fill": "paint_1:4266"
+              },
+              {
+                "type": "SVG_ELLIPSE",
+                "id": "0:1908",
+                "name": "椭圆形",
+                "layoutStyle": {
+                  "width": 17.906641006469727,
+                  "height": 7.607142925262451,
+                  "relativeX": 31.93,
+                  "relativeY": 43.69,
+                  "rotate": 17
+                },
+                "fill": "paint_0:1123",
+                "_color": "#FFF0EE",
+                "strokeColor": "paint_0:10",
+                "strokeType": "solid",
+                "strokeAlign": "inside",
+                "strokeWidth": "1.0866491794586182px",
+                "effect": "effect_0:1125",
+                "path": [
+                  {
+                    "data": "",
+                    "fill": "#FFF0EE"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "绝缘体",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 15"
+      },
+      {
+        "text": "导体",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 18"
+      },
+      {
+        "text": "半导体",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 18"
+      }
+    ],
+    "placeholderTexts": [
+      "绝缘体",
+      "导体",
+      "半导体"
+    ]
+  },
+  "nodeCount": 23,
+  "svgNodeCount": 12,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 24/66. MISSING 42 sections: [24,25,26,27,28,29,30,31,32,33... +32 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

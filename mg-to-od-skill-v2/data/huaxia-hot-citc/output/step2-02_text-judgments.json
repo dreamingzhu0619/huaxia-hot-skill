@@ -1,0 +1,124 @@
+{
+  "frames": {
+    "营销头图": {
+      "texts": [
+        {
+          "text": "市场开启震荡模式",
+          "judgment": "variable",
+          "nodeId": "0:10",
+          "fromName": false
+        },
+        {
+          "text": "“反脆弱”红利低波",
+          "judgment": "variable",
+          "nodeId": "0:13",
+          "fromName": true
+        },
+        {
+          "text": "“反脆弱”价值凸显",
+          "judgment": "variable",
+          "nodeId": "0:16",
+          "fromName": true
+        }
+      ]
+    },
+    "产品卡": {
+      "texts": [
+        {
+          "text": "小试一笔",
+          "judgment": "fixed",
+          "nodeId": "0:55",
+          "fromName": false
+        },
+        {
+          "text": "华夏中证红利低波动ETF发起式联接C",
+          "judgment": "variable",
+          "nodeId": "0:57",
+          "fromName": false
+        },
+        {
+          "text": "021483",
+          "judgment": "variable",
+          "nodeId": "0:63",
+          "fromName": false
+        },
+        {
+          "text": "较高风险",
+          "judgment": "variable",
+          "nodeId": "0:66",
+          "fromName": false
+        },
+        {
+          "text": "近一年涨跌幅",
+          "judgment": "fixed",
+          "nodeId": "4:0409",
+          "fromName": false
+        },
+        {
+          "text": "2.80%",
+          "judgment": "variable",
+          "nodeId": "4:269",
+          "fromName": false
+        }
+      ]
+    },
+    "风险警告": {
+      "texts": [
+        {
+          "text": "风险提示：基金非存款，产品有风险，投资须谨慎。本产品由华夏基金发行与管理，中信银行作为代销机构不承担产品的投资和兑付责任。以上内容仅供参考，不预示未来表现，也不作为任何投资建议。其中的观点和预测代表当时观点，今后可能发生改变，未经同意请勿引用或转载。\n基金管理人承诺以诚实信用、勤勉尽责的原则管理和运用基金资产但不保证本基金一定盈利，也不保证最低收益。本基金的过往业绩及其净值高低并不预示其未来业绩表现，基金管理人管理的其他基金的业绩并不构成对本基金业绩表现的保证。基金管理人/基金销售机构提醒您基金投资的“买者自负”原则，在做出投资决策后，基金运营状况与基金净值变化引致的投资风险，由您自行负担。基金管理人、基金托管人、基金销售机构及相关机构不对基金投资收益做出任何承诺或保证。您在做出投资决策之前，请仔细阅读基金合同、基金招募说明书和基金产品资料概要等产品法律文件和风险揭示书，充分认识本基金的风险收益特征和产品特性，认真考虑本基金存在的各项风险因素，并根据自身的投资目的、投资期限、投资经验、资产状况等因素充分考虑自身的风险承受能力，在了解产品情况及销售适当性意见的基础上，理性判断并谨慎做出投资决策。华夏基金基金客服热线：电话400-818-6666。\n详询您的理财经理或我行客服电话95558。",
+          "judgment": "fixed",
+          "nodeId": "0:401",
+          "fromName": false
+        },
+        {
+          "text": "0.15%",
+          "judgment": "variable",
+          "nodeId": "0:403",
+          "fromName": false
+        },
+        {
+          "text": "收费方式/年费率",
+          "judgment": "fixed",
+          "nodeId": "0:404",
+          "fromName": false
+        },
+        {
+          "text": "0.20%",
+          "judgment": "variable",
+          "nodeId": "0:405",
+          "fromName": false
+        },
+        {
+          "text": "0.05%",
+          "judgment": "variable",
+          "nodeId": "0:406",
+          "fromName": false
+        },
+        {
+          "text": "管理费",
+          "judgment": "fixed",
+          "nodeId": "0:407",
+          "fromName": false
+        },
+        {
+          "text": "费用类别",
+          "judgment": "fixed",
+          "nodeId": "0:408",
+          "fromName": false
+        },
+        {
+          "text": "销售服务费",
+          "judgment": "fixed",
+          "nodeId": "0:409",
+          "fromName": false
+        },
+        {
+          "text": "托管费",
+          "judgment": "fixed",
+          "nodeId": "0:410",
+          "fromName": false
+        }
+      ]
+    }
+  }
+}

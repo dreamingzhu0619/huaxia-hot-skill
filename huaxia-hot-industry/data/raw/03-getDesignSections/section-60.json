@@ -1,0 +1,102 @@
+{
+  "sectionIndex": 60,
+  "section": {
+    "id": "0:2218",
+    "name": "WSTS（世界半导体贸易统计组织）最新预",
+    "type": "TEXT"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "font_0:1576": {
+        "value": {
+          "family": "MiSans",
+          "size": 12.5,
+          "style": "Regular",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "16",
+          "letterSpacing": "-0.6000000238418579px",
+          "weight": "400"
+        }
+      },
+      "font_0:1578": {
+        "value": {
+          "family": "MiSans",
+          "size": 12.5,
+          "style": "Demibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "16",
+          "letterSpacing": "-0.6000000238418579px",
+          "weight": "600"
+        }
+      },
+      "paint_0:145": {
+        "value": [
+          "#3A3E45"
+        ]
+      },
+      "paint_0:179": {
+        "value": [
+          "#F23346"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "TEXT",
+        "id": "0:2218",
+        "name": "WSTS（世界半导体贸易统计组织）最新预",
+        "layoutStyle": {
+          "width": 319,
+          "height": 32,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "text": [
+          {
+            "text": "T60|0:2218",
+            "font": "font_0:1576"
+          },
+          {
+            "text": "T60|0:2218",
+            "font": "font_0:1578"
+          },
+          {
+            "text": "T60|0:2218",
+            "font": "font_0:1576"
+          }
+        ],
+        "textColor": [
+          {
+            "start": 0,
+            "end": 25,
+            "color": "paint_0:145"
+          },
+          {
+            "start": 25,
+            "end": 34,
+            "color": "paint_0:179"
+          },
+          {
+            "start": 34,
+            "end": 55,
+            "color": "paint_0:145"
+          }
+        ],
+        "textAlign": "left",
+        "textMode": "auto-height"
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "T60|0:2218T60|0:2218T60|0:2218"
+      }
+    ]
+  },
+  "nodeCount": 1,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 61/66. MISSING 5 sections: [61,62,63,64,65]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

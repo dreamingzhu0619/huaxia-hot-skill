@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "moduleIndex": 4,
+    "moduleId": "0:1717",
+    "moduleName": "6119285222备份",
+    "slug": "6119285222备份",
+    "fileName": "04-6119285222备份.json",
+    "position": {
+      "x": 1,
+      "y": 12,
+      "width": 211,
+      "height": 164
+    },
+    "nodeCount": 1,
+    "resolvedNodeCount": 1,
+    "textCount": 0,
+    "textsResolved": 0,
+    "sectionIndexes": [
+      4
+    ],
+    "styleCounts": {
+      "paints": 1,
+      "fonts": 0,
+      "effects": 0
+    },
+    "assetCounts": {
+      "bitmaps": 1,
+      "svgs": 0,
+      "d2cSvgIcons": 3,
+      "d2cExportImages": 0
+    },
+    "imageCount": 1,
+    "d2cMatched": true,
+    "d2cMatchDistance": 145.924,
+    "d2cNodeCssCount": 0,
+    "missingStyleRefs": []
+  },
+  "sections": [
+    {
+      "sectionIndex": 4,
+      "id": "0:1717",
+      "name": "6119285222备份",
+      "type": "LAYER",
+      "nodeCount": 1,
+      "x": 1,
+      "y": 12,
+      "width": 211,
+      "height": 164,
+      "structureSiblingCount": 1
+    }
+  ],
+  "assets": {
+    "bitmaps": [
+      {
+        "styleKey": "paint_1:3576",
+        "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/32bc444d08371c656d6a7c8001517ad6.png"
+      }
+    ],
+    "svgs": {}
+  },
+  "node": {
+    "id": "0:1717",
+    "name": "6119285222备份",
+    "type": "LAYER",
+    "layoutStyle": {
+      "width": 211,
+      "height": 164,
+      "relativeX": 1,
+      "relativeY": 12,
+      "rotate": 160,
+      "rotateX": 180
+    },
+    "bounds": {
+      "x": 1,
+      "y": 12,
+      "width": 211,
+      "height": 164
+    },
+    "opacity": null,
+    "fill": {
+      "type": "IMAGE",
+      "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/32bc444d08371c656d6a7c8001517ad6.png"
+    },
+    "effect": null,
+    "borderRadius": null,
+    "strokeAlign": null,
+    "strokeColor": null,
+    "strokeType": null,
+    "strokeWidth": null,
+    "mask": null,
+    "path": null,
+    "text": null,
+    "textRuns": null,
+    "textAlign": null,
+    "textMode": null,
+    "textColor": null,
+    "hasSvg": false,
+    "exportImage": null,
+    "styleRefs": {
+      "fill": "paint_1:3576"
+    },
+    "componentDefinition": null,
+    "d2cCss": {
+      "-webkit-background-clip": null,
+      "-webkit-text-fill-color": null,
+      "background": null,
+      "background-clip": null,
+      "background-image": null,
+      "border": null,
+      "border-bottom-left-radius": null,
+      "border-radius": null,
+      "border-top-left-radius": null,
+      "bottom": null,
+      "box-shadow": null,
+      "color": null,
+      "filter": null,
+      "flex": null,
+      "font-family": null,
+      "font-size": null,
+      "height": null,
+      "left": null,
+      "letter-spacing": null,
+      "line-height": null,
+      "mix-blend-mode": null,
+      "object-fit": null,
+      "opacity": null,
+      "overflow": null,
+      "position": null,
+      "right": null,
+      "text-align": null,
+      "text-fill-color": null,
+      "text-shadow": null,
+      "top": null,
+      "transform": null,
+      "transform-origin": null,
+      "width": null,
+      "z-index": null
+    },
+    "d2cMatch": null,
+    "sources": [
+      "getDsl"
+    ],
+    "captureStatus": "complete",
+    "children": []
+  },
+  "d2c": {
+    "html": "<div\n        style=\"width: 330px; height: 22px; flex: none; position: absolute; left: 6.13%; right: 5.87%; top: 4.72%; bottom: 94.51%; z-index: 7\">\n        <div\n          style=\"width: 330px; height: 22px; flex: none; background: linear-gradient(270deg, rgba(252,253,255,0) 0%, rgba(250,251,254,0.25) 9%, rgba(250,251,254,0.6) 51%, rgba(250,251,254,0.29) 91%, rgba(248,249,254,0) 100%); border-image: linear-gradient(270deg, rgba(255,255,255,0) 0%, #FFFFFF 50%, rgba(255,255,255,0) 100%) 1 1 1 1; position: absolute; left: 0%; right: 0%; top: 0%; bottom: 0%; z-index: 0; border: 1px solid\"></div>\n        <div\n          style=\"width: 87px; height: 16px; flex: none; position: absolute; left: 7.88%; right: 65.76%; top: 11.68%; bottom: 15.59%; z-index: 1\">\n          <span\n            style=\"color: #3C58A0; font-size: 12px; font-family: MiSans; line-height: 16px; letter-spacing: -0.3px; position: absolute; left: calc(100% - 87px + 16px); top: calc(100% - 16px + 0px); z-index: 0\">\n            捕捉热点事件\n          </span>\n          <div style=\"position: absolute; left: 0px; top: 2.43px; z-index: 1\">\n            <img src=\"./asset/icons/svg_dbdc78f6.svg\" />\n          </div>\n        </div>\n        <div\n          style=\"width: 87px; height: 16px; flex: none; position: absolute; left: 37.27%; right: 36.36%; top: 13.64%; bottom: 13.64%; z-index: 2\">\n          <span\n            style=\"color: #3C58A0; font-size: 12px; font-family: MiSans; line-height: 16px; letter-spacing: -0.3px; position: absolute; left: calc(100% - 87px + 16px); top: calc(100% - 16px + 0px); z-index: 0\">\n            拆解产业逻辑\n          </span>\n          <div style=\"position: absolute; left: 0px; top: 2.43px; z-index: 1\">\n            <img src=\"./asset/icons/svg_a9a6cef9.svg\" />\n          </div>\n        </div>\n        <div\n          style=\"width: 87px; height: 16px; flex: none; position: absolute; left: 66.67%; right: 6.97%; top: 11.68%; bottom: 15.59%; z-index: 3\">\n          <span\n            style=\"color: #3C58A0; font-size: 12px; font-family: MiSans; line-height: 16px; letter-spacing: -0.3px; position: absolute; left: calc(100% - 87px + 16px); top: calc(100% - 16px + 0px); z-index: 0\">\n            精选关联产品\n          </span>\n          <div style=\"position: absolute; left: 0px; top: 2.43px; z-index: 1\">\n            <img src=\"./asset/icons/svg_ed25ff85.svg\" />\n          </div>\n        </div>\n      </div>",
+    "svgIcons": {
+      "svg_a9a6cef9.svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"none\" version=\"1.1\" width=\"12\" height=\"12\" viewBox=\"0 0 12 12\"><defs><linearGradient x1=\"0.3348369002342224\" y1=\"-0.33774128556251526\" x2=\"0.826451003551483\" y2=\"1.2023022174835205\" id=\"master_svg0_0_844\"><stop offset=\"0%\" stop-color=\"#6E96E5\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#425892\" stop-opacity=\"1\"/></linearGradient></defs><g><path d=\"M6,0C2.676923,0,0,2.676923,0,6C0,9.3230772,2.676923,12,6,12C9.3230772,12,12,9.3230772,12,6C12,2.676923,9.3230772,0,6,0ZM6.0000033,11.076941C3.1846189,11.076941,0.92308044,8.815403,0.92308044,6.0000186C0.92308044,3.1846342,3.1846189,0.9230957,6.0000033,0.9230957C8.8153877,0.9230957,11.076926,3.1846342,11.076926,6.0000186C11.076926,8.815403,8.8153877,11.076941,6.0000033,11.076941ZM5.9538441,6.7845907L8.3999977,3.8768988C8.5846138,3.6461296,8.861536,3.6461296,9.0923061,3.830745C9.2769213,3.9692063,9.3230743,4.2922835,9.1384602,4.4768987L6.6923056,7.3845911C6.4153824,7.7076678,5.9999981,7.8922834,5.5846133,7.8922834C5.2615366,7.8922834,4.9384594,7.7999759,4.7076902,7.6153603L2.9538441,6.2768984C2.7692287,6.1384373,2.7230749,5.8153601,2.8615365,5.6307449C2.9999981,5.4461293,3.3230748,5.3999758,3.5076904,5.5384369L5.2615366,6.8768988C5.4461517,7.0153604,5.7692289,6.9692063,5.9538441,6.7845907Z\" fill-rule=\"evenodd\" fill=\"url(#master_svg0_0_844)\" fill-opacity=\"1\"/></g></svg>",
+      "svg_dbdc78f6.svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"none\" version=\"1.1\" width=\"12\" height=\"12\" viewBox=\"0 0 12 12\"><defs><linearGradient x1=\"0.3348369002342224\" y1=\"-0.33774128556251526\" x2=\"0.826451003551483\" y2=\"1.2023022174835205\" id=\"master_svg0_0_844\"><stop offset=\"0%\" stop-color=\"#6E96E5\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#425892\" stop-opacity=\"1\"/></linearGradient></defs><g><path d=\"M6,0C2.676923,0,0,2.676923,0,6C0,9.3230772,2.676923,12,6,12C9.3230772,12,12,9.3230772,12,6C12,2.676923,9.3230772,0,6,0ZM6.0000033,11.076941C3.1846189,11.076941,0.92308044,8.815403,0.92308044,6.0000186C0.92308044,3.1846342,3.1846189,0.9230957,6.0000033,0.9230957C8.8153877,0.9230957,11.076926,3.1846342,11.076926,6.0000186C11.076926,8.815403,8.8153877,11.076941,6.0000033,11.076941ZM5.9538517,6.7845907L8.4000053,3.8768988C8.5846214,3.6461296,8.8615437,3.6461296,9.0923138,3.830745C9.2769289,3.9692063,9.323082,4.2922835,9.1384678,4.4768987L6.6923132,7.3845911C6.41539,7.7076678,6.0000057,7.8922834,5.584621,7.8922834C5.2615442,7.8922834,4.938467,7.7999759,4.7076979,7.6153603L2.9538517,6.2768984C2.7692363,6.1384373,2.7230825,5.8153601,2.8615441,5.6307449C3.0000057,5.4461293,3.3230824,5.3999758,3.5076981,5.5384369L5.2615442,6.8768988C5.4461594,7.0153604,5.7692366,6.9692063,5.9538517,6.7845907Z\" fill-rule=\"evenodd\" fill=\"url(#master_svg0_0_844)\" fill-opacity=\"1\"/></g></svg>",
+      "svg_ed25ff85.svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"none\" version=\"1.1\" width=\"12\" height=\"12\" viewBox=\"0 0 12 12\"><defs><linearGradient x1=\"0.3348369002342224\" y1=\"-0.33774128556251526\" x2=\"0.826451003551483\" y2=\"1.2023022174835205\" id=\"master_svg0_0_844\"><stop offset=\"0%\" stop-color=\"#6E96E5\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#425892\" stop-opacity=\"1\"/></linearGradient></defs><g><path d=\"M6,0C2.676923,0,0,2.676923,0,6C0,9.3230772,2.676923,12,6,12C9.3230772,12,12,9.3230772,12,6C12,2.676923,9.3230772,0,6,0ZM6.0000033,11.076941C3.1846189,11.076941,0.92308044,8.815403,0.92308044,6.0000186C0.92308044,3.1846342,3.1846189,0.9230957,6.0000033,0.9230957C8.8153877,0.9230957,11.076926,3.1846342,11.076926,6.0000186C11.076926,8.815403,8.8153877,11.076941,6.0000033,11.076941ZM5.953846,6.7845907L8.3999996,3.8768988C8.5846157,3.6461296,8.8615379,3.6461296,9.092308,3.830745C9.2769232,3.9692063,9.3230762,4.2922835,9.1384621,4.4768987L6.6923075,7.3845911C6.4153843,7.7076678,6,7.8922834,5.5846152,7.8922834C5.2615385,7.8922834,4.9384613,7.7999759,4.7076921,7.6153603L2.953846,6.2768984C2.7692306,6.1384373,2.7230768,5.8153601,2.8615384,5.6307449C3,5.4461293,3.3230767,5.3999758,3.5076923,5.5384369L5.2615385,6.8768988C5.4461536,7.0153604,5.7692308,6.9692063,5.953846,6.7845907Z\" fill-rule=\"evenodd\" fill=\"url(#master_svg0_0_844)\" fill-opacity=\"1\"/></g></svg>"
+    },
+    "exportImages": {}
+  }
+}

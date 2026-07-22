@@ -1,0 +1,132 @@
+{
+  "sectionIndex": 15,
+  "section": {
+    "id": "0:1840",
+    "name": "编组 46",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "font_0:750": {
+        "value": {
+          "family": "MiSans",
+          "size": 13,
+          "style": "Medium",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto",
+          "weight": "500"
+        }
+      },
+      "paint_0:971": {
+        "value": [
+          "#5075B7"
+        ]
+      },
+      "paint_0:981": {
+        "value": [
+          "#5075B7"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1840",
+        "name": "编组 46",
+        "layoutStyle": {
+          "width": 68,
+          "height": 18,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "TEXT",
+            "id": "0:1841",
+            "name": "查看更多",
+            "layoutStyle": {
+              "width": 52,
+              "height": 17,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "text": [
+              {
+                "text": "查看更多",
+                "font": "font_0:750"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 4,
+                "color": "paint_0:971"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line",
+            "_placeholder": true
+          },
+          {
+            "type": "FRAME",
+            "id": "0:1842",
+            "name": "编组",
+            "layoutStyle": {
+              "width": 16,
+              "height": 16,
+              "relativeX": 52,
+              "relativeY": 1
+            },
+            "children": [
+              {
+                "type": "PATH",
+                "id": "0:1843",
+                "name": "形状",
+                "layoutStyle": {
+                  "width": 16,
+                  "height": 16,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "path": []
+              },
+              {
+                "type": "PATH",
+                "id": "0:1849",
+                "name": "路径",
+                "layoutStyle": {
+                  "width": 5.112732887268066,
+                  "height": 8.876016616821289,
+                  "relativeX": 5.553791522979736,
+                  "relativeY": 3.5701920986175537
+                },
+                "svgKey": "S15:编组|0:1849",
+                "svgName": "编组"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "查看更多",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 46"
+      }
+    ],
+    "placeholderTexts": [
+      "查看更多"
+    ]
+  },
+  "nodeCount": 5,
+  "svgNodeCount": 1,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 14/66. MISSING 52 sections: [12,13,16,17,18,19,20,21,22,23... +42 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

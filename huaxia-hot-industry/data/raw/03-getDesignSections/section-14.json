@@ -1,0 +1,618 @@
+{
+  "sectionIndex": 14,
+  "section": {
+    "id": "0:1817",
+    "name": "编组 43备份 3",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "effect_0:186": {
+        "value": [
+          "filter: blur(7.79px);"
+        ]
+      },
+      "effect_0:194": {
+        "value": [
+          "filter: blur(13.6px);"
+        ]
+      },
+      "effect_0:202": {
+        "value": [
+          "box-shadow: 0px 2px 4px 0px rgba(219, 0, 16, 0.5966);"
+        ]
+      },
+      "font_0:143": {
+        "value": {
+          "family": "MiSans",
+          "size": 15,
+          "style": "Demibold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto",
+          "weight": "600"
+        }
+      },
+      "font_0:152": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 10,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "0.13286691904067993px"
+        }
+      },
+      "font_0:163": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 11,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "0.14615361392498016px"
+        }
+      },
+      "font_0:168": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 10,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "-0.32167819142341614px"
+        }
+      },
+      "font_0:170": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 10,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "-0.9090909361839294px"
+        }
+      },
+      "font_0:204": {
+        "value": {
+          "family": "FZLTDHJW--GB1",
+          "size": 14,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "0.5px"
+        }
+      },
+      "paint_0:10": {
+        "value": []
+      },
+      "paint_0:145": {
+        "value": [
+          "#3A3E45"
+        ]
+      },
+      "paint_0:149": {
+        "value": [
+          "linear-gradient(180deg, #FFEABE -22%, #FFF9ED 100%)"
+        ]
+      },
+      "paint_0:154": {
+        "value": [
+          "#91431C"
+        ]
+      },
+      "paint_0:159": {
+        "value": [
+          "#91431C"
+        ]
+      },
+      "paint_0:165": {
+        "value": [
+          "#A1A9B3"
+        ]
+      },
+      "paint_0:172": {
+        "value": [
+          "#8CABDA"
+        ]
+      },
+      "paint_0:192": {
+        "value": [
+          "#FF514D"
+        ]
+      },
+      "paint_0:200": {
+        "value": [
+          "linear-gradient(180deg, #FFFFFF 26%, #FFECD6 80%)"
+        ]
+      },
+      "paint_0:209": {
+        "value": [
+          "#B9C9E0"
+        ]
+      },
+      "paint_0:232": {
+        "value": [
+          "#FF4D5F"
+        ]
+      },
+      "paint_1:4060": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/a518749783642ac8c1925e4290f5869c.png",
+            "filters": ""
+          }
+        ]
+      },
+      "paint_1:4076": {
+        "value": [
+          {
+            "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/a518749783642ac8c1925e4290f5869c.png",
+            "filters": ""
+          }
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1817",
+        "name": "编组 43备份 3",
+        "layoutStyle": {
+          "width": 319,
+          "height": 76,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "FRAME",
+            "id": "0:1818",
+            "name": "编组 5",
+            "layoutStyle": {
+              "width": 315,
+              "height": 64,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "FRAME",
+                "id": "0:1819",
+                "name": "编组 42",
+                "layoutStyle": {
+                  "width": 135,
+                  "height": 64,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "FRAME",
+                    "id": "0:1820",
+                    "name": "编组 2",
+                    "layoutStyle": {
+                      "width": 113,
+                      "height": 38,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "children": [
+                      {
+                        "type": "TEXT",
+                        "id": "0:1821",
+                        "name": "银华集成电路C",
+                        "layoutStyle": {
+                          "width": 101,
+                          "height": 20,
+                          "relativeX": 0,
+                          "relativeY": 0
+                        },
+                        "text": [
+                          {
+                            "text": "银华集成电路C",
+                            "font": "font_0:143"
+                          }
+                        ],
+                        "textColor": [
+                          {
+                            "start": 0,
+                            "end": 7,
+                            "color": "paint_0:145"
+                          }
+                        ],
+                        "textAlign": "left",
+                        "textMode": "single-line",
+                        "_placeholder": true
+                      },
+                      {
+                        "type": "FRAME",
+                        "id": "0:1822",
+                        "name": "编组 20",
+                        "layoutStyle": {
+                          "width": 46,
+                          "height": 15,
+                          "relativeX": 0,
+                          "relativeY": 23
+                        },
+                        "children": [
+                          {
+                            "type": "LAYER",
+                            "id": "0:1823",
+                            "name": "矩形",
+                            "layoutStyle": {
+                              "width": 46,
+                              "height": 15,
+                              "relativeX": 0,
+                              "relativeY": 0
+                            },
+                            "borderRadius": "2px",
+                            "fill": "paint_0:149",
+                            "_color": "linear-gradient(180deg, #FFEABE -22%, #FFF9ED 100%)",
+                            "strokeColor": "paint_0:10",
+                            "strokeType": "solid",
+                            "strokeAlign": "inside",
+                            "strokeWidth": "1px"
+                          },
+                          {
+                            "type": "TEXT",
+                            "id": "0:1824",
+                            "name": "013841",
+                            "layoutStyle": {
+                              "width": 35,
+                              "height": 14,
+                              "relativeX": 4,
+                              "relativeY": 2
+                            },
+                            "text": [
+                              {
+                                "text": "013841",
+                                "font": "font_0:152"
+                              }
+                            ],
+                            "textColor": [
+                              {
+                                "start": 0,
+                                "end": 6,
+                                "color": "paint_0:154"
+                              }
+                            ],
+                            "textAlign": "left",
+                            "textMode": "single-line",
+                            "_placeholder": true
+                          }
+                        ]
+                      },
+                      {
+                        "type": "FRAME",
+                        "id": "0:1825",
+                        "name": "编组 20备份",
+                        "layoutStyle": {
+                          "width": 62,
+                          "height": 15,
+                          "relativeX": 51,
+                          "relativeY": 23
+                        },
+                        "children": [
+                          {
+                            "type": "LAYER",
+                            "id": "0:1826",
+                            "name": "矩形",
+                            "layoutStyle": {
+                              "width": 62,
+                              "height": 15,
+                              "relativeX": 0,
+                              "relativeY": 0
+                            },
+                            "borderRadius": "2px",
+                            "fill": "paint_0:149",
+                            "_color": "linear-gradient(180deg, #FFEABE -22%, #FFF9ED 100%)",
+                            "strokeColor": "paint_0:10",
+                            "strokeType": "solid",
+                            "strokeAlign": "inside",
+                            "strokeWidth": "1px"
+                          },
+                          {
+                            "type": "TEXT",
+                            "id": "0:1827",
+                            "name": "R4中高风险",
+                            "layoutStyle": {
+                              "width": 53,
+                              "height": 14,
+                              "relativeX": 4,
+                              "relativeY": 2
+                            },
+                            "text": [
+                              {
+                                "text": "R4中高风险",
+                                "font": "font_0:152"
+                              }
+                            ],
+                            "textColor": [
+                              {
+                                "start": 0,
+                                "end": 6,
+                                "color": "paint_0:159"
+                              }
+                            ],
+                            "textAlign": "left",
+                            "textMode": "single-line",
+                            "_placeholder": true
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "FRAME",
+                    "id": "0:1828",
+                    "name": "编组 4",
+                    "layoutStyle": {
+                      "width": 135,
+                      "height": 58,
+                      "relativeX": 0,
+                      "relativeY": 6
+                    },
+                    "children": [
+                      {
+                        "type": "TEXT",
+                        "id": "0:1829",
+                        "name": "近1年涨跌幅",
+                        "layoutStyle": {
+                          "width": 63,
+                          "height": 16,
+                          "relativeX": 0,
+                          "relativeY": 42
+                        },
+                        "text": [
+                          {
+                            "text": "近1年涨跌幅",
+                            "font": "font_0:163"
+                          }
+                        ],
+                        "textColor": [
+                          {
+                            "start": 0,
+                            "end": 6,
+                            "color": "paint_0:165"
+                          }
+                        ],
+                        "textAlign": "left",
+                        "textMode": "single-line",
+                        "_placeholder": true
+                      },
+                      {
+                        "type": "TEXT",
+                        "id": "0:1830",
+                        "name": "详情 >",
+                        "layoutStyle": {
+                          "width": 27,
+                          "height": 14,
+                          "relativeX": 108,
+                          "relativeY": 0
+                        },
+                        "text": [
+                          {
+                            "text": "详情",
+                            "font": "font_0:168"
+                          },
+                          {
+                            "text": " >",
+                            "font": "font_0:170"
+                          }
+                        ],
+                        "textColor": [
+                          {
+                            "start": 0,
+                            "end": 4,
+                            "color": "paint_0:172"
+                          }
+                        ],
+                        "textAlign": "left",
+                        "textMode": "single-line",
+                        "_placeholder": true
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "GROUP",
+                "id": "0:1832",
+                "name": "编组 3备份 3",
+                "layoutStyle": {
+                  "width": 88,
+                  "height": 37,
+                  "relativeX": 227,
+                  "relativeY": 16
+                },
+                "children": [
+                  {
+                    "type": "FRAME",
+                    "id": "0:1833",
+                    "name": "编组 45",
+                    "layoutStyle": {
+                      "width": 88,
+                      "height": 37,
+                      "relativeX": 0,
+                      "relativeY": 0
+                    },
+                    "children": [
+                      {
+                        "type": "LAYER",
+                        "id": "0:1834",
+                        "name": "位图备份",
+                        "layoutStyle": {
+                          "width": 84,
+                          "height": 32,
+                          "relativeX": 1,
+                          "relativeY": 5
+                        },
+                        "opacity": 0.6000000238418579,
+                        "fill": "paint_1:4060",
+                        "effect": "effect_0:186"
+                      },
+                      {
+                        "type": "LAYER",
+                        "id": "0:1835",
+                        "name": "位图",
+                        "layoutStyle": {
+                          "width": 88,
+                          "height": 34,
+                          "relativeX": 0,
+                          "relativeY": 0
+                        },
+                        "fill": "paint_1:4076"
+                      },
+                      {
+                        "type": "LAYER",
+                        "id": "0:1836",
+                        "name": "矩形",
+                        "layoutStyle": {
+                          "width": 52,
+                          "height": 10,
+                          "relativeX": 15,
+                          "relativeY": 13
+                        },
+                        "borderRadius": "4px",
+                        "fill": "paint_0:192",
+                        "_color": "#FF514D",
+                        "strokeColor": "paint_0:10",
+                        "strokeType": "solid",
+                        "strokeAlign": "inside",
+                        "strokeWidth": "1px",
+                        "effect": "effect_0:194"
+                      },
+                      {
+                        "type": "LAYER",
+                        "id": "0:1837",
+                        "name": "矩形备份 6",
+                        "layoutStyle": {
+                          "width": 52,
+                          "height": 10,
+                          "relativeX": 15,
+                          "relativeY": 13
+                        },
+                        "borderRadius": "4px",
+                        "fill": "paint_0:232",
+                        "_color": "#FF4D5F",
+                        "strokeColor": "paint_0:10",
+                        "strokeType": "solid",
+                        "strokeAlign": "inside",
+                        "strokeWidth": "1px",
+                        "effect": "effect_0:194"
+                      },
+                      {
+                        "type": "TEXT",
+                        "id": "0:1838",
+                        "name": "买入",
+                        "layoutStyle": {
+                          "width": 29,
+                          "height": 20,
+                          "relativeX": 30,
+                          "relativeY": 8
+                        },
+                        "fill": "paint_0:200",
+                        "_color": "linear-gradient(180deg, #FFFFFF 26%, #FFECD6 80%)",
+                        "effect": "effect_0:202",
+                        "text": [
+                          {
+                            "text": "买入",
+                            "font": "font_0:204"
+                          }
+                        ],
+                        "textColor": [
+                          {
+                            "start": 0,
+                            "end": 2,
+                            "color": "paint_0:200"
+                          }
+                        ],
+                        "textAlign": "left",
+                        "textMode": "single-line",
+                        "_placeholder": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "PATH",
+            "id": "0:1839",
+            "name": "路径 10",
+            "layoutStyle": {
+              "width": 319,
+              "relativeX": 0,
+              "relativeY": 75
+            },
+            "path": [
+              {
+                "fill": "#B9C9E0",
+                "data": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "银华集成电路C",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 2"
+      },
+      {
+        "text": "013841",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 20"
+      },
+      {
+        "text": "R4中高风险",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 20备份"
+      },
+      {
+        "text": "近1年涨跌幅",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 4"
+      },
+      {
+        "text": "详情 >",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 4"
+      },
+      {
+        "text": "买入",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 45"
+      }
+    ],
+    "placeholderTexts": [
+      "银华集成电路C",
+      "013841",
+      "R4中高风险",
+      "近1年涨跌幅",
+      "详情 >",
+      "买入"
+    ]
+  },
+  "nodeCount": 22,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 13/66. MISSING 53 sections: [12,13,15,16,17,18,19,20,21,22... +43 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

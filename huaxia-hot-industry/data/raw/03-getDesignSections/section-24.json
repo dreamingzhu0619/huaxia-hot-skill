@@ -1,0 +1,126 @@
+{
+  "sectionIndex": 24,
+  "section": {
+    "id": "0:1909",
+    "name": "编组 34",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "effect_0:442": {
+        "value": [
+          "box-shadow: inset -2px 2px 8px 0px rgba(255, 255, 255, 0.8);",
+          "box-shadow: inset 0px 1px 6px 0px rgba(255, 255, 255, 0.864);"
+        ]
+      },
+      "effect_0:448": {
+        "value": [
+          "box-shadow: 0px 1px 4px 0px rgba(51, 71, 156, 0.5);"
+        ]
+      },
+      "font_0:450": {
+        "value": {
+          "family": "FZZDHJW--GB1",
+          "size": 17,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "paint_0:438": {
+        "value": [
+          "linear-gradient(101deg, #EAF3FF 0%, #A3C9FF 12%, #6EA0EE 30%, #327CF2 48%, #6A9AED 73%, rgba(193, 198, 255, 0) 111%)"
+        ]
+      },
+      "paint_0:446": {
+        "value": [
+          "rgba(255, 255, 255, 0.01)"
+        ]
+      },
+      "paint_0:68": {
+        "value": [
+          "#FFFFFF"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1909",
+        "name": "编组 34",
+        "layoutStyle": {
+          "width": 240,
+          "height": 34,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "PATH",
+            "id": "0:1910",
+            "name": "矩形备份 19",
+            "layoutStyle": {
+              "width": 240,
+              "height": 34,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "effect": "effect_0:442",
+            "svgKey": "S24:编组 34|0:1910",
+            "svgName": "编组 34"
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1911",
+            "name": "深度解读半导体",
+            "layoutStyle": {
+              "width": 119,
+              "height": 25,
+              "relativeX": 61,
+              "relativeY": 9
+            },
+            "fill": "paint_0:446",
+            "_color": "rgba(255, 255, 255, 0.01)",
+            "effect": "effect_0:448",
+            "text": [
+              {
+                "text": "深度解读半导体",
+                "font": "font_0:450"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 7,
+                "color": "paint_0:68"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line",
+            "_placeholder": true
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "深度解读半导体",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 34"
+      }
+    ],
+    "placeholderTexts": [
+      "深度解读半导体"
+    ]
+  },
+  "nodeCount": 3,
+  "svgNodeCount": 1,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 27/66. MISSING 39 sections: [25,28,29,30,31,32,33,34,35,36... +29 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

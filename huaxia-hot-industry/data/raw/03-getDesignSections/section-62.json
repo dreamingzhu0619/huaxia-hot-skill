@@ -1,0 +1,851 @@
+{
+  "sectionIndex": 62,
+  "section": {
+    "id": "0:2222",
+    "name": "编组 63",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "font_0:1602": {
+        "value": {
+          "family": "FZLTZHJW--GB1",
+          "size": 12.5,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "font_0:1606": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 9,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "-0.30000001192092896px"
+        }
+      },
+      "font_0:1638": {
+        "value": {
+          "family": "FZLTHJW--GB1",
+          "size": 10,
+          "style": "0",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto"
+        }
+      },
+      "paint_0:121": {
+        "value": [
+          "linear-gradient(0deg, #FFFFFF 0%, #FBFDFF 46%, #F3F8FF 100%)"
+        ]
+      },
+      "paint_0:145": {
+        "value": [
+          "#3A3E45"
+        ]
+      },
+      "paint_0:1587": {
+        "value": [
+          "linear-gradient(180deg, rgba(108, 176, 255, 0.0634) 4%, #DEEBFF 100%)"
+        ]
+      },
+      "paint_0:1591": {
+        "value": [
+          "#C9D6E7"
+        ]
+      },
+      "paint_0:1599": {
+        "value": []
+      },
+      "paint_0:1615": {
+        "value": [
+          "#72787F"
+        ]
+      },
+      "paint_0:1625": {
+        "value": [
+          "#4175F1"
+        ]
+      },
+      "paint_0:1628": {
+        "value": [
+          "#497AED"
+        ]
+      },
+      "paint_0:1640": {
+        "value": [
+          "#60646A"
+        ]
+      },
+      "paint_0:1643": {
+        "value": [
+          "#4175F1"
+        ]
+      },
+      "paint_0:165": {
+        "value": [
+          "#A1A9B3"
+        ]
+      },
+      "paint_0:179": {
+        "value": [
+          "#F23346"
+        ]
+      },
+      "paint_0:68": {
+        "value": [
+          "#FFFFFF"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:2222",
+        "name": "编组 63",
+        "layoutStyle": {
+          "width": 323,
+          "height": 168,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "PATH",
+            "id": "0:2223",
+            "name": "矩形备份 15",
+            "layoutStyle": {
+              "width": 323,
+              "height": 168,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "path": [
+              {
+                "fill": "url(#grad_paint_0_121)",
+                "data": "",
+                "fillType": 1
+              },
+              {
+                "fill": "url(#grad_paint_0_1587)",
+                "data": "",
+                "fillType": 1
+              }
+            ],
+            "svgKey": "S62:编组 63|0:2223",
+            "svgName": "编组 63"
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2224",
+            "name": "编组 19",
+            "layoutStyle": {
+              "width": 255.81613159179688,
+              "height": 86,
+              "relativeX": 48.18387222290039,
+              "relativeY": 35
+            },
+            "path": [
+              {
+                "fill": "#C9D6E7",
+                "data": ""
+              },
+              {
+                "fill": "#C9D6E7",
+                "data": ""
+              },
+              {
+                "fill": "#C9D6E7",
+                "data": ""
+              },
+              {
+                "fill": "#C9D6E7",
+                "data": ""
+              },
+              {
+                "fill": "#C9D6E7",
+                "data": ""
+              },
+              {
+                "fill": "#C9D6E7",
+                "data": ""
+              }
+            ],
+            "_mergedVector": true
+          },
+          {
+            "type": "TEXT",
+            "id": "0:2231",
+            "name": "全球半导体市场规模（亿美元）",
+            "layoutStyle": {
+              "width": 175,
+              "height": 18,
+              "relativeX": 74.5,
+              "relativeY": 11
+            },
+            "fill": "paint_0:1599",
+            "text": [
+              {
+                "text": "全球半导体市场规模（亿美元）",
+                "font": "font_0:1602"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 14,
+                "color": "paint_0:145"
+              }
+            ],
+            "textAlign": "center",
+            "textMode": "single-line",
+            "_placeholder": true
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2232",
+            "name": "编组 11",
+            "layoutStyle": {
+              "width": 32,
+              "height": 95,
+              "relativeX": 8,
+              "relativeY": 31
+            },
+            "children": [
+              {
+                "type": "TEXT",
+                "id": "0:2233",
+                "name": "$20000",
+                "layoutStyle": {
+                  "width": 30,
+                  "height": 13,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "text": [
+                  {
+                    "text": "$20000",
+                    "font": "font_0:1606"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 6,
+                    "color": "paint_0:165"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2234",
+                "name": "$16000",
+                "layoutStyle": {
+                  "width": 30,
+                  "height": 13,
+                  "relativeX": 0,
+                  "relativeY": 17
+                },
+                "text": [
+                  {
+                    "text": "$16000",
+                    "font": "font_0:1606"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 6,
+                    "color": "paint_0:165"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2235",
+                "name": "$12000",
+                "layoutStyle": {
+                  "width": 30,
+                  "height": 13,
+                  "relativeX": 0,
+                  "relativeY": 34
+                },
+                "text": [
+                  {
+                    "text": "$12000",
+                    "font": "font_0:1606"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 6,
+                    "color": "paint_0:165"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2236",
+                "name": "$8000",
+                "layoutStyle": {
+                  "width": 25,
+                  "height": 13,
+                  "relativeX": 5,
+                  "relativeY": 51
+                },
+                "text": [
+                  {
+                    "text": "$8000",
+                    "font": "font_0:1606"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 5,
+                    "color": "paint_0:165"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2237",
+                "name": "$4000",
+                "layoutStyle": {
+                  "width": 25,
+                  "height": 13,
+                  "relativeX": 5,
+                  "relativeY": 68
+                },
+                "text": [
+                  {
+                    "text": "$4000",
+                    "font": "font_0:1606"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 5,
+                    "color": "paint_0:165"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2238",
+                "name": "$0",
+                "layoutStyle": {
+                  "width": 10,
+                  "height": 13,
+                  "relativeX": 21,
+                  "relativeY": 85
+                },
+                "text": [
+                  {
+                    "text": "$0",
+                    "font": "font_0:1606"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 2,
+                    "color": "paint_0:165"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              }
+            ]
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2239",
+            "name": "编组 12",
+            "layoutStyle": {
+              "width": 260,
+              "height": 10,
+              "relativeX": 46,
+              "relativeY": 127
+            },
+            "children": [
+              {
+                "type": "TEXT",
+                "id": "0:2240",
+                "name": "2022",
+                "layoutStyle": {
+                  "width": 20,
+                  "height": 13,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "text": [
+                  {
+                    "text": "2022",
+                    "font": "font_0:1606"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:1615"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2241",
+                "name": "2023",
+                "layoutStyle": {
+                  "width": 20,
+                  "height": 13,
+                  "relativeX": 45,
+                  "relativeY": 0
+                },
+                "text": [
+                  {
+                    "text": "2023",
+                    "font": "font_0:1606"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:1615"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2242",
+                "name": "2024",
+                "layoutStyle": {
+                  "width": 20,
+                  "height": 13,
+                  "relativeX": 90,
+                  "relativeY": 0
+                },
+                "text": [
+                  {
+                    "text": "2024",
+                    "font": "font_0:1606"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:1615"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2243",
+                "name": "2025",
+                "layoutStyle": {
+                  "width": 20,
+                  "height": 13,
+                  "relativeX": 135,
+                  "relativeY": 0
+                },
+                "text": [
+                  {
+                    "text": "2025",
+                    "font": "font_0:1606"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "color": "paint_0:1615"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2244",
+                "name": "2026E",
+                "layoutStyle": {
+                  "width": 25,
+                  "height": 13,
+                  "relativeX": 180,
+                  "relativeY": 0
+                },
+                "text": [
+                  {
+                    "text": "2026E",
+                    "font": "font_0:1606"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 5,
+                    "color": "paint_0:179"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              },
+              {
+                "type": "TEXT",
+                "id": "0:2245",
+                "name": "2027E",
+                "layoutStyle": {
+                  "width": 25,
+                  "height": 13,
+                  "relativeX": 231,
+                  "relativeY": 0
+                },
+                "text": [
+                  {
+                    "text": "2027E",
+                    "font": "font_0:1606"
+                  }
+                ],
+                "textColor": [
+                  {
+                    "start": 0,
+                    "end": 5,
+                    "color": "paint_0:179"
+                  }
+                ],
+                "textAlign": "left",
+                "textMode": "single-line",
+                "_placeholder": true
+              }
+            ]
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2246",
+            "name": "编组 17",
+            "layoutStyle": {
+              "width": 240,
+              "height": 62,
+              "relativeX": 54,
+              "relativeY": 38
+            },
+            "path": [
+              {
+                "fill": "#F23346",
+                "data": ""
+              },
+              {
+                "fill": "#4175F1",
+                "data": ""
+              },
+              {
+                "fill": "#497AED",
+                "data": ""
+              },
+              {
+                "fill": "#497AED",
+                "data": ""
+              },
+              {
+                "fill": "#497AED",
+                "data": ""
+              },
+              {
+                "fill": "#497AED",
+                "data": ""
+              },
+              {
+                "fill": "#F23346",
+                "data": ""
+              },
+              {
+                "fill": "#F23346",
+                "data": ""
+              }
+            ],
+            "_mergedVector": true
+          },
+          {
+            "type": "FRAME",
+            "id": "0:2255",
+            "name": "编组 61",
+            "layoutStyle": {
+              "width": 167.67279052734375,
+              "height": 12,
+              "relativeX": 78,
+              "relativeY": 147
+            },
+            "children": [
+              {
+                "type": "FRAME",
+                "id": "0:2256",
+                "name": "编组 60",
+                "layoutStyle": {
+                  "width": 63.672786712646484,
+                  "height": 12,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "TEXT",
+                    "id": "0:2257",
+                    "name": "历史数据",
+                    "layoutStyle": {
+                      "width": 40,
+                      "height": 14,
+                      "relativeX": 23.672786712646484,
+                      "relativeY": 0
+                    },
+                    "text": [
+                      {
+                        "text": "历史数据",
+                        "font": "font_0:1638"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 4,
+                        "color": "paint_0:1640"
+                      }
+                    ],
+                    "textAlign": "left",
+                    "textMode": "single-line",
+                    "_placeholder": true
+                  },
+                  {
+                    "type": "PATH",
+                    "id": "0:2258",
+                    "name": "路径 5",
+                    "layoutStyle": {
+                      "width": 16.800573348999023,
+                      "relativeX": 0,
+                      "relativeY": 5.5
+                    },
+                    "path": [
+                      {
+                        "fill": "#4175F1",
+                        "data": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "FRAME",
+                "id": "0:2259",
+                "name": "编组 44",
+                "layoutStyle": {
+                  "width": 75.67279052734375,
+                  "height": 12,
+                  "relativeX": 92,
+                  "relativeY": 0
+                },
+                "children": [
+                  {
+                    "type": "TEXT",
+                    "id": "0:2260",
+                    "name": "WSTS预测",
+                    "layoutStyle": {
+                      "width": 46,
+                      "height": 14,
+                      "relativeX": 23.672786712646484,
+                      "relativeY": 0
+                    },
+                    "text": [
+                      {
+                        "text": "WSTS预测",
+                        "font": "font_0:1638"
+                      }
+                    ],
+                    "textColor": [
+                      {
+                        "start": 0,
+                        "end": 6,
+                        "color": "paint_0:1640"
+                      }
+                    ],
+                    "textAlign": "left",
+                    "textMode": "single-line",
+                    "_placeholder": true
+                  },
+                  {
+                    "type": "PATH",
+                    "id": "0:2261",
+                    "name": "路径 5备份",
+                    "layoutStyle": {
+                      "width": 16.800573348999023,
+                      "relativeX": 0,
+                      "relativeY": 5.5
+                    },
+                    "path": [
+                      {
+                        "fill": "#F23346",
+                        "data": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "全球半导体市场规模（亿美元）",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 63"
+      },
+      {
+        "text": "$20000",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 11"
+      },
+      {
+        "text": "$16000",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 11"
+      },
+      {
+        "text": "$12000",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 11"
+      },
+      {
+        "text": "$8000",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 11"
+      },
+      {
+        "text": "$4000",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 11"
+      },
+      {
+        "text": "$0",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 11"
+      },
+      {
+        "text": "2022",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 12"
+      },
+      {
+        "text": "2023",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 12"
+      },
+      {
+        "text": "2024",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 12"
+      },
+      {
+        "text": "2025",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 12"
+      },
+      {
+        "text": "2026E",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 12"
+      },
+      {
+        "text": "2027E",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 12"
+      },
+      {
+        "text": "历史数据",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 60"
+      },
+      {
+        "text": "WSTS预测",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 44"
+      }
+    ],
+    "placeholderTexts": [
+      "全球半导体市场规模（亿美元）",
+      "$20000",
+      "$16000",
+      "$12000",
+      "$8000",
+      "$4000",
+      "$0",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026E",
+      "2027E",
+      "历史数据",
+      "WSTS预测"
+    ]
+  },
+  "nodeCount": 26,
+  "svgNodeCount": 3,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 64/66. MISSING 2 sections: [64,65]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

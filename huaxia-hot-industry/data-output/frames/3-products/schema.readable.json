@@ -1,0 +1,119 @@
+{
+  "frameId": "3-products",
+  "type": "template",
+  "source": "../../frames-merged/3-products.json",
+  "assets": [
+    "./assets/product-section.css"
+  ],
+  "frameParts": [
+    {
+      "name": "frameTitle",
+      "sourceModule": "11-编组-34备份.json",
+      "sourceNode": "0:1850",
+      "className": "frame-title",
+      "description": "大标题，即“关联产品”。"
+    },
+    {
+      "name": "introText",
+      "sourceModule": "09-编组-70.json",
+      "sourceNode": "0:1755",
+      "className": "intro-block",
+      "description": "产品卡上方说明文字，高度随字数自然增长。"
+    },
+    {
+      "name": "productStack",
+      "sourceModule": "10-编组-68.json",
+      "sourceNode": "0:1760",
+      "className": "product-stack",
+      "description": "编组68，包含策略标签和产品列表。说明文字变高时，编组68整体下移。"
+    }
+  ],
+  "configurableFields": {
+    "sectionTitle": {
+      "type": "string",
+      "fromNodeText": "关联产品",
+      "description": "模块标题，可改文本，布局固定。"
+    },
+    "introText": {
+      "type": "string",
+      "fromNodeText": "半导体行业波动显著，机遇与风险并存。对于波动承受有限的投资者，不妨以小仓位先行参与，或通过定投分批买入。",
+      "description": "标题下方说明段落。"
+    },
+    "strategyTabs": {
+      "type": "array",
+      "description": "策略对比标签。默认来自原节点文本，通常固定，也可改文字。",
+      "itemFields": {
+        "title": "string",
+        "description": "string",
+        "active": "boolean"
+      }
+    },
+    "products": {
+      "type": "array",
+      "repeatSource": "0:1771",
+      "description": "产品卡片列表。HTML 只保留一套卡片结构，通过数组渲染 1 个、2 个、5 个或更多产品。",
+      "itemFields": {
+        "name": {
+          "type": "string",
+          "fromExamples": [
+            "永赢先锋半导体智选C",
+            "华夏半导体龙头C",
+            "银华集成电路C"
+          ]
+        },
+        "code": {
+          "type": "string",
+          "fromExamples": [
+            "025209",
+            "016501",
+            "013841"
+          ]
+        },
+        "riskLevel": {
+          "type": "string",
+          "fromExamples": [
+            "R4中高风险"
+          ]
+        },
+        "metricLabel": {
+          "type": "string",
+          "fromExamples": [
+            "近1年涨跌幅"
+          ]
+        },
+        "detailText": {
+          "type": "string",
+          "default": "详情 >"
+        },
+        "detailUrl": {
+          "type": "string",
+          "default": "#"
+        },
+        "buyText": {
+          "type": "string",
+          "default": "买入"
+        },
+        "buyUrl": {
+          "type": "string",
+          "default": "#"
+        }
+      }
+    },
+    "moreText": {
+      "type": "string",
+      "fromNodeText": "查看更多"
+    },
+    "moreUrl": {
+      "type": "string",
+      "default": "#"
+    }
+  },
+  "fixedLayoutRules": [
+    "frame-title 到 intro-block 的下间距固定为 10px。",
+    "intro-block 到 product-stack（编组68）的下间距固定为 10px。",
+    "intro-block 高度随文案字数自然增长，product-stack 相对画布的位置随之整体下移。",
+    "产品卡片的按钮、风险等级、名称、代码、指标标签等栏位结构固定。",
+    "产品卡片只抽取第一张编组43作为模板，编组43备份2等实例由 products 数组复制生成。",
+    "字体族、字号、行高、颜色、按钮和标签样式集中在 assets/product-section.css。"
+  ]
+}

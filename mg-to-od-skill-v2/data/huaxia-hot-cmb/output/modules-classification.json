@@ -1,0 +1,108 @@
+{
+  "groups": [
+    {
+      "groupId": "banner",
+      "groupName": "头图banner",
+      "role": "营销头图",
+      "roleDescription": "页面顶部banner，含主标题和装饰",
+      "moduleIndexes": [
+        0
+      ],
+      "moduleNames": [
+        "头图banner"
+      ],
+      "judgementBasis": "头部banner，含主标题和背景装饰"
+    },
+    {
+      "groupId": "hotspotFrontline",
+      "groupName": "热点前线",
+      "role": "热点速递",
+      "roleDescription": "热点资讯摘要",
+      "moduleIndexes": [
+        1
+      ],
+      "moduleNames": [
+        "热点前线"
+      ],
+      "judgementBasis": "热点资讯摘要模块"
+    },
+    {
+      "groupId": "marketAnalysis",
+      "groupName": "市场解读",
+      "role": "市场解读",
+      "roleDescription": "市场分析和行业解读",
+      "moduleIndexes": [
+        2
+      ],
+      "moduleNames": [
+        "市场解读"
+      ],
+      "judgementBasis": "市场分析解读内容"
+    },
+    {
+      "groupId": "recommendations",
+      "groupName": "产品推荐理由",
+      "role": "推荐理由",
+      "roleDescription": "投资推荐分析",
+      "moduleIndexes": [
+        3,
+        4
+      ],
+      "moduleNames": [
+        "推荐理由A",
+        "推荐理由B"
+      ],
+      "judgementBasis": "两个推荐理由模块，结构类似"
+    },
+    {
+      "groupId": "buyFundCmb",
+      "groupName": "买基金来招行",
+      "role": "品牌CTA",
+      "roleDescription": "招商银行品牌宣传和CTA",
+      "moduleIndexes": [
+        5
+      ],
+      "moduleNames": [
+        "买基金 来招行"
+      ],
+      "judgementBasis": "银行品牌和CTA模块"
+    },
+    {
+      "groupId": "complianceNotice",
+      "groupName": "合规提示",
+      "role": "风险提示",
+      "roleDescription": "合规声明和风险提示",
+      "moduleIndexes": [
+        6
+      ],
+      "moduleNames": [
+        "合规提示"
+      ],
+      "judgementBasis": "合规风险提示模块"
+    },
+    {
+      "groupId": "relatedProducts",
+      "groupName": "相关产品",
+      "role": "产品列表",
+      "roleDescription": "相关基金产品列表",
+      "moduleIndexes": [
+        7
+      ],
+      "moduleNames": [
+        "相关产品"
+      ],
+      "judgementBasis": "基金产品列表模块"
+    }
+  ],
+  "moduleOrder": [
+    0,
+    1,
+    2,
+    7,
+    3,
+    4,
+    5,
+    6
+  ],
+  "moduleOrderNote": "按y坐标排序"
+}

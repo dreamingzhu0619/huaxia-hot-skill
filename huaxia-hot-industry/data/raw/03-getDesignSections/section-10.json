@@ -1,0 +1,219 @@
+{
+  "sectionIndex": 10,
+  "section": {
+    "id": "0:1761",
+    "name": "编组 51",
+    "type": "FRAME"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "effect_0:408": {
+        "value": [
+          "filter: blur(1.36px);"
+        ]
+      },
+      "effect_0:415": {
+        "value": [
+          "box-shadow: 0px 1px 4px 0px rgba(177, 79, 19, 0.8131);"
+        ]
+      },
+      "font_0:417": {
+        "value": {
+          "family": "MiSans",
+          "size": 13,
+          "style": "Bold",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto",
+          "weight": "700"
+        }
+      },
+      "font_0:420": {
+        "value": {
+          "family": "MiSans",
+          "size": 11,
+          "style": "Medium",
+          "decoration": "none",
+          "case": "none",
+          "lineHeight": "-1",
+          "letterSpacing": "auto",
+          "weight": "500"
+        }
+      },
+      "paint_0:10": {
+        "value": []
+      },
+      "paint_0:399": {
+        "value": [
+          "linear-gradient(180deg, #FCE4C1 -5%, #E6AB63 17%, #D89A4B 39%, #E2AF68 77%, #FFEDCB 103%)"
+        ]
+      },
+      "paint_0:403": {
+        "value": [
+          "linear-gradient(180deg, #FFFFFF 0%, #F4B053 100%)"
+        ]
+      },
+      "paint_0:406": {
+        "value": [
+          "linear-gradient(180deg, #FFFFFF -5%, rgba(255, 255, 255, 0.3539) 8%, rgba(255, 255, 255, 0.1216) 20%, rgba(255, 255, 255, 0) 46%)"
+        ]
+      },
+      "paint_0:411": {
+        "value": [
+          "rgba(255, 255, 255, 0.01)"
+        ]
+      },
+      "paint_0:68": {
+        "value": [
+          "#FFFFFF"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "FRAME",
+        "id": "0:1761",
+        "name": "编组 51",
+        "layoutStyle": {
+          "width": 157,
+          "height": 44,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "children": [
+          {
+            "type": "FRAME",
+            "id": "0:1762",
+            "name": "编组 40",
+            "layoutStyle": {
+              "width": 157,
+              "height": 44,
+              "relativeX": 0,
+              "relativeY": 0
+            },
+            "children": [
+              {
+                "type": "LAYER",
+                "id": "0:1763",
+                "name": "矩形",
+                "layoutStyle": {
+                  "width": 157,
+                  "height": 44,
+                  "relativeX": 0,
+                  "relativeY": 0
+                },
+                "borderRadius": "8px",
+                "fill": "paint_0:399",
+                "_color": "linear-gradient(180deg, #FCE4C1 -5%, #E6AB63 17%, #D89A4B 39%, #E2AF68 77%, #FFEDCB 103%)",
+                "strokeColor": "paint_0:403",
+                "strokeType": "solid",
+                "strokeAlign": "inside",
+                "strokeWidth": "1px"
+              },
+              {
+                "type": "LAYER",
+                "id": "0:1764",
+                "name": "矩形",
+                "layoutStyle": {
+                  "width": 150,
+                  "height": 33,
+                  "relativeX": 3.932459592819214,
+                  "relativeY": 3.0287044048309326
+                },
+                "borderRadius": "6px 6px 0px 0px",
+                "fill": "paint_0:406",
+                "_color": "linear-gradient(180deg, #FFFFFF -5%, rgba(255, 255, 255, 0.3539) 8%, rgba(255, 255, 255, 0.1216) 20%, rgba(255, 255, 255, 0) 46%)",
+                "strokeColor": "paint_0:10",
+                "strokeType": "solid",
+                "strokeAlign": "inside",
+                "strokeWidth": "1px",
+                "effect": "effect_0:408"
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1765",
+            "name": "追求超额",
+            "layoutStyle": {
+              "width": 52,
+              "height": 17,
+              "relativeX": 14,
+              "relativeY": 6
+            },
+            "fill": "paint_0:411",
+            "_color": "rgba(255, 255, 255, 0.01)",
+            "effect": "effect_0:415",
+            "text": [
+              {
+                "text": "追求超额",
+                "font": "font_0:417"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 4,
+                "color": "paint_0:68"
+              }
+            ],
+            "textAlign": "right",
+            "textMode": "single-line",
+            "_placeholder": true
+          },
+          {
+            "type": "TEXT",
+            "id": "0:1766",
+            "name": "主动研判 调仓灵活",
+            "layoutStyle": {
+              "width": 92,
+              "height": 15,
+              "relativeX": 14,
+              "relativeY": 24
+            },
+            "text": [
+              {
+                "text": "主动研判 调仓灵活",
+                "font": "font_0:420"
+              }
+            ],
+            "textColor": [
+              {
+                "start": 0,
+                "end": 9,
+                "color": "paint_0:68"
+              }
+            ],
+            "textAlign": "left",
+            "textMode": "single-line",
+            "_placeholder": true
+          }
+        ]
+      }
+    ],
+    "components": [],
+    "rowTexts": [
+      {
+        "text": "追求超额",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 51"
+      },
+      {
+        "text": "主动研判 调仓灵活",
+        "_placeholder": true,
+        "parentType": "FRAME",
+        "parentName": "编组 51"
+      }
+    ],
+    "placeholderTexts": [
+      "追求超额",
+      "主动研判 调仓灵活"
+    ]
+  },
+  "nodeCount": 6,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 11/66. MISSING 55 sections: [9,12,13,14,15,16,17,18,19,20... +45 more]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}

@@ -1,0 +1,367 @@
+{
+  "meta": {
+    "moduleIndex": 11,
+    "moduleId": "0:1850",
+    "moduleName": "编组 34备份",
+    "slug": "编组-34备份",
+    "fileName": "11-编组-34备份.json",
+    "position": {
+      "x": 93,
+      "y": 296,
+      "width": 190,
+      "height": 34
+    },
+    "nodeCount": 3,
+    "resolvedNodeCount": 3,
+    "textCount": 1,
+    "textsResolved": 0,
+    "sectionIndexes": [
+      16
+    ],
+    "styleCounts": {
+      "paints": 3,
+      "fonts": 1,
+      "effects": 2
+    },
+    "assetCounts": {
+      "bitmaps": 0,
+      "svgs": 1,
+      "d2cSvgIcons": 1,
+      "d2cExportImages": 0
+    },
+    "imageCount": 1,
+    "d2cMatched": true,
+    "d2cMatchDistance": 0.064,
+    "d2cNodeCssCount": 2,
+    "missingStyleRefs": []
+  },
+  "sections": [
+    {
+      "sectionIndex": 16,
+      "id": "0:1850",
+      "name": "编组 34备份",
+      "type": "FRAME",
+      "nodeCount": 3,
+      "x": 93,
+      "y": 296,
+      "width": 190,
+      "height": 34,
+      "textPreview": "关联产品",
+      "structureSiblingCount": 1
+    }
+  ],
+  "assets": {
+    "bitmaps": [],
+    "svgs": {
+      "0:1850": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 190 34\" width=\"190\" height=\"34\" shape-rendering=\"crispEdges\">\n  <defs><linearGradient id=\"grad_paint_0_438\" x1=\"-0.0881\" y1=\"0.3534\" x2=\"1.0881\" y2=\"0.6466\"><stop offset=\"0.12\" stop-color=\"#A3C9FF\"/><stop offset=\"0.3\" stop-color=\"#6EA0EE\"/><stop offset=\"0.47\" stop-color=\"#327CF2\"/><stop offset=\"0.73\" stop-color=\"#6A9AED\"/><stop offset=\"1.11\" stop-color=\"rgb(193,198,255)\" stop-opacity=\"0\"/></linearGradient></defs>\n  <path d=\"M3.6293431e-14,-9.0830121e-15L190,1.0637324e-13C182.56508,1.0637324e-13,175.68541,3.9348011,171.91576,10.34321L160.14285,30.357143C158.81519,32.61417,156.39218,34,153.77362,34L36.226372,34C33.607815,34,31.184807,32.61417,29.857143,30.357143L18.084242,10.343211C14.31459,3.9348011,7.4349165,-9.0830121e-15,0,-9.0830121e-15\" fill=\"url(#grad_paint_0_438)\" fill-rule=\"evenodd\"/>\n</svg>"
+    }
+  },
+  "node": {
+    "id": "0:1850",
+    "name": "编组 34备份",
+    "type": "FRAME",
+    "layoutStyle": {
+      "width": 190,
+      "height": 34,
+      "relativeX": 93,
+      "relativeY": 296,
+      "rotate": 0,
+      "rotateX": null
+    },
+    "bounds": {
+      "x": 93,
+      "y": 296,
+      "width": 190,
+      "height": 34
+    },
+    "opacity": null,
+    "fill": null,
+    "effect": null,
+    "borderRadius": null,
+    "strokeAlign": null,
+    "strokeColor": null,
+    "strokeType": null,
+    "strokeWidth": null,
+    "mask": null,
+    "path": null,
+    "text": null,
+    "textRuns": null,
+    "textAlign": null,
+    "textMode": null,
+    "textColor": null,
+    "hasSvg": true,
+    "exportImage": null,
+    "styleRefs": null,
+    "componentDefinition": null,
+    "d2cCss": {
+      "-webkit-background-clip": null,
+      "-webkit-text-fill-color": null,
+      "background": null,
+      "background-clip": null,
+      "background-image": null,
+      "border": null,
+      "border-bottom-left-radius": null,
+      "border-radius": null,
+      "border-top-left-radius": null,
+      "bottom": "88.54%",
+      "box-shadow": null,
+      "color": null,
+      "filter": null,
+      "flex": "none",
+      "font-family": null,
+      "font-size": null,
+      "height": "34px",
+      "left": "24.8%",
+      "letter-spacing": null,
+      "line-height": null,
+      "mix-blend-mode": null,
+      "object-fit": null,
+      "opacity": null,
+      "overflow": null,
+      "position": "absolute",
+      "right": "24.53%",
+      "text-align": null,
+      "text-fill-color": null,
+      "text-shadow": null,
+      "top": "10.28%",
+      "transform": null,
+      "transform-origin": null,
+      "width": "190px",
+      "z-index": "11"
+    },
+    "d2cMatch": "img-src",
+    "sources": [
+      "getDsl",
+      "getD2c",
+      "extractSvg"
+    ],
+    "captureStatus": "complete",
+    "children": [
+      {
+        "id": "0:1851",
+        "name": "矩形备份 19",
+        "type": "PATH",
+        "layoutStyle": {
+          "width": 190,
+          "height": 34,
+          "relativeX": 0,
+          "relativeY": 0,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 93,
+          "y": 296,
+          "width": 190,
+          "height": 34
+        },
+        "opacity": null,
+        "fill": "linear-gradient(104deg, #EAF3FF -1%, #A3C9FF 12%, #6EA0EE 30%, #327CF2 47%, #6A9AED 73%, rgba(193, 198, 255, 0) 111%)",
+        "effect": {
+          "boxShadow": [
+            "box-shadow: inset 0px 1px 6px 0px rgba(255, 255, 255, 0.864);",
+            "box-shadow: inset -2px 2px 8px 0px rgba(255, 255, 255, 0.8);"
+          ],
+          "filter": [],
+          "backdropFilter": [],
+          "raw": [
+            "box-shadow: inset 0px 1px 6px 0px rgba(255, 255, 255, 0.864);",
+            "box-shadow: inset -2px 2px 8px 0px rgba(255, 255, 255, 0.8);"
+          ]
+        },
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": [
+          {
+            "data": "M3.6293431e-14,-9.0830121e-15L190,1.0637324e-13C182.56508,1.0637324e-13,175.68541,3.9348011,171.91576,10.34321L160.14285,30.357143C158.81519,32.61417,156.39218,34,153.77362,34L36.226372,34C33.607815,34,31.184807,32.61417,29.857143,30.357143L18.084242,10.343211C14.31459,3.9348011,7.4349165,-9.0830121e-15,0,-9.0830121e-15",
+            "fill": "linear-gradient(104deg, #EAF3FF -1%, #A3C9FF 12%, #6EA0EE 30%, #327CF2 47%, #6A9AED 73%, rgba(193, 198, 255, 0) 111%)",
+            "transform": null
+          }
+        ],
+        "text": null,
+        "textRuns": null,
+        "textAlign": null,
+        "textMode": null,
+        "textColor": null,
+        "hasSvg": false,
+        "exportImage": null,
+        "styleRefs": {
+          "effect": "effect_0:442"
+        },
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": null,
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": null,
+          "font-family": null,
+          "font-size": null,
+          "height": null,
+          "left": null,
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": null,
+          "right": null,
+          "text-align": null,
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": null,
+          "transform": null,
+          "transform-origin": null,
+          "width": null,
+          "z-index": null
+        },
+        "d2cMatch": null,
+        "sources": [
+          "getDsl"
+        ],
+        "captureStatus": "complete",
+        "children": []
+      },
+      {
+        "id": "0:1852",
+        "name": "关联产品",
+        "type": "TEXT",
+        "layoutStyle": {
+          "width": 68,
+          "height": 25,
+          "relativeX": 61.5,
+          "relativeY": 9,
+          "rotate": 0,
+          "rotateX": null
+        },
+        "bounds": {
+          "x": 154.5,
+          "y": 305,
+          "width": 68,
+          "height": 25
+        },
+        "opacity": null,
+        "fill": "rgba(255, 255, 255, 0.01)",
+        "effect": {
+          "boxShadow": [
+            "box-shadow: 0px 1px 4px 0px rgba(51, 71, 156, 0.5);"
+          ],
+          "filter": [],
+          "backdropFilter": [],
+          "raw": [
+            "box-shadow: 0px 1px 4px 0px rgba(51, 71, 156, 0.5);"
+          ]
+        },
+        "borderRadius": null,
+        "strokeAlign": null,
+        "strokeColor": null,
+        "strokeType": null,
+        "strokeWidth": null,
+        "mask": null,
+        "path": null,
+        "text": "关联产品",
+        "textRuns": [
+          {
+            "text": "关联产品",
+            "font": {
+              "family": "FZZDHJW--GB1",
+              "size": 17,
+              "style": "0",
+              "lineHeight": "-1",
+              "letterSpacing": "auto",
+              "case": "none",
+              "decoration": "none"
+            },
+            "color": "#FFFFFF"
+          }
+        ],
+        "textAlign": "center",
+        "textMode": "single-line",
+        "textColor": [
+          {
+            "start": 0,
+            "end": 4,
+            "color": "#FFFFFF"
+          }
+        ],
+        "hasSvg": false,
+        "exportImage": null,
+        "styleRefs": {
+          "fill": "paint_0:446",
+          "effect": "effect_0:448",
+          "font": [
+            "font_0:450"
+          ],
+          "textColors": [
+            "paint_0:68"
+          ]
+        },
+        "componentDefinition": null,
+        "d2cCss": {
+          "-webkit-background-clip": null,
+          "-webkit-text-fill-color": null,
+          "background": null,
+          "background-clip": null,
+          "background-image": null,
+          "border": null,
+          "border-bottom-left-radius": null,
+          "border-radius": null,
+          "border-top-left-radius": null,
+          "bottom": "0%",
+          "box-shadow": null,
+          "color": null,
+          "filter": null,
+          "flex": null,
+          "font-family": null,
+          "font-size": null,
+          "height": null,
+          "left": "0%",
+          "letter-spacing": null,
+          "line-height": null,
+          "mix-blend-mode": null,
+          "object-fit": null,
+          "opacity": null,
+          "overflow": null,
+          "position": "absolute",
+          "right": "0%",
+          "text-align": null,
+          "text-fill-color": null,
+          "text-shadow": null,
+          "top": "0%",
+          "transform": null,
+          "transform-origin": null,
+          "width": null,
+          "z-index": "0"
+        },
+        "d2cMatch": "img-src",
+        "sources": [
+          "getDsl",
+          "getD2c"
+        ],
+        "captureStatus": "complete",
+        "children": []
+      }
+    ]
+  },
+  "d2c": {
+    "html": "<div\n        style=\"width: 190px; height: 34px; flex: none; position: absolute; left: 24.8%; right: 24.53%; top: 10.28%; bottom: 88.54%; z-index: 11\">\n        <div\n          style=\"position: absolute; left: 0%; right: 0%; top: 0%; bottom: 0%; z-index: 0\">\n          <img src=\"./asset/icons/svg_d1975dec.svg\" />\n        </div>\n        <p\n          style=\"color: #FFFFFF; font-size: 17px; font-family: FZZDHJW--GB1; text-align: center; line-height: 24px; text-shadow: 0px 1px 4px rgba(51,71,156,0.5); position: absolute; left: calc(100% - 190px + 61.5px); top: calc(100% - 34px + 9px); z-index: 1\">\n          关联产品\n        </p>\n      </div>",
+    "svgIcons": {
+      "svg_d1975dec.svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"none\" version=\"1.1\" width=\"190\" height=\"34\" viewBox=\"0 0 190 34\"><defs><filter id=\"master_svg0_0_1851\" filterUnits=\"objectBoundingBox\" color-interpolation-filters=\"sRGB\" x=\"0\" y=\"0\" width=\"1\" height=\"1\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"BackgroundImageFix\" result=\"shape\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" result=\"hardAlpha\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feOffset dy=\"2\" dx=\"-2\"/><feGaussianBlur stdDeviation=\"4\"/><feComposite in2=\"hardAlpha\" operator=\"arithmetic\" k2=\"-1\" k3=\"1\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.800000011920929 0\"/><feBlend mode=\"normal\" in2=\"shape\" result=\"effect1_innerShadow\"/><feColorMatrix in=\"SourceAlpha\" type=\"matrix\" result=\"hardAlpha\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feOffset dy=\"1\" dx=\"0\"/><feGaussianBlur stdDeviation=\"3\"/><feComposite in2=\"hardAlpha\" operator=\"arithmetic\" k2=\"-1\" k3=\"1\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.8639641404151917 0\"/><feBlend mode=\"normal\" in2=\"effect1_innerShadow\" result=\"effect2_innerShadow\"/></filter><linearGradient x1=\"-5.767955557622884e-17\" y1=\"-0.24945421516895294\" x2=\"1.1748869769196384\" y2=\"-0.19709984218793153\" id=\"master_svg1_0_439\"><stop offset=\"0%\" stop-color=\"#EAF3FF\" stop-opacity=\"1\"/><stop offset=\"11.611773073673248%\" stop-color=\"#A3C9FF\" stop-opacity=\"1\"/><stop offset=\"27.6135116815567%\" stop-color=\"#6EA0EE\" stop-opacity=\"1\"/><stop offset=\"43.533486127853394%\" stop-color=\"#327CF2\" stop-opacity=\"1\"/><stop offset=\"66.20784401893616%\" stop-color=\"#6A9AED\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#C1C6FF\" stop-opacity=\"0\"/></linearGradient></defs><path d=\"M3.6293431e-14,-9.0830121e-15L190,1.0637324e-13C182.56508,1.0637324e-13,175.68541,3.9348011,171.91576,10.34321L160.14285,30.357143C158.81519,32.61417,156.39218,34,153.77362,34L36.226372,34C33.607815,34,31.184807,32.61417,29.857143,30.357143L18.084242,10.343211C14.31459,3.9348011,7.4349165,-9.0830121e-15,0,-9.0830121e-15\" fill-rule=\"evenodd\" fill=\"url(#master_svg1_0_439)\" fill-opacity=\"1\" filter=\"url(#master_svg0_0_1851)\"/></svg>"
+    },
+    "exportImages": {}
+  }
+}

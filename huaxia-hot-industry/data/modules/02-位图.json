@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "moduleIndex": 2,
+    "moduleId": "0:1715",
+    "moduleName": "位图",
+    "slug": "位图",
+    "fileName": "02-位图.json",
+    "position": {
+      "x": -23,
+      "y": -9,
+      "width": 420,
+      "height": 221
+    },
+    "nodeCount": 1,
+    "resolvedNodeCount": 1,
+    "textCount": 0,
+    "textsResolved": 0,
+    "sectionIndexes": [
+      2
+    ],
+    "styleCounts": {
+      "paints": 1,
+      "fonts": 0,
+      "effects": 0
+    },
+    "assetCounts": {
+      "bitmaps": 1,
+      "svgs": 0,
+      "d2cSvgIcons": 1,
+      "d2cExportImages": 0
+    },
+    "imageCount": 1,
+    "d2cMatched": true,
+    "d2cMatchDistance": 167.072,
+    "d2cNodeCssCount": 0,
+    "missingStyleRefs": []
+  },
+  "sections": [
+    {
+      "sectionIndex": 2,
+      "id": "0:1715",
+      "name": "位图",
+      "type": "LAYER",
+      "nodeCount": 1,
+      "x": -23,
+      "y": -9,
+      "width": 420,
+      "height": 221,
+      "structureSiblingCount": 1
+    }
+  ],
+  "assets": {
+    "bitmaps": [
+      {
+        "styleKey": "paint_1:4198",
+        "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/679ce8bbc623e8c8665521683574d952.png"
+      }
+    ],
+    "svgs": {}
+  },
+  "node": {
+    "id": "0:1715",
+    "name": "位图",
+    "type": "LAYER",
+    "layoutStyle": {
+      "width": 420,
+      "height": 221,
+      "relativeX": -23,
+      "relativeY": -9,
+      "rotate": 0,
+      "rotateX": null
+    },
+    "bounds": {
+      "x": -23,
+      "y": -9,
+      "width": 420,
+      "height": 221
+    },
+    "opacity": null,
+    "fill": {
+      "type": "IMAGE",
+      "url": "https://image-resource.mastergo.com/158383838066578/194424914768480/679ce8bbc623e8c8665521683574d952.png"
+    },
+    "effect": null,
+    "borderRadius": null,
+    "strokeAlign": null,
+    "strokeColor": null,
+    "strokeType": null,
+    "strokeWidth": null,
+    "mask": null,
+    "path": null,
+    "text": null,
+    "textRuns": null,
+    "textAlign": null,
+    "textMode": null,
+    "textColor": null,
+    "hasSvg": false,
+    "exportImage": null,
+    "styleRefs": {
+      "fill": "paint_1:4198"
+    },
+    "componentDefinition": null,
+    "d2cCss": {
+      "-webkit-background-clip": null,
+      "-webkit-text-fill-color": null,
+      "background": null,
+      "background-clip": null,
+      "background-image": null,
+      "border": null,
+      "border-bottom-left-radius": null,
+      "border-radius": null,
+      "border-top-left-radius": null,
+      "bottom": null,
+      "box-shadow": null,
+      "color": null,
+      "filter": null,
+      "flex": null,
+      "font-family": null,
+      "font-size": null,
+      "height": null,
+      "left": null,
+      "letter-spacing": null,
+      "line-height": null,
+      "mix-blend-mode": null,
+      "object-fit": null,
+      "opacity": null,
+      "overflow": null,
+      "position": null,
+      "right": null,
+      "text-align": null,
+      "text-fill-color": null,
+      "text-shadow": null,
+      "top": null,
+      "transform": null,
+      "transform-origin": null,
+      "width": null,
+      "z-index": null
+    },
+    "d2cMatch": null,
+    "sources": [
+      "getDsl"
+    ],
+    "captureStatus": "complete",
+    "children": []
+  },
+  "d2c": {
+    "html": "<div\n        style=\"position: absolute; left: 0%; right: 0%; top: 4.69%; bottom: 91.49%; z-index: 6\">\n        <img src=\"./asset/icons/svg_71e1fd62.svg\" />\n      </div>",
+    "svgIcons": {
+      "svg_71e1fd62.svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"none\" version=\"1.1\" width=\"375\" height=\"110\" viewBox=\"0 0 375 110\"><defs><linearGradient x1=\"0.5\" y1=\"0\" x2=\"0.5\" y2=\"1\" id=\"master_svg0_0_828\"><stop offset=\"0%\" stop-color=\"#D8E7FD\" stop-opacity=\"1\"/><stop offset=\"100%\" stop-color=\"#DFEBFE\" stop-opacity=\"1\"/></linearGradient></defs><path d=\"M-2.0874838e-13,-1.1180261e-14Q123.20457,22.143478,188,22.143478Q252.79543,22.143478,375,-1.1180261e-14L375,110L0,110L-2.0874838e-13,-1.1180261e-14Z\" fill-rule=\"evenodd\" fill=\"url(#master_svg0_0_828)\" fill-opacity=\"1\"/></svg>"
+    },
+    "exportImages": {}
+  }
+}

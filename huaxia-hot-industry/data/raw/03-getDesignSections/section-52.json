@@ -1,0 +1,45 @@
+{
+  "sectionIndex": 52,
+  "section": {
+    "id": "0:2173",
+    "name": "形状结合",
+    "type": "PATH"
+  },
+  "structureSiblingCount": 1,
+  "dsl": {
+    "styles": {
+      "effect_0:1515": {
+        "value": [
+          "box-shadow: inset 1px 1px 2px 0px rgba(255, 255, 255, 0.6972);"
+        ]
+      },
+      "paint_0:1517": {
+        "value": [
+          "linear-gradient(270deg, #FF3F53 11%, #FFDFDF 31%, #3E82FF 55%)"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "type": "PATH",
+        "id": "0:2173",
+        "name": "形状结合",
+        "layoutStyle": {
+          "width": 323,
+          "height": 16.66666603088379,
+          "relativeX": 0,
+          "relativeY": 0
+        },
+        "effect": "effect_0:1515",
+        "svgKey": "S52:0:2173|0:2173",
+        "svgName": ""
+      }
+    ],
+    "components": []
+  },
+  "nodeCount": 1,
+  "svgNodeCount": 1,
+  "hasStrippedSvgs": true,
+  "componentDocumentLinks": [],
+  "fetchProgress": "Fetched 55/66. MISSING 11 sections: [55,56,57,58,59,60,61,62,63,64,65]. You MUST fetch ALL remaining sections before generating HTML. Do NOT stop early."
+}
